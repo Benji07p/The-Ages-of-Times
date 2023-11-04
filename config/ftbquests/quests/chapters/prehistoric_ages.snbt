@@ -1,0 +1,385 @@
+{
+	id: "0AA5FC024C920478"
+	group: ""
+	order_index: 0
+	filename: "prehistoric_ages"
+	title: "Prehistoric Ages"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -5.0d
+			y: 0.5d
+			dependencies: ["6494D8BF54B6BAE0"]
+			id: "269BF0F61BD5AA56"
+			tasks: [{
+				id: "2DF5EE563C4499C4"
+				type: "item"
+				item: "farmersdelight:cutting_board"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 0.5d
+			dependencies: ["269BF0F61BD5AA56"]
+			id: "3624C7AB1209A014"
+			tasks: [{
+				id: "4F091BC143B0ACAF"
+				type: "item"
+				item: "minecraft:crafting_table"
+			}]
+		}
+		{
+			icon: "minecraft:campfire"
+			x: 0.0d
+			y: 0.5d
+			dependencies: ["3624C7AB1209A014"]
+			id: "46DC8CC63A717B8E"
+			tasks: [{
+				id: "68CDFD18B99FCEE7"
+				type: "item"
+				item: "the_ages_of_times:extinguished_campfire"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 2.0d
+			dependencies: ["3624C7AB1209A014"]
+			id: "6FD8DFAEB68BB067"
+			tasks: [{
+				id: "0BC690E5A8DF46CE"
+				type: "item"
+				item: "minecraft:leather"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			dependencies: ["6FD8DFAEB68BB067"]
+			id: "657EE8471AFB1708"
+			tasks: [{
+				id: "34FD7BFE55E7A691"
+				type: "item"
+				item: "sleeping_bags:brown_sleeping_bag"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.0d
+			dependencies: ["3624C7AB1209A014"]
+			id: "6985942B4CE922E9"
+			tasks: [{
+				id: "326CEFDA922C34AC"
+				type: "item"
+				item: "minecraft:chest"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -2.5d
+			dependencies: ["3624C7AB1209A014"]
+			id: "1579C4B4610781B8"
+			tasks: [{
+				id: "652228BF7F9DD986"
+				type: "item"
+				item: "minecraft:clay_ball"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.5d
+			dependencies: ["1579C4B4610781B8"]
+			id: "0BF955A0B9039FB3"
+			tasks: [{
+				id: "71AAA0D1F3EF7FFA"
+				type: "item"
+				item: "ceramics:unfired_clay_bucket"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.5d
+			dependencies: ["375BBA819B2003E9"]
+			id: "7ED4DAB4041E7B45"
+			tasks: [{
+				id: "744120F9A63E8E93"
+				type: "item"
+				item: "antiqueatlas:empty_antique_atlas"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 3.5d
+			dependencies: ["3624C7AB1209A014"]
+			id: "375BBA819B2003E9"
+			tasks: [{
+				id: "3E85E2A4FBE8C0BB"
+				type: "item"
+				item: {
+					id: "create:sand_paper"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -2.5d
+			dependencies: ["0BF955A0B9039FB3"]
+			id: "7D398B592448C5B3"
+			tasks: [{
+				id: "6BD4017D623331E7"
+				type: "item"
+				item: "minecraft:brick"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.5d
+			dependencies: [
+				"46DC8CC63A717B8E"
+				"7D398B592448C5B3"
+			]
+			id: "1DE59A684222F15F"
+			tasks: [{
+				id: "68BC60E0B5EAD28B"
+				type: "item"
+				item: "ceramics:kiln"
+			}]
+		}
+		{
+			x: -6.5d
+			y: 0.5d
+			dependencies: ["7733B37DBA950C63"]
+			id: "6494D8BF54B6BAE0"
+			tasks: [{
+				id: "2AAF6EF2286CCAA3"
+				type: "item"
+				item: "minecraft:oak_log"
+			}]
+		}
+		{
+			icon: "create:millstone"
+			x: 6.0d
+			y: 0.5d
+			dependencies: ["5A23AFEE1E409DA1"]
+			id: "34294DF550ED7E19"
+			tasks: [
+				{
+					id: "659603F2757BB73D"
+					type: "item"
+					item: "create:millstone"
+				}
+				{
+					id: "3454C8D8B1D4F26A"
+					type: "item"
+					item: "create:hand_crank"
+				}
+			]
+		}
+		{
+			x: 7.5d
+			y: 0.5d
+			dependencies: ["34294DF550ED7E19"]
+			id: "0D5FF20F873F3973"
+			tasks: [{
+				id: "3077C8E27FF6AEA1"
+				type: "item"
+				item: "astikorcarts:wheel"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 0.5d
+			id: "5F542950BC9C4E0C"
+			tasks: [{
+				id: "182149A02F500C44"
+				type: "item"
+				item: "create:mechanical_press"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 0.5d
+			dependencies: ["2FD863C6549671FC"]
+			id: "5124A23E1B5DFB2B"
+			tasks: [{
+				id: "72E7B27F47652727"
+				type: "item"
+				item: "astikorcarts:animal_cart"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -2.5d
+			dependencies: ["3A1AAA175FBBBC96"]
+			id: "05726342AF24ED86"
+			tasks: [{
+				id: "2F2D14CA7525A30D"
+				type: "item"
+				item: "ceramics:unfired_porcelain"
+			}]
+		}
+		{
+			x: 9.5d
+			y: -2.5d
+			dependencies: ["05726342AF24ED86"]
+			id: "433EF3AA2BABC782"
+			tasks: [{
+				id: "1A45CBD994AE438C"
+				type: "item"
+				item: "ceramics:porcelain_faucet"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -2.5d
+			dependencies: ["0610741ED371BC42"]
+			id: "7ED7FE0759518C38"
+			tasks: [{
+				id: "393827177D944DB2"
+				type: "item"
+				item: "tconstruct:seared_melter"
+			}]
+		}
+		{
+			x: 11.5d
+			y: -2.5d
+			dependencies: ["433EF3AA2BABC782"]
+			id: "0610741ED371BC42"
+			tasks: [{
+				id: "7E2D8C15578460D2"
+				type: "item"
+				item: "tconstruct:seared_heater"
+			}]
+		}
+		{
+			icon: "ceramics:terracotta_cistern"
+			x: 4.5d
+			y: -2.5d
+			dependencies: ["7D398B592448C5B3"]
+			id: "3A1AAA175FBBBC96"
+			tasks: [
+				{
+					id: "188370CEAB8422E6"
+					type: "item"
+					item: "ceramics:terracotta_cistern"
+				}
+				{
+					id: "0A801F8227EECB72"
+					type: "item"
+					item: "create:sticky_mechanical_piston"
+				}
+				{
+					id: "0AE0A70BFBB738E4"
+					type: "item"
+					item: "create:piston_extension_pole"
+				}
+			]
+		}
+		{
+			x: -8.0d
+			y: 0.5d
+			dependencies: ["319885804C210F0A"]
+			id: "7733B37DBA950C63"
+			tasks: [{
+				id: "52D8E26C776A1822"
+				type: "item"
+				item: {
+					id: "notreepunching:flint_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: 0.5d
+			dependencies: ["4AD0B2D028FC4F23"]
+			id: "319885804C210F0A"
+			tasks: [{
+				id: "302084A3043A91A1"
+				type: "item"
+				item: "notreepunching:plant_string"
+			}]
+		}
+		{
+			x: -11.0d
+			y: 0.5d
+			dependencies: ["6D9A0E9C3BDB5B9C"]
+			id: "4AD0B2D028FC4F23"
+			tasks: [{
+				id: "6692F79ACE2C5832"
+				type: "item"
+				item: {
+					id: "notreepunching:flint_knife"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -12.5d
+			y: 0.5d
+			dependencies: ["0665C37286A63110"]
+			id: "6D9A0E9C3BDB5B9C"
+			tasks: [{
+				id: "1225574A3E0F2D57"
+				type: "item"
+				item: "notreepunching:flint_shard"
+			}]
+		}
+		{
+			x: -14.0d
+			y: 0.5d
+			dependencies: ["39E68F7EA58A33AE"]
+			id: "0665C37286A63110"
+			tasks: [{
+				id: "6BFC6DBB80E6AD92"
+				type: "item"
+				item: "minecraft:flint"
+			}]
+		}
+		{
+			x: -15.5d
+			y: 0.5d
+			id: "39E68F7EA58A33AE"
+			tasks: [{
+				id: "0595B19A44BE80A5"
+				type: "item"
+				item: "notreepunching:stone_loose_rock"
+			}]
+		}
+		{
+			title: "Cutting Board Automatisation"
+			x: 12.0d
+			y: 0.5d
+			description: ["Cutting Board Automatisation"]
+			dependencies: ["5F542950BC9C4E0C"]
+			id: "2FD863C6549671FC"
+			tasks: [{
+				id: "7008A43F79B143E2"
+				type: "item"
+				item: "create:deployer"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 0.5d
+			dependencies: ["1DE59A684222F15F"]
+			id: "5A23AFEE1E409DA1"
+			tasks: [{
+				id: "620544EF0758E33D"
+				type: "item"
+				item: "atum:quern"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

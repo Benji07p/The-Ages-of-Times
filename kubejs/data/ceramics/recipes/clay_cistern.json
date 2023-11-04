@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c c",
+    "c c",
+    "cbc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:clay_ball"
+    },
+    "b": {
+      "item": "ceramics:unfired_clay_bucket"
+    }
+  },
+  "result": {
+    "item": "ceramics:clay_cistern",
+    "count": 1
+  }
+}

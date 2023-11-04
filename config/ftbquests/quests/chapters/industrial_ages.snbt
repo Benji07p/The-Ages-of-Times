@@ -1,0 +1,485 @@
+{
+	id: "578BBF063FED2F12"
+	group: ""
+	order_index: 3
+	filename: "industrial_ages"
+	title: "Industrial Ages"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -4.5d
+			y: 0.5d
+			invisible: true
+			id: "18EA38D90681BB12"
+			tasks: [{
+				id: "0689D9F3F2D5FEE2"
+				type: "item"
+				item: "car:engine_3_cylinder"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.5d
+			dependencies: [
+				"641842081AE05DD2"
+				"12D3B2ABDF3819CD"
+				"4EB8188126568EA2"
+				"1A69423A691AD390"
+				"2560A108648DD73A"
+				"0FFA4C7A1712D8AA"
+				"3D6866C829E081CF"
+				"2F7821D1BE4C7624"
+			]
+			id: "48563C080D3BDAB0"
+			tasks: [
+				{
+					id: "5A4AC7A2A055AD26"
+					type: "item"
+					item: "immersiveengineering:cokebrick"
+					count: 27L
+				}
+				{
+					id: "4AD553D03915AB3C"
+					type: "advancement"
+					advancement: "immersiveengineering:main/mb_cokeoven"
+					criterion: ""
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 0.5d
+			dependencies: ["48563C080D3BDAB0"]
+			id: "45C1BD6E20CE8952"
+			tasks: [{
+				id: "4895DEF9A973E432"
+				type: "item"
+				item: "createaddition:alternator"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 0.5d
+			dependencies: ["19855724DF45B5ED"]
+			id: "7972F4ACEF90C1A9"
+			tasks: [{
+				id: "1FF634B22CFEFA7C"
+				type: "advancement"
+				advancement: "immersiveengineering:multiblocks/mb_metalpress"
+				criterion: ""
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.5d
+			dependencies: ["45C1BD6E20CE8952"]
+			id: "21D2911E1594B1D1"
+			tasks: [{
+				id: "575B8BABE0022B71"
+				type: "item"
+				item: "immersiveengineering:workbench"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.5d
+			dependencies: ["21D2911E1594B1D1"]
+			id: "0F2B50B765A90FB4"
+			tasks: [{
+				id: "1F32F748B29E4144"
+				type: "advancement"
+				advancement: "create:steam_engine"
+				criterion: ""
+			}]
+		}
+		{
+			x: 24.0d
+			y: 0.5d
+			dependencies: ["205A5FD1A7C1FA4B"]
+			id: "63DAC533983E3E08"
+			tasks: [{
+				id: "0F60E8E0E678B816"
+				type: "advancement"
+				advancement: "immersiveengineering:multiblocks/mb_squeezer"
+				criterion: ""
+			}]
+		}
+		{
+			x: 16.5d
+			y: 0.5d
+			dependencies: ["1219204770E8FB62"]
+			id: "550018636E9B78DA"
+			tasks: [{
+				id: "3DBADB417BEA65C7"
+				type: "advancement"
+				advancement: "immersiveengineering:multiblocks/mb_crusher"
+				criterion: ""
+			}]
+		}
+		{
+			x: 10.5d
+			y: 0.5d
+			dependencies: ["523DB3D66DA9771D"]
+			id: "687F6CAF5E9168F5"
+			tasks: [
+				{
+					id: "52A3DC3EB3A949F2"
+					type: "item"
+					item: "immersiveengineering:blastbrick"
+					count: 27L
+				}
+				{
+					id: "38445792F2B686A6"
+					type: "advancement"
+					advancement: "immersiveengineering:main/mb_blastfurnace"
+					criterion: ""
+				}
+			]
+		}
+		{
+			x: 12.0d
+			y: 0.5d
+			dependencies: ["687F6CAF5E9168F5"]
+			id: "19855724DF45B5ED"
+			tasks: [{
+				id: "6438A62EB6517EFF"
+				type: "item"
+				item: "electrodynamics:ingotsteel"
+			}]
+			rewards: [{
+				id: "1FDC0D61FE6C270C"
+				type: "item"
+				item: "immersiveengineering:ingot_steel"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 2.0d
+			dependencies: ["6978ABC38098850E"]
+			id: "523DB3D66DA9771D"
+			tasks: [{
+				id: "3911EB94E36B7CDC"
+				type: "item"
+				item: "minecraft:nether_brick"
+			}]
+		}
+		{
+			x: 7.5d
+			y: 0.5d
+			dependencies: ["00E6C6A68B073813"]
+			id: "6978ABC38098850E"
+			tasks: [{
+				id: "4C8C25DA4242953F"
+				type: "item"
+				item: "minecraft:soul_campfire"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 0.5d
+			dependencies: ["024ABE294FCFB37E"]
+			id: "00E6C6A68B073813"
+			tasks: [{
+				id: "10D9B5FDB956DFC7"
+				type: "item"
+				item: "create:encased_fan"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 0.5d
+			dependencies: ["0F2B50B765A90FB4"]
+			id: "024ABE294FCFB37E"
+			tasks: [
+				{
+					id: "6D228F6BE0D695D2"
+					type: "item"
+					item: "create:mechanical_mixer"
+				}
+				{
+					id: "02A48F2D858B28A6"
+					type: "item"
+					item: "create:basin"
+				}
+			]
+		}
+		{
+			x: 9.0d
+			y: -1.0d
+			dependencies: ["6978ABC38098850E"]
+			id: "37074D9F78ABFB0C"
+			tasks: [{
+				id: "78814B940D505E54"
+				type: "item"
+				item: "create:blaze_burner"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -3.0d
+			dependencies: ["18EA38D90681BB12"]
+			id: "641842081AE05DD2"
+			tasks: [
+				{
+					id: "32C99046DBA1163C"
+					type: "item"
+					item: "electrodynamics:ingotmolybdenum"
+				}
+				{
+					id: "7E0554A44639B44B"
+					type: "item"
+					item: "electrodynamics:oremolybdenum"
+				}
+			]
+		}
+		{
+			x: -3.0d
+			y: -2.0d
+			dependencies: ["18EA38D90681BB12"]
+			id: "12D3B2ABDF3819CD"
+			tasks: [{
+				id: "4AE63B06C8C59F51"
+				type: "item"
+				item: "electrodynamics:raworeuranium"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -1.0d
+			dependencies: ["18EA38D90681BB12"]
+			id: "4EB8188126568EA2"
+			tasks: [
+				{
+					id: "0D5F1D06CD7D9D6E"
+					type: "item"
+					item: "electrodynamics:ingottitanium"
+				}
+				{
+					id: "5BAD2EEA9F55C731"
+					type: "item"
+					item: "electrodynamics:raworetitanium"
+				}
+			]
+		}
+		{
+			x: -3.0d
+			y: 1.0d
+			dependencies: ["18EA38D90681BB12"]
+			id: "2560A108648DD73A"
+			tasks: [
+				{
+					id: "236AC74AA646AA49"
+					type: "item"
+					item: "electrodynamics:ingotchromium"
+				}
+				{
+					id: "0A1135DC4DE75054"
+					type: "item"
+					item: "electrodynamics:raworechromium"
+				}
+			]
+		}
+		{
+			x: -3.0d
+			y: 2.0d
+			dependencies: ["18EA38D90681BB12"]
+			id: "0FFA4C7A1712D8AA"
+			tasks: [
+				{
+					id: "422D9EB6D0C223A8"
+					type: "item"
+					item: "electrodynamics:ingotvanadium"
+				}
+				{
+					id: "1BE5CA7170FF8F42"
+					type: "item"
+					item: "electrodynamics:raworevanadinite"
+				}
+			]
+		}
+		{
+			x: -3.0d
+			y: 3.0d
+			dependencies: ["18EA38D90681BB12"]
+			id: "3D6866C829E081CF"
+			tasks: [
+				{
+					id: "734F721C42AB0C1D"
+					type: "item"
+					item: "electrodynamics:ingotlithium"
+				}
+				{
+					id: "591BCA164145B5C5"
+					type: "item"
+					item: "electrodynamics:raworelepidolite"
+				}
+			]
+		}
+		{
+			x: -3.0d
+			y: 4.0d
+			dependencies: ["18EA38D90681BB12"]
+			id: "2F7821D1BE4C7624"
+			tasks: [
+				{
+					id: "239D4674B773B314"
+					type: "item"
+					item: "electrodynamics:ingotaluminum"
+				}
+				{
+					id: "3CC185FDB5714E66"
+					type: "item"
+					item: "immersiveengineering:raw_aluminum"
+				}
+			]
+		}
+		{
+			x: -3.0d
+			y: 0.0d
+			dependencies: ["18EA38D90681BB12"]
+			id: "1A69423A691AD390"
+			tasks: [{
+				id: "081E1E78DC3084B8"
+				type: "item"
+				item: "minecraft:coal"
+			}]
+		}
+		{
+			x: 15.0d
+			y: 0.5d
+			dependencies: ["7972F4ACEF90C1A9"]
+			id: "1219204770E8FB62"
+			tasks: [{
+				id: "666BE41B3821194B"
+				type: "item"
+				item: "immersiveengineering:cloche"
+			}]
+		}
+		{
+			x: 18.0d
+			y: 0.5d
+			dependencies: ["550018636E9B78DA"]
+			id: "3EC9AAFBF9601BCE"
+			tasks: [{
+				id: "095F3CF261998A43"
+				type: "item"
+				item: "electrodynamics:coalgenerator"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 0.5d
+			id: "191E7A2A02A766DE"
+			tasks: [{
+				id: "13D5BC4DE82EEF43"
+				type: "advancement"
+				advancement: "immersiveengineering:multiblocks/mb_arcfurnace"
+				criterion: ""
+			}]
+		}
+		{
+			x: 22.5d
+			y: 0.5d
+			dependencies: ["191E7A2A02A766DE"]
+			id: "205A5FD1A7C1FA4B"
+			tasks: [{
+				id: "5B274CC93F24DBE3"
+				type: "advancement"
+				advancement: "create:track_0"
+				criterion: ""
+			}]
+		}
+		{
+			x: 25.5d
+			y: 0.5d
+			dependencies: ["63DAC533983E3E08"]
+			id: "0768A610817496D7"
+			tasks: [{
+				id: "640D94E6DFAB1526"
+				type: "advancement"
+				advancement: "immersiveengineering:multiblocks/mb_fermenter"
+				criterion: ""
+			}]
+		}
+		{
+			x: 27.0d
+			y: 0.5d
+			dependencies: ["0768A610817496D7"]
+			id: "0C9B346B8006CF57"
+			tasks: [{
+				id: "138F91FF4EA03D43"
+				type: "advancement"
+				advancement: "immersiveengineering:multiblocks/mb_refinery"
+				criterion: ""
+			}]
+		}
+		{
+			x: 28.5d
+			y: 0.5d
+			dependencies: ["0C9B346B8006CF57"]
+			id: "72F470175BB6350D"
+			tasks: [{
+				id: "35700B513FB4116E"
+				type: "advancement"
+				advancement: "immersiveengineering:multiblocks/mb_dieselgen"
+				criterion: ""
+			}]
+		}
+		{
+			x: 31.5d
+			y: 0.5d
+			id: "00A7FA411265C9A6"
+			tasks: [{
+				id: "7DEEFE5B840A4093"
+				type: "item"
+				item: "electrodynamics:combustionchamber"
+			}]
+		}
+		{
+			x: 33.0d
+			y: 0.5d
+			dependencies: ["00A7FA411265C9A6"]
+			id: "11CCBA4525553EC9"
+			tasks: [{
+				id: "7105C2E39894B1B5"
+				type: "advancement"
+				advancement: "immersivepetroleum:main/mb_pumpjack"
+				criterion: ""
+			}]
+		}
+		{
+			x: 34.5d
+			y: 0.5d
+			dependencies: ["11CCBA4525553EC9"]
+			id: "09B728E1966D6B1E"
+			tasks: [{
+				id: "5110413165B91964"
+				type: "advancement"
+				advancement: "immersivepetroleum:main/mb_distillationtower"
+				criterion: ""
+			}]
+		}
+		{
+			x: 36.0d
+			y: 0.5d
+			id: "74987F85F7DDFC77"
+			tasks: [{
+				id: "4FC1D1F0C3456B12"
+				type: "item"
+				item: "alchemistry:liquifier"
+			}]
+		}
+		{
+			x: 37.5d
+			y: 0.5d
+			id: "4D1451F9C596982B"
+			tasks: [{
+				id: "003AB961B00D7B83"
+				type: "item"
+				item: "electrodynamics:chemicalmixer"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

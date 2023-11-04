@@ -1,0 +1,9 @@
+{
+    "type":"minecraft:blasting",
+    "ingredient":{
+        "item":"immersiveengineering:armor_steel_chest"
+    },
+    "result":"electrodynamics:nuggetsteel",
+    "experience":0.1,
+    "cookingtime":100
+}

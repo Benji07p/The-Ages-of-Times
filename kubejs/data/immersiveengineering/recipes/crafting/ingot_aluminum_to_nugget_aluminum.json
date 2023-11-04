@@ -1,0 +1,10 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {"item":"electrodynamics:ingotaluminum"}
+    ],
+    "result":{
+        "item":"immersiveengineering:nugget_aluminum",
+        "count":9
+    }
+}

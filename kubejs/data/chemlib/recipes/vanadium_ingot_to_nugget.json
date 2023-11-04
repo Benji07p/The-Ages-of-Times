@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "electrodynamics:ingotvanadium"
+    }
+  ],
+  "result": {
+    "item": "chemlib:vanadium_nugget",
+    "count": 9
+  }
+}

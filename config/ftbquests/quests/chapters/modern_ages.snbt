@@ -1,0 +1,89 @@
+{
+	id: "079F3DC43CAC5B94"
+	group: ""
+	order_index: 4
+	filename: "modern_ages"
+	title: "Modern Ages"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -2.0d
+			y: 0.0d
+			dependencies: ["4788F95FAC34C88B"]
+			id: "7764FF2D89BB0DD1"
+			tasks: [{
+				id: "0151BB094F8BA45B"
+				type: "item"
+				item: "nuclearscience:yellowcake"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 0.0d
+			dependencies: ["6684320381546044"]
+			id: "35E9DE3ED5A63769"
+			tasks: [
+				{
+					id: "4A989E37EA12EA4E"
+					type: "item"
+					item: "nuclearscience:uranium238"
+				}
+				{
+					id: "4A9BD687D5435794"
+					type: "item"
+					item: "nuclearscience:uranium235"
+				}
+				{
+					id: "3E9A6E2AEB7F7793"
+					type: "item"
+					item: "nuclearscience:fissiledust"
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["35E9DE3ED5A63769"]
+			id: "42B0E6BF8D0A9369"
+			tasks: [{
+				id: "33CC8F05F89C153B"
+				type: "item"
+				item: "nuclearscience:reactorcore"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 0.0d
+			id: "4788F95FAC34C88B"
+			tasks: [{
+				id: "2598D5636F7FFF69"
+				type: "item"
+				item: "nuclearscience:chemicalextractor"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 0.0d
+			dependencies: ["7764FF2D89BB0DD1"]
+			id: "4B58567C90F50712"
+			tasks: [{
+				id: "759958BFE57D8A9D"
+				type: "item"
+				item: "nuclearscience:nuclearboiler"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 0.0d
+			dependencies: ["4B58567C90F50712"]
+			id: "6684320381546044"
+			tasks: [{
+				id: "00263EE803E9A1D2"
+				type: "item"
+				item: "nuclearscience:gascentrifuge"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

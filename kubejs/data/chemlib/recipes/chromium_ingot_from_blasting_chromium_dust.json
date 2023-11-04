@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "chemlib:chromium_dust"
+  },
+  "result": "electrodynamics:ingotchromium",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,13 @@
+{
+	"type":"create:pressing",
+	"ingredients": [{
+      	"tag": "forge:ingots/steel"
+	}],
+	"results": [{
+		"item": "electrodynamics:platesteel"
+	}],
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "immersiveengineering"
+    }]
+}

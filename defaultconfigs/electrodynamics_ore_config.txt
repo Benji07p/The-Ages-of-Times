@@ -1,0 +1,2 @@
+S:default=tin:silver:lead:uraninite:thorianite:monazite:vanadinite:sulfur:niter:aluminum:chromite:rutile:halite:lepidolite:molybdenum:fluorite:sylvite -> oresToSpawn='tin:silver:lead:uraninite:thorianite:monazite:vanadinite:sulfur:niter:aluminum:chromite:rutile:halite:lepidolite:molybdenum:fluorite:sylvite'
+D:default=1.0 -> OREGENERATIONMULTIPLIER='1.0'

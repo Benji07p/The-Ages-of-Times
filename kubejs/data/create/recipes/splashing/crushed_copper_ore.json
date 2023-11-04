@@ -1,0 +1,18 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "create:crushed_copper_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "electrodynamics:nuggetcopper",
+      "count": 9
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "chance": 0.5
+    }
+  ]
+}

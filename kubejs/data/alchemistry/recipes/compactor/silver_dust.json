@@ -1,0 +1,13 @@
+{
+  "type": "alchemistry:compactor",
+  "group": "alchemistry:compactor",
+  "input": {
+    "ingredient": {
+      "item": "chemlib:silver"
+    },
+    "count": 16
+  },
+  "result": {
+    "item": "electrodynamics:dustsilver"
+  }
+}

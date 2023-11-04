@@ -1,0 +1,11 @@
+{
+  "parent": "butchersdelight:custom/leather_shelfcowhide",
+  "textures": {
+    "all": "butchersdelight:blocks/oak_log",
+    "particle": "butchersdelight:blocks/oak_log",
+    "0": "butchersdelight:blocks/oak_log",
+    "1": "butchersdelight:blocks/stripped_oak_log",
+    "2": "the_ages_of_times:items/wethide_tanned",
+    "3": "butchersdelight:blocks/leatherdown"
+  }
+}

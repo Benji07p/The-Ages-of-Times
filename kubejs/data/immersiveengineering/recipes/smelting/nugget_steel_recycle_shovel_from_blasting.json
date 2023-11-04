@@ -1,0 +1,9 @@
+{
+    "type":"minecraft:blasting",
+    "ingredient":{
+        "item":"immersiveengineering:shovel_steel"
+    },
+    "result":"electrodynamics:nuggetsteel",
+    "experience":0.1,
+    "cookingtime":100
+}

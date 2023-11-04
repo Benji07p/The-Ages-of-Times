@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "electrodynamics:ingotchromium"
+    }
+  ],
+  "result": {
+    "item": "chemlib:chromium_nugget",
+    "count": 9
+  }
+}
