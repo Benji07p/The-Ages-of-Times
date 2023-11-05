@@ -3359,6 +3359,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_railgun_capacitors": {
+    "criteria": {
+      "has_railgun": "2023-11-05 12:31:22 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/porcelain_channel_smelting": {
     "criteria": {
       "has_item": "2023-09-20 21:51:28 +0200"
@@ -5377,6 +5383,12 @@
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2023-09-21 21:41:16 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_railgun": {
+    "criteria": {
+      "has_item": "2023-11-05 12:31:22 +0100"
     },
     "done": true
   },

@@ -8,7 +8,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -2.0d
+			x: -0.5d
 			y: -0.5d
 			invisible: true
 			id: "297FA587702B03D9"
@@ -19,7 +19,7 @@
 			}]
 		}
 		{
-			x: -2.0d
+			x: -0.5d
 			y: 1.5d
 			invisible: true
 			id: "546308B6229EB19B"
@@ -30,29 +30,17 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 0.5d
-			dependencies: [
-				"297FA587702B03D9"
-				"546308B6229EB19B"
-			]
-			id: "18A9E1832E9A9E55"
-			tasks: [{
-				id: "3DF7CCC56ABFB16C"
-				type: "item"
-				item: "mctb:spruce_crafting_table"
-			}]
-		}
-		{
-			icon: "ironchest:copper_chest"
 			x: 1.0d
 			y: 0.5d
-			dependencies: ["18A9E1832E9A9E55"]
+			dependencies: [
+				"546308B6229EB19B"
+				"297FA587702B03D9"
+			]
 			id: "031E5C969E62526A"
 			tasks: [{
 				id: "52BAE88D26E7DF48"
 				type: "item"
-				item: "ironchest:wood_to_copper_chest_upgrade"
+				item: "mctb:spruce_crafting_table"
 			}]
 		}
 		{
@@ -84,7 +72,7 @@
 			}]
 		}
 		{
-			x: 14.5d
+			x: 16.0d
 			y: -1.0d
 			dependencies: ["6A531AD1D8AF5435"]
 			id: "20FD8C20CF222406"
@@ -160,9 +148,9 @@
 		}
 		{
 			icon: "immersiveengineering:alloybrick"
-			x: 13.0d
+			x: 14.5d
 			y: 0.5d
-			dependencies: ["6E2B4729C8F73D04"]
+			dependencies: ["29ABC460C770CCED"]
 			id: "5AAE4D7A36166E1D"
 			tasks: [
 				{
@@ -185,7 +173,7 @@
 			]
 		}
 		{
-			x: 14.5d
+			x: 16.0d
 			y: 0.5d
 			dependencies: ["5AAE4D7A36166E1D"]
 			id: "44FEEE01C7DD1B03"
@@ -343,17 +331,18 @@
 			}]
 		}
 		{
-			x: 11.5d
+			x: 13.0d
 			y: 2.0d
 			id: "6A855DB2D462A68D"
 			tasks: [{
 				id: "5158E70C6E9E766C"
 				type: "item"
 				item: "notreepunching:clay_bucket"
+				match_nbt: true
 			}]
 		}
 		{
-			x: 13.0d
+			x: 14.5d
 			y: 2.0d
 			dependencies: ["6A855DB2D462A68D"]
 			id: "6EDC026891F6A559"
@@ -364,7 +353,7 @@
 			}]
 		}
 		{
-			x: 14.5d
+			x: 16.0d
 			y: 2.0d
 			dependencies: ["6EDC026891F6A559"]
 			id: "5408C4484DF8D673"
@@ -378,6 +367,18 @@
 						fluid: "minecraft:water"
 					}
 				}
+			}]
+		}
+		{
+			icon: "ironchest:copper_chest"
+			x: 13.0d
+			y: 0.5d
+			dependencies: ["6E2B4729C8F73D04"]
+			id: "29ABC460C770CCED"
+			tasks: [{
+				id: "1E28BF442A47946A"
+				type: "item"
+				item: "ironchest:wood_to_copper_chest_upgrade"
 			}]
 		}
 	]
