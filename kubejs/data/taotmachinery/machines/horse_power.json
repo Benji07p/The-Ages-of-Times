@@ -1,0 +1,15 @@
+{
+    "name": "Horse Power Generator",
+    "appearance":{
+           "block": "create:gearbox"
+    },
+    "components": [
+        {
+            "type": "custommachinery:contraption",
+            "config": {
+                "default": "output",
+                "output": true
+            }
+        }
+    ]
+}
