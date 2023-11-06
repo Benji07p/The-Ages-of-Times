@@ -227,6 +227,7 @@
 						}
 					}
 				}
+				match_nbt: true
 			}]
 		}
 		{
