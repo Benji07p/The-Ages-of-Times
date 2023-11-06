@@ -1,596 +1,940 @@
 {
+  "create:recipes/create.base/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/immersivepetroleum/asphalt": {
+  "create:wrench_goggles": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "1": "2023-11-06 17:27:14 +0100"
+    },
+    "done": false
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
     },
     "done": true
   },
-  "ceramicshears:recipes/misc/ceramic_shears_part": {
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
     "criteria": {
-      "has_clay": "2023-11-05 15:50:46 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
-    "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
-    },
-    "done": true
-  },
-  "atum:core/thefullmuseum": {
-    "criteria": {
-      "isis_division": "2023-11-05 15:50:46 +0100",
-      "nepthys_banishing": "2023-11-05 15:50:46 +0100",
-      "anubis_wrath": "2023-11-05 15:50:46 +0100",
-      "seths_venom": "2023-11-05 15:50:46 +0100",
-      "body_of_ra": "2023-11-05 15:50:46 +0100",
-      "montus_strike": "2023-11-05 15:50:46 +0100",
-      "ptahs_decadence": "2023-11-05 15:50:46 +0100",
-      "horus_soaring": "2023-11-05 15:50:46 +0100",
-      "tefnuts_call": "2023-11-05 15:50:46 +0100",
-      "shus_exile": "2023-11-05 15:50:46 +0100",
-      "osiris_blessing": "2023-11-05 15:50:46 +0100",
-      "seths_sting": "2023-11-05 15:50:46 +0100",
-      "shus_breath": "2023-11-05 15:50:46 +0100",
-      "anputs_hunger": "2023-11-05 15:50:46 +0100",
-      "feet_of_ra": "2023-11-05 15:50:46 +0100",
-      "nuits_vanishing": "2023-11-05 15:50:46 +0100",
-      "nepthys_guard": "2023-11-05 15:50:46 +0100",
-      "legs_of_ra": "2023-11-05 15:50:46 +0100",
-      "anputs_grounding": "2023-11-05 15:50:46 +0100",
-      "shus_swiftness": "2023-11-05 15:50:46 +0100",
-      "montus_blast": "2023-11-05 15:50:46 +0100",
-      "atems_homecoming": "2023-11-05 15:50:46 +0100",
-      "atems_will": "2023-11-05 15:50:46 +0100",
-      "nuits_quarter": "2023-11-05 15:50:46 +0100",
-      "gebs_toil": "2023-11-05 15:50:46 +0100",
-      "atems_bounty": "2023-11-05 15:50:46 +0100",
-      "eyes_of_atem": "2023-11-05 15:50:46 +0100",
-      "osiris_mercy": "2023-11-05 15:50:46 +0100",
-      "feet_of_atem": "2023-11-05 15:50:46 +0100",
-      "halo_of_ra": "2023-11-05 15:50:46 +0100",
-      "body_of_atem": "2023-11-05 15:50:46 +0100",
-      "gebs_undoing": "2023-11-05 15:50:46 +0100",
-      "nuits_ire": "2023-11-05 15:50:46 +0100",
-      "tefnuts_rain": "2023-11-05 15:50:46 +0100",
-      "horus_ascension": "2023-11-05 15:50:46 +0100",
-      "ras_step": "2023-11-05 15:50:46 +0100",
-      "legs_of_atem": "2023-11-05 15:50:46 +0100",
-      "atems_protection": "2023-11-05 15:50:46 +0100",
-      "ras_fury": "2023-11-05 15:50:46 +0100",
-      "gebs_might": "2023-11-05 15:50:46 +0100",
-      "isis_healing": "2023-11-05 15:50:46 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2023-11-05 15:55:58 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/building_blocks/cut_copper_slab_paraffin_waxed": {
-    "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
-    "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
-    },
-    "done": true
-  },
-  "atum:core/radyforaction": {
-    "criteria": {
-      "feet_of_ra": "2023-11-05 15:50:46 +0100",
-      "body_of_ra": "2023-11-05 15:50:46 +0100",
-      "legs_of_ra": "2023-11-05 15:50:46 +0100",
-      "halo_of_ra": "2023-11-05 15:50:46 +0100"
+      "has_item": "2023-11-06 17:25:59 +0100"
     },
     "done": true
   },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
-      "crafted_book": "2023-11-05 15:50:46 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_stairs_paraffin_waxed": {
-    "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "crafted_book": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
   "tconstruct:internal/starting_book": {
     "criteria": {
-      "tick": "2023-11-05 15:50:46 +0100"
+      "tick": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_to_block": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
-  "astikorcarts:recipes/animal_cart": {
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
     "criteria": {
-      "has_wheel": "2023-11-05 15:50:46 +0100"
+      "has_item": "2023-11-06 17:25:59 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "create:recipes/building_blocks/smelting/lead_ingot_compat_thermal": {
     "criteria": {
-      "has_leather": "2023-11-05 15:55:58 +0100"
+      "has_item": "2023-11-06 18:10:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_lead_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2023-11-06 18:10:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/weathered_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
     "criteria": {
-      "minecraft:desert": "2023-11-05 15:50:41 +0100",
-      "minecraft:plains": "2023-11-05 15:51:52 +0100"
+      "has_item": "2023-11-06 17:25:59 +0100"
     },
-    "done": false
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_lead_compat_mekanism": {
+    "criteria": {
+      "has_item": "2023-11-06 18:10:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/silver_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2023-11-06 18:07:23 +0100"
+    },
+    "done": true
   },
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "atum:core/atumed": {
     "criteria": {
-      "eyes_of_atem": "2023-11-05 15:50:46 +0100",
-      "legs_of_atem": "2023-11-05 15:50:46 +0100",
-      "feet_of_atem": "2023-11-05 15:50:46 +0100",
-      "body_of_atem": "2023-11-05 15:50:46 +0100"
+      "eyes_of_atem": "2023-11-06 17:24:58 +0100",
+      "legs_of_atem": "2023-11-06 17:24:58 +0100",
+      "feet_of_atem": "2023-11-06 17:24:58 +0100",
+      "body_of_atem": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/immersivepetroleum/petcoke_block_to_items": {
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_item": "2023-11-06 18:24:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-11-06 17:27:16 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_slab_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_stairs_paraffin_waxed": {
+  "create:stressometer": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "0": "2023-11-06 17:27:18 +0100"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_paraffin_waxed": {
+  "woodenhopper:recipes/redstone/wooden_hopper": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
-    },
-    "done": true
-  },
-  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2023-11-05 16:11:26 +0100"
+      "has_chest": "2023-11-06 18:29:55 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_slab_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_poppy": "2023-11-06 18:29:43 +0100"
     },
     "done": true
   },
-  "atum:core/justlikenew": {
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
     "criteria": {
-      "gold_brooch": "2023-11-05 15:50:46 +0100",
-      "ruby_ring": "2023-11-05 15:50:46 +0100",
-      "silver_necklace": "2023-11-05 15:50:46 +0100",
-      "diamond_idol": "2023-11-05 15:50:46 +0100",
-      "diamond_brooch": "2023-11-05 15:50:46 +0100",
-      "diamond_necklace": "2023-11-05 15:50:46 +0100",
-      "gold_ring": "2023-11-05 15:50:46 +0100",
-      "sapphire_brooch": "2023-11-05 15:50:46 +0100",
-      "emerald_brooch": "2023-11-05 15:50:46 +0100",
-      "sapphire_necklace": "2023-11-05 15:50:46 +0100",
-      "ruby_idol": "2023-11-05 15:50:46 +0100",
-      "emerald_bracelet": "2023-11-05 15:50:46 +0100",
-      "emerald_ring": "2023-11-05 15:50:46 +0100",
-      "sapphire_idol": "2023-11-05 15:50:46 +0100",
-      "diamond_bracelet": "2023-11-05 15:50:46 +0100",
-      "silver_bracelet": "2023-11-05 15:50:46 +0100",
-      "sapphire_ring": "2023-11-05 15:50:46 +0100",
-      "gold_necklace": "2023-11-05 15:50:46 +0100",
-      "ruby_bracelet": "2023-11-05 15:50:46 +0100",
-      "emerald_idol": "2023-11-05 15:50:46 +0100",
-      "silver_idol": "2023-11-05 15:50:46 +0100",
-      "gold_idol": "2023-11-05 15:50:46 +0100",
-      "sapphire_bracelet": "2023-11-05 15:50:46 +0100",
-      "silver_ring": "2023-11-05 15:50:46 +0100",
-      "ruby_brooch": "2023-11-05 15:50:46 +0100",
-      "ruby_necklace": "2023-11-05 15:50:46 +0100",
-      "diamond_ring": "2023-11-05 15:50:46 +0100",
-      "gold_bracelet": "2023-11-05 15:50:46 +0100",
-      "emerald_necklace": "2023-11-05 15:50:46 +0100",
-      "silver_brooch": "2023-11-05 15:50:46 +0100"
+      "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_slab_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2023-11-05 15:55:58 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
-    "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "antiqueatlas:recipes/atlas_new": {
     "criteria": {
-      "has_compass": "2023-11-05 15:50:46 +0100"
+      "has_compass": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/cut_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "astikorcarts:recipes/plow": {
     "criteria": {
-      "has_wheel": "2023-11-05 15:50:46 +0100"
+      "has_wheel": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
     "criteria": {
-      "has_leather": "2023-11-05 15:55:58 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2023-11-05 15:50:46 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2023-11-05 15:55:58 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_paraffin_waxed": {
-    "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/immersivepetroleum/upgrade_icebreaker": {
-    "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_item": "2023-11-06 17:25:59 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_block_to_items": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/projector": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_stairs_paraffin_waxed": {
+  "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
-    },
-    "done": true
-  },
-  "atum:core/itbelongsinamuseum": {
-    "criteria": {
-      "isis_division": "2023-11-05 15:50:46 +0100",
-      "anubis_wrath": "2023-11-05 15:50:46 +0100",
-      "seths_venom": "2023-11-05 15:50:46 +0100",
-      "body_of_ra": "2023-11-05 15:50:46 +0100",
-      "montus_strike": "2023-11-05 15:50:46 +0100",
-      "ptahs_decadence": "2023-11-05 15:50:46 +0100",
-      "horus_soaring": "2023-11-05 15:50:46 +0100",
-      "tefnuts_call": "2023-11-05 15:50:46 +0100",
-      "shus_exile": "2023-11-05 15:50:46 +0100",
-      "osiris_blessing": "2023-11-05 15:50:46 +0100",
-      "seths_sting": "2023-11-05 15:50:46 +0100",
-      "shus_breath": "2023-11-05 15:50:46 +0100",
-      "anputs_hunger": "2023-11-05 15:50:46 +0100",
-      "feet_of_ra": "2023-11-05 15:50:46 +0100",
-      "nuits_vanishing": "2023-11-05 15:50:46 +0100",
-      "legs_of_ra": "2023-11-05 15:50:46 +0100",
-      "anputs_grounding": "2023-11-05 15:50:46 +0100",
-      "shus_swiftness": "2023-11-05 15:50:46 +0100",
-      "montus_blast": "2023-11-05 15:50:46 +0100",
-      "atems_homecoming": "2023-11-05 15:50:46 +0100",
-      "atems_will": "2023-11-05 15:50:46 +0100",
-      "nuits_quarter": "2023-11-05 15:50:46 +0100",
-      "gebs_toil": "2023-11-05 15:50:46 +0100",
-      "atems_bounty": "2023-11-05 15:50:46 +0100",
-      "eyes_of_atem": "2023-11-05 15:50:46 +0100",
-      "osiris_mercy": "2023-11-05 15:50:46 +0100",
-      "feet_of_atem": "2023-11-05 15:50:46 +0100",
-      "halo_of_ra": "2023-11-05 15:50:46 +0100",
-      "body_of_atem": "2023-11-05 15:50:46 +0100",
-      "gebs_undoing": "2023-11-05 15:50:46 +0100",
-      "nuits_ire": "2023-11-05 15:50:46 +0100",
-      "tefnuts_rain": "2023-11-05 15:50:46 +0100",
-      "horus_ascension": "2023-11-05 15:50:46 +0100",
-      "legs_of_atem": "2023-11-05 15:50:46 +0100",
-      "ras_fury": "2023-11-05 15:50:46 +0100",
-      "gebs_might": "2023-11-05 15:50:46 +0100",
-      "isis_healing": "2023-11-05 15:50:46 +0100"
+      "has_seat": "2023-11-06 18:21:54 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
     },
     "done": true
   },
   "ceramicshears:recipes/tools/ceramic_shears": {
     "criteria": {
-      "has_clay": "2023-11-05 15:50:46 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
-    "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_clay": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/flarestack": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
     "criteria": {
-      "has_item": "2023-11-05 15:52:54 +0100"
+      "has_item": "2023-11-06 17:25:35 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/oxidized_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_paraffin_waxed": {
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat_from_other_seat": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_seat": "2023-11-06 18:21:54 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/exposed_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_wool": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/decorations/candle": {
-    "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "electrodynamics:electrodynamics/guidebook": {
     "criteria": {
-      "spawn": "2023-11-05 15:50:46 +0100"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2023-11-05 15:50:46 +0100"
+      "spawn": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/speedometerfrom_conversion": {
+  "create:recipes/create.palettes/crafting/kinetics/black_seat_from_other_seat": {
     "criteria": {
-      "has_item": "2023-11-05 15:52:55 +0100"
+      "has_seat": "2023-11-06 18:21:54 +0100"
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
     "criteria": {
-      "has_item": "2023-11-05 16:13:09 +0100"
+      "has_item": "2023-11-06 17:25:59 +0100"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat_from_other_seat": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_seat": "2023-11-06 18:21:54 +0100"
     },
     "done": true
   },
   "atum:core/powerwasher": {
     "criteria": {
-      "gold_brooch": "2023-11-05 15:50:46 +0100",
-      "ruby_ring": "2023-11-05 15:50:46 +0100",
-      "silver_necklace": "2023-11-05 15:50:46 +0100",
-      "diamond_idol": "2023-11-05 15:50:46 +0100",
-      "diamond_brooch": "2023-11-05 15:50:46 +0100",
-      "diamond_necklace": "2023-11-05 15:50:46 +0100",
-      "gold_ring": "2023-11-05 15:50:46 +0100",
-      "sapphire_brooch": "2023-11-05 15:50:46 +0100",
-      "emerald_brooch": "2023-11-05 15:50:46 +0100",
-      "sapphire_necklace": "2023-11-05 15:50:46 +0100",
-      "ruby_idol": "2023-11-05 15:50:46 +0100",
-      "emerald_bracelet": "2023-11-05 15:50:46 +0100",
-      "emerald_ring": "2023-11-05 15:50:46 +0100",
-      "sapphire_idol": "2023-11-05 15:50:46 +0100",
-      "diamond_bracelet": "2023-11-05 15:50:46 +0100",
-      "silver_bracelet": "2023-11-05 15:50:46 +0100",
-      "sapphire_ring": "2023-11-05 15:50:46 +0100",
-      "gold_necklace": "2023-11-05 15:50:46 +0100",
-      "ruby_bracelet": "2023-11-05 15:50:46 +0100",
-      "emerald_idol": "2023-11-05 15:50:46 +0100",
-      "silver_idol": "2023-11-05 15:50:46 +0100",
-      "gold_idol": "2023-11-05 15:50:46 +0100",
-      "sapphire_bracelet": "2023-11-05 15:50:46 +0100",
-      "silver_ring": "2023-11-05 15:50:46 +0100",
-      "ruby_brooch": "2023-11-05 15:50:46 +0100",
-      "ruby_necklace": "2023-11-05 15:50:46 +0100",
-      "diamond_ring": "2023-11-05 15:50:46 +0100",
-      "gold_bracelet": "2023-11-05 15:50:46 +0100",
-      "emerald_necklace": "2023-11-05 15:50:46 +0100",
-      "silver_brooch": "2023-11-05 15:50:46 +0100"
-    },
-    "done": true
-  },
-  "antiqueatlas:recipes/atlas": {
-    "criteria": {
-      "has_compass": "2023-11-05 15:50:46 +0100"
+      "gold_brooch": "2023-11-06 17:24:58 +0100",
+      "ruby_ring": "2023-11-06 17:24:58 +0100",
+      "silver_necklace": "2023-11-06 17:24:58 +0100",
+      "diamond_idol": "2023-11-06 17:24:58 +0100",
+      "diamond_brooch": "2023-11-06 17:24:58 +0100",
+      "diamond_necklace": "2023-11-06 17:24:58 +0100",
+      "gold_ring": "2023-11-06 17:24:58 +0100",
+      "sapphire_brooch": "2023-11-06 17:24:58 +0100",
+      "emerald_brooch": "2023-11-06 17:24:58 +0100",
+      "sapphire_necklace": "2023-11-06 17:24:58 +0100",
+      "ruby_idol": "2023-11-06 17:24:58 +0100",
+      "emerald_bracelet": "2023-11-06 17:24:58 +0100",
+      "emerald_ring": "2023-11-06 17:24:58 +0100",
+      "sapphire_idol": "2023-11-06 17:24:58 +0100",
+      "diamond_bracelet": "2023-11-06 17:24:58 +0100",
+      "silver_bracelet": "2023-11-06 17:24:58 +0100",
+      "sapphire_ring": "2023-11-06 17:24:58 +0100",
+      "gold_necklace": "2023-11-06 17:24:58 +0100",
+      "ruby_bracelet": "2023-11-06 17:24:58 +0100",
+      "emerald_idol": "2023-11-06 17:24:58 +0100",
+      "silver_idol": "2023-11-06 17:24:58 +0100",
+      "gold_idol": "2023-11-06 17:24:58 +0100",
+      "sapphire_bracelet": "2023-11-06 17:24:58 +0100",
+      "silver_ring": "2023-11-06 17:24:58 +0100",
+      "ruby_brooch": "2023-11-06 17:24:58 +0100",
+      "ruby_necklace": "2023-11-06 17:24:58 +0100",
+      "diamond_ring": "2023-11-06 17:24:58 +0100",
+      "gold_bracelet": "2023-11-06 17:24:58 +0100",
+      "emerald_necklace": "2023-11-06 17:24:58 +0100",
+      "silver_brooch": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
   "ceramicshears:recipes/misc/clay_shears_part": {
     "criteria": {
-      "has_clay": "2023-11-05 15:50:46 +0100",
-      "has_the_recipe": "2023-11-05 15:50:46 +0100"
+      "has_clay": "2023-11-06 17:24:58 +0100",
+      "has_the_recipe": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
+  "minecraft:story/root": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "crafting_table": "2023-11-06 18:29:22 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/lead_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2023-11-06 18:10:47 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "ceramicshears:recipes/misc/ceramic_shears_part": {
+    "criteria": {
+      "has_clay": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "atum:core/thefullmuseum": {
+    "criteria": {
+      "isis_division": "2023-11-06 17:24:58 +0100",
+      "nepthys_banishing": "2023-11-06 17:24:58 +0100",
+      "anubis_wrath": "2023-11-06 17:24:58 +0100",
+      "seths_venom": "2023-11-06 17:24:58 +0100",
+      "body_of_ra": "2023-11-06 17:24:58 +0100",
+      "montus_strike": "2023-11-06 17:24:58 +0100",
+      "ptahs_decadence": "2023-11-06 17:24:58 +0100",
+      "horus_soaring": "2023-11-06 17:24:58 +0100",
+      "tefnuts_call": "2023-11-06 17:24:58 +0100",
+      "shus_exile": "2023-11-06 17:24:58 +0100",
+      "osiris_blessing": "2023-11-06 17:24:58 +0100",
+      "seths_sting": "2023-11-06 17:24:58 +0100",
+      "shus_breath": "2023-11-06 17:24:58 +0100",
+      "anputs_hunger": "2023-11-06 17:24:58 +0100",
+      "feet_of_ra": "2023-11-06 17:24:58 +0100",
+      "nuits_vanishing": "2023-11-06 17:24:58 +0100",
+      "nepthys_guard": "2023-11-06 17:24:58 +0100",
+      "legs_of_ra": "2023-11-06 17:24:58 +0100",
+      "anputs_grounding": "2023-11-06 17:24:58 +0100",
+      "shus_swiftness": "2023-11-06 17:24:58 +0100",
+      "montus_blast": "2023-11-06 17:24:58 +0100",
+      "atems_homecoming": "2023-11-06 17:24:58 +0100",
+      "atems_will": "2023-11-06 17:24:58 +0100",
+      "nuits_quarter": "2023-11-06 17:24:58 +0100",
+      "gebs_toil": "2023-11-06 17:24:58 +0100",
+      "atems_bounty": "2023-11-06 17:24:58 +0100",
+      "eyes_of_atem": "2023-11-06 17:24:58 +0100",
+      "osiris_mercy": "2023-11-06 17:24:58 +0100",
+      "feet_of_atem": "2023-11-06 17:24:58 +0100",
+      "halo_of_ra": "2023-11-06 17:24:58 +0100",
+      "body_of_atem": "2023-11-06 17:24:58 +0100",
+      "gebs_undoing": "2023-11-06 17:24:58 +0100",
+      "nuits_ire": "2023-11-06 17:24:58 +0100",
+      "tefnuts_rain": "2023-11-06 17:24:58 +0100",
+      "horus_ascension": "2023-11-06 17:24:58 +0100",
+      "ras_step": "2023-11-06 17:24:58 +0100",
+      "legs_of_atem": "2023-11-06 17:24:58 +0100",
+      "atems_protection": "2023-11-06 17:24:58 +0100",
+      "ras_fury": "2023-11-06 17:24:58 +0100",
+      "gebs_might": "2023-11-06 17:24:58 +0100",
+      "isis_healing": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2023-11-06 18:29:22 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_aluminum_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2023-11-06 18:08:44 +0100"
+    },
+    "done": true
+  },
+  "atum:core/radyforaction": {
+    "criteria": {
+      "feet_of_ra": "2023-11-06 17:24:58 +0100",
+      "body_of_ra": "2023-11-06 17:24:58 +0100",
+      "legs_of_ra": "2023-11-06 17:24:58 +0100",
+      "halo_of_ra": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2023-11-06 17:41:09 +0100",
+      "minecraft:desert": "2023-11-06 17:40:30 +0100",
+      "minecraft:savanna": "2023-11-06 17:41:27 +0100",
+      "minecraft:plains": "2023-11-06 17:24:53 +0100"
+    },
+    "done": false
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/petcoke_block_to_items": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2023-11-06 18:11:53 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "atum:core/justlikenew": {
+    "criteria": {
+      "gold_brooch": "2023-11-06 17:24:58 +0100",
+      "ruby_ring": "2023-11-06 17:24:58 +0100",
+      "silver_necklace": "2023-11-06 17:24:58 +0100",
+      "diamond_idol": "2023-11-06 17:24:58 +0100",
+      "diamond_brooch": "2023-11-06 17:24:58 +0100",
+      "diamond_necklace": "2023-11-06 17:24:58 +0100",
+      "gold_ring": "2023-11-06 17:24:58 +0100",
+      "sapphire_brooch": "2023-11-06 17:24:58 +0100",
+      "emerald_brooch": "2023-11-06 17:24:58 +0100",
+      "sapphire_necklace": "2023-11-06 17:24:58 +0100",
+      "ruby_idol": "2023-11-06 17:24:58 +0100",
+      "emerald_bracelet": "2023-11-06 17:24:58 +0100",
+      "emerald_ring": "2023-11-06 17:24:58 +0100",
+      "sapphire_idol": "2023-11-06 17:24:58 +0100",
+      "diamond_bracelet": "2023-11-06 17:24:58 +0100",
+      "silver_bracelet": "2023-11-06 17:24:58 +0100",
+      "sapphire_ring": "2023-11-06 17:24:58 +0100",
+      "gold_necklace": "2023-11-06 17:24:58 +0100",
+      "ruby_bracelet": "2023-11-06 17:24:58 +0100",
+      "emerald_idol": "2023-11-06 17:24:58 +0100",
+      "silver_idol": "2023-11-06 17:24:58 +0100",
+      "gold_idol": "2023-11-06 17:24:58 +0100",
+      "sapphire_bracelet": "2023-11-06 17:24:58 +0100",
+      "silver_ring": "2023-11-06 17:24:58 +0100",
+      "ruby_brooch": "2023-11-06 17:24:58 +0100",
+      "ruby_necklace": "2023-11-06 17:24:58 +0100",
+      "diamond_ring": "2023-11-06 17:24:58 +0100",
+      "gold_bracelet": "2023-11-06 17:24:58 +0100",
+      "emerald_necklace": "2023-11-06 17:24:58 +0100",
+      "silver_brooch": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_lead_compat_mekanism": {
+    "criteria": {
+      "has_item": "2023-11-06 18:10:47 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
+    "criteria": {
+      "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:root": {
+    "criteria": {
+      "HasCraftingTable": "2023-11-06 18:29:22 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_small_flowers_with_knife": {
+    "criteria": {
+      "has_item": "2023-11-06 18:29:43 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_icebreaker": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/silver_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2023-11-06 18:07:23 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_silver_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2023-11-06 18:07:23 +0100"
+    },
+    "done": true
+  },
+  "atum:core/itbelongsinamuseum": {
+    "criteria": {
+      "isis_division": "2023-11-06 17:24:58 +0100",
+      "anubis_wrath": "2023-11-06 17:24:58 +0100",
+      "seths_venom": "2023-11-06 17:24:58 +0100",
+      "body_of_ra": "2023-11-06 17:24:58 +0100",
+      "montus_strike": "2023-11-06 17:24:58 +0100",
+      "ptahs_decadence": "2023-11-06 17:24:58 +0100",
+      "horus_soaring": "2023-11-06 17:24:58 +0100",
+      "tefnuts_call": "2023-11-06 17:24:58 +0100",
+      "shus_exile": "2023-11-06 17:24:58 +0100",
+      "osiris_blessing": "2023-11-06 17:24:58 +0100",
+      "seths_sting": "2023-11-06 17:24:58 +0100",
+      "shus_breath": "2023-11-06 17:24:58 +0100",
+      "anputs_hunger": "2023-11-06 17:24:58 +0100",
+      "feet_of_ra": "2023-11-06 17:24:58 +0100",
+      "nuits_vanishing": "2023-11-06 17:24:58 +0100",
+      "legs_of_ra": "2023-11-06 17:24:58 +0100",
+      "anputs_grounding": "2023-11-06 17:24:58 +0100",
+      "shus_swiftness": "2023-11-06 17:24:58 +0100",
+      "montus_blast": "2023-11-06 17:24:58 +0100",
+      "atems_homecoming": "2023-11-06 17:24:58 +0100",
+      "atems_will": "2023-11-06 17:24:58 +0100",
+      "nuits_quarter": "2023-11-06 17:24:58 +0100",
+      "gebs_toil": "2023-11-06 17:24:58 +0100",
+      "atems_bounty": "2023-11-06 17:24:58 +0100",
+      "eyes_of_atem": "2023-11-06 17:24:58 +0100",
+      "osiris_mercy": "2023-11-06 17:24:58 +0100",
+      "feet_of_atem": "2023-11-06 17:24:58 +0100",
+      "halo_of_ra": "2023-11-06 17:24:58 +0100",
+      "body_of_atem": "2023-11-06 17:24:58 +0100",
+      "gebs_undoing": "2023-11-06 17:24:58 +0100",
+      "nuits_ire": "2023-11-06 17:24:58 +0100",
+      "tefnuts_rain": "2023-11-06 17:24:58 +0100",
+      "horus_ascension": "2023-11-06 17:24:58 +0100",
+      "legs_of_atem": "2023-11-06 17:24:58 +0100",
+      "ras_fury": "2023-11-06 17:24:58 +0100",
+      "gebs_might": "2023-11-06 17:24:58 +0100",
+      "isis_healing": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_silver_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2023-11-06 18:07:23 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_lead_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2023-11-06 18:10:47 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/decorations/candle": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2023-11-06 18:11:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_aluminum_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2023-11-06 18:08:44 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:36 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2023-11-06 17:26:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "antiqueatlas:recipes/atlas": {
+    "criteria": {
+      "has_compass": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
+    "criteria": {
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },
   "atum:core/root": {
     "criteria": {
-      "scarab": "2023-11-05 15:50:46 +0100"
+      "scarab": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
   "atum:core/aquaculture": {
     "criteria": {
-      "fish_jeweled": "2023-11-05 15:50:46 +0100",
-      "fish_mummified": "2023-11-05 15:50:46 +0100",
-      "fish_skeletal": "2023-11-05 15:50:46 +0100",
-      "fish_forsaken": "2023-11-05 15:50:46 +0100"
+      "fish_jeweled": "2023-11-06 17:24:58 +0100",
+      "fish_mummified": "2023-11-06 17:24:58 +0100",
+      "fish_skeletal": "2023-11-06 17:24:58 +0100",
+      "fish_forsaken": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2023-11-06 18:21:54 +0100"
     },
     "done": true
   },
   "astikorcarts:recipes/supply_cart": {
     "criteria": {
-      "has_wheel": "2023-11-05 15:50:46 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
-    "criteria": {
-      "has_leather": "2023-11-05 15:55:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2023-11-05 15:55:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2023-11-05 15:55:58 +0100"
+      "has_wheel": "2023-11-06 17:24:58 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_tank": {
     "criteria": {
-      "has_the_recipe": "2023-11-05 15:50:41 +0100"
+      "has_the_recipe": "2023-11-06 17:24:52 +0100"
     },
     "done": true
   },

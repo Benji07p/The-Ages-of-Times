@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Benji07p"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF8C59"
+		"ftbteams:color": "#7DFF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
