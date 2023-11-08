@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 {
 	"parent": "create:block/mechanical_piston/normal/block_rotated",
     "textures": {
         "5": "block/piston_top_sticky"
     }
 }
-=======
-{
-	"parent": "create:block/mechanical_piston/normal/block_rotated",
-    "textures": {
-        "5": "block/piston_top_sticky"
-    }
-}
->>>>>>> e4d10059ad10a455c3c3055c62320f9984f5edaa
