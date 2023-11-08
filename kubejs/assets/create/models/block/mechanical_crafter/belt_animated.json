@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
@@ -15,22 +14,4 @@
 			}
 		}
 	]
-=======
-{
-	"credit": "Made with Blockbench",
-	"parent": "block/block",
-	"textures": {
-		"3": "create:block/crafter_thingies"
-	},
-	"elements": [
-		{
-			"name": "belt_animated",
-			"from": [-0.5, 12, 6],
-			"to": [0.5, 20, 10],
-			"faces": {
-				"west": {"uv": [0, 6, 4, 14], "texture": "#3"}
-			}
-		}
-	]
->>>>>>> e4d10059ad10a455c3c3055c62320f9984f5edaa
 }
