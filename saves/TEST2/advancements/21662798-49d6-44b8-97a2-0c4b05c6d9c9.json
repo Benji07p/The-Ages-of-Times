@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-11-08 23:09:13 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2023-11-06 20:50:52 +0100"
@@ -27,6 +33,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2023-11-06 20:50:52 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2023-11-08 23:08:06 +0100"
     },
     "done": true
   },
@@ -168,6 +180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2023-11-08 23:09:13 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/liquifier": {
     "criteria": {
       "has_item": "2023-11-07 18:15:45 +0100"
@@ -246,6 +264,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-08 23:08:06 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2023-11-06 20:50:52 +0100"
@@ -273,6 +297,12 @@
   "notreepunching:iron_saw": {
     "criteria": {
       "has_item": "2023-11-07 18:15:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2023-11-08 23:10:39 +0100"
     },
     "done": true
   },
@@ -315,6 +345,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2023-11-06 20:50:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2023-11-08 23:08:06 +0100"
     },
     "done": true
   },
@@ -581,6 +617,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2023-11-08 23:10:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-11-08 23:09:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2023-11-07 22:04:52 +0100"
@@ -689,6 +737,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2023-11-07 21:02:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2023-11-08 23:08:06 +0100"
     },
     "done": true
   },
@@ -896,6 +950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2023-11-08 23:09:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2023-11-07 22:04:51 +0100"
@@ -1028,6 +1088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2023-11-08 23:10:39 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2023-11-06 21:03:44 +0100"
@@ -1055,6 +1121,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2023-11-07 22:04:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2023-11-08 23:10:39 +0100"
     },
     "done": true
   },
@@ -1133,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2023-11-08 23:10:39 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
     "criteria": {
       "has_the_recipe": "2023-11-06 19:09:44 +0100"
@@ -1178,6 +1256,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_to_block": {
     "criteria": {
       "has_the_recipe": "2023-11-06 19:09:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2023-11-08 23:09:13 +0100"
     },
     "done": true
   },
@@ -1286,6 +1370,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-08 23:08:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2023-11-07 22:04:54 +0100"
@@ -1295,6 +1385,12 @@
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 19:09:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-11-08 23:07:48 +0100"
     },
     "done": true
   },
@@ -1463,6 +1559,12 @@
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2023-11-07 22:04:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-11-08 23:09:13 +0100"
     },
     "done": true
   },
@@ -1777,6 +1879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2023-11-08 23:10:39 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/smooth_sandstone": {
     "criteria": {
       "has_the_recipe": "2023-11-08 19:06:45 +0100"
@@ -1914,6 +2022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2023-11-08 23:10:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-11-07 17:33:33 +0100"
@@ -1941,6 +2055,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2023-11-06 21:11:27 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_small_flowers_with_knife": {
+    "criteria": {
+      "has_item": "2023-11-08 23:07:48 +0100"
     },
     "done": true
   },
@@ -2133,6 +2253,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_item": "2023-11-07 22:04:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2023-11-08 23:10:39 +0100"
     },
     "done": true
   },
