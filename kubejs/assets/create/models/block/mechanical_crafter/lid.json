@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"3": "create:block/crafter_thingies"
+	},
+	"elements": [
+		{
+			"name": "valve_lid",
+			"from": [-1, 5, 5],
+			"to": [0, 11, 11],
+			"faces": {
+				"west": {"uv": [0, 0, 6, 6], "rotation": 270, "texture": "#3"}
+			}
+		}
+	]
+=======
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"3": "create:block/crafter_thingies"
+	},
+	"elements": [
+		{
+			"name": "valve_lid",
+			"from": [-1, 5, 5],
+			"to": [0, 11, 11],
+			"faces": {
+				"west": {"uv": [0, 0, 6, 6], "rotation": 270, "texture": "#3"}
+			}
+		}
+	]
+>>>>>>> e4d10059ad10a455c3c3055c62320f9984f5edaa
+}

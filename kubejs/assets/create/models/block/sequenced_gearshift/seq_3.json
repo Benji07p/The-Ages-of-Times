@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+{
+	"parent": "create:block/sequenced_gearshift/idle",
+	"textures": {
+		"4": "create:block/sequenced_gearshift_3"
+	}
+=======
+{
+	"parent": "create:block/sequenced_gearshift/idle",
+	"textures": {
+		"4": "create:block/sequenced_gearshift_3"
+	}
+>>>>>>> e4d10059ad10a455c3c3055c62320f9984f5edaa
+}
