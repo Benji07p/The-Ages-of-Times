@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 {
 	"parent": "create:item/filter",
 	"textures": {
 		"0": "create:item/property_filter",
 		"particle": "create:item/property_filter"
 	}
-=======
-{
-	"parent": "create:item/filter",
-	"textures": {
-		"0": "create:item/property_filter",
-		"particle": "create:item/property_filter"
-	}
->>>>>>> e4d10059ad10a455c3c3055c62320f9984f5edaa
 }
