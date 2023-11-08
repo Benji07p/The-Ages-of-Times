@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 {
 	"parent": "create:block/smart_chute/block",
 	"textures": {
 		"5": "create:block/brass_funnel_tall_powered"
 	}
-=======
-{
-	"parent": "create:block/smart_chute/block",
-	"textures": {
-		"5": "create:block/brass_funnel_tall_powered"
-	}
->>>>>>> e4d10059ad10a455c3c3055c62320f9984f5edaa
 }
