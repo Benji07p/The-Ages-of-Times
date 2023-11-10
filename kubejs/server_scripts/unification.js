@@ -171,6 +171,7 @@ onEvent('item.tags', event => {
 	event.get('forge:ingots/zinc').remove('chemlib:zinc_ingot')
 	event.get('forge:storage_blocks/zinc').remove('chemlib:zinc_metal_block')
 	event.get('forge:nuggets/zinc').remove('chemlib:zinc_nugget')
+	event.get('forge:plates/zinc').remove('chemlib:zinc_plate')
 
 	//Cobalt
 	event.get('forge:nuggets/cobalt').remove('chemlib:cobalt_nugget')
