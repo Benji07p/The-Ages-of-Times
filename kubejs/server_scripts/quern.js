@@ -1,5 +1,18 @@
 onEvent('recipes', event => {
     //Poudre d'Os
+	event.custom(
+		{
+			"type":"atum:quern",
+			"ingredient":{
+				"item":"the_ages_of_times:flakes_bones"
+			},
+			"result":{
+				"item":"minecraft:bone_meal"
+			},
+			"rotations": 2
+		}
+	)
+
 	//Colorant Marron
 	event.custom(
 		{
