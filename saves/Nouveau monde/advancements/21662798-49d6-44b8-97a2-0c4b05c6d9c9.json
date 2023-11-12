@@ -284,6 +284,12 @@
     },
     "done": true
   },
+  "tardim:tardim/craft_tardim": {
+    "criteria": {
+      "get_tardim": "2023-11-12 19:17:45 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/flarestack": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -422,15 +428,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_rose_red": "2023-11-06 18:29:47 +0100"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/blasting/lead_ingot_compat_thermal": {
     "criteria": {
       "has_item": "2023-11-06 18:10:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2023-11-06 18:29:47 +0100"
     },
     "done": true
   },
@@ -677,15 +683,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2023-11-06 18:29:47 +0100"
-    },
-    "done": true
-  },
   "electrodynamics:root": {
     "criteria": {
       "HasCraftingTable": "2023-11-06 18:29:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2023-11-06 18:29:47 +0100"
     },
     "done": true
   },
