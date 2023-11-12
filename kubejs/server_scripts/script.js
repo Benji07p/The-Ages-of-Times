@@ -86,6 +86,27 @@ onEvent('recipes', event => {
 		}
     )
 
+	//Flakes Bones
+	event.custom(
+		{
+			"type": "lychee:block_interacting",
+			"item_in": {
+				"item": "bone"
+			},
+			"block_in": "stone",
+			"post": [
+                {
+                    "type": "drop_item",
+                    "item": "the_ages_of_times:flakes_bones"
+                },
+                {
+                    "type": "drop_item",
+                    "item": "the_ages_of_times:bone_weapon"
+                }
+			]
+		}
+    )
+
 	//Désactiver Atum
 	event.remove({output: 'atum:scarab'})
 
