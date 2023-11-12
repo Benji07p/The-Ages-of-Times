@@ -193,6 +193,7 @@
 		{
 			x: 10.5d
 			y: 0.5d
+			dependencies: ["5B18FA8A911F00FB"]
 			id: "5F542950BC9C4E0C"
 			tasks: [{
 				id: "182149A02F500C44"
@@ -378,6 +379,23 @@
 				id: "620544EF0758E33D"
 				type: "item"
 				item: "atum:quern"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 0.5d
+			dependencies: ["0D5FF20F873F3973"]
+			id: "5B18FA8A911F00FB"
+			tasks: [{
+				id: "2AC1E16FE2F33579"
+				type: "item"
+				item: {
+					id: "custommachinery:custom_machine_item"
+					Count: 1b
+					tag: {
+						machine: "taotmachinery:horse_power"
+					}
+				}
 			}]
 		}
 	]

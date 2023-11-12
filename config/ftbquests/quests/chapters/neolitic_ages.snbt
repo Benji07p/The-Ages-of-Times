@@ -299,9 +299,9 @@
 			}]
 		}
 		{
-			x: 7.0d
+			x: 8.5d
 			y: 2.0d
-			dependencies: ["7444093F6600D1DE"]
+			dependencies: ["37FCE1945B018F01"]
 			id: "5A0389E4BF6B1488"
 			tasks: [{
 				id: "7CBEF4DB1458F17C"
@@ -310,7 +310,7 @@
 			}]
 		}
 		{
-			x: 8.5d
+			x: 10.0d
 			y: 2.0d
 			dependencies: ["5A0389E4BF6B1488"]
 			id: "345668DB87590723"
@@ -380,6 +380,17 @@
 				id: "1E28BF442A47946A"
 				type: "item"
 				item: "ironchest:wood_to_copper_chest_upgrade"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 2.0d
+			dependencies: ["7444093F6600D1DE"]
+			id: "37FCE1945B018F01"
+			tasks: [{
+				id: "2869876AA8F97F89"
+				type: "item"
+				item: "create:gearbox"
 			}]
 		}
 	]
