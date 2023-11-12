@@ -276,6 +276,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/cracked_empty_clay_bucket_smelting": {
+    "criteria": {
+      "has_item": "2023-11-12 14:17:56 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2023-11-07 21:13:54 +0100"
@@ -1550,6 +1556,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/cracked_empty_clay_bucket_kiln": {
+    "criteria": {
+      "has_item": "2023-11-12 14:17:56 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_the_recipe": "2023-11-06 19:09:44 +0100"
@@ -1906,6 +1918,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2023-11-11 17:35:11 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/misc/clay_uncrafting_3": {
+    "criteria": {
+      "has_unfired": "2023-11-12 14:18:04 +0100"
     },
     "done": true
   },
@@ -2959,6 +2977,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/empty_clay_bucket_kiln": {
+    "criteria": {
+      "has_item": "2023-11-12 14:18:04 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2023-11-07 18:15:45 +0100"
@@ -3946,6 +3970,12 @@
   "alchemistry:recipes/misc/iron_ingot_from_blasting_iron_dust": {
     "criteria": {
       "has_iron": "2023-11-09 18:22:49 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/empty_clay_bucket_smelting": {
+    "criteria": {
+      "has_item": "2023-11-12 14:18:04 +0100"
     },
     "done": true
   },
