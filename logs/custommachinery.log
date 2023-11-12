@@ -1,13 +1,13 @@
-[12:19:18.481][INFO]: Parsing all .json files in machines folder.
-[12:19:18.532][INFO]: Parsing all .json files in upgrades folder.
-[12:19:18.892][INFO]: Finished, 1 .json files successfully parsed in machines folder.
-[12:19:18.944][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
-[12:19:30.343][INFO]: Reading Custom Machinery Machines...
-[12:19:30.344][INFO]: Parsing machine json: taotmachinery:horse_power in datapack: KubeJS Resource Pack [data]
-[12:19:30.354][INFO]: Successfully parsed machine json: taotmachinery:horse_power
-[12:19:30.355][INFO]: Finished creating custom machines.
-[12:19:30.355][INFO]: Reading Custom Machinery Upgrades json
-[12:19:30.355][INFO]: No machine upgrade json found.
-[12:19:30.355][INFO]: Collecting machine upgrades with kubeJS.
-[12:19:30.357][INFO]: No machine upgrades found with kubejs
-[12:19:30.357][INFO]: Finished creating custom machine upgrades.
+[13:06:29.992][INFO]: Parsing all .json files in machines folder.
+[13:06:30.004][INFO]: Parsing all .json files in upgrades folder.
+[13:06:30.387][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
+[13:06:30.400][INFO]: Finished, 1 .json files successfully parsed in machines folder.
+[13:06:42.185][INFO]: Reading Custom Machinery Machines...
+[13:06:42.186][INFO]: Parsing machine json: taotmachinery:horse_power in datapack: KubeJS Resource Pack [data]
+[13:06:42.198][INFO]: Successfully parsed machine json: taotmachinery:horse_power
+[13:06:42.198][INFO]: Finished creating custom machines.
+[13:06:42.198][INFO]: Reading Custom Machinery Upgrades json
+[13:06:42.198][INFO]: No machine upgrade json found.
+[13:06:42.198][INFO]: Collecting machine upgrades with kubeJS.
+[13:06:42.201][INFO]: No machine upgrades found with kubejs
+[13:06:42.201][INFO]: Finished creating custom machine upgrades.

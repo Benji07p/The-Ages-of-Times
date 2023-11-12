@@ -282,6 +282,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-11-09 22:03:32 +0100"
@@ -351,6 +357,12 @@
   "immersiveengineering:main/make_steel": {
     "criteria": {
       "has_item": "2023-11-09 18:18:14 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:58 +0100"
     },
     "done": true
   },
@@ -1004,6 +1016,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:59 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/speedometerfrom_conversion": {
     "criteria": {
       "has_item": "2023-11-06 20:45:02 +0100"
@@ -1154,6 +1172,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_steel_to_slab": {
     "criteria": {
       "has_storage_steel": "2023-11-09 18:18:15 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:58 +0100"
     },
     "done": true
   },
@@ -1313,6 +1337,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/fertilizer": {
     "criteria": {
       "has_saltpeter": "2023-11-11 16:41:01 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:58 +0100"
     },
     "done": true
   },
@@ -1825,6 +1855,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:59 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/iron_door": {
     "criteria": {
       "has_the_recipe": "2023-11-07 18:15:45 +0100"
@@ -2329,6 +2365,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:59 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2023-11-09 17:49:00 +0100"
@@ -2578,6 +2620,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2023-11-07 17:33:33 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:59 +0100"
     },
     "done": true
   },
@@ -3193,6 +3241,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2023-11-11 18:43:27 +0100"
@@ -3274,6 +3328,12 @@
   "ceramics:recipes/ceramics/clay_plate_kiln": {
     "criteria": {
       "has_item": "2023-11-11 19:05:37 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/tools/building/flint_and_brick": {
+    "criteria": {
+      "has_seared": "2023-11-12 12:43:59 +0100"
     },
     "done": true
   },
@@ -3727,6 +3787,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:58 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2023-11-07 18:15:53 +0100"
@@ -3889,6 +3955,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:59 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/misc/gold_ingot_from_smelting_gold_dust": {
     "criteria": {
       "has_gold": "2023-11-09 18:00:16 +0100"
@@ -3946,6 +4018,12 @@
   "alchemistry:recipes/dissolver/pink_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-06 20:47:10 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:58 +0100"
     },
     "done": true
   },
@@ -4063,6 +4141,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:58 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_uranium": {
     "criteria": {
       "has_plate_uranium": "2023-11-09 17:37:16 +0100"
@@ -4102,6 +4186,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_drum": {
     "criteria": {
       "has_ingot_steel": "2023-11-09 18:18:12 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:58 +0100"
     },
     "done": true
   },
@@ -4150,6 +4240,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2023-11-06 20:50:52 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:59 +0100"
     },
     "done": true
   },
@@ -4329,6 +4425,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_steel_from_slab": {
     "criteria": {
       "has_storage_steel": "2023-11-09 18:18:15 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2023-11-12 12:43:59 +0100"
     },
     "done": true
   },
