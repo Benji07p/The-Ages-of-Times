@@ -130,6 +130,76 @@ onEvent('recipes', event => {
 		  ]
 		}
 	)
+
+	//Grout
+	event.remove({ id: 'tconstruct:smeltery/seared/seared_brick'})
+	event.remove({ id: 'tconstruct:smeltery/seared/seared_brick_kiln'})
+	event.custom(
+		{
+			"type": "create:milling",
+			"ingredients": [
+			  {
+				"item": "tconstruct:grout"
+			  }
+			],
+			"results": [
+			  {
+				"item": "the_ages_of_times:grout_dust"
+			  }
+			],
+			"processingTime": 70
+		  }
+	)
+	event.custom(
+		{
+			"type": "ceramics:kiln",
+			"ingredient": {
+			  "item": "the_ages_of_times:grout_dust"
+			},
+			"result": "tconstruct:seared_brick",
+			"experience": 0.3,
+			"cookingtime": 100
+		  }
+	)
+	event.smelting('tconstruct:seared_brick', 'the_ages_of_times:grout_dust')
+
+	//Porcelain
+	event.remove({ id: 'ceramics:porcelain_brick_smelting'})
+	event.remove({ id: 'ceramics:porcelain_brick_kiln'})
+	event.shapeless('ceramics:unfired_porcelain', ['minecraft:flint', 'minecraft:clay_ball', 'minecraft:bone_meal'])
+	event.custom(
+		{
+			"type": "create:milling",
+			"ingredients": [
+			  {
+				"item": "ceramics:unfired_porcelain"
+			  }
+			],
+			"results": [
+			  {
+				"item": "the_ages_of_times:porcelain_dust",
+			  }
+			],
+			"processingTime": 70
+		  }
+	)
+	event.custom(
+		{
+			"type": "ceramics:kiln",
+			"ingredient": {
+			  "item": "the_ages_of_times:porcelain_dust"
+			},
+			"result": "ceramics:porcelain_brick",
+			"experience": 0.3,
+			"cookingtime": 100
+		  }
+	)
+	event.smelting('ceramics:porcelain_brick', 'the_ages_of_times:porcelain_dust')
+
+	//Clay Bucket
+	event.remove({ id: 'ceramics:empty_clay_bucket_smelting'})
+	event.remove({ id: 'ceramics:empty_clay_bucket_kiln'})
+
 })
 
 onEvent('item.tags', event => {
