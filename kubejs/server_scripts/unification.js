@@ -3,11 +3,14 @@ onEvent('recipes', event => {
 	event.remove({ id: 'tconstruct:common/materials/copper_ingot_from_nuggets' })
 	event.remove({ id: 'tconstruct:common/materials/copper_nugget_from_ingot' })
 	event.remove({ id: 'create:crafting/materials/copper_nugget' })
+	event.remove({ id: 'createaddition:crafting/electrum_ingot'})
+	event.remove({ id: 'createaddition:crafting/electrum_nugget'})
 	event.remove({ id: 'beyond_earth:steel_block' })
 	event.remove({ id: 'beyond_earth:steel_ingot' })
 	event.remove({ id: 'beyond_earth:steel_ingot_from_nugget' })
 	event.remove({ id: 'beyond_earth:steel_nugget_from_ingot' })
 	event.remove({ id: 'beyond_earth:steel_ingot_blasting' })
+	event.remove({ id: 'car:iron_stick'})
 	event.remove({ id: 'immersiveengineering:crafting/nugget_copper_to_copper_ingot' })
 	event.remove({ id: 'immersiveengineering:crafting/copper_ingot_to_nugget_copper' })
 	event.remove({ id: 'immersiveengineering:crafting/ingot_lead_to_storage_lead' })
@@ -33,6 +36,7 @@ onEvent('recipes', event => {
 	event.remove({ id: 'immersiveengineering:crafting/storage_steel_from_slab' })
 	event.remove({ id: 'immersiveengineering:crafting/storage_steel_to_ingot_steel'})
 	event.remove({ id: 'immersiveengineering:crafting/nugget_steel_to_ingot_steel'})
+	event.remove({ id: 'immersiveengineering:crafting/stick_iron'})
 	event.remove({ id: 'immersiveengineering:smelting/ingot_lead_from_dust_from_blasting'})
 	event.remove({ id: 'immersiveengineering:smelting/ingot_lead_from_dust'})
 	event.remove({ id: 'immersiveengineering:smelting/copper_ingot_from_dust'})
@@ -109,12 +113,14 @@ onEvent('recipes', event => {
 	event.remove({ id: 'chemlib:titanium_block_to_ingot'})
 	event.remove({ id: 'chemlib:chromium_ingot_to_block'})
 	event.remove({ id: 'chemlib:chromium_block_to_ingot'})
+	event.remove({ id: 'butchersdelight:re_saltcipe'})
 })
 
 onEvent('item.tags', event => {
 	// Ajout de Tags
 	event.get('forge:wires/copper').add('electrodynamics:wirecopper')
 	event.get('immersiveengineering:circuits/solder').add('electrodynamics:wirecopper')
+	event.get('forge:salt').add('electrodynamics:dustsalt')
 
 	// Retiré les Tags
 	//Cuivre
@@ -165,6 +171,7 @@ onEvent('item.tags', event => {
 	event.get('forge:ingots/steel').remove(['immersiveengineering:ingot_steel', 'beyond_earth:steel_ingot'])
 	event.get('forge:dusts/steel').remove('immersiveengineering:dust_steel')
 	event.get('forge:plates/steel').remove('immersiveengineering:plate_steel')
+	event.get('forge:rods/steel').remove('immersiveengineering:stick_steel')
 	event.get('forge:storage_blocks/steel').remove(['beyond_earth:steel_block', 'immersiveengineering:storage_steel'])
 
 	//Zinc
@@ -181,10 +188,32 @@ onEvent('item.tags', event => {
 	//Fer
 	event.get('forge:plates/iron').remove(['immersiveengineering:plate_iron', 'chemlib:iron_plate'])
 	event.get('forge:dusts/iron').remove(['chemlib:iron_dust', 'immersiveengineering:dust_iron'])
+	event.get('forge:rods/iron').remove(['immersiveengineering:stick_iron', 'createaddition:iron_rod', 'car:iron_stick'])
+	event.get('forge:rods').remove('createaddition:iron_rod')
+	event.get('forge:rods/all_metal').remove('createaddition:iron_rod')
 
 	//Or
 	event.get('forge:plates/gold').remove(['chemlib:gold_plate', 'immersiveengineering:plate_gold'])
 	event.get('forge:dusts/gold').remove(['chemlib:gold_dust', 'immersiveengineering:dust_gold'])
+
+	//Electrum
+	event.get('forge:plates/electrum').remove('createaddition:electrum_sheet')
+	event.get('forge:ingots/electrum').remove('createaddition:electrum_ingot')
+	event.get('forge:wires/electrum').remove('createaddition:electrum_wire')
+	event.get('forge:nuggets/electrum').remove('createaddition:electrum_nugget')
+	event.get('forge:plates/all_metal').remove('createaddition:electrum_sheet')
+	event.get('forge:ingots/all_metal').remove('createaddition:electrum_ingot')
+	event.get('forge:wires/all_metal').remove('createaddition:electrum_wire')
+	event.get('forge:nuggets/all_metal').remove('createaddition:electrum_nugget')
+
+	//Sulfur
+	event.get('forge:dusts/sulfur').remove(['chemlib:sulfur_dust', 'immersiveengineering:dust_sulfur'])
+
+	//Sel
+	event.get('forge:salt').remove('butchersdelight:item_salt')
+
+	//Niter
+	event.get('forge:dusts/saltpeter').remove('immersiveengineering:dust_saltpeter')
 
 	//Molybdène
 	event.get('forge:ingots/molybdenum').remove('chemlib:molybdenum_ingot')
