@@ -3648,3 +3648,4 @@
 [18:28:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [18:28:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
 [18:28:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:29:17] [Render thread/INFO]: Stopping!
