@@ -262,23 +262,11 @@
 			y: -2.5d
 			dependencies: ["7D398B592448C5B3"]
 			id: "3A1AAA175FBBBC96"
-			tasks: [
-				{
-					id: "188370CEAB8422E6"
-					type: "item"
-					item: "ceramics:terracotta_cistern"
-				}
-				{
-					id: "0A801F8227EECB72"
-					type: "item"
-					item: "create:sticky_mechanical_piston"
-				}
-				{
-					id: "0AE0A70BFBB738E4"
-					type: "item"
-					item: "create:piston_extension_pole"
-				}
-			]
+			tasks: [{
+				id: "188370CEAB8422E6"
+				type: "item"
+				item: "ceramics:terracotta_cistern"
+			}]
 		}
 		{
 			x: -8.0d
