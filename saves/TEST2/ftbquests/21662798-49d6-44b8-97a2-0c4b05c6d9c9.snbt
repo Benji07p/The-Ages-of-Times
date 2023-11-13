@@ -10,7 +10,6 @@
 	task_progress: { }
 	started: {
 		0000000000000001: 1699299853796L
-		04E55AE9FD6151EF: 1699795104374L
 	}
 	completed: { }
 	claimed_rewards: { }
