@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2023-11-15 13:24:16 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2023-11-13 18:11:06 +0100"
@@ -170,15 +176,21 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/magenta_terracotta_cistern": {
+    "criteria": {
+      "has_cistern": "2023-11-13 19:11:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2023-11-13 20:29:39 +0100"
     },
     "done": true
   },
-  "ceramics:recipes/ceramics/magenta_terracotta_cistern": {
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
-      "has_cistern": "2023-11-13 19:11:53 +0100"
+      "has_iron_ingot": "2023-11-15 13:56:05 +0100"
     },
     "done": true
   },
@@ -191,6 +203,12 @@
   "ceramics:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-11-13 18:11:06 +0100"
+    },
+    "done": true
+  },
+  "woodenbucket:recipes/misc/wooden_bucket": {
+    "criteria": {
+      "has_log": "2023-11-14 21:12:20 +0100"
     },
     "done": true
   },
@@ -254,6 +272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2023-11-14 21:12:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-13 20:39:56 +0100"
@@ -269,6 +293,18 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-11-13 18:11:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2023-11-14 21:49:58 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/charcoal": {
+    "criteria": {
+      "has_the_recipe": "2023-11-14 21:12:20 +0100"
     },
     "done": true
   },
@@ -317,6 +353,24 @@
   "ceramics:recipes/ceramics/black_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2023-11-13 19:11:53 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:story/flint_axe": {
+    "criteria": {
+      "has_flint_axe": "2023-11-14 21:12:29 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cooked_rabbit": {
+    "criteria": {
+      "has_the_recipe": "2023-11-14 21:49:58 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-14 21:49:58 +0100"
     },
     "done": true
   },
@@ -391,6 +445,12 @@
     },
     "done": true
   },
+  "notreepunching:sticks_from_logs_with_saw": {
+    "criteria": {
+      "has_item": "2023-11-14 21:12:20 +0100"
+    },
+    "done": true
+  },
   "ceramicshears:recipes/misc/clay_shears_part": {
     "criteria": {
       "has_clay": "2023-11-13 17:28:44 +0100"
@@ -454,6 +514,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2023-11-13 18:09:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2023-11-14 21:49:58 +0100"
     },
     "done": true
   },
@@ -602,6 +668,18 @@
     },
     "done": true
   },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2023-11-15 13:56:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2023-11-15 13:24:16 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_revolver_magazine": {
     "criteria": {
       "has_revolver": "2023-11-13 17:28:44 +0100"
@@ -617,6 +695,12 @@
   "astikorcarts:recipes/animal_cart": {
     "criteria": {
       "has_wheel": "2023-11-13 17:28:44 +0100"
+    },
+    "done": true
+  },
+  "atum:core/enchantingevening": {
+    "criteria": {
+      "golden_date_enchanted": "2023-11-14 21:59:19 +0100"
     },
     "done": true
   },
@@ -640,8 +724,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2023-11-15 13:55:40 +0100",
       "minecraft:river": "2023-11-13 17:33:03 +0100",
-      "minecraft:desert": "2023-11-13 17:28:44 +0100"
+      "minecraft:lukewarm_ocean": "2023-11-15 13:56:09 +0100",
+      "minecraft:desert": "2023-11-13 17:28:44 +0100",
+      "minecraft:windswept_savanna": "2023-11-14 21:40:08 +0100",
+      "minecraft:warm_ocean": "2023-11-15 13:56:16 +0100"
     },
     "done": false
   },
@@ -651,15 +739,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-11-14 21:12:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2023-11-13 20:29:39 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2023-11-14 21:49:58 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "has_item": "2023-11-13 17:28:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-11-14 21:59:19 +0100"
     },
     "done": true
   },
@@ -734,6 +840,12 @@
     },
     "done": true
   },
+  "tconstruct:world/clay_island": {
+    "criteria": {
+      "found_island": "2023-11-14 21:39:46 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/terracotta_cistern_smelting": {
     "criteria": {
       "has_item": "2023-11-13 20:36:44 +0100"
@@ -770,9 +882,27 @@
     },
     "done": true
   },
+  "notreepunching:sticks_from_logs_with_flint_axe": {
+    "criteria": {
+      "has_item": "2023-11-14 21:12:20 +0100"
+    },
+    "done": true
+  },
+  "atum:core/itsadate": {
+    "criteria": {
+      "date": "2023-11-14 21:59:19 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2023-11-13 17:31:49 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_small_flowers_with_knife": {
+    "criteria": {
+      "has_item": "2023-11-15 13:30:20 +0100"
     },
     "done": true
   },
@@ -873,6 +1003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2023-11-14 21:12:20 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/light_gray_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2023-11-13 19:11:53 +0100"
@@ -906,6 +1042,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_revolver_electro": {
     "criteria": {
       "has_revolver": "2023-11-13 17:28:44 +0100"
+    },
+    "done": true
+  },
+  "atum:core/goldendatebridge": {
+    "criteria": {
+      "golden_date": "2023-11-14 21:59:19 +0100"
     },
     "done": true
   },
