@@ -787,6 +787,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2023-11-15 15:38:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-13 20:39:56 +0100"
@@ -1126,6 +1132,12 @@
   "atum:core/root": {
     "criteria": {
       "scarab": "2023-11-13 17:28:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-11-15 16:09:09 +0100"
     },
     "done": true
   },
