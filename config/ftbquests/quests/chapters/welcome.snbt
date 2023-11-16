@@ -1,0 +1,11 @@
+{
+	id: "45C1D83331BE77CC"
+	group: ""
+	order_index: 0
+	filename: "welcome"
+	title: "Welcome !"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}
