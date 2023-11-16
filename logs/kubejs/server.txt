@@ -1,265 +1,265 @@
-[18:11:37] [INFO ] Loaded script server_scripts:crafting_rock.js in 0.002 s
-[18:11:37] [INFO ] Loaded script server_scripts:horse.js in 0.001 s
-[18:11:37] [INFO ] Loaded script server_scripts:leather.js in 0.003 s
-[18:11:37] [INFO ] Loaded script server_scripts:quern.js in 0.001 s
-[18:11:37] [INFO ] Loaded script server_scripts:script.js in 0.003 s
-[18:11:37] [INFO ] Hello, World! (You will see this line every time server resources reload)
-[18:11:37] [INFO ] Loaded script server_scripts:settings.js in 0.001 s
-[18:11:37] [INFO ] Loaded script server_scripts:tree.js in 0.002 s
-[18:11:37] [INFO ] Loaded script server_scripts:unification.js in 0.008 s
-[18:11:37] [INFO ] Loaded 8/8 KubeJS server scripts in 0.029 s
-[18:11:37] [INFO ] Scripts loaded
-[18:11:37] [INFO ] Scanning recipes...
-[18:11:42] [INFO ] [items] Found 1459 tags, added 3 objects, removed 101 objects
-[18:11:51] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/filling_cracked_clay_bucket[tconstruct:table_filling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:cracked_clay_bucket'
-[18:11:51] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/filling_cracked_clay_bucket[tconstruct:table_filling]: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:cracked_clay_bucket'
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:cherry_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:cherry_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:blossom_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:blossom_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:blossom_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:blossom_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:redwood_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:redwood_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/clay/bricks_3[tconstruct:melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ceramics:clay_bucket'
-[18:11:51] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/clay/bricks_3[tconstruct:melting]: com.google.gson.JsonSyntaxException: Unknown item 'ceramics:clay_bucket'
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:magic_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:magic_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:willow_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:willow_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:azalea_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:azalea_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:azalea_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:azalea_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:mahogany_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:mahogany_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:palm_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:palm_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:jacaranda_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:jacaranda_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:umbran_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:umbran_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/porcelain/golden_bricks_slab[tconstruct:melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid minecraft:empty
-[18:11:51] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/porcelain/golden_bricks_slab[tconstruct:melting]: com.google.gson.JsonSyntaxException: Unknown fluid minecraft:empty
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:hellbark_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:hellbark_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/filling_clay_bucket[tconstruct:table_filling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:clay_bucket'
-[18:11:51] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/filling_clay_bucket[tconstruct:table_filling]: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:clay_bucket'
-[18:11:51] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:fir_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:fir_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'mctb:dead_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[18:11:51] [WARN ] Failed to parse recipe mctb:dead_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[18:11:51] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
-[18:11:51] [INFO ] Found 14796 recipes and 0 failed recipes in 540.0 ms
-[18:11:51] [INFO ] server_scripts:crafting_rock.js:5: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:horse.js:3: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:horse_power, time=1000, requirements=[custommachinery:entity, custommachinery:contraption, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[18:11:51] [INFO ] server_scripts:leather.js:132: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:132: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:132: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:149: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:149: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:40: + lychee:item_inside: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:40: + lychee:item_inside: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:71: + lychee:item_inside: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:71: + lychee:item_inside: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:104: + lychee:item_inside: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:190: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:leather.js:219: + farmersdelight:cutting: [] -> []
-[18:11:51] [INFO ] server_scripts:quern.js:3: + atum:quern: [] -> []
-[18:11:51] [INFO ] server_scripts:quern.js:17: + atum:quern: [] -> []
-[18:11:51] [INFO ] server_scripts:quern.js:31: + atum:quern: [] -> []
-[18:11:51] [INFO ] server_scripts:quern.js:45: + atum:quern: [] -> []
-[18:11:51] [INFO ] server_scripts:quern.js:57: + atum:quern: [] -> []
-[18:11:51] [INFO ] server_scripts:quern.js:71: + atum:quern: [] -> []
-[18:11:51] [INFO ] server_scripts:quern.js:85: + atum:quern: [] -> []
-[18:11:51] [INFO ] server_scripts:script.js:9: + minecraft:stonecutting: ['immersiveengineering:ingot_steel'] -> ['electrodynamics:ingotsteel']
-[18:11:51] [INFO ] server_scripts:script.js:19: + minecraft:stonecutting: ['electrodynamics:resourceblocksteel'] -> ['immersiveengineering:storage_steel']
-[18:11:51] [INFO ] server_scripts:script.js:29: + minecraft:stonecutting: ['immersiveengineering:storage_steel'] -> ['electrodynamics:resourceblocksteel']
-[18:11:51] [INFO ] server_scripts:script.js:41: - minecraft:shears[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> [Item.of('minecraft:shears', '{Damage:0}')]
-[18:11:51] [INFO ] server_scripts:script.js:42: + kubejs:shaped: ['minecraft:iron_ingot'] -> [Item.of('ceramicshears:ceramic_shears', '{Damage:0}')]
-[18:11:51] [INFO ] server_scripts:script.js:51: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:script.js:65: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:script.js:90: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:script.js:111: - atum:scarab_from_crunchy_scarab[minecraft:crafting_shaped]: ['atum:crunchy_scarab', '#forge:ingots/gold'] -> ['atum:scarab']
-[18:11:51] [INFO ] server_scripts:script.js:111: - atum:scarab_from_crunchy_golden_scarab[minecraft:crafting_shaped]: ['atum:crunchy_golden_scarab'] -> ['atum:scarab']
-[18:11:51] [INFO ] server_scripts:script.js:111: - atum:scarab[minecraft:crafting_shaped]: ['#forge:gems/diamond', '#forge:ingots/gold'] -> ['atum:scarab']
-[18:11:51] [INFO ] server_scripts:script.js:114: - mctb:workbench_revert[minecraft:crafting_shapeless]: ['#mctb:revertable_workbench'] -> ['minecraft:crafting_table']
-[18:11:51] [INFO ] server_scripts:script.js:114: - minecraft:crafting_table[minecraft:crafting_shaped]: ['minecraft:oak_planks'] -> ['minecraft:crafting_table']
-[18:11:51] [INFO ] server_scripts:script.js:115: + create:item_application: [] -> []
-[18:11:51] [INFO ] server_scripts:script.js:135: - minecraft:campfire[minecraft:crafting_shaped]: ['#minecraft:logs', 'minecraft:stick', '#minecraft:coals'] -> ['minecraft:campfire']
-[18:11:51] [INFO ] server_scripts:script.js:136: + create:item_application: [] -> []
-[18:11:51] [INFO ] server_scripts:script.js:156: - tconstruct:smeltery/seared/seared_brick[minecraft:smelting]: ['tconstruct:grout'] -> ['tconstruct:seared_brick']
-[18:11:51] [INFO ] server_scripts:script.js:157: - tconstruct:smeltery/seared/seared_brick_kiln[ceramics:kiln]: ['tconstruct:grout'] -> ['tconstruct:seared_brick']
-[18:11:51] [INFO ] server_scripts:script.js:158: + create:milling: [] -> []
-[18:11:51] [INFO ] server_scripts:script.js:174: + ceramics:kiln: [] -> []
-[18:11:51] [INFO ] server_scripts:script.js:185: + minecraft:smelting: ['the_ages_of_times:grout_dust'] -> ['tconstruct:seared_brick']
-[18:11:51] [INFO ] server_scripts:script.js:188: - ceramics:porcelain_brick_smelting[minecraft:smelting]: ['ceramics:unfired_porcelain'] -> ['ceramics:porcelain_brick']
-[18:11:51] [INFO ] server_scripts:script.js:189: - ceramics:porcelain_brick_kiln[ceramics:kiln]: ['ceramics:unfired_porcelain'] -> ['ceramics:porcelain_brick']
-[18:11:51] [INFO ] server_scripts:script.js:190: + kubejs:shapeless: ['minecraft:flint', 'minecraft:clay_ball', 'minecraft:bone_meal'] -> ['ceramics:unfired_porcelain']
-[18:11:51] [INFO ] server_scripts:script.js:191: + create:milling: [] -> []
-[18:11:51] [INFO ] server_scripts:script.js:207: + ceramics:kiln: [] -> []
-[18:11:51] [INFO ] server_scripts:script.js:218: + minecraft:smelting: ['the_ages_of_times:porcelain_dust'] -> ['ceramics:porcelain_brick']
-[18:11:51] [INFO ] server_scripts:script.js:221: - ceramics:empty_clay_bucket_smelting[minecraft:smelting]: ['ceramics:unfired_clay_bucket'] -> ['ceramics:empty_clay_bucket']
-[18:11:51] [INFO ] server_scripts:script.js:222: - ceramics:empty_clay_bucket_kiln[ceramics:kiln]: ['ceramics:unfired_clay_bucket'] -> ['ceramics:empty_clay_bucket']
-[18:11:51] [INFO ] server_scripts:tree.js:3: - minecraft:oak_planks[minecraft:crafting_shapeless]: ['#minecraft:oak_logs'] -> ['4x minecraft:oak_planks']
-[18:11:51] [INFO ] server_scripts:tree.js:4: - minecraft:spruce_planks[minecraft:crafting_shapeless]: ['#minecraft:spruce_logs'] -> ['4x minecraft:spruce_planks']
-[18:11:51] [INFO ] server_scripts:tree.js:5: - minecraft:birch_planks[minecraft:crafting_shapeless]: ['#minecraft:birch_logs'] -> ['4x minecraft:birch_planks']
-[18:11:51] [INFO ] server_scripts:tree.js:6: - minecraft:jungle_planks[minecraft:crafting_shapeless]: ['#minecraft:jungle_logs'] -> ['4x minecraft:jungle_planks']
-[18:11:51] [INFO ] server_scripts:tree.js:7: - minecraft:acacia_planks[minecraft:crafting_shapeless]: ['#minecraft:acacia_logs'] -> ['4x minecraft:acacia_planks']
-[18:11:51] [INFO ] server_scripts:tree.js:8: - minecraft:dark_oak_planks[minecraft:crafting_shapeless]: ['#minecraft:dark_oak_logs'] -> ['4x minecraft:dark_oak_planks']
-[18:11:51] [INFO ] server_scripts:tree.js:9: - notreepunching:acacia_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:10: - notreepunching:acacia_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:11: - notreepunching:birch_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:12: - notreepunching:birch_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:13: - notreepunching:dark_oak_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:14: - notreepunching:dark_oak_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:15: - notreepunching:jungle_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:16: - notreepunching:jungle_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:17: - notreepunching:oak_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:18: - notreepunching:oak_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:19: - notreepunching:spruce_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:20: - notreepunching:spruce_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:24: + lychee:block_interacting: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:49: + farmersdelight:cutting: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:70: + farmersdelight:cutting: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:91: + farmersdelight:cutting: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:112: + farmersdelight:cutting: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:133: + farmersdelight:cutting: [] -> []
-[18:11:51] [INFO ] server_scripts:tree.js:154: + farmersdelight:cutting: [] -> []
-[18:11:51] [INFO ] server_scripts:unification.js:3: - tconstruct:common/materials/copper_ingot_from_nuggets[minecraft:crafting_shaped]: ['#forge:nuggets/copper', 'tconstruct:copper_nugget'] -> ['minecraft:copper_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:4: - tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x tconstruct:copper_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:5: - create:crafting/materials/copper_nugget[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x create:copper_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:6: - createaddition:crafting/electrum_ingot[minecraft:crafting_shaped]: ['#forge:nuggets/electrum'] -> ['createaddition:electrum_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:7: - createaddition:crafting/electrum_nugget[minecraft:crafting_shapeless]: ['createaddition:electrum_ingot'] -> ['9x createaddition:electrum_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:8: - beyond_earth:steel_block[minecraft:crafting_shaped]: ['beyond_earth:steel_ingot', '#forge:ingots/steel'] -> ['beyond_earth:steel_block']
-[18:11:51] [INFO ] server_scripts:unification.js:9: - beyond_earth:steel_ingot[minecraft:crafting_shaped]: ['beyond_earth:steel_block'] -> ['9x beyond_earth:steel_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:10: - beyond_earth:steel_ingot_from_nugget[minecraft:crafting_shaped]: ['beyond_earth:steel_nugget', '#forge:nuggets/steel'] -> ['beyond_earth:steel_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:11: - beyond_earth:steel_nugget_from_ingot[minecraft:crafting_shapeless]: ['beyond_earth:steel_ingot'] -> ['9x beyond_earth:steel_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:12: - beyond_earth:steel_ingot_blasting[minecraft:blasting]: ['minecraft:iron_ingot'] -> ['beyond_earth:steel_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:13: - car:iron_stick[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['car:iron_stick']
-[18:11:51] [INFO ] server_scripts:unification.js:14: - immersiveengineering:crafting/nugget_copper_to_copper_ingot[minecraft:crafting_shaped]: ['#forge:nuggets/copper', 'immersiveengineering:nugget_copper'] -> ['minecraft:copper_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:15: - immersiveengineering:crafting/copper_ingot_to_nugget_copper[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x immersiveengineering:nugget_copper']
-[18:11:51] [INFO ] server_scripts:unification.js:16: - immersiveengineering:crafting/ingot_lead_to_storage_lead[minecraft:crafting_shaped]: ['#forge:ingots/lead', 'immersiveengineering:ingot_lead'] -> ['immersiveengineering:storage_lead']
-[18:11:51] [INFO ] server_scripts:unification.js:17: - immersiveengineering:crafting/storage_lead_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_lead'] -> ['immersiveengineering:storage_lead']
-[18:11:51] [INFO ] server_scripts:unification.js:18: - immersiveengineering:crafting/storage_lead_to_ingot_lead[minecraft:crafting_shapeless]: ['immersiveengineering:storage_lead'] -> ['9x immersiveengineering:ingot_lead']
-[18:11:51] [INFO ] server_scripts:unification.js:19: - immersiveengineering:crafting/storage_lead_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_lead'] -> ['6x immersiveengineering:slab_storage_lead']
-[18:11:51] [INFO ] server_scripts:unification.js:20: - immersiveengineering:crafting/raw_block_lead_to_raw_lead[minecraft:crafting_shapeless]: ['immersiveengineering:raw_block_lead'] -> ['9x immersiveengineering:raw_lead']
-[18:11:51] [INFO ] server_scripts:unification.js:21: - immersiveengineering:crafting/raw_lead_to_raw_block_lead[minecraft:crafting_shaped]: ['#forge:raw_materials/lead', 'immersiveengineering:raw_lead'] -> ['immersiveengineering:raw_block_lead']
-[18:11:51] [INFO ] server_scripts:unification.js:22: - immersiveengineering:crafting/nugget_silver_to_ingot_silver[minecraft:crafting_shaped]: ['#forge:nuggets/silver', 'immersiveengineering:nugget_silver'] -> ['immersiveengineering:ingot_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:23: - immersiveengineering:crafting/ingot_silver_to_nugget_silver[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_silver'] -> ['9x immersiveengineering:nugget_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:24: - immersiveengineering:crafting/ingot_silver_to_storage_silver[minecraft:crafting_shaped]: ['#forge:ingots/silver', 'immersiveengineering:ingot_silver'] -> ['immersiveengineering:storage_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:25: - immersiveengineering:crafting/storage_silver_to_ingot_silver[minecraft:crafting_shapeless]: ['immersiveengineering:storage_silver'] -> ['9x immersiveengineering:ingot_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:26: - immersiveengineering:crafting/storage_silver_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_silver'] -> ['6x immersiveengineering:slab_storage_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:27: - immersiveengineering:crafting/storage_silver_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_silver'] -> ['immersiveengineering:storage_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:28: - immersiveengineering:crafting/raw_block_silver_to_raw_silver[minecraft:crafting_shapeless]: ['immersiveengineering:raw_block_silver'] -> ['9x immersiveengineering:raw_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:29: - immersiveengineering:crafting/raw_silver_to_raw_block_silver[minecraft:crafting_shaped]: ['#forge:raw_materials/silver', 'immersiveengineering:raw_silver'] -> ['immersiveengineering:raw_block_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:30: - immersiveengineering:crafting/ingot_aluminum_to_storage_aluminum[minecraft:crafting_shaped]: ['#forge:ingots/aluminum', 'immersiveengineering:ingot_aluminum'] -> ['immersiveengineering:storage_aluminum']
-[18:11:51] [INFO ] server_scripts:unification.js:31: - immersiveengineering:crafting/storage_aluminum_to_ingot_aluminum[minecraft:crafting_shapeless]: ['immersiveengineering:storage_aluminum'] -> ['9x immersiveengineering:ingot_aluminum']
-[18:11:51] [INFO ] server_scripts:unification.js:32: - immersiveengineering:crafting/storage_aluminum_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_aluminum'] -> ['immersiveengineering:storage_aluminum']
-[18:11:51] [INFO ] server_scripts:unification.js:33: - immersiveengineering:crafting/storage_aluminum_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_aluminum'] -> ['6x immersiveengineering:slab_storage_aluminum']
-[18:11:51] [INFO ] server_scripts:unification.js:34: - immersiveengineering:crafting/ingot_steel_to_nugget_steel[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_steel'] -> ['9x immersiveengineering:nugget_steel']
-[18:11:51] [INFO ] server_scripts:unification.js:35: - immersiveengineering:crafting/ingot_steel_to_storage_steel[minecraft:crafting_shaped]: ['#forge:ingots/steel', 'immersiveengineering:ingot_steel'] -> ['immersiveengineering:storage_steel']
-[18:11:51] [INFO ] server_scripts:unification.js:36: - immersiveengineering:crafting/storage_steel_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_steel'] -> ['immersiveengineering:storage_steel']
-[18:11:51] [INFO ] server_scripts:unification.js:37: - immersiveengineering:crafting/storage_steel_to_ingot_steel[minecraft:crafting_shapeless]: ['immersiveengineering:storage_steel'] -> ['9x immersiveengineering:ingot_steel']
-[18:11:51] [INFO ] server_scripts:unification.js:38: - immersiveengineering:crafting/nugget_steel_to_ingot_steel[minecraft:crafting_shaped]: ['#forge:nuggets/steel', 'immersiveengineering:nugget_steel'] -> ['immersiveengineering:ingot_steel']
-[18:11:51] [INFO ] server_scripts:unification.js:39: - immersiveengineering:crafting/stick_iron[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['4x immersiveengineering:stick_iron']
-[18:11:51] [INFO ] server_scripts:unification.js:40: - immersiveengineering:smelting/ingot_lead_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_lead'] -> ['immersiveengineering:ingot_lead']
-[18:11:51] [INFO ] server_scripts:unification.js:41: - immersiveengineering:smelting/ingot_lead_from_dust[minecraft:smelting]: ['immersiveengineering:dust_lead'] -> ['immersiveengineering:ingot_lead']
-[18:11:51] [INFO ] server_scripts:unification.js:42: - immersiveengineering:smelting/copper_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_copper'] -> ['minecraft:copper_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:43: - immersiveengineering:smelting/copper_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_copper'] -> ['minecraft:copper_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:44: - immersiveengineering:smelting/ingot_lead_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_lead'] -> ['immersiveengineering:ingot_lead']
-[18:11:51] [INFO ] server_scripts:unification.js:45: - immersiveengineering:smelting/ingot_lead3[minecraft:smelting]: ['immersiveengineering:raw_lead'] -> ['immersiveengineering:ingot_lead']
-[18:11:51] [INFO ] server_scripts:unification.js:46: - immersiveengineering:smelting/ingot_silver_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_silver'] -> ['immersiveengineering:ingot_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:47: - immersiveengineering:smelting/ingot_silver_from_dust[minecraft:smelting]: ['immersiveengineering:dust_silver'] -> ['immersiveengineering:ingot_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:48: - immersiveengineering:smelting/ingot_silver_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_silver'] -> ['immersiveengineering:ingot_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:49: - immersiveengineering:smelting/ingot_silver3[minecraft:smelting]: ['immersiveengineering:raw_silver'] -> ['immersiveengineering:ingot_silver']
-[18:11:51] [INFO ] server_scripts:unification.js:50: - immersiveengineering:smelting/ingot_aluminum[minecraft:smelting]: ['immersiveengineering:ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[18:11:51] [INFO ] server_scripts:unification.js:51: - immersiveengineering:smelting/ingot_aluminum2[minecraft:smelting]: ['immersiveengineering:deepslate_ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[18:11:51] [INFO ] server_scripts:unification.js:52: - immersiveengineering:smelting/ingot_aluminum3[minecraft:smelting]: ['immersiveengineering:raw_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[18:11:51] [INFO ] server_scripts:unification.js:53: - immersiveengineering:smelting/ingot_aluminum_from_blasting[minecraft:blasting]: ['immersiveengineering:ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[18:11:51] [INFO ] server_scripts:unification.js:54: - immersiveengineering:smelting/ingot_aluminum_from_blasting2[minecraft:blasting]: ['immersiveengineering:deepslate_ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[18:11:51] [INFO ] server_scripts:unification.js:55: - immersiveengineering:smelting/ingot_aluminum_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[18:11:51] [INFO ] server_scripts:unification.js:56: - immersiveengineering:smelting/gold_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_gold'] -> ['minecraft:gold_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:57: - immersiveengineering:smelting/gold_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_gold'] -> ['minecraft:gold_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:58: - immersiveengineering:smelting/iron_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_iron'] -> ['minecraft:iron_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:59: - immersiveengineering:smelting/iron_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_iron'] -> ['minecraft:iron_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:60: - immersiveengineering:smelting/ingot_steel_from_dust[minecraft:smelting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
-[18:11:51] [INFO ] server_scripts:unification.js:61: - immersiveengineering:smelting/ingot_steel_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
-[18:11:51] [INFO ] server_scripts:unification.js:62: - alchemistry:copper_ingot_from_blasting_copper_dust[minecraft:blasting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:63: - alchemistry:copper_ingot_from_smelting_copper_dust[minecraft:smelting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:64: - alchemistry:iron_ingot_from_smelting_iron_dust[minecraft:smelting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:65: - alchemistry:iron_ingot_from_blasting_iron_dust[minecraft:blasting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:66: - alchemistry:gold_ingot_from_smelting_gold_dust[minecraft:smelting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:67: - alchemistry:gold_ingot_from_blasting_gold_dust[minecraft:blasting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:68: - chemlib:tin_ingot_from_blasting_tin_dust[minecraft:blasting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:69: - chemlib:tin_ingot_from_smelting_tin_dust[minecraft:smelting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:70: - chemlib:lead_ingot_from_blasting_lead_dust[minecraft:blasting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:71: - chemlib:lead_ingot_from_smelting_lead_dust[minecraft:smelting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:72: - chemlib:silver_ingot_from_smelting_silver_dust[minecraft:smelting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:73: - chemlib:silver_ingot_from_blasting_silver_dust[minecraft:blasting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:74: - chemlib:aluminum_ingot_from_smelting_aluminum_dust[minecraft:smelting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:75: - chemlib:aluminum_ingot_from_blasting_aluminum_dust[minecraft:blasting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:76: - chemlib:nickel_ingot_from_smelting_nickel_dust[minecraft:smelting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:77: - chemlib:nickel_ingot_from_blasting_nickel_dust[minecraft:blasting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:78: - chemlib:molybdenum_ingot_from_smelting_molybdenum_dust[minecraft:smelting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:79: - chemlib:molybdenum_ingot_from_blasting_molybdenum_dust[minecraft:blasting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:80: - chemlib:lithium_ingot_from_smelting_lithium_dust[minecraft:smelting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:81: - chemlib:lithium_ingot_from_blasting_lithium_dust[minecraft:blasting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:82: - chemlib:vanadium_ingot_from_smelting_vanadium_dust[minecraft:smelting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:83: - chemlib:vanadium_ingot_from_blasting_vanadium_dust[minecraft:blasting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:84: - chemlib:tin_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:tin_ingot'] -> ['9x chemlib:tin_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:85: - chemlib:tin_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:tin_nugget'] -> ['chemlib:tin_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:86: - chemlib:tin_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:tin_metal_block'] -> ['9x chemlib:tin_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:87: - chemlib:tin_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:tin_ingot'] -> ['chemlib:tin_metal_block']
-[18:11:51] [INFO ] server_scripts:unification.js:88: - chemlib:lead_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:lead_ingot'] -> ['chemlib:lead_metal_block']
-[18:11:51] [INFO ] server_scripts:unification.js:89: - chemlib:lead_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:lead_metal_block'] -> ['9x chemlib:lead_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:90: - chemlib:lead_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:lead_ingot'] -> ['9x chemlib:lead_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:91: - chemlib:lead_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:lead_nugget'] -> ['chemlib:lead_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:92: - chemlib:silver_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:silver_ingot'] -> ['chemlib:silver_metal_block']
-[18:11:51] [INFO ] server_scripts:unification.js:93: - chemlib:silver_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:silver_metal_block'] -> ['9x chemlib:silver_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:94: - chemlib:silver_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:silver_nugget'] -> ['chemlib:silver_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:95: - chemlib:silver_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:silver_ingot'] -> ['9x chemlib:silver_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:96: - chemlib:aluminum_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:aluminum_ingot'] -> ['9x chemlib:aluminum_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:97: - chemlib:aluminum_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:aluminum_nugget'] -> ['chemlib:aluminum_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:98: - chemlib:aluminum_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:aluminum_ingot'] -> ['chemlib:aluminum_metal_block']
-[18:11:51] [INFO ] server_scripts:unification.js:99: - chemlib:aluminum_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:aluminum_metal_block'] -> ['9x chemlib:aluminum_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:100: - chemlib:nickel_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:nickel_ingot'] -> ['9x chemlib:nickel_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:101: - chemlib:nickel_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:nickel_nugget'] -> ['chemlib:nickel_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:102: - chemlib:nickel_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:nickel_ingot'] -> ['chemlib:nickel_metal_block']
-[18:11:51] [INFO ] server_scripts:unification.js:103: - chemlib:nickel_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:nickel_metal_block'] -> ['9x chemlib:nickel_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:104: - chemlib:zinc_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:zinc_nugget'] -> ['chemlib:zinc_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:105: - chemlib:zinc_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:zinc_ingot'] -> ['9x chemlib:zinc_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:106: - chemlib:zinc_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:zinc_ingot'] -> ['chemlib:zinc_metal_block']
-[18:11:51] [INFO ] server_scripts:unification.js:107: - chemlib:zinc_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:zinc_metal_block'] -> ['9x chemlib:zinc_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:108: - chemlib:cobalt_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:cobalt_ingot'] -> ['9x chemlib:cobalt_nugget']
-[18:11:51] [INFO ] server_scripts:unification.js:109: - chemlib:cobalt_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:cobalt_nugget'] -> ['chemlib:cobalt_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:110: - chemlib:cobalt_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:cobalt_ingot'] -> ['chemlib:cobalt_metal_block']
-[18:11:51] [INFO ] server_scripts:unification.js:111: - chemlib:cobalt_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:cobalt_metal_block'] -> ['9x chemlib:cobalt_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:112: - chemlib:titanium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:titanium_ingot'] -> ['chemlib:titanium_metal_block']
-[18:11:51] [INFO ] server_scripts:unification.js:113: - chemlib:titanium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:titanium_metal_block'] -> ['9x chemlib:titanium_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:114: - chemlib:chromium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:chromium_ingot'] -> ['chemlib:chromium_metal_block']
-[18:11:51] [INFO ] server_scripts:unification.js:115: - chemlib:chromium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:chromium_metal_block'] -> ['9x chemlib:chromium_ingot']
-[18:11:51] [INFO ] server_scripts:unification.js:116: - butchersdelight:re_saltcipe[minecraft:smoking]: ['minecraft:water_bucket'] -> ['butchersdelight:item_salt']
-[18:11:51] [INFO ] Posted recipe events in 184.4 ms
-[18:11:51] [INFO ] Modified & removed recipes in 215.1 ms
-[18:11:51] [WARN ] Error creating recipe lychee:kjs_1qoi1kd669tqxtnhk6vfoss5m[lychee:block_interacting]: {"type":"lychee:block_interacting","item_in":{"item":"lychee:always_true"},"block_in":"crafting_table","post":{"type":"prevent_default"}}: com.google.gson.JsonSyntaxException: Unknown item 'lychee:always_true'
-[18:11:51] [INFO ] Added recipes in 13.97 ms
-[18:11:51] [INFO ] Added 47 recipes, removed 145 recipes, modified 0 recipes, with 1 failed recipes and 0 fall-backed recipes
-[18:11:55] [INFO ] Collecting Custom Machine upgrades from JS scripts.
+[21:06:03] [INFO ] Loaded script server_scripts:crafting_rock.js in 0.001 s
+[21:06:03] [INFO ] Loaded script server_scripts:horse.js in 0.0 s
+[21:06:03] [INFO ] Loaded script server_scripts:leather.js in 0.003 s
+[21:06:03] [INFO ] Loaded script server_scripts:quern.js in 0.001 s
+[21:06:03] [INFO ] Loaded script server_scripts:script.js in 0.003 s
+[21:06:03] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[21:06:03] [INFO ] Loaded script server_scripts:settings.js in 0.001 s
+[21:06:03] [INFO ] Loaded script server_scripts:tree.js in 0.002 s
+[21:06:03] [INFO ] Loaded script server_scripts:unification.js in 0.009 s
+[21:06:03] [INFO ] Loaded 8/8 KubeJS server scripts in 0.029 s
+[21:06:03] [INFO ] Scripts loaded
+[21:06:03] [INFO ] Scanning recipes...
+[21:06:08] [INFO ] [items] Found 1459 tags, added 3 objects, removed 101 objects
+[21:06:17] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/filling_cracked_clay_bucket[tconstruct:table_filling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:cracked_clay_bucket'
+[21:06:17] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/filling_cracked_clay_bucket[tconstruct:table_filling]: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:cracked_clay_bucket'
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:cherry_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:cherry_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:blossom_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:blossom_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:blossom_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:blossom_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:redwood_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:redwood_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/clay/bricks_3[tconstruct:melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ceramics:clay_bucket'
+[21:06:17] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/clay/bricks_3[tconstruct:melting]: com.google.gson.JsonSyntaxException: Unknown item 'ceramics:clay_bucket'
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:magic_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:magic_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:willow_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:willow_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:azalea_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:azalea_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:azalea_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:azalea_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:mahogany_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:mahogany_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/raw[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/raw[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:palm_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:palm_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:jacaranda_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:jacaranda_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:umbran_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:umbran_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/porcelain/golden_bricks_slab[tconstruct:melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid minecraft:empty
+[21:06:17] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/porcelain/golden_bricks_slab[tconstruct:melting]: com.google.gson.JsonSyntaxException: Unknown fluid minecraft:empty
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:hellbark_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:hellbark_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/filling_clay_bucket[tconstruct:table_filling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:clay_bucket'
+[21:06:17] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/filling_clay_bucket[tconstruct:table_filling]: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:clay_bucket'
+[21:06:17] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:fir_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:fir_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'mctb:dead_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[21:06:17] [WARN ] Failed to parse recipe mctb:dead_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[21:06:17] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/raw_block[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/raw_block[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/ore[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/ore[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Missing rate, expected to find a string
+[21:06:17] [INFO ] Found 14796 recipes and 0 failed recipes in 607.1 ms
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:horse_power, time=1000, requirements=[custommachinery:entity, custommachinery:contraption, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] + lychee:item_inside: [] -> []
+[21:06:17] [INFO ] + lychee:item_inside: [] -> []
+[21:06:17] [INFO ] + lychee:item_inside: [] -> []
+[21:06:17] [INFO ] + lychee:item_inside: [] -> []
+[21:06:17] [INFO ] + lychee:item_inside: [] -> []
+[21:06:17] [INFO ] + lychee:item_inside: [] -> []
+[21:06:17] [INFO ] + lychee:item_inside: [] -> []
+[21:06:17] [INFO ] + lychee:item_inside: [] -> []
+[21:06:17] [INFO ] + lychee:item_inside: [] -> []
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] + farmersdelight:cutting: [] -> []
+[21:06:17] [INFO ] + atum:quern: [] -> []
+[21:06:17] [INFO ] + atum:quern: [] -> []
+[21:06:17] [INFO ] + atum:quern: [] -> []
+[21:06:17] [INFO ] + atum:quern: [] -> []
+[21:06:17] [INFO ] + atum:quern: [] -> []
+[21:06:17] [INFO ] + atum:quern: [] -> []
+[21:06:17] [INFO ] + atum:quern: [] -> []
+[21:06:17] [INFO ] + minecraft:stonecutting: ['immersiveengineering:ingot_steel'] -> ['electrodynamics:ingotsteel']
+[21:06:17] [INFO ] + minecraft:stonecutting: ['electrodynamics:resourceblocksteel'] -> ['immersiveengineering:storage_steel']
+[21:06:17] [INFO ] + minecraft:stonecutting: ['immersiveengineering:storage_steel'] -> ['electrodynamics:resourceblocksteel']
+[21:06:17] [INFO ] - minecraft:shears[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> [Item.of('minecraft:shears', '{Damage:0}')]
+[21:06:17] [INFO ] + kubejs:shaped: ['minecraft:iron_ingot'] -> [Item.of('ceramicshears:ceramic_shears', '{Damage:0}')]
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] - atum:scarab_from_crunchy_scarab[minecraft:crafting_shaped]: ['atum:crunchy_scarab', '#forge:ingots/gold'] -> ['atum:scarab']
+[21:06:17] [INFO ] - atum:scarab_from_crunchy_golden_scarab[minecraft:crafting_shaped]: ['atum:crunchy_golden_scarab'] -> ['atum:scarab']
+[21:06:17] [INFO ] - atum:scarab[minecraft:crafting_shaped]: ['#forge:gems/diamond', '#forge:ingots/gold'] -> ['atum:scarab']
+[21:06:17] [INFO ] - mctb:workbench_revert[minecraft:crafting_shapeless]: ['#mctb:revertable_workbench'] -> ['minecraft:crafting_table']
+[21:06:17] [INFO ] - minecraft:crafting_table[minecraft:crafting_shaped]: ['minecraft:oak_planks'] -> ['minecraft:crafting_table']
+[21:06:17] [INFO ] + create:item_application: [] -> []
+[21:06:17] [INFO ] - minecraft:campfire[minecraft:crafting_shaped]: ['#minecraft:logs', 'minecraft:stick', '#minecraft:coals'] -> ['minecraft:campfire']
+[21:06:17] [INFO ] + create:item_application: [] -> []
+[21:06:17] [INFO ] - tconstruct:smeltery/seared/seared_brick[minecraft:smelting]: ['tconstruct:grout'] -> ['tconstruct:seared_brick']
+[21:06:17] [INFO ] - tconstruct:smeltery/seared/seared_brick_kiln[ceramics:kiln]: ['tconstruct:grout'] -> ['tconstruct:seared_brick']
+[21:06:17] [INFO ] + create:milling: [] -> []
+[21:06:17] [INFO ] + ceramics:kiln: [] -> []
+[21:06:17] [INFO ] + minecraft:smelting: ['the_ages_of_times:grout_dust'] -> ['tconstruct:seared_brick']
+[21:06:17] [INFO ] - ceramics:porcelain_brick_smelting[minecraft:smelting]: ['ceramics:unfired_porcelain'] -> ['ceramics:porcelain_brick']
+[21:06:17] [INFO ] - ceramics:porcelain_brick_kiln[ceramics:kiln]: ['ceramics:unfired_porcelain'] -> ['ceramics:porcelain_brick']
+[21:06:17] [INFO ] + kubejs:shapeless: ['minecraft:flint', 'minecraft:clay_ball', 'minecraft:bone_meal'] -> ['ceramics:unfired_porcelain']
+[21:06:17] [INFO ] + create:milling: [] -> []
+[21:06:17] [INFO ] + ceramics:kiln: [] -> []
+[21:06:17] [INFO ] + minecraft:smelting: ['the_ages_of_times:porcelain_dust'] -> ['ceramics:porcelain_brick']
+[21:06:17] [INFO ] - ceramics:empty_clay_bucket_smelting[minecraft:smelting]: ['ceramics:unfired_clay_bucket'] -> ['ceramics:empty_clay_bucket']
+[21:06:17] [INFO ] - ceramics:empty_clay_bucket_kiln[ceramics:kiln]: ['ceramics:unfired_clay_bucket'] -> ['ceramics:empty_clay_bucket']
+[21:06:17] [INFO ] - minecraft:oak_planks[minecraft:crafting_shapeless]: ['#minecraft:oak_logs'] -> ['4x minecraft:oak_planks']
+[21:06:17] [INFO ] - minecraft:spruce_planks[minecraft:crafting_shapeless]: ['#minecraft:spruce_logs'] -> ['4x minecraft:spruce_planks']
+[21:06:17] [INFO ] - minecraft:birch_planks[minecraft:crafting_shapeless]: ['#minecraft:birch_logs'] -> ['4x minecraft:birch_planks']
+[21:06:17] [INFO ] - minecraft:jungle_planks[minecraft:crafting_shapeless]: ['#minecraft:jungle_logs'] -> ['4x minecraft:jungle_planks']
+[21:06:17] [INFO ] - minecraft:acacia_planks[minecraft:crafting_shapeless]: ['#minecraft:acacia_logs'] -> ['4x minecraft:acacia_planks']
+[21:06:17] [INFO ] - minecraft:dark_oak_planks[minecraft:crafting_shapeless]: ['#minecraft:dark_oak_logs'] -> ['4x minecraft:dark_oak_planks']
+[21:06:17] [INFO ] - notreepunching:acacia_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:acacia_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:birch_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:birch_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:dark_oak_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:dark_oak_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:jungle_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:jungle_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:oak_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:oak_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:spruce_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] - notreepunching:spruce_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[21:06:17] [INFO ] + lychee:block_interacting: [] -> []
+[21:06:17] [INFO ] + farmersdelight:cutting: [] -> []
+[21:06:17] [INFO ] + farmersdelight:cutting: [] -> []
+[21:06:17] [INFO ] + farmersdelight:cutting: [] -> []
+[21:06:17] [INFO ] + farmersdelight:cutting: [] -> []
+[21:06:17] [INFO ] + farmersdelight:cutting: [] -> []
+[21:06:17] [INFO ] + farmersdelight:cutting: [] -> []
+[21:06:17] [INFO ] - tconstruct:common/materials/copper_ingot_from_nuggets[minecraft:crafting_shaped]: ['#forge:nuggets/copper', 'tconstruct:copper_nugget'] -> ['minecraft:copper_ingot']
+[21:06:17] [INFO ] - tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x tconstruct:copper_nugget']
+[21:06:17] [INFO ] - create:crafting/materials/copper_nugget[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x create:copper_nugget']
+[21:06:17] [INFO ] - createaddition:crafting/electrum_ingot[minecraft:crafting_shaped]: ['#forge:nuggets/electrum'] -> ['createaddition:electrum_ingot']
+[21:06:17] [INFO ] - createaddition:crafting/electrum_nugget[minecraft:crafting_shapeless]: ['createaddition:electrum_ingot'] -> ['9x createaddition:electrum_nugget']
+[21:06:17] [INFO ] - beyond_earth:steel_block[minecraft:crafting_shaped]: ['beyond_earth:steel_ingot', '#forge:ingots/steel'] -> ['beyond_earth:steel_block']
+[21:06:17] [INFO ] - beyond_earth:steel_ingot[minecraft:crafting_shaped]: ['beyond_earth:steel_block'] -> ['9x beyond_earth:steel_ingot']
+[21:06:17] [INFO ] - beyond_earth:steel_ingot_from_nugget[minecraft:crafting_shaped]: ['beyond_earth:steel_nugget', '#forge:nuggets/steel'] -> ['beyond_earth:steel_ingot']
+[21:06:17] [INFO ] - beyond_earth:steel_nugget_from_ingot[minecraft:crafting_shapeless]: ['beyond_earth:steel_ingot'] -> ['9x beyond_earth:steel_nugget']
+[21:06:17] [INFO ] - beyond_earth:steel_ingot_blasting[minecraft:blasting]: ['minecraft:iron_ingot'] -> ['beyond_earth:steel_ingot']
+[21:06:17] [INFO ] - car:iron_stick[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['car:iron_stick']
+[21:06:17] [INFO ] - immersiveengineering:crafting/nugget_copper_to_copper_ingot[minecraft:crafting_shaped]: ['#forge:nuggets/copper', 'immersiveengineering:nugget_copper'] -> ['minecraft:copper_ingot']
+[21:06:17] [INFO ] - immersiveengineering:crafting/copper_ingot_to_nugget_copper[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x immersiveengineering:nugget_copper']
+[21:06:17] [INFO ] - immersiveengineering:crafting/ingot_lead_to_storage_lead[minecraft:crafting_shaped]: ['#forge:ingots/lead', 'immersiveengineering:ingot_lead'] -> ['immersiveengineering:storage_lead']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_lead_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_lead'] -> ['immersiveengineering:storage_lead']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_lead_to_ingot_lead[minecraft:crafting_shapeless]: ['immersiveengineering:storage_lead'] -> ['9x immersiveengineering:ingot_lead']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_lead_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_lead'] -> ['6x immersiveengineering:slab_storage_lead']
+[21:06:17] [INFO ] - immersiveengineering:crafting/raw_block_lead_to_raw_lead[minecraft:crafting_shapeless]: ['immersiveengineering:raw_block_lead'] -> ['9x immersiveengineering:raw_lead']
+[21:06:17] [INFO ] - immersiveengineering:crafting/raw_lead_to_raw_block_lead[minecraft:crafting_shaped]: ['#forge:raw_materials/lead', 'immersiveengineering:raw_lead'] -> ['immersiveengineering:raw_block_lead']
+[21:06:17] [INFO ] - immersiveengineering:crafting/nugget_silver_to_ingot_silver[minecraft:crafting_shaped]: ['#forge:nuggets/silver', 'immersiveengineering:nugget_silver'] -> ['immersiveengineering:ingot_silver']
+[21:06:17] [INFO ] - immersiveengineering:crafting/ingot_silver_to_nugget_silver[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_silver'] -> ['9x immersiveengineering:nugget_silver']
+[21:06:17] [INFO ] - immersiveengineering:crafting/ingot_silver_to_storage_silver[minecraft:crafting_shaped]: ['#forge:ingots/silver', 'immersiveengineering:ingot_silver'] -> ['immersiveengineering:storage_silver']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_silver_to_ingot_silver[minecraft:crafting_shapeless]: ['immersiveengineering:storage_silver'] -> ['9x immersiveengineering:ingot_silver']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_silver_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_silver'] -> ['6x immersiveengineering:slab_storage_silver']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_silver_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_silver'] -> ['immersiveengineering:storage_silver']
+[21:06:17] [INFO ] - immersiveengineering:crafting/raw_block_silver_to_raw_silver[minecraft:crafting_shapeless]: ['immersiveengineering:raw_block_silver'] -> ['9x immersiveengineering:raw_silver']
+[21:06:17] [INFO ] - immersiveengineering:crafting/raw_silver_to_raw_block_silver[minecraft:crafting_shaped]: ['#forge:raw_materials/silver', 'immersiveengineering:raw_silver'] -> ['immersiveengineering:raw_block_silver']
+[21:06:17] [INFO ] - immersiveengineering:crafting/ingot_aluminum_to_storage_aluminum[minecraft:crafting_shaped]: ['#forge:ingots/aluminum', 'immersiveengineering:ingot_aluminum'] -> ['immersiveengineering:storage_aluminum']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_aluminum_to_ingot_aluminum[minecraft:crafting_shapeless]: ['immersiveengineering:storage_aluminum'] -> ['9x immersiveengineering:ingot_aluminum']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_aluminum_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_aluminum'] -> ['immersiveengineering:storage_aluminum']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_aluminum_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_aluminum'] -> ['6x immersiveengineering:slab_storage_aluminum']
+[21:06:17] [INFO ] - immersiveengineering:crafting/ingot_steel_to_nugget_steel[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_steel'] -> ['9x immersiveengineering:nugget_steel']
+[21:06:17] [INFO ] - immersiveengineering:crafting/ingot_steel_to_storage_steel[minecraft:crafting_shaped]: ['#forge:ingots/steel', 'immersiveengineering:ingot_steel'] -> ['immersiveengineering:storage_steel']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_steel_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_steel'] -> ['immersiveengineering:storage_steel']
+[21:06:17] [INFO ] - immersiveengineering:crafting/storage_steel_to_ingot_steel[minecraft:crafting_shapeless]: ['immersiveengineering:storage_steel'] -> ['9x immersiveengineering:ingot_steel']
+[21:06:17] [INFO ] - immersiveengineering:crafting/nugget_steel_to_ingot_steel[minecraft:crafting_shaped]: ['#forge:nuggets/steel', 'immersiveengineering:nugget_steel'] -> ['immersiveengineering:ingot_steel']
+[21:06:17] [INFO ] - immersiveengineering:crafting/stick_iron[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['4x immersiveengineering:stick_iron']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_lead_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_lead'] -> ['immersiveengineering:ingot_lead']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_lead_from_dust[minecraft:smelting]: ['immersiveengineering:dust_lead'] -> ['immersiveengineering:ingot_lead']
+[21:06:17] [INFO ] - immersiveengineering:smelting/copper_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_copper'] -> ['minecraft:copper_ingot']
+[21:06:17] [INFO ] - immersiveengineering:smelting/copper_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_copper'] -> ['minecraft:copper_ingot']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_lead_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_lead'] -> ['immersiveengineering:ingot_lead']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_lead3[minecraft:smelting]: ['immersiveengineering:raw_lead'] -> ['immersiveengineering:ingot_lead']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_silver_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_silver'] -> ['immersiveengineering:ingot_silver']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_silver_from_dust[minecraft:smelting]: ['immersiveengineering:dust_silver'] -> ['immersiveengineering:ingot_silver']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_silver_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_silver'] -> ['immersiveengineering:ingot_silver']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_silver3[minecraft:smelting]: ['immersiveengineering:raw_silver'] -> ['immersiveengineering:ingot_silver']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_aluminum[minecraft:smelting]: ['immersiveengineering:ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_aluminum2[minecraft:smelting]: ['immersiveengineering:deepslate_ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_aluminum3[minecraft:smelting]: ['immersiveengineering:raw_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_aluminum_from_blasting[minecraft:blasting]: ['immersiveengineering:ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_aluminum_from_blasting2[minecraft:blasting]: ['immersiveengineering:deepslate_ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_aluminum_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[21:06:17] [INFO ] - immersiveengineering:smelting/gold_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_gold'] -> ['minecraft:gold_ingot']
+[21:06:17] [INFO ] - immersiveengineering:smelting/gold_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_gold'] -> ['minecraft:gold_ingot']
+[21:06:17] [INFO ] - immersiveengineering:smelting/iron_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_iron'] -> ['minecraft:iron_ingot']
+[21:06:17] [INFO ] - immersiveengineering:smelting/iron_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_iron'] -> ['minecraft:iron_ingot']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_steel_from_dust[minecraft:smelting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
+[21:06:17] [INFO ] - immersiveengineering:smelting/ingot_steel_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
+[21:06:17] [INFO ] - alchemistry:copper_ingot_from_blasting_copper_dust[minecraft:blasting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
+[21:06:17] [INFO ] - alchemistry:copper_ingot_from_smelting_copper_dust[minecraft:smelting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
+[21:06:17] [INFO ] - alchemistry:iron_ingot_from_smelting_iron_dust[minecraft:smelting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
+[21:06:17] [INFO ] - alchemistry:iron_ingot_from_blasting_iron_dust[minecraft:blasting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
+[21:06:17] [INFO ] - alchemistry:gold_ingot_from_smelting_gold_dust[minecraft:smelting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
+[21:06:17] [INFO ] - alchemistry:gold_ingot_from_blasting_gold_dust[minecraft:blasting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
+[21:06:17] [INFO ] - chemlib:tin_ingot_from_blasting_tin_dust[minecraft:blasting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
+[21:06:17] [INFO ] - chemlib:tin_ingot_from_smelting_tin_dust[minecraft:smelting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
+[21:06:17] [INFO ] - chemlib:lead_ingot_from_blasting_lead_dust[minecraft:blasting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
+[21:06:17] [INFO ] - chemlib:lead_ingot_from_smelting_lead_dust[minecraft:smelting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
+[21:06:17] [INFO ] - chemlib:silver_ingot_from_smelting_silver_dust[minecraft:smelting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
+[21:06:17] [INFO ] - chemlib:silver_ingot_from_blasting_silver_dust[minecraft:blasting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
+[21:06:17] [INFO ] - chemlib:aluminum_ingot_from_smelting_aluminum_dust[minecraft:smelting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
+[21:06:17] [INFO ] - chemlib:aluminum_ingot_from_blasting_aluminum_dust[minecraft:blasting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
+[21:06:17] [INFO ] - chemlib:nickel_ingot_from_smelting_nickel_dust[minecraft:smelting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
+[21:06:17] [INFO ] - chemlib:nickel_ingot_from_blasting_nickel_dust[minecraft:blasting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
+[21:06:17] [INFO ] - chemlib:molybdenum_ingot_from_smelting_molybdenum_dust[minecraft:smelting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
+[21:06:17] [INFO ] - chemlib:molybdenum_ingot_from_blasting_molybdenum_dust[minecraft:blasting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
+[21:06:17] [INFO ] - chemlib:lithium_ingot_from_smelting_lithium_dust[minecraft:smelting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
+[21:06:17] [INFO ] - chemlib:lithium_ingot_from_blasting_lithium_dust[minecraft:blasting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
+[21:06:17] [INFO ] - chemlib:vanadium_ingot_from_smelting_vanadium_dust[minecraft:smelting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
+[21:06:17] [INFO ] - chemlib:vanadium_ingot_from_blasting_vanadium_dust[minecraft:blasting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
+[21:06:17] [INFO ] - chemlib:tin_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:tin_ingot'] -> ['9x chemlib:tin_nugget']
+[21:06:17] [INFO ] - chemlib:tin_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:tin_nugget'] -> ['chemlib:tin_ingot']
+[21:06:17] [INFO ] - chemlib:tin_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:tin_metal_block'] -> ['9x chemlib:tin_ingot']
+[21:06:17] [INFO ] - chemlib:tin_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:tin_ingot'] -> ['chemlib:tin_metal_block']
+[21:06:17] [INFO ] - chemlib:lead_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:lead_ingot'] -> ['chemlib:lead_metal_block']
+[21:06:17] [INFO ] - chemlib:lead_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:lead_metal_block'] -> ['9x chemlib:lead_ingot']
+[21:06:17] [INFO ] - chemlib:lead_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:lead_ingot'] -> ['9x chemlib:lead_nugget']
+[21:06:17] [INFO ] - chemlib:lead_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:lead_nugget'] -> ['chemlib:lead_ingot']
+[21:06:17] [INFO ] - chemlib:silver_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:silver_ingot'] -> ['chemlib:silver_metal_block']
+[21:06:17] [INFO ] - chemlib:silver_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:silver_metal_block'] -> ['9x chemlib:silver_ingot']
+[21:06:17] [INFO ] - chemlib:silver_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:silver_nugget'] -> ['chemlib:silver_ingot']
+[21:06:17] [INFO ] - chemlib:silver_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:silver_ingot'] -> ['9x chemlib:silver_nugget']
+[21:06:17] [INFO ] - chemlib:aluminum_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:aluminum_ingot'] -> ['9x chemlib:aluminum_nugget']
+[21:06:17] [INFO ] - chemlib:aluminum_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:aluminum_nugget'] -> ['chemlib:aluminum_ingot']
+[21:06:17] [INFO ] - chemlib:aluminum_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:aluminum_ingot'] -> ['chemlib:aluminum_metal_block']
+[21:06:17] [INFO ] - chemlib:aluminum_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:aluminum_metal_block'] -> ['9x chemlib:aluminum_ingot']
+[21:06:17] [INFO ] - chemlib:nickel_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:nickel_ingot'] -> ['9x chemlib:nickel_nugget']
+[21:06:17] [INFO ] - chemlib:nickel_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:nickel_nugget'] -> ['chemlib:nickel_ingot']
+[21:06:17] [INFO ] - chemlib:nickel_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:nickel_ingot'] -> ['chemlib:nickel_metal_block']
+[21:06:17] [INFO ] - chemlib:nickel_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:nickel_metal_block'] -> ['9x chemlib:nickel_ingot']
+[21:06:17] [INFO ] - chemlib:zinc_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:zinc_nugget'] -> ['chemlib:zinc_ingot']
+[21:06:17] [INFO ] - chemlib:zinc_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:zinc_ingot'] -> ['9x chemlib:zinc_nugget']
+[21:06:17] [INFO ] - chemlib:zinc_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:zinc_ingot'] -> ['chemlib:zinc_metal_block']
+[21:06:17] [INFO ] - chemlib:zinc_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:zinc_metal_block'] -> ['9x chemlib:zinc_ingot']
+[21:06:17] [INFO ] - chemlib:cobalt_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:cobalt_ingot'] -> ['9x chemlib:cobalt_nugget']
+[21:06:17] [INFO ] - chemlib:cobalt_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:cobalt_nugget'] -> ['chemlib:cobalt_ingot']
+[21:06:17] [INFO ] - chemlib:cobalt_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:cobalt_ingot'] -> ['chemlib:cobalt_metal_block']
+[21:06:17] [INFO ] - chemlib:cobalt_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:cobalt_metal_block'] -> ['9x chemlib:cobalt_ingot']
+[21:06:17] [INFO ] - chemlib:titanium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:titanium_ingot'] -> ['chemlib:titanium_metal_block']
+[21:06:17] [INFO ] - chemlib:titanium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:titanium_metal_block'] -> ['9x chemlib:titanium_ingot']
+[21:06:17] [INFO ] - chemlib:chromium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:chromium_ingot'] -> ['chemlib:chromium_metal_block']
+[21:06:17] [INFO ] - chemlib:chromium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:chromium_metal_block'] -> ['9x chemlib:chromium_ingot']
+[21:06:17] [INFO ] - butchersdelight:re_saltcipe[minecraft:smoking]: ['minecraft:water_bucket'] -> ['butchersdelight:item_salt']
+[21:06:17] [INFO ] Posted recipe events in 142.8 ms
+[21:06:18] [INFO ] Modified & removed recipes in 178.7 ms
+[21:06:18] [WARN ] Error creating recipe lychee:kjs_1qoi1kd669tqxtnhk6vfoss5m[lychee:block_interacting]: {"type":"lychee:block_interacting","item_in":{"item":"lychee:always_true"},"block_in":"crafting_table","post":{"type":"prevent_default"}}: com.google.gson.JsonSyntaxException: Unknown item 'lychee:always_true'
+[21:06:18] [INFO ] Added recipes in 14.03 ms
+[21:06:18] [INFO ] Added 47 recipes, removed 145 recipes, modified 0 recipes, with 1 failed recipes and 0 fall-backed recipes
+[21:06:21] [INFO ] Collecting Custom Machine upgrades from JS scripts.

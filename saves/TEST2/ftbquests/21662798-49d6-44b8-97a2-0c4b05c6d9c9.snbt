@@ -7,9 +7,7 @@
 	auto_pin: false
 	chapter_pinned: false
 	rewards_blocked: false
-	task_progress: {
-		2DC056E4B215971F: 1
-	}
+	task_progress: { }
 	started: {
 		0000000000000001: 1699299853796L
 		2DC056E4B215971F: 1700152926261L
