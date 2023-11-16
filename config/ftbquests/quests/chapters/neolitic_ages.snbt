@@ -1,27 +1,17 @@
 {
 	id: "0AA5FC024C920478"
-	group: ""
+	group: "4EADA09B944324F5"
 	order_index: 1
-	filename: "prehistoric_ages"
-	title: "Prehistoric Ages"
+	filename: "neolitic_ages"
+	title: "Neolitic Ages"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -5.0d
-			y: 0.5d
-			dependencies: ["6494D8BF54B6BAE0"]
-			id: "269BF0F61BD5AA56"
-			tasks: [{
-				id: "2DF5EE563C4499C4"
-				type: "item"
-				item: "farmersdelight:cutting_board"
-			}]
-		}
-		{
 			x: -3.5d
 			y: 0.5d
 			dependencies: ["6912223B5EFA9CA5"]
+			invisible: true
 			id: "3624C7AB1209A014"
 			tasks: [{
 				id: "4F091BC143B0ACAF"
@@ -30,21 +20,9 @@
 			}]
 		}
 		{
-			icon: "minecraft:campfire"
-			x: 0.0d
-			y: 0.5d
-			dependencies: ["3624C7AB1209A014"]
-			id: "46DC8CC63A717B8E"
-			tasks: [{
-				id: "68CDFD18B99FCEE7"
-				type: "item"
-				item: "the_ages_of_times:extinguished_campfire"
-			}]
-		}
-		{
-			x: -1.5d
+			x: 10.5d
 			y: 2.0d
-			dependencies: ["3624C7AB1209A014"]
+			dependencies: ["07B17E7314EDB20C"]
 			id: "6FD8DFAEB68BB067"
 			tasks: [{
 				id: "0BC690E5A8DF46CE"
@@ -53,7 +31,7 @@
 			}]
 		}
 		{
-			x: 0.0d
+			x: 12.0d
 			y: 2.0d
 			dependencies: ["6FD8DFAEB68BB067"]
 			id: "657EE8471AFB1708"
@@ -76,7 +54,7 @@
 		}
 		{
 			x: -1.5d
-			y: -2.5d
+			y: 0.5d
 			dependencies: ["3624C7AB1209A014"]
 			id: "1579C4B4610781B8"
 			tasks: [{
@@ -87,7 +65,7 @@
 		}
 		{
 			x: 0.0d
-			y: -2.5d
+			y: 0.5d
 			dependencies: ["1579C4B4610781B8"]
 			id: "0BF955A0B9039FB3"
 			tasks: [{
@@ -126,7 +104,7 @@
 		}
 		{
 			x: 1.5d
-			y: -2.5d
+			y: 0.5d
 			dependencies: ["0BF955A0B9039FB3"]
 			id: "7D398B592448C5B3"
 			tasks: [{
@@ -139,7 +117,7 @@
 			x: 3.0d
 			y: 0.5d
 			dependencies: [
-				"46DC8CC63A717B8E"
+				"3624C7AB1209A014"
 				"7D398B592448C5B3"
 			]
 			id: "1DE59A684222F15F"
@@ -147,17 +125,6 @@
 				id: "68BC60E0B5EAD28B"
 				type: "item"
 				item: "ceramics:kiln"
-			}]
-		}
-		{
-			x: -6.5d
-			y: 0.5d
-			dependencies: ["7733B37DBA950C63"]
-			id: "6494D8BF54B6BAE0"
-			tasks: [{
-				id: "2AAF6EF2286CCAA3"
-				type: "item"
-				item: "minecraft:oak_log"
 			}]
 		}
 		{
@@ -214,7 +181,7 @@
 		}
 		{
 			x: 7.5d
-			y: -2.5d
+			y: -1.0d
 			dependencies: ["0442ECD99C0ADB34"]
 			id: "05726342AF24ED86"
 			tasks: [{
@@ -225,7 +192,7 @@
 		}
 		{
 			x: 9.0d
-			y: -2.5d
+			y: -1.0d
 			dependencies: ["05726342AF24ED86"]
 			id: "433EF3AA2BABC782"
 			tasks: [{
@@ -236,7 +203,7 @@
 		}
 		{
 			x: 13.5d
-			y: -2.5d
+			y: -1.0d
 			dependencies: ["0610741ED371BC42"]
 			id: "7ED7FE0759518C38"
 			tasks: [{
@@ -247,90 +214,13 @@
 		}
 		{
 			x: 12.0d
-			y: -2.5d
+			y: -1.0d
 			dependencies: ["3F4E83D290051525"]
 			id: "0610741ED371BC42"
 			tasks: [{
 				id: "7E2D8C15578460D2"
 				type: "item"
 				item: "tconstruct:seared_heater"
-			}]
-		}
-		{
-			x: -8.0d
-			y: 0.5d
-			dependencies: ["319885804C210F0A"]
-			id: "7733B37DBA950C63"
-			tasks: [{
-				id: "52D8E26C776A1822"
-				type: "item"
-				item: {
-					id: "notreepunching:flint_axe"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}]
-		}
-		{
-			x: -9.5d
-			y: 0.5d
-			dependencies: ["4AD0B2D028FC4F23"]
-			id: "319885804C210F0A"
-			tasks: [{
-				id: "302084A3043A91A1"
-				type: "item"
-				item: "notreepunching:plant_string"
-			}]
-		}
-		{
-			x: -11.0d
-			y: 0.5d
-			dependencies: ["6D9A0E9C3BDB5B9C"]
-			id: "4AD0B2D028FC4F23"
-			tasks: [{
-				id: "6692F79ACE2C5832"
-				type: "item"
-				item: {
-					id: "notreepunching:flint_knife"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}]
-		}
-		{
-			x: -12.5d
-			y: 0.5d
-			dependencies: ["0665C37286A63110"]
-			id: "6D9A0E9C3BDB5B9C"
-			tasks: [{
-				id: "1225574A3E0F2D57"
-				type: "item"
-				item: "notreepunching:flint_shard"
-			}]
-		}
-		{
-			x: -14.0d
-			y: 0.5d
-			dependencies: ["39E68F7EA58A33AE"]
-			id: "0665C37286A63110"
-			tasks: [{
-				id: "6BFC6DBB80E6AD92"
-				type: "item"
-				item: "minecraft:flint"
-			}]
-		}
-		{
-			x: -15.5d
-			y: 0.5d
-			id: "39E68F7EA58A33AE"
-			tasks: [{
-				id: "0595B19A44BE80A5"
-				type: "item"
-				item: "notreepunching:stone_loose_rock"
 			}]
 		}
 		{
@@ -376,8 +266,7 @@
 		}
 		{
 			x: 6.0d
-			y: -2.5d
-			dependencies: ["7D398B592448C5B3"]
+			y: -1.0d
 			id: "0442ECD99C0ADB34"
 			tasks: [{
 				id: "2DC056E4B215971F"
@@ -387,13 +276,108 @@
 		}
 		{
 			x: 10.5d
-			y: -2.5d
+			y: -1.0d
 			dependencies: ["433EF3AA2BABC782"]
 			id: "3F4E83D290051525"
 			tasks: [{
 				id: "3EDC3D9810C4879E"
 				type: "item"
 				item: "ceramics:porcelain_brick"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 2.0d
+			dependencies: ["2AD79C7B62DE9359"]
+			id: "07B17E7314EDB20C"
+			tasks: [{
+				id: "75E7AEEADEAE5F4C"
+				type: "item"
+				item: "the_ages_of_times:hide_tanned"
+			}]
+		}
+		{
+			x: 7.5d
+			y: 2.0d
+			dependencies: ["2B7910CBEEBCF514"]
+			id: "2AD79C7B62DE9359"
+			tasks: [{
+				id: "32417915A0D55CDB"
+				type: "item"
+				item: "the_ages_of_times:hide_wet"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 2.0d
+			dependencies: ["2744F5C1E2A3B2F3"]
+			id: "2B7910CBEEBCF514"
+			tasks: [{
+				id: "0D83EB67CE6D20EB"
+				type: "item"
+				item: "the_ages_of_times:hide_dried"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 2.0d
+			dependencies: ["7785A7481AE9EF67"]
+			id: "2744F5C1E2A3B2F3"
+			tasks: [{
+				id: "0BDE02F8330912D0"
+				type: "item"
+				item: "the_ages_of_times:hide_salted"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 2.0d
+			dependencies: ["1E7FF98CD860EB72"]
+			id: "7785A7481AE9EF67"
+			tasks: [{
+				id: "7E79FA9E0C751D67"
+				type: "item"
+				item: "the_ages_of_times:hide_raw"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			dependencies: ["40C496B5B9784622"]
+			id: "28CD8CFD0DC99D7D"
+			tasks: [{
+				id: "389235EDD1031701"
+				type: "item"
+				title: "Any #forge:leather"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:leather"
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 2.0d
+			dependencies: ["3624C7AB1209A014"]
+			id: "40C496B5B9784622"
+			tasks: [{
+				id: "0A8154761A3FB84D"
+				type: "item"
+				item: "butchersdelight:rack"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 2.0d
+			dependencies: ["28CD8CFD0DC99D7D"]
+			id: "1E7FF98CD860EB72"
+			tasks: [{
+				id: "430B22CEF2026197"
+				type: "item"
+				item: "the_ages_of_times:hide_clean"
 			}]
 		}
 	]

@@ -1,11 +1,134 @@
 {
 	id: "6912223B5EFA9CA5"
-	group: ""
+	group: "4EADA09B944324F5"
 	order_index: 0
-	filename: "prehistoric_ages_2"
+	filename: "prehistoric_ages"
 	title: "Prehistoric Ages"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			x: 3.5d
+			y: -0.5d
+			dependencies: ["6494D8BF54B6BAE0"]
+			id: "269BF0F61BD5AA56"
+			tasks: [{
+				id: "2DF5EE563C4499C4"
+				type: "item"
+				item: "farmersdelight:cutting_board"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -0.5d
+			dependencies: ["7733B37DBA950C63"]
+			id: "6494D8BF54B6BAE0"
+			tasks: [{
+				id: "2AAF6EF2286CCAA3"
+				type: "item"
+				item: "minecraft:oak_log"
+			}]
+		}
+		{
+			x: 0.5d
+			y: -0.5d
+			dependencies: ["319885804C210F0A"]
+			id: "7733B37DBA950C63"
+			tasks: [{
+				id: "52D8E26C776A1822"
+				type: "item"
+				item: {
+					id: "notreepunching:flint_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -0.5d
+			dependencies: ["4AD0B2D028FC4F23"]
+			id: "319885804C210F0A"
+			tasks: [{
+				id: "302084A3043A91A1"
+				type: "item"
+				item: "notreepunching:plant_string"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -0.5d
+			dependencies: ["6D9A0E9C3BDB5B9C"]
+			id: "4AD0B2D028FC4F23"
+			tasks: [{
+				id: "6692F79ACE2C5832"
+				type: "item"
+				item: {
+					id: "notreepunching:flint_knife"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: -0.5d
+			dependencies: ["269BF0F61BD5AA56"]
+			id: "45D8A9717A539D1F"
+			tasks: [{
+				id: "2F15DE5A031E49E4"
+				type: "item"
+				item: "minecraft:crafting_table"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -0.5d
+			dependencies: ["0665C37286A63110"]
+			id: "6D9A0E9C3BDB5B9C"
+			tasks: [{
+				id: "1225574A3E0F2D57"
+				type: "item"
+				item: "notreepunching:flint_shard"
+			}]
+		}
+		{
+			x: -5.5d
+			y: -0.5d
+			dependencies: ["39E68F7EA58A33AE"]
+			id: "0665C37286A63110"
+			tasks: [{
+				id: "6BFC6DBB80E6AD92"
+				type: "item"
+				item: "minecraft:flint"
+			}]
+		}
+		{
+			x: -7.0d
+			y: -0.5d
+			id: "39E68F7EA58A33AE"
+			tasks: [{
+				id: "0595B19A44BE80A5"
+				type: "item"
+				item: "notreepunching:stone_loose_rock"
+			}]
+		}
+		{
+			icon: "minecraft:campfire"
+			x: 6.5d
+			y: -0.5d
+			dependencies: ["45D8A9717A539D1F"]
+			id: "72330350238EA98D"
+			tasks: [{
+				id: "6D017AC8443DA120"
+				type: "item"
+				item: "the_ages_of_times:extinguished_campfire"
+			}]
+		}
+	]
 	quest_links: [ ]
 }
