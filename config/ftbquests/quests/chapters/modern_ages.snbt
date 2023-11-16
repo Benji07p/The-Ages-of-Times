@@ -1,7 +1,7 @@
 {
 	id: "079F3DC43CAC5B94"
 	group: ""
-	order_index: 4
+	order_index: 3
 	filename: "modern_ages"
 	title: "Modern Ages"
 	default_quest_shape: ""
@@ -83,6 +83,153 @@
 				type: "item"
 				item: "nuclearscience:gascentrifuge"
 			}]
+		}
+		{
+			x: 9.0d
+			y: 0.0d
+			id: "300D01D49B9401D8"
+			tasks: [{
+				id: "5A2AB7122CD91F1B"
+				type: "item"
+				item: "electrodynamics:electrolyticseparator"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 0.0d
+			id: "4BF1115CCE8EC27C"
+			tasks: [
+				{
+					id: "111EFC2AABB1E764"
+					type: "item"
+					item: "chemlib:hydrogen"
+				}
+				{
+					id: "775894F534919DF2"
+					type: "item"
+					item: "chemlib:oxygen"
+				}
+			]
+		}
+		{
+			x: 5.5d
+			y: 0.0d
+			id: "22237F13368E34A5"
+			tasks: [{
+				id: "202A782C440BC3FB"
+				type: "item"
+				item: "ballistix:nuclear"
+			}]
+		}
+		{
+			x: 12.0d
+			y: 0.0d
+			id: "5C5084D7C71E0DBB"
+			tasks: [
+				{
+					id: "201BBEBEC6B1E907"
+					type: "item"
+					item: "beyond_earth:compressor"
+				}
+				{
+					id: "00A88A2FA765B465"
+					type: "item"
+					item: "beyond_earth:fuel_refinery"
+				}
+				{
+					id: "77B01B51720CC82D"
+					type: "item"
+					item: "beyond_earth:oxygen_loader"
+				}
+			]
+		}
+		{
+			x: 13.5d
+			y: 0.0d
+			id: "6DAB073F37B98187"
+			tasks: [{
+				id: "4661D5340030BDCE"
+				type: "item"
+				item: "beyond_earth:fuel_bucket"
+			}]
+		}
+		{
+			x: 15.0d
+			y: 0.0d
+			id: "3C0B831CD98D20E5"
+			tasks: [{
+				id: "179B1B8E607C132B"
+				type: "item"
+				item: {
+					id: "beyond_earth:rocket_t1"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.5d
+			y: 0.0d
+			id: "4424CD0D54828AE5"
+			tasks: [{
+				id: "7925E98A63CAD1CE"
+				type: "advancement"
+				advancement: "beyond_earth:moon_advancement"
+				criterion: ""
+			}]
+		}
+		{
+			title: "Create a satellite"
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1b
+				tag: {
+					Icon: "kubejs:textures/item/space_station_icon.png"
+				}
+			}
+			x: 16.5d
+			y: 0.0d
+			id: "421D5925F0B51C8A"
+			tasks: [{
+				id: "32BB7FB52B25DA36"
+				type: "dimension"
+				title: "Create a space station"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1b
+					tag: {
+						Icon: "kubejs:textures/item/space_station_icon.png"
+					}
+				}
+				dimension: "beyond_earth:moon_orbit"
+			}]
+		}
+		{
+			x: 24.5d
+			y: 0.0d
+			id: "43454D7C85743790"
+			tasks: [{
+				id: "06C8142342F83DB8"
+				type: "item"
+				item: "extendedcrafting:ultimate_table"
+			}]
+		}
+		{
+			x: 18.0d
+			y: 0.0d
+			id: "5DBF728626B8AA0D"
+			tasks: [
+				{
+					id: "47FC0531D8805AC5"
+					type: "item"
+					item: "chemlib:hydrogen_bucket"
+				}
+				{
+					id: "669BC20BFEDFB11D"
+					type: "item"
+					item: "chemlib:oxygen_bucket"
+				}
+			]
 		}
 	]
 	quest_links: [ ]

@@ -1,0 +1,136 @@
+{
+	id: "06284B5DA2E60867"
+	group: ""
+	order_index: 4
+	filename: "future_ages"
+	title: "Future Ages"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -4.5d
+			y: 0.5d
+			id: "3C1BE77D4076AE80"
+			tasks: [{
+				id: "73B47268973ECBBB"
+				type: "item"
+				item: "nuclearscience:cellantimattersmall"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.5d
+			id: "25DDC68A595A19A1"
+			tasks: [{
+				id: "79F7E71DDD1B7D50"
+				type: "dimension"
+				title: "Mars"
+				icon: "beyond_earth:mars_stone"
+				dimension: "beyond_earth:mars"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.5d
+			id: "3640A4B06B9ABE39"
+			tasks: [{
+				id: "3CAFD0E17BAAA111"
+				type: "item"
+				item: {
+					id: "beyond_earth:rocket_t2"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.5d
+			id: "51E06258A7E0BC5F"
+			tasks: [{
+				id: "200A38571142F19A"
+				type: "item"
+				item: {
+					id: "beyond_earth:rocket_t3"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "Mercury and Venus"
+			x: 3.0d
+			y: 0.5d
+			id: "656B3607290058B5"
+			tasks: [
+				{
+					id: "4D8324754C2B3281"
+					type: "dimension"
+					title: "Mercury"
+					icon: "beyond_earth:mercury_stone"
+					dimension: "beyond_earth:mercury"
+				}
+				{
+					id: "0FF0764034A44143"
+					type: "dimension"
+					title: "Venus"
+					icon: "beyond_earth:venus_stone"
+					dimension: "beyond_earth:venus"
+				}
+			]
+		}
+		{
+			x: 4.5d
+			y: 0.5d
+			id: "31BB278109BF2BA3"
+			tasks: [{
+				id: "1CD52FB81A2F5D46"
+				type: "item"
+				item: {
+					id: "nuclearscience:celldarkmatter"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 0.5d
+			id: "4F6020CC271C542A"
+			tasks: [{
+				id: "0B414C2CA20E1873"
+				type: "item"
+				item: {
+					id: "beyond_earth:rocket_t4"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 8.0d
+			y: 0.5d
+			id: "75B595274BD461E1"
+			tasks: [{
+				id: "37CF49FF49FB6EB5"
+				type: "dimension"
+				title: "Glacio"
+				icon: "beyond_earth:glacio_stone"
+				dimension: "beyond_earth:glacio"
+			}]
+		}
+		{
+			x: 10.0d
+			y: 0.5d
+			id: "4D8784C898432E37"
+			tasks: [{
+				id: "5DDAB5CF66022AA0"
+				type: "item"
+				item: "minecraft:bedrock"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
