@@ -1,0 +1,10 @@
+
+#Toutes les configurations liées à la base du jeu
+[gameplay]
+	#minecolonies.config.enablecitizenvoices.comment [Defaut: true]
+	enablecitizenvoices = true
+	#Par défaut, en plaçant un plan près d'autres bâtiments, les bâtiments déjà placés apparaitront comme s'ils étaient niveau 5 et auront un contour bleu. Vous pouvez désactiver ceci en mettant cette valeur à faux. [Defaut: true]
+	neighborbuildingrendering = true
+	#Quand vrai, les limites de la colonie affichés en tenant l'outil de construction seront de la couleur de l'équipe de la colonie. Quand faux, la colonie dans laquelle vous êtes sera blanche et les autres rouges. [Defaut: true]
+	colonyteamborders = true
+
