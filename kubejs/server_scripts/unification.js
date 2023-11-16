@@ -167,10 +167,10 @@ onEvent('item.tags', event => {
 	event.get('forge:storage_blocks/nickel').remove('chemlib:nickel_metal_block')
 
 	//Steel
-	event.get('forge:nuggets/steel').remove(['immersiveengineering:nugget_steel', 'beyond_earth:steel_nugget'])
-	event.get('forge:ingots/steel').remove(['immersiveengineering:ingot_steel', 'beyond_earth:steel_ingot'])
+	event.get('forge:nuggets/steel').remove(['magistuarmory:steel_nugget', 'immersiveengineering:nugget_steel', 'beyond_earth:steel_nugget'])
+	event.get('forge:ingots/steel').remove(['magistuarmory:steel_ingot', 'immersiveengineering:ingot_steel', 'beyond_earth:steel_ingot'])
 	event.get('forge:dusts/steel').remove('immersiveengineering:dust_steel')
-	event.get('forge:plates/steel').remove('immersiveengineering:plate_steel')
+	event.get('forge:plates/steel').remove(['magistuarmory:steel_plate', 'immersiveengineering:plate_steel'])
 	event.get('forge:rods/steel').remove('immersiveengineering:stick_steel')
 	event.get('forge:storage_blocks/steel').remove(['beyond_earth:steel_block', 'immersiveengineering:storage_steel'])
 
