@@ -971,6 +971,12 @@
     },
     "done": true
   },
+  "notreepunching:acacia_planks_with_flint_axe": {
+    "criteria": {
+      "has_item": "2023-11-16 16:48:05 +0100"
+    },
+    "done": true
+  },
   "create:stressometer": {
     "criteria": {
       "0": "2023-11-13 20:33:13 +0100"
@@ -998,6 +1004,12 @@
   "woodenbucket:recipes/misc/wooden_bucket": {
     "criteria": {
       "has_log": "2023-11-14 21:12:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2023-11-16 16:48:05 +0100"
     },
     "done": true
   },
@@ -1046,6 +1058,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-13 20:39:56 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_leaves_with_knife": {
+    "criteria": {
+      "has_item": "2023-11-16 16:48:07 +0100"
     },
     "done": true
   },
@@ -1251,6 +1269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2023-11-16 16:48:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:hoglin": "2023-11-13 17:38:02 +0100"
@@ -1324,7 +1348,8 @@
       "minecraft:lukewarm_ocean": "2023-11-15 13:56:09 +0100",
       "minecraft:desert": "2023-11-13 17:28:44 +0100",
       "minecraft:windswept_savanna": "2023-11-14 21:40:08 +0100",
-      "minecraft:warm_ocean": "2023-11-15 13:56:16 +0100"
+      "minecraft:warm_ocean": "2023-11-15 13:56:16 +0100",
+      "minecraft:savanna": "2023-11-16 16:46:57 +0100"
     },
     "done": false
   },
@@ -1543,6 +1568,12 @@
       "copper": "2023-11-15 19:57:06 +0100"
     },
     "done": false
+  },
+  "notreepunching:acacia_planks_with_saw": {
+    "criteria": {
+      "has_item": "2023-11-16 16:48:05 +0100"
+    },
+    "done": true
   },
   "atum:core/goldendatebridge": {
     "criteria": {
