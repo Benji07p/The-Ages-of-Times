@@ -10,6 +10,7 @@
 		{
 			x: -0.5d
 			y: -0.5d
+			dependencies: ["0AA5FC024C920478"]
 			invisible: true
 			id: "297FA587702B03D9"
 			tasks: [{
@@ -21,6 +22,7 @@
 		{
 			x: -0.5d
 			y: 1.5d
+			dependencies: ["0AA5FC024C920478"]
 			invisible: true
 			id: "546308B6229EB19B"
 			tasks: [{
@@ -277,7 +279,7 @@
 			]
 		}
 		{
-			x: 2.5d
+			x: 1.0d
 			y: 2.0d
 			dependencies: ["031E5C969E62526A"]
 			id: "45E98CEBDCAAE0AA"
@@ -323,7 +325,7 @@
 		{
 			x: 4.0d
 			y: 2.0d
-			dependencies: ["45E98CEBDCAAE0AA"]
+			dependencies: ["3A1AAA175FBBBC96"]
 			id: "45C69DC3A66656FA"
 			tasks: [{
 				id: "1C82A43535DCCC57"
@@ -391,6 +393,18 @@
 				id: "2869876AA8F97F89"
 				type: "item"
 				item: "create:gearbox"
+			}]
+		}
+		{
+			icon: "ceramics:terracotta_cistern"
+			x: 2.5d
+			y: 2.0d
+			dependencies: ["45E98CEBDCAAE0AA"]
+			id: "3A1AAA175FBBBC96"
+			tasks: [{
+				id: "188370CEAB8422E6"
+				type: "item"
+				item: "ceramics:terracotta_cistern"
 			}]
 		}
 	]
