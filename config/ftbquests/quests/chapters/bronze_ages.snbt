@@ -1,9 +1,10 @@
 {
 	id: "04E55AE9FD6151EF"
-	group: ""
+	group: "4EADA09B944324F5"
 	order_index: 2
-	filename: "neolitic_ages"
+	filename: "bronze_ages"
 	title: "Bronze Ages"
+	icon: "electrodynamics:ingotbronze"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
