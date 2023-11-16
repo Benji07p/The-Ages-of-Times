@@ -7,11 +7,19 @@
 	auto_pin: false
 	chapter_pinned: false
 	rewards_blocked: false
-	task_progress: { }
+	task_progress: {
+		2DC056E4B215971F: 1
+	}
 	started: {
 		0000000000000001: 1699299853796L
+		2DC056E4B215971F: 1700152926261L
+		0AA5FC024C920478: 1700152926261L
+		0442ECD99C0ADB34: 1700152926261L
 	}
-	completed: { }
+	completed: {
+		2DC056E4B215971F: 1700152926265L
+		0442ECD99C0ADB34: 1700152926265L
+	}
 	claimed_rewards: { }
 	pinned_quests: [ ]
 }
