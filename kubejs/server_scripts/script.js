@@ -221,6 +221,8 @@ onEvent('recipes', event => {
 	event.remove({ id: 'ceramics:empty_clay_bucket_smelting'})
 	event.remove({ id: 'ceramics:empty_clay_bucket_kiln'})
 
+	//Remove Enchanter from Minecolonies
+	event.remove({ id: 'minecolonies:blockhutenchanter'})
 })
 
 onEvent('item.tags', event => {
