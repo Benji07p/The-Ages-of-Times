@@ -1,0 +1,24 @@
+{
+  "branch": "minecolonies:unlockable",
+  "name": "Money",
+  "researchLevel": 1,
+  "icon": "atum:coin_gold",
+  "requirements": [
+    {
+      "mandatory-building": "university",
+      "level": 1
+    },
+    {
+      "item": "atum:coin_gold",
+      "quantity": 3
+    }
+  ],
+  "hidden": false,
+  "autostart": false,
+  "instant": false,
+  "effects": [
+    {
+      "minecolonies:effects/moneyunlock": 1
+    }
+  ]
+}
