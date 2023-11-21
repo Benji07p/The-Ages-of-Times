@@ -22,6 +22,10 @@
 		{
 			x: 10.5d
 			y: 2.0d
+			description: [
+				"Craft :"
+				"{image:the_ages_of_times:textures/leather.png width:188 height:100 align:1}"
+			]
 			dependencies: ["07B17E7314EDB20C"]
 			id: "6FD8DFAEB68BB067"
 			tasks: [{
