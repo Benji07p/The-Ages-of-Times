@@ -487,9 +487,21 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/lava_bricks_slab_lava": {
+    "criteria": {
+      "has_lava": "2023-11-22 16:05:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2023-11-14 21:49:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-11-22 16:05:03 +0100"
     },
     "done": true
   },
@@ -752,6 +764,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-13 20:39:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-11-22 16:05:34 +0100"
     },
     "done": true
   },
@@ -1284,6 +1302,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2023-11-22 16:05:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2023-11-15 19:55:23 +0100"
@@ -1543,6 +1567,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/lava_bricks_lava": {
+    "criteria": {
+      "has_lava": "2023-11-22 16:05:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
     "criteria": {
       "has_deepslate_copper_ore": "2023-11-15 19:55:52 +0100"
@@ -1726,6 +1756,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/raw_block_lead_to_raw_lead": {
     "criteria": {
       "has_raw_block_lead": "2023-11-15 20:02:21 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/lava_bricks_wall_lava": {
+    "criteria": {
+      "has_lava": "2023-11-22 16:05:03 +0100"
     },
     "done": true
   },
@@ -1933,6 +1969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-11-22 16:05:34 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2023-11-13 17:39:22 +0100"
@@ -1948,6 +1990,12 @@
   "create:recipes/create.palettes/birch_window": {
     "criteria": {
       "has_ingredient": "2023-11-19 15:18:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-11-22 16:05:34 +0100"
     },
     "done": true
   },
@@ -2083,6 +2131,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2023-11-15 19:53:26 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/lava_bricks_stairs_lava": {
+    "criteria": {
+      "has_lava": "2023-11-22 16:05:03 +0100"
     },
     "done": true
   },
