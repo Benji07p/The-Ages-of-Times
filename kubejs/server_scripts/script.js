@@ -1,8 +1,3 @@
-onEvent('gamephases.initialize', event => {
-	event.phase('one')
-		.block('minecraft:copper_ore', 'minecraft:stone')
-})
-
 onEvent('recipes', event => {
 
 	//Steel Unification
