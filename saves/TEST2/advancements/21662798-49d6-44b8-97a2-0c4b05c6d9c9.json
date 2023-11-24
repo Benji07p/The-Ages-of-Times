@@ -803,12 +803,6 @@
     },
     "done": true
   },
-  "test:phases/phase_one": {
-    "criteria": {
-      "has_cobblestone": "2023-11-15 19:55:23 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2023-11-15 19:56:39 +0100"
