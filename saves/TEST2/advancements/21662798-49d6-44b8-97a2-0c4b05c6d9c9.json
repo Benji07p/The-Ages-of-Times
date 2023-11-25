@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "1": "2023-11-13 17:28:44 +0100"
@@ -17,6 +23,12 @@
     },
     "done": true
   },
+  "tardim:recipes/panel_computer": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2023-11-13 17:39:22 +0100"
@@ -26,6 +38,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
     },
     "done": true
   },
@@ -65,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-13 20:39:56 +0100"
@@ -86,6 +110,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-11-19 15:18:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -125,9 +155,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2023-11-19 15:18:16 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_anvil": {
+    "criteria": {
+      "has_item": "2023-11-25 18:07:33 +0100"
     },
     "done": true
   },
@@ -173,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2023-11-13 17:28:44 +0100"
@@ -200,6 +248,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/projector": {
     "criteria": {
       "has_iron_ingot": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
     },
     "done": true
   },
@@ -296,6 +350,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2023-11-25 18:07:33 +0100"
     },
     "done": true
   },
@@ -442,9 +502,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/clay_repair/orange_terracotta_cistern_repair": {
     "criteria": {
       "has_item": "2023-11-13 20:27:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
     },
     "done": true
   },
@@ -493,6 +565,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/netherite_block": {
+    "criteria": {
+      "has_the_recipe": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2023-11-13 20:39:56 +0100"
@@ -502,6 +580,12 @@
   "ceramics:recipes/ceramics/lava_bricks_slab_lava": {
     "criteria": {
       "has_lava": "2023-11-22 16:05:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -526,6 +610,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
     "criteria": {
       "has_deepslate_copper_ore": "2023-11-15 19:55:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
     },
     "done": true
   },
@@ -577,6 +667,12 @@
     },
     "done": true
   },
+  "functionalstorage:recipes/functionalstorage/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2023-11-13 20:29:39 +0100"
@@ -619,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/sequenced_gearshift": {
     "criteria": {
       "has_item": "2023-11-19 15:20:17 +0100"
@@ -656,6 +758,12 @@
     },
     "done": true
   },
+  "notreepunching:netherite_knife": {
+    "criteria": {
+      "has_item": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
   "tardim:recipes/tardim_key": {
     "criteria": {
       "has_the_recipe": "2023-11-19 15:18:15 +0100"
@@ -665,6 +773,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2023-11-13 17:31:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -716,6 +830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2023-11-13 18:11:06 +0100"
@@ -755,6 +875,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2023-11-15 16:09:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -827,6 +953,12 @@
     },
     "done": true
   },
+  "notreepunching:netherite_saw": {
+    "criteria": {
+      "has_item": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/cooked_salmon": {
     "criteria": {
       "has_the_recipe": "2023-11-21 18:40:29 +0100"
@@ -863,15 +995,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_feet": {
     "criteria": {
       "has_steel_plate": "2023-11-16 17:42:08 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2023-11-13 17:28:50 +0100"
+    },
+    "done": true
+  },
+  "tardim:recipes/scanner": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
     },
     "done": true
   },
@@ -920,9 +1070,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2023-11-16 16:48:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -1076,6 +1244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2023-11-13 20:29:39 +0100"
@@ -1133,6 +1307,12 @@
   "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2023-11-21 18:42:23 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:netherite_mattock": {
+    "criteria": {
+      "has_item": "2023-11-25 18:07:23 +0100"
     },
     "done": true
   },
@@ -1254,6 +1434,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/building_blocks/smooth_stone_kiln": {
+    "criteria": {
+      "has_item": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_revolver_bayonet": {
     "criteria": {
       "has_revolver": "2023-11-13 17:28:44 +0100"
@@ -1263,6 +1449,12 @@
   "astikorcarts:recipes/animal_cart": {
     "criteria": {
       "has_wheel": "2023-11-13 17:28:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
     },
     "done": true
   },
@@ -1338,6 +1530,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2023-11-13 17:31:49 +0100"
@@ -1362,6 +1566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2023-11-13 17:38:04 +0100"
@@ -1371,6 +1581,12 @@
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2023-11-15 19:56:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
     },
     "done": true
   },
@@ -1489,6 +1705,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-13 20:39:56 +0100"
@@ -1498,6 +1720,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_silver3": {
     "criteria": {
       "has_raw_silver": "2023-11-15 20:02:08 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -1543,6 +1771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2023-11-16 17:50:58 +0100"
@@ -1564,6 +1798,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-13 20:39:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
     },
     "done": true
   },
@@ -1591,9 +1831,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
     "criteria": {
       "has_deepslate_copper_ore": "2023-11-15 19:55:52 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2023-11-25 18:07:33 +0100"
     },
     "done": true
   },
@@ -1657,15 +1909,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_forge": {
+    "criteria": {
+      "has_item": "2023-11-25 18:07:33 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sword_steel": {
     "criteria": {
       "has_steel_ingot": "2023-11-16 17:42:06 +0100"
     },
     "done": true
   },
+  "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2023-11-13 20:29:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
     },
     "done": true
   },
@@ -1678,6 +1954,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2023-11-15 19:55:23 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -1705,9 +1987,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/grilled_salmon": {
     "criteria": {
       "has_salmon": "2023-11-21 18:40:29 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -1726,6 +2020,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-13 20:39:56 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_item": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -1927,6 +2227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2023-11-16 17:50:58 +0100"
@@ -2074,6 +2380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2023-11-13 17:28:44 +0100"
@@ -2083,6 +2395,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_lead3": {
     "criteria": {
       "has_raw_lead": "2023-11-15 20:02:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -2170,6 +2488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/lava_bricks_stairs_lava": {
     "criteria": {
       "has_lava": "2023-11-22 16:05:03 +0100"
@@ -2191,6 +2515,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2023-11-13 17:31:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
     },
     "done": true
   },
@@ -2216,6 +2546,12 @@
   "create:stressometer": {
     "criteria": {
       "0": "2023-11-13 20:33:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -2249,9 +2585,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/dissolver": {
     "criteria": {
       "has_item": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:string_from_web_with_knife": {
+    "criteria": {
+      "has_item": "2023-11-25 19:21:24 +0100"
     },
     "done": true
   },
@@ -2291,15 +2639,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2023-11-19 15:18:16 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2023-11-16 17:42:06 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -2363,6 +2729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/emerald_block": {
     "criteria": {
       "has_the_recipe": "2023-11-19 16:10:08 +0100"
@@ -2387,9 +2759,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2023-11-25 18:07:33 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_lead_from_blasting2": {
     "criteria": {
       "has_deepslate_ore_lead": "2023-11-15 19:54:13 +0100"
+    },
+    "done": true
+  },
+  "tardim:recipes/panel_dial": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
     },
     "done": true
   },
@@ -2423,6 +2807,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
     "criteria": {
       "has_iron_plate": "2023-11-16 17:51:14 +0100"
@@ -2432,6 +2822,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2023-11-19 15:18:15 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
@@ -2602,6 +2998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2023-11-16 17:50:58 +0100"
@@ -2680,6 +3082,12 @@
     },
     "done": true
   },
+  "tardim:recipes/panel_rotation_switch": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2023-11-19 15:18:17 +0100"
@@ -2689,6 +3097,18 @@
   "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
     "criteria": {
       "has_iron_plate": "2023-11-16 17:51:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2023-11-25 20:14:46 +0100"
     },
     "done": true
   },
@@ -2749,6 +3169,12 @@
   "notreepunching:iron_mattock": {
     "criteria": {
       "has_item": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-11-25 20:14:49 +0100"
     },
     "done": true
   },
