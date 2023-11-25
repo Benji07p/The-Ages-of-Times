@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick_to_slab": {
+    "criteria": {
+      "has_blastbrick": "2023-11-25 17:22:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-11-13 20:29:39 +0100"
@@ -242,6 +248,12 @@
   "woodenshears:recipes/tools/wooden_shears": {
     "criteria": {
       "has_planks": "2023-11-19 15:18:15 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2023-11-25 17:23:34 +0100"
     },
     "done": true
   },
@@ -1016,6 +1028,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick_to_slab": {
+    "criteria": {
+      "has_cokebrick": "2023-11-25 17:22:09 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/atomizer": {
     "criteria": {
       "has_item": "2023-11-16 17:50:58 +0100"
@@ -1311,6 +1329,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick_from_slab": {
+    "criteria": {
+      "has_blastbrick": "2023-11-25 17:22:10 +0100"
     },
     "done": true
   },
@@ -1626,6 +1650,12 @@
       "pick_head": "2023-11-15 20:00:17 +0100"
     },
     "done": false
+  },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2023-11-25 17:22:31 +0100"
+    },
+    "done": true
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/sword_steel": {
     "criteria": {
@@ -1969,6 +1999,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick_reinforced": {
+    "criteria": {
+      "has_blastbrick": "2023-11-25 17:22:10 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_blastfurnace": {
+    "criteria": {
+      "form_multiblock": "2023-11-25 17:22:56 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2023-11-13 17:39:22 +0100"
@@ -2240,6 +2282,12 @@
   "notreepunching:plant_fiber_from_leaves_with_knife": {
     "criteria": {
       "has_item": "2023-11-16 16:48:07 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick_from_slab": {
+    "criteria": {
+      "has_cokebrick": "2023-11-25 17:22:09 +0100"
     },
     "done": true
   },
