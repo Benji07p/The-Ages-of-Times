@@ -148,9 +148,10 @@
 				item: "electrodynamics:ingotsteel"
 			}]
 			rewards: [{
-				id: "1FDC0D61FE6C270C"
-				type: "item"
-				item: "immersiveengineering:ingot_steel"
+				id: "0B7B28CCA909A5CA"
+				type: "advancement"
+				advancement: "immersiveengineering:main/make_steel"
+				criterion: ""
 			}]
 		}
 		{
