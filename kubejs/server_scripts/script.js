@@ -5,16 +5,6 @@ onEvent('recipes', event => {
 		{
 			"type": "minecraft:stonecutting",
 			"ingredient": {
-			  "item": "immersiveengineering:ingot_steel"
-			},
-			"result": "electrodynamics:ingotsteel",
-			"count": 1
-		  }
-	)
-	event.custom(
-		{
-			"type": "minecraft:stonecutting",
-			"ingredient": {
 			  "item": "electrodynamics:resourceblocksteel"
 			},
 			"result": "immersiveengineering:storage_steel",
