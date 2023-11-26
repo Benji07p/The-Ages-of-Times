@@ -484,6 +484,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/decorations/doublegrass": {
+    "criteria": {
+      "has_grass": "2023-11-26 19:43:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2023-11-13 17:31:49 +0100"
@@ -568,6 +574,12 @@
   "alchemistry:recipes/dissolver/netherite_block": {
     "criteria": {
       "has_the_recipe": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
     },
     "done": true
   },
@@ -733,12 +745,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zoglin": "2023-11-13 17:39:21 +0100",
       "minecraft:hoglin": "2023-11-13 17:38:02 +0100"
     },
     "done": false
+  },
+  "notreepunching:diamond_knife": {
+    "criteria": {
+      "has_item": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
   },
   "ceramics:recipes/ceramics/yellow_terracotta_cistern": {
     "criteria": {
@@ -791,6 +815,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2023-11-26 19:47:31 +0100"
     },
     "done": true
   },
@@ -977,6 +1007,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/jukebox": {
+    "criteria": {
+      "has_the_recipe": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/pickaxe_steel": {
     "criteria": {
       "has_steel_ingot": "2023-11-16 17:42:06 +0100"
@@ -992,6 +1028,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2023-11-21 18:40:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2023-11-26 19:21:57 +0100"
     },
     "done": true
   },
@@ -1022,6 +1064,12 @@
   "tardim:recipes/scanner": {
     "criteria": {
       "has_stone": "2023-11-25 20:14:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2023-11-26 19:21:49 +0100"
     },
     "done": true
   },
@@ -1070,6 +1118,12 @@
     },
     "done": true
   },
+  "notreepunching:oak_planks_with_flint_axe": {
+    "criteria": {
+      "has_item": "2023-11-26 19:21:01 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2023-11-25 20:14:49 +0100"
@@ -1082,9 +1136,21 @@
     },
     "done": true
   },
+  "notreepunching:story/find_loose_rock": {
+    "criteria": {
+      "has_loose_rock": "2023-11-26 20:00:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-11-25 18:07:23 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:diamond_saw": {
+    "criteria": {
+      "has_item": "2023-11-26 19:22:02 +0100"
     },
     "done": true
   },
@@ -1118,6 +1184,12 @@
     },
     "done": true
   },
+  "notreepunching:cobblestone_from_rocks": {
+    "criteria": {
+      "has_item": "2023-11-26 20:00:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2023-11-13 20:29:39 +0100"
@@ -1139,6 +1211,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-13 20:39:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2023-11-26 19:49:08 +0100"
     },
     "done": true
   },
@@ -1208,6 +1286,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-11-26 19:47:44 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/cyan_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2023-11-13 19:11:53 +0100"
@@ -1235,6 +1319,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2023-11-19 15:18:17 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:sandstone_from_rocks": {
+    "criteria": {
+      "has_item": "2023-11-26 20:00:50 +0100"
     },
     "done": true
   },
@@ -1352,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2023-11-26 19:47:31 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/shovel_steel": {
     "criteria": {
       "has_steel_ingot": "2023-11-16 17:42:06 +0100"
@@ -1463,6 +1559,7 @@
       "minecraft:beach": "2023-11-15 13:55:40 +0100",
       "minecraft:river": "2023-11-13 17:33:03 +0100",
       "minecraft:lukewarm_ocean": "2023-11-15 13:56:09 +0100",
+      "minecraft:swamp": "2023-11-26 19:59:46 +0100",
       "minecraft:desert": "2023-11-13 17:28:44 +0100",
       "minecraft:windswept_savanna": "2023-11-14 21:40:08 +0100",
       "minecraft:warm_ocean": "2023-11-15 13:56:16 +0100",
@@ -1509,6 +1606,12 @@
   "alchemistry:recipes/dissolver/baked_potato": {
     "criteria": {
       "has_the_recipe": "2023-11-22 16:05:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2023-11-26 19:21:57 +0100"
     },
     "done": true
   },
@@ -1572,6 +1675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2023-11-13 17:38:04 +0100"
@@ -1605,6 +1714,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2023-11-26 19:21:47 +0100"
     },
     "done": true
   },
@@ -1681,9 +1796,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2023-11-26 19:21:57 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:diorite_cobblestone_from_rocks": {
+    "criteria": {
+      "has_item": "2023-11-26 20:00:21 +0100"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:andesite_cobblestone_from_rocks": {
+    "criteria": {
+      "has_item": "2023-11-26 20:03:36 +0100"
     },
     "done": true
   },
@@ -1831,6 +1964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-25 20:14:49 +0100"
@@ -1867,6 +2006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2023-11-19 15:18:15 +0100"
@@ -1897,6 +2042,12 @@
     },
     "done": true
   },
+  "notreepunching:granite_cobblestone_from_rocks": {
+    "criteria": {
+      "has_item": "2023-11-26 20:06:22 +0100"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "pick_head": "2023-11-15 20:00:17 +0100"
@@ -1918,6 +2069,12 @@
   "tconstruct:recipes/tconstruct/general/tables/tinkers_forge": {
     "criteria": {
       "has_item": "2023-11-25 18:07:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2023-11-26 19:21:47 +0100"
     },
     "done": true
   },
@@ -2101,6 +2258,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/raw_iron_block": {
+    "criteria": {
+      "has_the_recipe": "2023-11-26 19:21:57 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2023-11-13 18:11:06 +0100"
@@ -2110,6 +2273,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/axe_steel": {
     "criteria": {
       "has_steel_ingot": "2023-11-16 17:42:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
     },
     "done": true
   },
@@ -2233,6 +2402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2023-11-26 19:21:49 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2023-11-16 17:50:58 +0100"
@@ -2281,6 +2456,12 @@
     },
     "done": true
   },
+  "notreepunching:oak_planks_with_saw": {
+    "criteria": {
+      "has_item": "2023-11-26 19:21:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2023-11-15 19:55:23 +0100"
@@ -2302,6 +2483,24 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2023-11-22 16:05:34 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:diamond_mattock": {
+    "criteria": {
+      "has_item": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
     },
     "done": true
   },
@@ -2404,6 +2603,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2023-11-15 19:53:08 +0100"
@@ -2419,6 +2624,12 @@
   "tconstruct:recipes/tconstruct/general/common/iron_platform": {
     "criteria": {
       "has_bars": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
     },
     "done": true
   },
@@ -2509,6 +2720,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_lead_from_blasting": {
     "criteria": {
       "has_ore_lead": "2023-11-15 19:54:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
     },
     "done": true
   },
@@ -2717,9 +2934,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/terracotta_gauge": {
     "criteria": {
       "has_cistern": "2023-11-13 19:11:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2023-11-26 19:21:01 +0100"
     },
     "done": true
   },
@@ -2744,6 +2973,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2023-11-13 17:38:04 +0100"
+    },
+    "done": true
+  },
+  "tardim:recipes/panel_lever": {
+    "criteria": {
+      "has_lever": "2023-11-26 19:47:28 +0100"
     },
     "done": true
   },
@@ -2861,6 +3096,12 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2023-11-26 20:22:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2023-11-13 17:31:49 +0100"
@@ -2974,6 +3215,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-11-13 18:04:31 +0100"
@@ -2983,6 +3230,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2023-11-13 17:32:37 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2023-11-26 19:22:02 +0100"
     },
     "done": true
   },
@@ -3112,6 +3365,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/diamond_block": {
+    "criteria": {
+      "has_the_recipe": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/component_steel": {
     "criteria": {
       "has_steel_ingot": "2023-11-16 17:42:06 +0100"
@@ -3139,6 +3398,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2023-11-13 17:31:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2023-11-26 19:22:02 +0100"
     },
     "done": true
   },
