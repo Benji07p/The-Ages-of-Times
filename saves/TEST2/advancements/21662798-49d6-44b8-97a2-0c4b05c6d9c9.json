@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2023-11-27 15:05:14 +0100"
+    },
+    "done": true
+  },
   "notreepunching:clay_tool": {
     "criteria": {
       "has_item": "2023-11-13 20:29:39 +0100"
@@ -128,6 +134,12 @@
   "alchemistry:recipes/alchemistry/liquifier": {
     "criteria": {
       "has_item": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2023-11-27 12:16:52 +0100"
     },
     "done": true
   },
@@ -709,6 +721,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2023-11-27 13:33:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2023-11-13 17:31:48 +0100"
@@ -761,6 +779,12 @@
   "notreepunching:diamond_knife": {
     "criteria": {
       "has_item": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2023-11-27 15:10:18 +0100"
     },
     "done": true
   },
@@ -1808,6 +1832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-11-27 15:10:18 +0100"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2023-11-16 17:50:58 +0100"
@@ -1865,6 +1895,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_silver2": {
     "criteria": {
       "has_deepslate_ore_silver": "2023-11-15 19:55:57 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/white_sailfrom_conversion": {
+    "criteria": {
+      "has_item": "2023-11-27 15:02:04 +0100"
     },
     "done": true
   },
@@ -2952,6 +2988,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2023-11-27 15:02:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2023-11-21 18:40:29 +0100"
@@ -3159,6 +3201,12 @@
   "create:recipes/food/crafting/curiosities/cake": {
     "criteria": {
       "has_item": "2023-11-15 18:00:32 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2023-11-27 14:59:15 +0100"
     },
     "done": true
   },
