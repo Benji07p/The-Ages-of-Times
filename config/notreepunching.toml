@@ -2,22 +2,22 @@
 [worldgen]
 
     # Enables loose rock world gen added automatically to biomes.
-    enableLooseRocksWorldGen = false
+    enableLooseRocksWorldGen = true
 
 
 [blockHarvesting]
 
     # If blocks are mineable without the correct tool.
-    doBlocksMineWithoutCorrectTool = false
+    doBlocksMineWithoutCorrectTool = true
 
     # If blocks drop their items without the correct tool.
-    doBlocksDropWithoutCorrectTool = true
+    doBlocksDropWithoutCorrectTool = false
 
     # If blocks that break instantly are mineable without the correct tool.
     doInstantBreakBlocksDropWithoutCorrectTool = true
 
     # If blocks that break instantly drop their items without the correct tool.
-    doInstantBreakBlocksMineWithoutCorrectTool = true
+    doInstantBreakBlocksMineWithoutCorrectTool = false
 
     # If blocks such as tall grass which break instantly consume durability when broken with a knife (only affects No Tree Punching knives)
     doInstantBreakBlocksDamageKnives = true
@@ -31,17 +31,17 @@
 
     # The chance to produce flint shards if a piece of flint has been consumed while knapping
     # Range: [0.0, 1.0]
-    flintKnappingSuccessChance = 0.7
+    flintKnappingSuccessChance = 0.8
 
     # The chance for a fire starter to start fires
     # Range: [0.0, 1.0]
     fireStarterFireStartChance = 1.0
 
     # If the fire starter can be used to make a campfire (with one '#notreepunching:fire_starter_logs' and three '#notreepunching:fire_starter_kindling'
-    fireStarterCanMakeCampfire = true
+    fireStarterCanMakeCampfire = false
 
     # If the fire starter can be used to make a soul campfire (with one '#notreepunching:fire_starter_logs', three '#notreepunching:fire_starter_kindling', and one '#notreepunching:fire_starter_soul_fire_catalyst'
-    fireStarterCanMakeSoulCampfire = true
+    fireStarterCanMakeSoulCampfire = false
 
     # If the large ceramic vessel block keeps it's contents when broken (as opposed to dropping them on the ground
     largeVesselKeepsContentsWhenBroken = true
