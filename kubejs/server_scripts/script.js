@@ -31,6 +31,17 @@ onEvent('recipes', event => {
 	], {
 	F: 'minecraft:iron_ingot'
 	})
+
+	//Sleeping Bag
+	event.remove({ id: 'sleeping_bags:brown_sleeping_bag' })
+	event.shaped('sleeping_bags:brown_sleeping_bag', [
+		'  F',
+		' L ',
+		'L  '
+	], {
+	F: 'multibeds:feather_pile',
+	L: 'minecraft:leather'
+	})
 	
 	//Crafting Table Base
 	event.custom(
