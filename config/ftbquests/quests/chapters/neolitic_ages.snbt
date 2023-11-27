@@ -35,6 +35,7 @@
 			}]
 		}
 		{
+			title: "Sleep"
 			x: 12.0d
 			y: 2.0d
 			dependencies: ["6FD8DFAEB68BB067"]
