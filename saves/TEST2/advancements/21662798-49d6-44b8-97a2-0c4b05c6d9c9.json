@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stove": {
     "criteria": {
       "has_campfire": "2023-11-13 17:28:44 +0100"
@@ -344,6 +350,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/fluid_pipe": {
     "criteria": {
       "has_iron_plate": "2023-11-16 17:51:14 +0100"
+    },
+    "done": true
+  },
+  "tardim:tardim/craft_tardim": {
+    "criteria": {
+      "get_tardim": "2023-11-27 16:01:30 +0100"
     },
     "done": true
   },
@@ -697,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2023-11-13 20:29:39 +0100"
@@ -833,6 +851,12 @@
   "ceramics:recipes/ceramics/terracotta_cistern_kiln": {
     "criteria": {
       "has_item": "2023-11-13 20:36:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
     },
     "done": true
   },
@@ -977,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2023-11-16 13:11:03 +0100"
@@ -1109,6 +1139,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2023-11-13 17:39:23 +0100"
+    },
+    "done": true
+  },
+  "beyond_earth:rocket_advancement": {
+    "criteria": {
+      "rocket_advancement": "2023-11-27 16:05:33 +0100"
     },
     "done": true
   },
@@ -1325,6 +1361,12 @@
   "ceramics:recipes/ceramics/lime_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2023-11-13 19:11:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
     },
     "done": true
   },
@@ -1675,6 +1717,12 @@
     },
     "done": true
   },
+  "electrodynamics:root": {
+    "criteria": {
+      "HasCraftingTable": "2023-11-27 15:36:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-11-15 19:55:23 +0100"
@@ -1916,6 +1964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-11-27 16:39:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2023-11-19 15:18:17 +0100"
@@ -1988,6 +2042,12 @@
     },
     "done": true
   },
+  "woodenhopper:recipes/redstone/wooden_hopper": {
+    "criteria": {
+      "has_chest": "2023-11-27 15:36:26 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_stick": "2023-11-13 20:29:39 +0100"
@@ -2003,6 +2063,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
     },
     "done": true
   },
@@ -2033,6 +2099,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2023-11-21 18:42:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
     },
     "done": true
   },
@@ -2324,6 +2396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2023-11-15 13:24:16 +0100"
@@ -2534,6 +2612,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2023-11-27 15:36:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-11-26 19:22:02 +0100"
@@ -2579,6 +2663,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2023-11-19 15:18:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
     },
     "done": true
   },
@@ -2666,6 +2756,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
     },
     "done": true
   },
@@ -2946,6 +3042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
+    },
+    "done": true
+  },
   "electrodynamics:electrodynamics/guidebook": {
     "criteria": {
       "spawn": "2023-11-13 17:28:50 +0100"
@@ -2997,6 +3099,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2023-11-21 18:40:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-11-27 15:36:25 +0100"
     },
     "done": true
   },
@@ -3090,6 +3198,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2023-11-27 15:36:25 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
     "criteria": {
       "has_iron_plate": "2023-11-16 17:51:14 +0100"
@@ -3129,6 +3243,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_drum": {
     "criteria": {
       "has_ingot_steel": "2023-11-16 17:42:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
     },
     "done": true
   },
@@ -3195,6 +3315,12 @@
   "immersiveengineering:main/main_root": {
     "criteria": {
       "has_item": "2023-11-13 17:28:44 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_cactus_with_knife": {
+    "criteria": {
+      "has_item": "2023-11-27 16:39:19 +0100"
     },
     "done": true
   },
@@ -3341,6 +3467,12 @@
     },
     "done": true
   },
+  "tardim:tardim/enter_tardim": {
+    "criteria": {
+      "enter_tardim": "2023-11-27 16:05:15 +0100"
+    },
+    "done": true
+  },
   "atum:core/itbelongsinamuseum": {
     "criteria": {
       "isis_division": "2023-11-13 17:28:44 +0100",
@@ -3443,6 +3575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2023-11-13 17:31:49 +0100"
@@ -3467,6 +3605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2023-11-13 20:29:39 +0100"
@@ -3482,6 +3626,12 @@
   "notreepunching:iron_mattock": {
     "criteria": {
       "has_item": "2023-11-16 17:50:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-11-27 16:38:47 +0100"
     },
     "done": true
   },
