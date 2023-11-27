@@ -108,13 +108,21 @@
 			}]
 		}
 		{
+			title: "Loose Rock"
 			x: -7.0d
 			y: -0.5d
 			id: "39E68F7EA58A33AE"
 			tasks: [{
 				id: "0595B19A44BE80A5"
 				type: "item"
-				item: "notreepunching:stone_loose_rock"
+				title: "Any #notreepunching:loose_rocks"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "notreepunching:loose_rocks"
+					}
+				}
 			}]
 		}
 		{
