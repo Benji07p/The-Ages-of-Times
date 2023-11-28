@@ -121,6 +121,12 @@ onEvent('item.tags', event => {
 	event.get('forge:wires/copper').add('electrodynamics:wirecopper')
 	event.get('immersiveengineering:circuits/solder').add('electrodynamics:wirecopper')
 	event.get('forge:salt').add('electrodynamics:dustsalt')
+	event.get('forge:wires').add('electrodynamics:wireiron')
+	event.get('forge:wires/all_metal').add('electrodynamics:wireiron')
+	event.get('forge:wires/iron').add('electrodynamics:wireiron')
+	event.get('forge:wires').add('electrodynamics:wiregold')
+	event.get('forge:wires/all_metal').add('electrodynamics:wiregold')
+	event.get('forge:wires/gold').add('electrodynamics:wiregold')
 
 	// Retiré les Tags
 	//Cuivre
@@ -191,10 +197,16 @@ onEvent('item.tags', event => {
 	event.get('forge:rods/iron').remove(['immersiveengineering:stick_iron', 'createaddition:iron_rod', 'car:iron_stick'])
 	event.get('forge:rods').remove('createaddition:iron_rod')
 	event.get('forge:rods/all_metal').remove('createaddition:iron_rod')
+	event.get('forge:wires').remove('createaddition:iron_wire')
+	event.get('forge:wires/all_metal').remove('createaddition:iron_wire')
+	event.get('forge:wires/iron').remove('createaddition:iron_wire')
 
 	//Or
 	event.get('forge:plates/gold').remove(['chemlib:gold_plate', 'immersiveengineering:plate_gold'])
 	event.get('forge:dusts/gold').remove(['chemlib:gold_dust', 'immersiveengineering:dust_gold'])
+	event.get('forge:wires').remove('createaddition:gold_wire')
+	event.get('forge:wires/all_metal').remove('createaddition:gold_wire')
+	event.get('forge:wires/gold').remove('createaddition:gold_wire')
 
 	//Electrum
 	event.get('forge:plates/electrum').remove('createaddition:electrum_sheet')

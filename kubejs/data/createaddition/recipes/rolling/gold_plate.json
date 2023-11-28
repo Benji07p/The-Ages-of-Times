@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:plates/gold"
+	},
+	"result": {
+		"item": "electrodynamics:wiregold",
+		"count": 2
+	}
+}
