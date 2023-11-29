@@ -1,5 +1,5 @@
 #Whether immersives on anvils should be allowed
-anvil_immersion = true
+anvil_immersion = false
 #Whether immersives on brewing stands should be allowed
 brewing_immersion = false
 #Whether immersives on all types of chests should be allowed. Unless users enable right_click_chest, this is VR only.
@@ -84,9 +84,9 @@ item_guide_selected_color = 855703296
 #Range: 0 ~ 4294967295
 ranged_grab_color = 4278255615
 #Disable vanilla GUIs when their respective immersive is enabled
-disable_vanilla_interactions = false
+disable_vanilla_interactions = true
 #Whether immersives for smithing tables should be allowed.
-smithing_table_immersion = true
+smithing_table_immersion = false
 #Whether immersives for written books should be allowed.
 written_book_immersion = true
 #Whether immersives for cauldrons should be allowed.

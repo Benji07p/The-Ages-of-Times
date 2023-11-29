@@ -32,6 +32,21 @@ onEvent('recipes', event => {
 	F: 'minecraft:iron_ingot'
 	})
 
+	//Crafting Table
+	event.remove({ id: 'mctb:spruce_crafting_table' })
+	event.remove({ id: 'mctb:birch_crafting_table' })
+	event.remove({ id: 'mctb:acacia_crafting_table' })
+	event.remove({ id: 'mctb:jungle_crafting_table' })
+	event.remove({ id: 'mctb:dark_oak_crafting_table' })
+	event.remove({ id: 'mctb:crimson_crafting_table' })
+	event.remove({ id: 'mctb:warped_crafting_table' })
+	event.shaped('mctb:spruce_crafting_table', [
+		' BB',
+		' BB'
+	], {
+	B: '#minecraft:planks'
+	})
+
 	//Sleeping Bag
 	event.remove({ id: 'sleeping_bags:brown_sleeping_bag' })
 	event.shaped('sleeping_bags:brown_sleeping_bag', [
@@ -42,20 +57,16 @@ onEvent('recipes', event => {
 	F: 'multibeds:feather_pile',
 	L: 'minecraft:leather'
 	})
-	
-	//Crafting Table Base
-	event.custom(
-		{
-			"type": "lychee:block_interacting",
-			"item_in": {
-				"item": "air"
-			},
-			"block_in": "crafting_table",
-			"post": {
-				"type": "prevent_default"
-			}
-		}
-    )
+
+	//Lit en foin
+	event.shaped(Item.of('multibeds:slab', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_lime",tag:{pattern:"stripes"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:3250s,rgbsimple:4b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:3250s,rgbsimple:4b}},texture_item:{Count:1b,id:"minecraft:hay_block"}}}'), [
+		'   ',
+		'LLL',
+		'HHH'
+	], {
+	H: 'minecraft:hay_block',
+	L: '#minecraft:leaves'
+	})
 
 	//Cutting board
 	event.custom(
