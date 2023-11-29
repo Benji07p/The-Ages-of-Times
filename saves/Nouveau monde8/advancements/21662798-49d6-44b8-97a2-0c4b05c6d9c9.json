@@ -1,631 +1,674 @@
 {
+  "ae2:recipes/ae2.main/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2023-11-29 15:39:24 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "ceramicshears:recipes/misc/ceramic_shears_part": {
     "criteria": {
-      "has_clay": "2023-11-25 19:24:39 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
-    "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_clay": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
   "atum:core/thefullmuseum": {
     "criteria": {
-      "isis_division": "2023-11-25 19:24:39 +0100",
-      "nepthys_banishing": "2023-11-25 19:24:39 +0100",
-      "anubis_wrath": "2023-11-25 19:24:39 +0100",
-      "seths_venom": "2023-11-25 19:24:39 +0100",
-      "body_of_ra": "2023-11-25 19:24:39 +0100",
-      "montus_strike": "2023-11-25 19:24:39 +0100",
-      "ptahs_decadence": "2023-11-25 19:24:39 +0100",
-      "horus_soaring": "2023-11-25 19:24:39 +0100",
-      "tefnuts_call": "2023-11-25 19:24:39 +0100",
-      "shus_exile": "2023-11-25 19:24:39 +0100",
-      "osiris_blessing": "2023-11-25 19:24:39 +0100",
-      "seths_sting": "2023-11-25 19:24:39 +0100",
-      "shus_breath": "2023-11-25 19:24:39 +0100",
-      "anputs_hunger": "2023-11-25 19:24:39 +0100",
-      "feet_of_ra": "2023-11-25 19:24:39 +0100",
-      "nuits_vanishing": "2023-11-25 19:24:39 +0100",
-      "nepthys_guard": "2023-11-25 19:24:39 +0100",
-      "legs_of_ra": "2023-11-25 19:24:39 +0100",
-      "anputs_grounding": "2023-11-25 19:24:39 +0100",
-      "shus_swiftness": "2023-11-25 19:24:39 +0100",
-      "montus_blast": "2023-11-25 19:24:39 +0100",
-      "atems_homecoming": "2023-11-25 19:24:39 +0100",
-      "atems_will": "2023-11-25 19:24:39 +0100",
-      "nuits_quarter": "2023-11-25 19:24:39 +0100",
-      "gebs_toil": "2023-11-25 19:24:39 +0100",
-      "atems_bounty": "2023-11-25 19:24:39 +0100",
-      "eyes_of_atem": "2023-11-25 19:24:39 +0100",
-      "osiris_mercy": "2023-11-25 19:24:39 +0100",
-      "feet_of_atem": "2023-11-25 19:24:39 +0100",
-      "halo_of_ra": "2023-11-25 19:24:39 +0100",
-      "body_of_atem": "2023-11-25 19:24:39 +0100",
-      "gebs_undoing": "2023-11-25 19:24:39 +0100",
-      "nuits_ire": "2023-11-25 19:24:39 +0100",
-      "tefnuts_rain": "2023-11-25 19:24:39 +0100",
-      "horus_ascension": "2023-11-25 19:24:39 +0100",
-      "ras_step": "2023-11-25 19:24:39 +0100",
-      "legs_of_atem": "2023-11-25 19:24:39 +0100",
-      "atems_protection": "2023-11-25 19:24:39 +0100",
-      "ras_fury": "2023-11-25 19:24:39 +0100",
-      "gebs_might": "2023-11-25 19:24:39 +0100",
-      "isis_healing": "2023-11-25 19:24:39 +0100"
+      "isis_division": "2023-11-29 15:28:53 +0100",
+      "nepthys_banishing": "2023-11-29 15:28:53 +0100",
+      "anubis_wrath": "2023-11-29 15:28:53 +0100",
+      "seths_venom": "2023-11-29 15:28:53 +0100",
+      "body_of_ra": "2023-11-29 15:28:53 +0100",
+      "montus_strike": "2023-11-29 15:28:53 +0100",
+      "ptahs_decadence": "2023-11-29 15:28:53 +0100",
+      "horus_soaring": "2023-11-29 15:28:53 +0100",
+      "tefnuts_call": "2023-11-29 15:28:53 +0100",
+      "shus_exile": "2023-11-29 15:28:53 +0100",
+      "osiris_blessing": "2023-11-29 15:28:53 +0100",
+      "seths_sting": "2023-11-29 15:28:53 +0100",
+      "shus_breath": "2023-11-29 15:28:53 +0100",
+      "anputs_hunger": "2023-11-29 15:28:53 +0100",
+      "feet_of_ra": "2023-11-29 15:28:53 +0100",
+      "nuits_vanishing": "2023-11-29 15:28:53 +0100",
+      "nepthys_guard": "2023-11-29 15:28:53 +0100",
+      "legs_of_ra": "2023-11-29 15:28:53 +0100",
+      "anputs_grounding": "2023-11-29 15:28:53 +0100",
+      "shus_swiftness": "2023-11-29 15:28:53 +0100",
+      "montus_blast": "2023-11-29 15:28:53 +0100",
+      "atems_homecoming": "2023-11-29 15:28:53 +0100",
+      "atems_will": "2023-11-29 15:28:53 +0100",
+      "nuits_quarter": "2023-11-29 15:28:53 +0100",
+      "gebs_toil": "2023-11-29 15:28:53 +0100",
+      "atems_bounty": "2023-11-29 15:28:53 +0100",
+      "eyes_of_atem": "2023-11-29 15:28:53 +0100",
+      "osiris_mercy": "2023-11-29 15:28:53 +0100",
+      "feet_of_atem": "2023-11-29 15:28:53 +0100",
+      "halo_of_ra": "2023-11-29 15:28:53 +0100",
+      "body_of_atem": "2023-11-29 15:28:53 +0100",
+      "gebs_undoing": "2023-11-29 15:28:53 +0100",
+      "nuits_ire": "2023-11-29 15:28:53 +0100",
+      "tefnuts_rain": "2023-11-29 15:28:53 +0100",
+      "horus_ascension": "2023-11-29 15:28:53 +0100",
+      "ras_step": "2023-11-29 15:28:53 +0100",
+      "legs_of_atem": "2023-11-29 15:28:53 +0100",
+      "atems_protection": "2023-11-29 15:28:53 +0100",
+      "ras_fury": "2023-11-29 15:28:53 +0100",
+      "gebs_might": "2023-11-29 15:28:53 +0100",
+      "isis_healing": "2023-11-29 15:28:53 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/cut_copper_slab_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
+  "ae2:recipes/ae2.main/shaped/walls/sky_stone_block": {
     "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+  "ae2:recipes/ae2.main/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/combat/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "atum:core/radyforaction": {
     "criteria": {
-      "feet_of_ra": "2023-11-25 19:24:39 +0100",
-      "body_of_ra": "2023-11-25 19:24:39 +0100",
-      "legs_of_ra": "2023-11-25 19:24:39 +0100",
-      "halo_of_ra": "2023-11-25 19:24:39 +0100"
+      "feet_of_ra": "2023-11-29 15:28:53 +0100",
+      "body_of_ra": "2023-11-29 15:28:53 +0100",
+      "legs_of_ra": "2023-11-29 15:28:53 +0100",
+      "halo_of_ra": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
-      "crafted_book": "2023-11-25 19:24:39 +0100"
+      "crafted_book": "2023-11-29 15:28:53 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2023-11-29 15:39:24 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/compass": {
+    "criteria": {
+      "compass": "2023-11-29 15:32:48 +0100"
+    },
+    "done": true
+  },
+  "beyond_earth:moon_advancement": {
+    "criteria": {
+      "moon_advancement": "2023-11-29 15:31:37 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "tconstruct:internal/starting_book": {
     "criteria": {
-      "tick": "2023-11-25 19:24:39 +0100"
+      "tick": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_to_block": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
-    },
-    "done": true
-  },
-  "alchemistry:recipes/dissolver/stone": {
-    "criteria": {
-      "has_the_recipe": "2023-11-25 19:25:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2023-11-25 19:25:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "astikorcarts:recipes/animal_cart": {
     "criteria": {
-      "has_wheel": "2023-11-25 19:24:39 +0100"
+      "has_wheel": "2023-11-29 15:28:53 +0100"
+    },
+    "done": true
+  },
+  "beyond_earth:rocket_tier_2_advancement": {
+    "criteria": {
+      "rocket_tier_2_advancement": "2023-11-29 15:29:44 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/weathered_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:plains": "2023-11-25 19:24:33 +0100"
+      "minecraft:frozen_river": "2023-11-29 15:29:29 +0100",
+      "minecraft:snowy_plains": "2023-11-29 15:29:31 +0100",
+      "minecraft:snowy_taiga": "2023-11-29 15:28:45 +0100"
     },
     "done": false
   },
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "atum:core/atumed": {
     "criteria": {
-      "eyes_of_atem": "2023-11-25 19:24:39 +0100",
-      "legs_of_atem": "2023-11-25 19:24:39 +0100",
-      "feet_of_atem": "2023-11-25 19:24:39 +0100",
-      "body_of_atem": "2023-11-25 19:24:39 +0100"
+      "eyes_of_atem": "2023-11-29 15:28:53 +0100",
+      "legs_of_atem": "2023-11-29 15:28:53 +0100",
+      "feet_of_atem": "2023-11-29 15:28:53 +0100",
+      "body_of_atem": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+  "beyond_earth:rocket_advancement": {
     "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "rocket_advancement": "2023-11-29 15:29:43 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_block_to_items": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_slab_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
-  "ceramics:recipes/building_blocks/stone_kiln": {
+  "ae2:recipes/tools/tools/certus_quartz_wrench": {
     "criteria": {
-      "has_item": "2023-11-25 19:25:31 +0100"
+      "has_certus_quartz": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "ae2:recipes/tools/tools/certus_quartz_axe": {
     "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "has_certus_quartz": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_slab_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "ae2:main/quartz_crystal": {
     "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "certus": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "atum:core/justlikenew": {
     "criteria": {
-      "gold_brooch": "2023-11-25 19:24:39 +0100",
-      "ruby_ring": "2023-11-25 19:24:39 +0100",
-      "silver_necklace": "2023-11-25 19:24:39 +0100",
-      "diamond_idol": "2023-11-25 19:24:39 +0100",
-      "diamond_brooch": "2023-11-25 19:24:39 +0100",
-      "diamond_necklace": "2023-11-25 19:24:39 +0100",
-      "gold_ring": "2023-11-25 19:24:39 +0100",
-      "sapphire_brooch": "2023-11-25 19:24:39 +0100",
-      "emerald_brooch": "2023-11-25 19:24:39 +0100",
-      "sapphire_necklace": "2023-11-25 19:24:39 +0100",
-      "ruby_idol": "2023-11-25 19:24:39 +0100",
-      "emerald_bracelet": "2023-11-25 19:24:39 +0100",
-      "emerald_ring": "2023-11-25 19:24:39 +0100",
-      "sapphire_idol": "2023-11-25 19:24:39 +0100",
-      "diamond_bracelet": "2023-11-25 19:24:39 +0100",
-      "silver_bracelet": "2023-11-25 19:24:39 +0100",
-      "sapphire_ring": "2023-11-25 19:24:39 +0100",
-      "gold_necklace": "2023-11-25 19:24:39 +0100",
-      "ruby_bracelet": "2023-11-25 19:24:39 +0100",
-      "emerald_idol": "2023-11-25 19:24:39 +0100",
-      "silver_idol": "2023-11-25 19:24:39 +0100",
-      "gold_idol": "2023-11-25 19:24:39 +0100",
-      "sapphire_bracelet": "2023-11-25 19:24:39 +0100",
-      "silver_ring": "2023-11-25 19:24:39 +0100",
-      "ruby_brooch": "2023-11-25 19:24:39 +0100",
-      "ruby_necklace": "2023-11-25 19:24:39 +0100",
-      "diamond_ring": "2023-11-25 19:24:39 +0100",
-      "gold_bracelet": "2023-11-25 19:24:39 +0100",
-      "emerald_necklace": "2023-11-25 19:24:39 +0100",
-      "silver_brooch": "2023-11-25 19:24:39 +0100"
+      "gold_brooch": "2023-11-29 15:28:53 +0100",
+      "ruby_ring": "2023-11-29 15:28:53 +0100",
+      "silver_necklace": "2023-11-29 15:28:53 +0100",
+      "diamond_idol": "2023-11-29 15:28:53 +0100",
+      "diamond_brooch": "2023-11-29 15:28:53 +0100",
+      "diamond_necklace": "2023-11-29 15:28:53 +0100",
+      "gold_ring": "2023-11-29 15:28:53 +0100",
+      "sapphire_brooch": "2023-11-29 15:28:53 +0100",
+      "emerald_brooch": "2023-11-29 15:28:53 +0100",
+      "sapphire_necklace": "2023-11-29 15:28:53 +0100",
+      "ruby_idol": "2023-11-29 15:28:53 +0100",
+      "emerald_bracelet": "2023-11-29 15:28:53 +0100",
+      "emerald_ring": "2023-11-29 15:28:53 +0100",
+      "sapphire_idol": "2023-11-29 15:28:53 +0100",
+      "diamond_bracelet": "2023-11-29 15:28:53 +0100",
+      "silver_bracelet": "2023-11-29 15:28:53 +0100",
+      "sapphire_ring": "2023-11-29 15:28:53 +0100",
+      "gold_necklace": "2023-11-29 15:28:53 +0100",
+      "ruby_bracelet": "2023-11-29 15:28:53 +0100",
+      "emerald_idol": "2023-11-29 15:28:53 +0100",
+      "silver_idol": "2023-11-29 15:28:53 +0100",
+      "gold_idol": "2023-11-29 15:28:53 +0100",
+      "sapphire_bracelet": "2023-11-29 15:28:53 +0100",
+      "silver_ring": "2023-11-29 15:28:53 +0100",
+      "ruby_brooch": "2023-11-29 15:28:53 +0100",
+      "ruby_necklace": "2023-11-29 15:28:53 +0100",
+      "diamond_ring": "2023-11-29 15:28:53 +0100",
+      "gold_bracelet": "2023-11-29 15:28:53 +0100",
+      "emerald_necklace": "2023-11-29 15:28:53 +0100",
+      "silver_brooch": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_slab_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
-    "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "antiqueatlas:recipes/atlas_new": {
     "criteria": {
-      "has_compass": "2023-11-25 19:24:39 +0100"
+      "has_compass": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+  "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
     "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/cut_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
-    "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "astikorcarts:recipes/plow": {
     "criteria": {
-      "has_wheel": "2023-11-25 19:24:39 +0100"
+      "has_wheel": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
     "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2023-11-25 19:24:39 +0100"
+      "seeds": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_icebreaker": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_block_to_items": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/projector": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
+  "ae2:recipes/ae2.main/decorative/certus_quartz_block": {
     "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "has_certus_crystal": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
-  "alchemistry:recipes/dissolver/cobblestone_slab": {
+  "ae2:recipes/ae2.main/smelting/smooth_sky_stone_block": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:25:31 +0100"
+      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "atum:core/itbelongsinamuseum": {
     "criteria": {
-      "isis_division": "2023-11-25 19:24:39 +0100",
-      "anubis_wrath": "2023-11-25 19:24:39 +0100",
-      "seths_venom": "2023-11-25 19:24:39 +0100",
-      "body_of_ra": "2023-11-25 19:24:39 +0100",
-      "montus_strike": "2023-11-25 19:24:39 +0100",
-      "ptahs_decadence": "2023-11-25 19:24:39 +0100",
-      "horus_soaring": "2023-11-25 19:24:39 +0100",
-      "tefnuts_call": "2023-11-25 19:24:39 +0100",
-      "shus_exile": "2023-11-25 19:24:39 +0100",
-      "osiris_blessing": "2023-11-25 19:24:39 +0100",
-      "seths_sting": "2023-11-25 19:24:39 +0100",
-      "shus_breath": "2023-11-25 19:24:39 +0100",
-      "anputs_hunger": "2023-11-25 19:24:39 +0100",
-      "feet_of_ra": "2023-11-25 19:24:39 +0100",
-      "nuits_vanishing": "2023-11-25 19:24:39 +0100",
-      "legs_of_ra": "2023-11-25 19:24:39 +0100",
-      "anputs_grounding": "2023-11-25 19:24:39 +0100",
-      "shus_swiftness": "2023-11-25 19:24:39 +0100",
-      "montus_blast": "2023-11-25 19:24:39 +0100",
-      "atems_homecoming": "2023-11-25 19:24:39 +0100",
-      "atems_will": "2023-11-25 19:24:39 +0100",
-      "nuits_quarter": "2023-11-25 19:24:39 +0100",
-      "gebs_toil": "2023-11-25 19:24:39 +0100",
-      "atems_bounty": "2023-11-25 19:24:39 +0100",
-      "eyes_of_atem": "2023-11-25 19:24:39 +0100",
-      "osiris_mercy": "2023-11-25 19:24:39 +0100",
-      "feet_of_atem": "2023-11-25 19:24:39 +0100",
-      "halo_of_ra": "2023-11-25 19:24:39 +0100",
-      "body_of_atem": "2023-11-25 19:24:39 +0100",
-      "gebs_undoing": "2023-11-25 19:24:39 +0100",
-      "nuits_ire": "2023-11-25 19:24:39 +0100",
-      "tefnuts_rain": "2023-11-25 19:24:39 +0100",
-      "horus_ascension": "2023-11-25 19:24:39 +0100",
-      "legs_of_atem": "2023-11-25 19:24:39 +0100",
-      "ras_fury": "2023-11-25 19:24:39 +0100",
-      "gebs_might": "2023-11-25 19:24:39 +0100",
-      "isis_healing": "2023-11-25 19:24:39 +0100"
+      "isis_division": "2023-11-29 15:28:53 +0100",
+      "anubis_wrath": "2023-11-29 15:28:53 +0100",
+      "seths_venom": "2023-11-29 15:28:53 +0100",
+      "body_of_ra": "2023-11-29 15:28:53 +0100",
+      "montus_strike": "2023-11-29 15:28:53 +0100",
+      "ptahs_decadence": "2023-11-29 15:28:53 +0100",
+      "horus_soaring": "2023-11-29 15:28:53 +0100",
+      "tefnuts_call": "2023-11-29 15:28:53 +0100",
+      "shus_exile": "2023-11-29 15:28:53 +0100",
+      "osiris_blessing": "2023-11-29 15:28:53 +0100",
+      "seths_sting": "2023-11-29 15:28:53 +0100",
+      "shus_breath": "2023-11-29 15:28:53 +0100",
+      "anputs_hunger": "2023-11-29 15:28:53 +0100",
+      "feet_of_ra": "2023-11-29 15:28:53 +0100",
+      "nuits_vanishing": "2023-11-29 15:28:53 +0100",
+      "legs_of_ra": "2023-11-29 15:28:53 +0100",
+      "anputs_grounding": "2023-11-29 15:28:53 +0100",
+      "shus_swiftness": "2023-11-29 15:28:53 +0100",
+      "montus_blast": "2023-11-29 15:28:53 +0100",
+      "atems_homecoming": "2023-11-29 15:28:53 +0100",
+      "atems_will": "2023-11-29 15:28:53 +0100",
+      "nuits_quarter": "2023-11-29 15:28:53 +0100",
+      "gebs_toil": "2023-11-29 15:28:53 +0100",
+      "atems_bounty": "2023-11-29 15:28:53 +0100",
+      "eyes_of_atem": "2023-11-29 15:28:53 +0100",
+      "osiris_mercy": "2023-11-29 15:28:53 +0100",
+      "feet_of_atem": "2023-11-29 15:28:53 +0100",
+      "halo_of_ra": "2023-11-29 15:28:53 +0100",
+      "body_of_atem": "2023-11-29 15:28:53 +0100",
+      "gebs_undoing": "2023-11-29 15:28:53 +0100",
+      "nuits_ire": "2023-11-29 15:28:53 +0100",
+      "tefnuts_rain": "2023-11-29 15:28:53 +0100",
+      "horus_ascension": "2023-11-29 15:28:53 +0100",
+      "legs_of_atem": "2023-11-29 15:28:53 +0100",
+      "ras_fury": "2023-11-29 15:28:53 +0100",
+      "gebs_might": "2023-11-29 15:28:53 +0100",
+      "isis_healing": "2023-11-29 15:28:53 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
+  "ae2:main/presses": {
+    "criteria": {
+      "eng": "2023-11-29 15:39:24 +0100"
+    },
+    "done": false
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "ceramicshears:recipes/tools/ceramic_shears": {
     "criteria": {
-      "has_clay": "2023-11-25 19:24:39 +0100"
+      "has_clay": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/flarestack": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/oxidized_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/building_blocks/exposed_copper_paraffin_waxed": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_wool": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/decorations/candle": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "electrodynamics:electrodynamics/guidebook": {
     "criteria": {
-      "spawn": "2023-11-25 19:24:39 +0100"
+      "spawn": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2023-11-25 19:24:39 +0100"
+      "0": "2023-11-29 15:28:53 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
-    "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "atum:core/powerwasher": {
     "criteria": {
-      "gold_brooch": "2023-11-25 19:24:39 +0100",
-      "ruby_ring": "2023-11-25 19:24:39 +0100",
-      "silver_necklace": "2023-11-25 19:24:39 +0100",
-      "diamond_idol": "2023-11-25 19:24:39 +0100",
-      "diamond_brooch": "2023-11-25 19:24:39 +0100",
-      "diamond_necklace": "2023-11-25 19:24:39 +0100",
-      "gold_ring": "2023-11-25 19:24:39 +0100",
-      "sapphire_brooch": "2023-11-25 19:24:39 +0100",
-      "emerald_brooch": "2023-11-25 19:24:39 +0100",
-      "sapphire_necklace": "2023-11-25 19:24:39 +0100",
-      "ruby_idol": "2023-11-25 19:24:39 +0100",
-      "emerald_bracelet": "2023-11-25 19:24:39 +0100",
-      "emerald_ring": "2023-11-25 19:24:39 +0100",
-      "sapphire_idol": "2023-11-25 19:24:39 +0100",
-      "diamond_bracelet": "2023-11-25 19:24:39 +0100",
-      "silver_bracelet": "2023-11-25 19:24:39 +0100",
-      "sapphire_ring": "2023-11-25 19:24:39 +0100",
-      "gold_necklace": "2023-11-25 19:24:39 +0100",
-      "ruby_bracelet": "2023-11-25 19:24:39 +0100",
-      "emerald_idol": "2023-11-25 19:24:39 +0100",
-      "silver_idol": "2023-11-25 19:24:39 +0100",
-      "gold_idol": "2023-11-25 19:24:39 +0100",
-      "sapphire_bracelet": "2023-11-25 19:24:39 +0100",
-      "silver_ring": "2023-11-25 19:24:39 +0100",
-      "ruby_brooch": "2023-11-25 19:24:39 +0100",
-      "ruby_necklace": "2023-11-25 19:24:39 +0100",
-      "diamond_ring": "2023-11-25 19:24:39 +0100",
-      "gold_bracelet": "2023-11-25 19:24:39 +0100",
-      "emerald_necklace": "2023-11-25 19:24:39 +0100",
-      "silver_brooch": "2023-11-25 19:24:39 +0100"
+      "gold_brooch": "2023-11-29 15:28:53 +0100",
+      "ruby_ring": "2023-11-29 15:28:53 +0100",
+      "silver_necklace": "2023-11-29 15:28:53 +0100",
+      "diamond_idol": "2023-11-29 15:28:53 +0100",
+      "diamond_brooch": "2023-11-29 15:28:53 +0100",
+      "diamond_necklace": "2023-11-29 15:28:53 +0100",
+      "gold_ring": "2023-11-29 15:28:53 +0100",
+      "sapphire_brooch": "2023-11-29 15:28:53 +0100",
+      "emerald_brooch": "2023-11-29 15:28:53 +0100",
+      "sapphire_necklace": "2023-11-29 15:28:53 +0100",
+      "ruby_idol": "2023-11-29 15:28:53 +0100",
+      "emerald_bracelet": "2023-11-29 15:28:53 +0100",
+      "emerald_ring": "2023-11-29 15:28:53 +0100",
+      "sapphire_idol": "2023-11-29 15:28:53 +0100",
+      "diamond_bracelet": "2023-11-29 15:28:53 +0100",
+      "silver_bracelet": "2023-11-29 15:28:53 +0100",
+      "sapphire_ring": "2023-11-29 15:28:53 +0100",
+      "gold_necklace": "2023-11-29 15:28:53 +0100",
+      "ruby_bracelet": "2023-11-29 15:28:53 +0100",
+      "emerald_idol": "2023-11-29 15:28:53 +0100",
+      "silver_idol": "2023-11-29 15:28:53 +0100",
+      "gold_idol": "2023-11-29 15:28:53 +0100",
+      "sapphire_bracelet": "2023-11-29 15:28:53 +0100",
+      "silver_ring": "2023-11-29 15:28:53 +0100",
+      "ruby_brooch": "2023-11-29 15:28:53 +0100",
+      "ruby_necklace": "2023-11-29 15:28:53 +0100",
+      "diamond_ring": "2023-11-29 15:28:53 +0100",
+      "gold_bracelet": "2023-11-29 15:28:53 +0100",
+      "emerald_necklace": "2023-11-29 15:28:53 +0100",
+      "silver_brooch": "2023-11-29 15:28:53 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "antiqueatlas:recipes/atlas": {
     "criteria": {
-      "has_compass": "2023-11-25 19:24:39 +0100"
+      "has_compass": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
   "ceramicshears:recipes/misc/clay_shears_part": {
     "criteria": {
-      "has_clay": "2023-11-25 19:24:39 +0100",
-      "has_the_recipe": "2023-11-25 19:24:39 +0100"
+      "has_clay": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
-    "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "atum:core/root": {
     "criteria": {
-      "scarab": "2023-11-25 19:24:39 +0100"
+      "scarab": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "tempad:tempad": {
     "criteria": {
-      "has_cobblestone": "2023-11-25 19:25:31 +0100"
+      "requirement": "2023-11-29 15:29:57 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
+    "criteria": {
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
   "atum:core/aquaculture": {
     "criteria": {
-      "fish_jeweled": "2023-11-25 19:24:39 +0100",
-      "fish_mummified": "2023-11-25 19:24:39 +0100",
-      "fish_skeletal": "2023-11-25 19:24:39 +0100",
-      "fish_forsaken": "2023-11-25 19:24:39 +0100"
+      "fish_jeweled": "2023-11-29 15:28:53 +0100",
+      "fish_mummified": "2023-11-29 15:28:53 +0100",
+      "fish_skeletal": "2023-11-29 15:28:53 +0100",
+      "fish_forsaken": "2023-11-29 15:28:53 +0100"
     },
     "done": true
   },
   "astikorcarts:recipes/supply_cart": {
     "criteria": {
-      "has_wheel": "2023-11-25 19:24:39 +0100"
+      "has_wheel": "2023-11-29 15:28:53 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_tank": {
     "criteria": {
-      "has_the_recipe": "2023-11-25 19:24:33 +0100"
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },

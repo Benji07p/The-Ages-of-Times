@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2023-11-28 18:52:57 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/white_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -80,6 +86,12 @@
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/structurize/shapetool": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
     },
     "done": true
   },
@@ -155,6 +167,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:clay_tool": {
+    "criteria": {
+      "has_item": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/red_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -173,9 +197,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2023-11-06 17:27:16 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2023-11-28 18:42:20 +0100"
     },
     "done": true
   },
@@ -200,6 +236,18 @@
   "woodenhopper:recipes/redstone/wooden_hopper": {
     "criteria": {
       "has_chest": "2023-11-06 18:29:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
     },
     "done": true
   },
@@ -329,6 +377,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2023-11-28 18:52:59 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
   "tardim:tardim/craft_tardim": {
     "criteria": {
       "get_tardim": "2023-11-12 19:17:45 +0100"
@@ -421,6 +481,12 @@
       "gold_bracelet": "2023-11-06 17:24:58 +0100",
       "emerald_necklace": "2023-11-06 17:24:58 +0100",
       "silver_brooch": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-28 19:09:46 +0100"
     },
     "done": true
   },
@@ -595,6 +661,12 @@
     },
     "done": true
   },
+  "atum:core/enchantingevening": {
+    "criteria": {
+      "golden_date_enchanted": "2023-11-28 18:52:25 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/netherite_block": {
     "criteria": {
       "has_the_recipe": "2023-11-20 18:24:26 +0100"
@@ -637,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_block_to_items": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -646,6 +724,12 @@
   "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-11-28 18:52:25 +0100"
     },
     "done": true
   },
@@ -721,6 +805,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/ingot_lead_compat_mekanism": {
     "criteria": {
       "has_item": "2023-11-06 18:10:47 +0100"
@@ -754,6 +844,12 @@
   "notreepunching:sticks_from_logs_with_flint_axe": {
     "criteria": {
       "has_item": "2023-11-20 17:08:24 +0100"
+    },
+    "done": true
+  },
+  "atum:core/itsadate": {
+    "criteria": {
+      "date": "2023-11-28 18:52:25 +0100"
     },
     "done": true
   },
@@ -799,6 +895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-11-28 19:09:46 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/cyan_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -841,9 +943,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-28 18:52:57 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-11-20 20:48:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-11-28 19:09:46 +0100"
     },
     "done": true
   },
@@ -973,6 +1087,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2023-11-28 18:46:42 +0100"
+    },
+    "done": true
+  },
   "atum:core/root": {
     "criteria": {
       "scarab": "2023-11-06 17:24:58 +0100"
@@ -991,6 +1111,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-20 20:27:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-11-28 19:09:46 +0100"
     },
     "done": true
   },
@@ -1054,11 +1180,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
   "notreepunching:netherite_saw": {
     "criteria": {
       "has_item": "2023-11-20 18:24:26 +0100"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "honey_glazed_ham": "2023-11-28 18:52:34 +0100"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
     "criteria": {
@@ -1303,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/purple_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -1502,6 +1646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/pink_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -1548,6 +1698,12 @@
   "notreepunching:netherite_mattock": {
     "criteria": {
       "has_item": "2023-11-20 18:24:26 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:story/root": {
+    "criteria": {
+      "has_sticks": "2023-11-28 19:04:07 +0100"
     },
     "done": true
   },
@@ -1681,6 +1837,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/smooth_stone_kiln": {
     "criteria": {
       "has_item": "2023-11-20 20:44:15 +0100"
@@ -1765,6 +1927,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
     "criteria": {
       "has_bucket": "2023-11-20 17:09:39 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2023-11-28 19:09:46 +0100"
     },
     "done": true
   },
@@ -1884,6 +2052,12 @@
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/pattern": {
+    "criteria": {
+      "has_item": "2023-11-28 19:04:07 +0100"
     },
     "done": true
   },
@@ -2019,6 +2193,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2023-11-28 18:52:34 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -2037,6 +2217,12 @@
     },
     "done": true
   },
+  "atum:core/goldendatebridge": {
+    "criteria": {
+      "golden_date": "2023-11-28 18:52:25 +0100"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2023-11-06 18:11:53 +0100"
@@ -2052,6 +2238,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-20 19:53:52 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:story/find_sticks": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
     },
     "done": true
   },
@@ -2124,6 +2316,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2023-11-28 19:04:07 +0100"
     },
     "done": true
   },
