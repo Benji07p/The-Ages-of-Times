@@ -2402,6 +2402,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2023-11-29 21:24:41 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_wallmount": {
     "criteria": {
       "has_aluminum_ingot": "2023-11-29 21:26:06 +0100"
@@ -2411,12 +2417,6 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/plate_chestplate": {
     "criteria": {
       "has_item": "2023-11-29 21:26:57 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
-    "criteria": {
-      "has_coppper_ingot": "2023-11-29 21:24:41 +0100"
     },
     "done": true
   },
@@ -2696,15 +2696,15 @@
     },
     "done": true
   },
-  "ceramics:recipes/ceramics/golden_bricks_wall_gold": {
-    "criteria": {
-      "has_gold": "2023-11-29 21:24:42 +0100"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2023-11-29 21:24:41 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/golden_bricks_wall_gold": {
+    "criteria": {
+      "has_gold": "2023-11-29 21:24:42 +0100"
     },
     "done": true
   },
@@ -3648,15 +3648,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/wire_electrum": {
-    "criteria": {
-      "has_electrum_ingot": "2023-11-29 21:26:39 +0100"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2023-11-29 21:24:41 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2023-11-29 21:26:39 +0100"
     },
     "done": true
   },
