@@ -20,7 +20,7 @@
 			}]
 		}
 		{
-			x: 10.5d
+			x: 11.5d
 			y: 2.0d
 			description: [
 				"Craft :"
@@ -36,7 +36,7 @@
 		}
 		{
 			title: "Sleep"
-			x: 12.0d
+			x: 13.5d
 			y: 2.0d
 			dependencies: ["6FD8DFAEB68BB067"]
 			id: "657EE8471AFB1708"
@@ -47,8 +47,8 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: -1.0d
+			x: 13.5d
+			y: 0.5d
 			dependencies: ["3624C7AB1209A014"]
 			id: "6985942B4CE922E9"
 			tasks: [{
@@ -59,7 +59,7 @@
 		}
 		{
 			x: -1.5d
-			y: 0.5d
+			y: -1.0d
 			dependencies: ["3624C7AB1209A014"]
 			id: "1579C4B4610781B8"
 			tasks: [{
@@ -70,7 +70,7 @@
 		}
 		{
 			x: 0.0d
-			y: 0.5d
+			y: -1.0d
 			dependencies: ["1579C4B4610781B8"]
 			id: "0BF955A0B9039FB3"
 			tasks: [{
@@ -80,7 +80,7 @@
 			}]
 		}
 		{
-			x: 0.0d
+			x: 13.5d
 			y: 3.5d
 			dependencies: ["375BBA819B2003E9"]
 			id: "7ED4DAB4041E7B45"
@@ -109,7 +109,7 @@
 		}
 		{
 			x: 1.5d
-			y: 0.5d
+			y: -1.0d
 			dependencies: ["0BF955A0B9039FB3"]
 			id: "7D398B592448C5B3"
 			tasks: [{
@@ -120,11 +120,8 @@
 		}
 		{
 			x: 3.0d
-			y: 0.5d
-			dependencies: [
-				"3624C7AB1209A014"
-				"7D398B592448C5B3"
-			]
+			y: -1.0d
+			dependencies: ["7D398B592448C5B3"]
 			id: "1DE59A684222F15F"
 			tasks: [{
 				id: "68BC60E0B5EAD28B"
@@ -135,7 +132,7 @@
 		{
 			icon: "create:millstone"
 			x: 6.0d
-			y: 0.5d
+			y: -1.0d
 			dependencies: ["5A23AFEE1E409DA1"]
 			id: "34294DF550ED7E19"
 			tasks: [
@@ -153,7 +150,7 @@
 		}
 		{
 			x: 7.5d
-			y: 0.5d
+			y: -1.0d
 			dependencies: ["34294DF550ED7E19"]
 			id: "0D5FF20F873F3973"
 			tasks: [{
@@ -164,7 +161,7 @@
 		}
 		{
 			x: 10.5d
-			y: 0.5d
+			y: -1.0d
 			dependencies: ["5B18FA8A911F00FB"]
 			id: "5F542950BC9C4E0C"
 			tasks: [{
@@ -175,7 +172,7 @@
 		}
 		{
 			x: 13.5d
-			y: 0.5d
+			y: -1.0d
 			dependencies: ["2FD863C6549671FC"]
 			id: "5124A23E1B5DFB2B"
 			tasks: [{
@@ -186,7 +183,7 @@
 		}
 		{
 			x: 7.5d
-			y: -1.0d
+			y: -2.5d
 			dependencies: ["3365264EAFCD4C53"]
 			id: "05726342AF24ED86"
 			tasks: [{
@@ -197,7 +194,7 @@
 		}
 		{
 			x: 9.0d
-			y: -1.0d
+			y: -2.5d
 			dependencies: ["05726342AF24ED86"]
 			id: "433EF3AA2BABC782"
 			tasks: [{
@@ -208,7 +205,7 @@
 		}
 		{
 			x: 13.5d
-			y: -1.0d
+			y: -2.5d
 			dependencies: ["0610741ED371BC42"]
 			id: "7ED7FE0759518C38"
 			tasks: [{
@@ -219,7 +216,7 @@
 		}
 		{
 			x: 12.0d
-			y: -1.0d
+			y: -2.5d
 			dependencies: ["3F4E83D290051525"]
 			id: "0610741ED371BC42"
 			tasks: [{
@@ -231,7 +228,7 @@
 		{
 			title: "Cutting Board Automatisation"
 			x: 12.0d
-			y: 0.5d
+			y: -1.0d
 			description: ["Cutting Board Automatisation"]
 			dependencies: ["5F542950BC9C4E0C"]
 			id: "2FD863C6549671FC"
@@ -243,7 +240,7 @@
 		}
 		{
 			x: 4.5d
-			y: 0.5d
+			y: -1.0d
 			dependencies: ["1DE59A684222F15F"]
 			id: "5A23AFEE1E409DA1"
 			tasks: [{
@@ -254,7 +251,7 @@
 		}
 		{
 			x: 9.0d
-			y: 0.5d
+			y: -1.0d
 			dependencies: ["0D5FF20F873F3973"]
 			id: "5B18FA8A911F00FB"
 			tasks: [{
@@ -270,8 +267,8 @@
 			}]
 		}
 		{
-			x: 4.5d
-			y: -1.0d
+			x: 3.0d
+			y: -2.5d
 			dependencies: ["61C5BC73DD3C8E7A"]
 			id: "0442ECD99C0ADB34"
 			tasks: [{
@@ -282,7 +279,7 @@
 		}
 		{
 			x: 10.5d
-			y: -1.0d
+			y: -2.5d
 			dependencies: ["433EF3AA2BABC782"]
 			id: "3F4E83D290051525"
 			tasks: [{
@@ -292,7 +289,7 @@
 			}]
 		}
 		{
-			x: 9.0d
+			x: 10.0d
 			y: 2.0d
 			dependencies: ["2AD79C7B62DE9359"]
 			id: "07B17E7314EDB20C"
@@ -303,7 +300,7 @@
 			}]
 		}
 		{
-			x: 7.5d
+			x: 8.0d
 			y: 2.0d
 			dependencies: ["2B7910CBEEBCF514"]
 			id: "2AD79C7B62DE9359"
@@ -387,9 +384,9 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -1.0d
-			dependencies: ["6985942B4CE922E9"]
+			x: -1.5d
+			y: -2.5d
+			dependencies: ["3624C7AB1209A014"]
 			id: "7C0E5E048627A9C0"
 			tasks: [{
 				id: "117BB17086FF6F21"
@@ -398,8 +395,8 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: -1.0d
+			x: 0.0d
+			y: -2.5d
 			dependencies: ["7C0E5E048627A9C0"]
 			id: "61C5BC73DD3C8E7A"
 			tasks: [{
@@ -420,8 +417,8 @@
 					}
 				}
 			}
-			x: 6.0d
-			y: -1.0d
+			x: 4.5d
+			y: -2.5d
 			dependencies: ["0442ECD99C0ADB34"]
 			id: "3365264EAFCD4C53"
 			tasks: [{
