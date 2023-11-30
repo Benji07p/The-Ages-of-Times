@@ -187,7 +187,7 @@
 		{
 			x: 7.5d
 			y: -1.0d
-			dependencies: ["0442ECD99C0ADB34"]
+			dependencies: ["3365264EAFCD4C53"]
 			id: "05726342AF24ED86"
 			tasks: [{
 				id: "2F2D14CA7525A30D"
@@ -270,9 +270,9 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 4.5d
 			y: -1.0d
-			dependencies: ["6985942B4CE922E9"]
+			dependencies: ["61C5BC73DD3C8E7A"]
 			id: "0442ECD99C0ADB34"
 			tasks: [{
 				id: "2DC056E4B215971F"
@@ -384,6 +384,50 @@
 				id: "430B22CEF2026197"
 				type: "item"
 				item: "the_ages_of_times:hide_clean"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.0d
+			dependencies: ["6985942B4CE922E9"]
+			id: "7C0E5E048627A9C0"
+			tasks: [{
+				id: "117BB17086FF6F21"
+				type: "item"
+				item: "the_ages_of_times:fluidbladderempty"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -1.0d
+			dependencies: ["7C0E5E048627A9C0"]
+			id: "61C5BC73DD3C8E7A"
+			tasks: [{
+				id: "0029C8047BBEBF70"
+				type: "item"
+				item: "the_ages_of_times:fluidbladderfilled"
+			}]
+		}
+		{
+			icon: {
+				id: "woodenbucket:wooden_bucket"
+				Count: 1b
+				tag: {
+					Damage: 0
+					Fluid: {
+						FluidName: "minecraft:water"
+						Amount: 1000
+					}
+				}
+			}
+			x: 6.0d
+			y: -1.0d
+			dependencies: ["0442ECD99C0ADB34"]
+			id: "3365264EAFCD4C53"
+			tasks: [{
+				id: "6ACFADA35C27E093"
+				type: "checkmark"
+				title: "Get Water on Barrel"
 			}]
 		}
 	]
