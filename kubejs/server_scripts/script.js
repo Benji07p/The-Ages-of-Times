@@ -32,6 +32,26 @@ onEvent('recipes', event => {
 	F: 'minecraft:iron_ingot'
 	})
 
+	//Fluid Bladder
+	event.shaped('the_ages_of_times:fluidbladderempty', [
+		'MNM',
+		'SSS'
+	], {
+	M: 'minecraft:brown_dye',
+	N: 'minecraft:black_dye',
+	S: 'notreepunching:plant_string'
+	})
+
+	//Wooden Barrel
+	event.shaped('the_ages_of_times:barrel', [
+		'B B',
+		'B B',
+		'BSB'
+	], {
+	B: '#minecraft:planks',
+	S: '#minecraft:wooden_slabs'
+	})
+
 	//Crafting Table
 	event.remove({ id: 'mctb:spruce_crafting_table' })
 	event.remove({ id: 'mctb:birch_crafting_table' })
