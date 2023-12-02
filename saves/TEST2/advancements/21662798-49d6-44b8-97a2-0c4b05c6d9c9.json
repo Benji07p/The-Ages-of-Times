@@ -1692,6 +1692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-12-02 18:50:27 +0100"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailboots": {
     "criteria": {
       "has_iron": "2023-11-16 17:50:58 +0100"
@@ -2665,6 +2671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-12-02 18:50:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-25 20:14:49 +0100"
@@ -3228,6 +3240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2023-12-02 18:50:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2023-11-26 19:22:02 +0100"
@@ -3607,6 +3625,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2023-12-02 15:22:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-12-02 18:50:27 +0100"
     },
     "done": true
   },
@@ -4134,6 +4158,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2023-11-30 21:26:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2023-12-02 18:50:27 +0100"
     },
     "done": true
   },
@@ -4686,6 +4716,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2023-11-29 20:18:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2023-12-02 18:50:27 +0100"
     },
     "done": true
   },
