@@ -326,6 +326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-12-02 17:54:21 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_revolver_magazine": {
     "criteria": {
       "has_revolver": "2023-11-13 17:28:44 +0100"
@@ -956,6 +962,12 @@
   "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2023-11-29 21:24:41 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/copper_platform_waxing_unaffected": {
+    "criteria": {
+      "has_block": "2023-12-02 17:56:50 +0100"
     },
     "done": true
   },
@@ -1985,10 +1997,11 @@
       "seared_heater": "2023-11-15 19:59:54 +0100",
       "seared_ingot_tank": "2023-11-29 20:56:58 +0100",
       "seared_table": "2023-11-15 19:59:37 +0100",
+      "seared_basin": "2023-12-02 17:54:06 +0100",
       "seared_faucet": "2023-11-15 20:00:09 +0100",
       "seared_melter": "2023-11-15 19:59:48 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
@@ -2083,6 +2096,12 @@
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2023-12-02 15:22:10 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/porcelain_uncrafting_2": {
+    "criteria": {
+      "has_unfired": "2023-12-02 17:57:06 +0100"
     },
     "done": true
   },
@@ -2297,6 +2316,13 @@
     },
     "done": true
   },
+  "tconstruct:foundry/alloyer": {
+    "criteria": {
+      "scorched_basin": "2023-12-02 17:51:50 +0100",
+      "scorched_faucet": "2023-12-02 17:53:57 +0100"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2023-11-30 11:44:24 +0100"
@@ -2435,6 +2461,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/porcelain_faucet_smelting": {
+    "criteria": {
+      "has_item": "2023-12-02 17:57:06 +0100"
+    },
+    "done": true
+  },
   "tardim:recipes/fuel_storage": {
     "criteria": {
       "has_iron": "2023-11-16 17:50:58 +0100"
@@ -2558,6 +2590,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2023-11-29 21:24:41 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/copper_ingot": {
+    "criteria": {
+      "has_the_recipe": "2023-12-02 17:54:21 +0100"
     },
     "done": true
   },
@@ -2750,6 +2788,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick_to_slab": {
     "criteria": {
       "has_blastbrick": "2023-11-25 17:22:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-12-02 17:54:21 +0100"
     },
     "done": true
   },
@@ -3847,6 +3891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2023-12-02 17:54:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2023-11-25 20:14:46 +0100"
@@ -3871,9 +3921,21 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cut_copper": {
+    "criteria": {
+      "has_the_recipe": "2023-12-02 17:54:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2023-11-26 19:22:02 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/clay_repair/terracotta_faucet_repair": {
+    "criteria": {
+      "has_item": "2023-12-02 17:53:02 +0100"
     },
     "done": true
   },
@@ -4141,6 +4203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-12-02 17:54:21 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
     "criteria": {
       "has_item": "2023-11-19 15:20:17 +0100"
@@ -4348,6 +4416,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2023-11-13 18:04:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-12-02 17:54:21 +0100"
     },
     "done": true
   },
@@ -4669,6 +4743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2023-12-02 17:54:21 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2023-11-28 20:52:20 +0100"
@@ -4690,6 +4770,12 @@
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2023-11-15 18:00:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2023-12-02 17:51:59 +0100"
     },
     "done": true
   },
@@ -4789,6 +4875,12 @@
   "electrodynamics:electrodynamics/guidebook": {
     "criteria": {
       "spawn": "2023-11-13 17:28:50 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/porcelain_faucet_kiln": {
+    "criteria": {
+      "has_item": "2023-12-02 17:57:06 +0100"
     },
     "done": true
   },
