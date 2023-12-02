@@ -52,6 +52,17 @@ onEvent('recipes', event => {
 	S: '#minecraft:wooden_slabs'
 	})
 
+	//Chest
+	event.remove({ id: 'minecraft:chest' })
+	event.shaped('minecraft:chest', [
+		'SSS',
+		'B B',
+		'BBB'
+	], {
+	B: '#minecraft:planks',
+	S: '#minecraft:wooden_slabs'
+	})
+
 	//Crafting Table
 	event.remove({ id: 'mctb:spruce_crafting_table' })
 	event.remove({ id: 'mctb:birch_crafting_table' })
@@ -76,6 +87,16 @@ onEvent('recipes', event => {
 	], {
 	F: 'multibeds:feather_pile',
 	L: 'minecraft:leather'
+	})
+
+	//Plumb Line
+	event.shaped('the_ages_of_times:plumb_line', [
+		'  L',
+		' L ',
+		'F  '
+	], {
+	F: '#notreepunching:loose_rocks',
+	L: 'minecraft:string'
 	})
 
 	//Lit en foin
@@ -253,8 +274,13 @@ onEvent('recipes', event => {
 })
 
 onEvent('item.tags', event => {
-	// Get the #forge:cobblestone tag collection and add Diamond Ore to it
-	// event.get('forge:wires/copper').add('electrodynamics:wirecopper')
+	// Get the #tconstruct:casts and the #tconstruct:casts/empty/basin tags collection and add the Copper Platform to it
+	event.get('tconstruct:casts/empty/basin').add('tconstruct:copper_platform')
+	event.get('tconstruct:casts').add('tconstruct:copper_platform')
+
+	// Get the #tconstruct:casts and the #tconstruct:casts/empty/basin tags collection and add the Stone Platform to it
+	event.get('tconstruct:casts/empty/basin').add('the_ages_of_times:stone_platform')
+	event.get('tconstruct:casts').add('the_ages_of_times:stone_platform')
 
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	// event.get('forge:plates/copper').remove('chemlib:copper_plate')
