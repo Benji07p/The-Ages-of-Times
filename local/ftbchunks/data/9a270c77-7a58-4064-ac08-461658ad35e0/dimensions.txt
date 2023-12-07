@@ -1,0 +1,4 @@
+minecraft:overworld
+tardim:tardis_dimension
+beyond_earth:moon
+beyond_earth:earth_orbit

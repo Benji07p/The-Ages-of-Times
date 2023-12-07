@@ -1,0 +1,10 @@
+#556 minecraft:beach
+#008 minecraft:desert
+#039 beyond_earth:moon_desert
+#570 beyond_earth:orbit
+#3DC minecraft:plains
+#5FF minecraft:river
+#67B minecraft:savanna
+#147 tardim:tardis_biome
+#2B7 minecraft:warm_ocean
+#579 minecraft:windswept_savanna
