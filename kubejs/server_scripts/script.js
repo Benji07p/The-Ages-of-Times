@@ -282,6 +282,9 @@ onEvent('item.tags', event => {
 	event.get('tconstruct:casts/empty/basin').add('the_ages_of_times:stone_platform')
 	event.get('tconstruct:casts').add('the_ages_of_times:stone_platform')
 
+	// Create the tags #forge:bed and add the Vanilla Bed
+	event.add('forge:beds', ['minecraft:cyan_bed', 'minecraft:purple_bed', 'minecraft:blue_bed', 'minecraft:brown_bed', 'minecraft:green_bed', 'minecraft:red_bed', 'minecraft:black_bed', 'minecraft:white_bed', 'minecraft:orange_bed', 'minecraft:magenta_bed', 'minecraft:light_blue_bed', 'minecraft:yellow_bed', 'minecraft:lime_bed', 'minecraft:pink_bed', 'minecraft:gray_bed', 'minecraft:light_gray_bed'])
+
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	// event.get('forge:plates/copper').remove('chemlib:copper_plate')
 })
