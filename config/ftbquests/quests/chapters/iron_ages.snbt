@@ -2,14 +2,16 @@
 	id: "25A3C8510672787A"
 	group: ""
 	order_index: 1
-	filename: "antiquity_and_middle_ages"
-	title: "Antiquity and Middle Ages"
+	filename: "iron_ages"
+	title: "Iron Ages"
+	icon: "minecraft:iron_ingot"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
 			x: -1.0d
 			y: 0.0d
+			dependencies: ["10E196C554F2436E"]
 			id: "6DC23EDE2D460CDF"
 			tasks: [{
 				id: "315395D051251A62"
@@ -18,9 +20,8 @@
 			}]
 		}
 		{
-			x: 0.5d
-			y: 1.5d
-			dependencies: ["6DC23EDE2D460CDF"]
+			x: 22.5d
+			y: 2.0d
 			id: "3A0CEEAEBF9BCEDA"
 			tasks: [{
 				id: "4B9B461B634D9198"
@@ -29,8 +30,8 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: 1.5d
+			x: 25.5d
+			y: 2.0d
 			dependencies: ["3A0CEEAEBF9BCEDA"]
 			id: "6ED623D6D2BD7D88"
 			tasks: [{
@@ -63,14 +64,14 @@
 			dependencies: ["5F2F79896CD9CA30"]
 			id: "0E01FA7D1CA30795"
 			tasks: [{
-				id: "37F85491B4AA150C"
+				id: "4AAC0917A7F0F635"
 				type: "item"
-				title: "Any #minecraft:beds"
+				title: "Any #forge:beds"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
 					tag: {
-						value: "minecraft:beds"
+						value: "forge:beds"
 					}
 				}
 			}]
@@ -216,61 +217,8 @@
 			}]
 		}
 		{
-			x: 18.0d
-			y: 0.0d
-			id: "2A8065725D8ACA76"
-			tasks: [{
-				id: "6C1FF0D135EEBC54"
-				type: "item"
-				item: "minecraft:compass"
-			}]
-		}
-		{
-			x: 19.5d
-			y: 0.0d
-			dependencies: ["2A8065725D8ACA76"]
-			id: "464CBA2509DC3C07"
-			tasks: [{
-				id: "1DA1F17832FD9BA3"
-				type: "item"
-				item: "minecraft:map"
-			}]
-		}
-		{
-			x: 21.0d
-			y: 0.0d
-			dependencies: ["464CBA2509DC3C07"]
-			id: "0A583359D127FAB6"
-			tasks: [{
-				id: "0B9E1B98E3621C81"
-				type: "item"
-				item: "minecraft:gunpowder"
-			}]
-		}
-		{
-			x: 24.0d
-			y: 0.0d
-			id: "32FF322D016DC443"
-			tasks: [{
-				id: "397B7ABDA87683FA"
-				type: "item"
-				item: "extendedcrafting:advanced_table"
-			}]
-		}
-		{
 			x: 25.5d
-			y: 0.0d
-			dependencies: ["32FF322D016DC443"]
-			id: "5DF7D6BCE47FAD94"
-			tasks: [{
-				id: "727696EB43472CC0"
-				type: "item"
-				item: "car:engine_3_cylinder"
-			}]
-		}
-		{
-			x: 11.0d
-			y: 0.0d
+			y: 0.5d
 			dependencies: ["645F7B0B67596818"]
 			id: "390F1B7456F41F12"
 			tasks: [{
@@ -280,9 +228,8 @@
 			}]
 		}
 		{
-			x: 8.0d
-			y: 0.0d
-			dependencies: ["0610E9919CDF384D"]
+			x: 22.5d
+			y: 0.5d
 			id: "2D957015AA53DEC2"
 			tasks: [
 				{
@@ -298,8 +245,8 @@
 			]
 		}
 		{
-			x: 9.5d
-			y: 0.0d
+			x: 24.0d
+			y: 0.5d
 			dependencies: ["2D957015AA53DEC2"]
 			id: "645F7B0B67596818"
 			tasks: [
@@ -314,6 +261,76 @@
 					item: "immersiveengineering:ingot_nickel"
 				}
 			]
+		}
+		{
+			x: 3.5d
+			y: -1.5d
+			dependencies: ["0E6B918DB6514642"]
+			id: "0786984FD6DAB5D4"
+			tasks: [{
+				id: "0525BCB21C06F058"
+				type: "item"
+				item: "minecraft:clock"
+			}]
+		}
+		{
+			icon: "create:white_sail"
+			x: -1.0d
+			y: -1.5d
+			dependencies: ["6DC23EDE2D460CDF"]
+			id: "54202D137A8E54E7"
+			tasks: [
+				{
+					id: "231468FDEC2BA633"
+					type: "item"
+					item: "create:windmill_bearing"
+				}
+				{
+					id: "2E1CF680DBD084EF"
+					type: "item"
+					item: "create:white_sail"
+				}
+			]
+		}
+		{
+			x: -2.5d
+			y: 1.5d
+			dependencies: ["04E55AE9FD6151EF"]
+			invisible: true
+			id: "10E196C554F2436E"
+			tasks: [{
+				id: "0065EB4AB26EB7AA"
+				type: "item"
+				item: "electrodynamics:ingotbronze"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 1.5d
+			dependencies: ["6DC23EDE2D460CDF"]
+			id: "014EAF6C05B85341"
+			tasks: [{
+				id: "466D2345ECB25608"
+				type: "item"
+				title: "Any #minecolonies:concrete"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecolonies:concrete"
+					}
+				}
+			}]
+		}
+		{
+			x: 22.5d
+			y: 3.5d
+			id: "0A583359D127FAB6"
+			tasks: [{
+				id: "0B9E1B98E3621C81"
+				type: "item"
+				item: "minecraft:gunpowder"
+			}]
 		}
 	]
 	quest_links: [ ]
