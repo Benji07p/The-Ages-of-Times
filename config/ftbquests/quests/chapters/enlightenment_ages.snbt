@@ -1,0 +1,54 @@
+{
+	id: "7481FCEC4C402C8F"
+	group: ""
+	order_index: 2
+	filename: "enlightenment_ages"
+	title: "Enlightenment Ages"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -4.5d
+			y: 0.5d
+			id: "2A8065725D8ACA76"
+			tasks: [{
+				id: "6C1FF0D135EEBC54"
+				type: "item"
+				item: "minecraft:compass"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 0.5d
+			dependencies: ["2A8065725D8ACA76"]
+			id: "464CBA2509DC3C07"
+			tasks: [{
+				id: "1DA1F17832FD9BA3"
+				type: "item"
+				item: "minecraft:map"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 0.5d
+			id: "32FF322D016DC443"
+			tasks: [{
+				id: "397B7ABDA87683FA"
+				type: "item"
+				item: "extendedcrafting:advanced_table"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 0.5d
+			dependencies: ["32FF322D016DC443"]
+			id: "5DF7D6BCE47FAD94"
+			tasks: [{
+				id: "727696EB43472CC0"
+				type: "item"
+				item: "car:engine_3_cylinder"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
