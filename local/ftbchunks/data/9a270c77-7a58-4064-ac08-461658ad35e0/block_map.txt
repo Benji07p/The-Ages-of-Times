@@ -33,6 +33,7 @@
 #D8FA12 create:clockwork_bearing
 #8B43D8 minecraft:coal_block
 #DE242D minecraft:coal_ore
+#FE4F0A minecraft:coarse_dirt
 #058353 minecraft:cobblestone
 #E2D601 minecraft:composter
 #0D9C42 ironchest:copper_chest
@@ -113,6 +114,7 @@
 #60E4DD electrodynamics:orethorianite
 #266A57 electrodynamics:oretin
 #97C749 electrodynamics:oreuraninite
+#D222D1 electrodynamics:orevanadinite
 #2D7F28 farmersdelight:organic_compost
 #5CDCB7 minecraft:polished_basalt
 #AFAC0D minecraft:poppy

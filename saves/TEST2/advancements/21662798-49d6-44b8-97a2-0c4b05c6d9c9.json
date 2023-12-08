@@ -150,6 +150,12 @@
     },
     "done": false
   },
+  "beyond_earth:root": {
+    "criteria": {
+      "tick": "2023-12-08 16:47:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
