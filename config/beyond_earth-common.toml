@@ -18,4 +18,151 @@
 	"Player Oxygen System" = true
 	#Enable or Disable Entity Oxygen System
 	"Entity Oxygen System" = true
+	#Management Steel Items
+	#0: Default, Nothing special, Use steel items as-is
+	#1: Iron Ingot can't blasting into be steel ingot
+	#2: Additionally, Steel Block and Ingot and Nugget are can't conversion to each shape
+	#    And hide Steel Block, Ingot, Nugget in JEI
+	#Range: 0 ~ 2
+	"Steel Management" = 0
+
+	["Beyond Earth Config".Machines]
+
+		["Beyond Earth Config".Machines."Coal Generator"]
+			#Set energy generation per tick, default: 2 FE/t
+			EnergyGeneration = 2
+			#Set energy capacity, default: 9000 FE
+			EnergyCapacity = 9000
+			#Set energy transfer, default: 200 FE
+			EnergyTransfer = 200
+
+		["Beyond Earth Config".Machines."Solar Panel"]
+			#Set energy generation per tick, default: 5 FE/t
+			EnergyGeneration = 5
+			#Set energy capacity, default: 9000 FE
+			EnergyCapacity = 9000
+			#Set energy transfer, default: 200 FE
+			EnergyTransfer = 200
+
+		["Beyond Earth Config".Machines.Compressor]
+			#Set energy usage per tick, default: 1 FE/t
+			EnergyUsage = 1
+			#Set energy capacity, default: 9000 FE
+			EnergyCapacity = 9000
+			#Set energy transfer, default: 200 FE
+			EnergyTransfer = 200
+
+		["Beyond Earth Config".Machines."Fuel Refinery"]
+			#Set energy usage per tick, default: 1 FE/t
+			EnergyUsage = 1
+			#Set energy capacity, default: 9000 FE
+			EnergyCapacity = 9000
+			#Set energy transfer, default: 200 FE
+			EnergyTransfer = 200
+			#Set fluid input tank capacity, default: 3000 mB
+			TankInputCapacity = 3000
+			#Set fluid output tank capacity, default: 3000 mB
+			TankOutputCapacity = 3000
+			#Set tank transfer, default: 256 mB
+			TankTransfer = 256
+
+		["Beyond Earth Config".Machines."Oxygen Bubble Distributor"]
+			#Set energy usage per tick, default: 1 FE/t
+			EnergyUsage = 1
+			#Set energy capacity, default: 9000 FE
+			EnergyCapacity = 9000
+			#Set energy transfer, default: 200 FE
+			EnergyTransfer = 200
+			#Set fluid input tank capacity, default: 3000 mB
+			FluidCapacity = 3000
+			#Set oxygen output tank capacity, default: 3000 mB
+			OxygenCapacity = 3000
+			#Set tank transfer, default: 256 mB
+			FluidTransfer = 256
+
+			#Range is mean distance of each side from center
+			#Working area will be (range * 2) + 1
+			#For example, when range is 2, then working area is 3x3x3 blocks
+			#range is 15, then working area is 31x31x31 blocks
+			["Beyond Earth Config".Machines."Oxygen Bubble Distributor".Range]
+				#Default: 1 blocks
+				#Range: 1 ~ 49
+				RangeMin = 1
+				#Default: 15 blocks
+				#Range: 1 ~ 49
+				RangeMax = 15
+
+		["Beyond Earth Config".Machines."Oxygen Loader"]
+			#Set energy usage per tick, default: 1 FE/t
+			EnergyUsage = 1
+			#Set energy capacity, default: 9000 FE
+			EnergyCapacity = 9000
+			#Set energy transfer, default: 200 FE
+			EnergyTransfer = 200
+			#Set fluid input tank capacity, default: 3000 mB
+			FluidCapacity = 3000
+			#Set oxygen output tank capacity, default: 3000 mB
+			OxygenCapacity = 3000
+			#Set tank transfer, default: 256 mB
+			FluidTransfer = 256
+
+		["Beyond Earth Config".Machines."Water Pump"]
+			#Set energy usage per tick, default: 1 FE/t
+			EnergyUsage = 1
+			#Set energy capacity, default: 9000 FE
+			EnergyCapacity = 9000
+			#Set energy transfer, default: 200 FE
+			EnergyTransfer = 200
+			#Set water tank capacity, default: 6000 mB
+			TankCapacity = 6000
+			#Set water tank transfer, default: 10 mB
+			TankTransfer = 10
+			#Set pumping interval ticks, default: 10 ticks
+			WorkInterval = 10
+
+	["Beyond Earth Config".Vehicles]
+
+		["Beyond Earth Config".Vehicles.Rover]
+			#Set required buckets for fuel full, default: 3 buckets
+			FuelBuckets = 3
+			#Set rover's fuel using interval ticks, default: 8 ticks
+			FuelUseTicks = 8
+			#Set rover's fuel using amount at every interval, default: 1 mb
+			FuelUseAmount = 1
+
+		["Beyond Earth Config".Vehicles."Rocket Tier 1"]
+			#Set required buckets for fuel full, default: 1 buckets
+			FuelBuckets = 1
+			#Set fuel filling up speed
+			#duration for filling much as bucket amount is '300 / speed' ticks
+			#default: 1 => duration is 300 ticks
+			#Range: 1 ~ 300
+			FillUpSpeed = 1
+
+		["Beyond Earth Config".Vehicles."Rocket Tier 2"]
+			#Set required buckets for fuel full, default: 3 buckets
+			FuelBuckets = 3
+			#Set fuel filling up speed
+			#duration for filling much as bucket amount is '100 / speed' ticks
+			#default: 1 => duration is 100 ticks
+			#Range: 1 ~ 100
+			FillUpSpeed = 1
+
+		["Beyond Earth Config".Vehicles."Rocket Tier 3"]
+			#Set required buckets for fuel full, default: 3 buckets
+			FuelBuckets = 3
+			#Set fuel filling up speed
+			#duration for filling much as bucket amount is '100 / speed' ticks
+			#default: 1 => duration is 100 ticks
+			#Range: 1 ~ 100
+			FillUpSpeed = 1
+
+		["Beyond Earth Config".Vehicles."Rocket Tier 4"]
+			#Set required buckets for fuel full, default: 3 buckets
+			FuelBuckets = 3
+			#Set fuel filling up speed
+			#duration for filling much as bucket amount is '100 / speed' ticks
+			#default: 1 => duration is 100 ticks
+			#Range: 1 ~ 100
+			FillUpSpeed = 1
 
