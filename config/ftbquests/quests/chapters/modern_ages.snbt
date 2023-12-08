@@ -192,17 +192,10 @@
 			y: 0.0d
 			id: "421D5925F0B51C8A"
 			tasks: [{
-				id: "32BB7FB52B25DA36"
-				type: "dimension"
-				title: "Create a space station"
-				icon: {
-					id: "ftbquests:custom_icon"
-					Count: 1b
-					tag: {
-						Icon: "kubejs:textures/item/space_station_icon.png"
-					}
-				}
-				dimension: "beyond_earth:moon_orbit"
+				id: "474B62A5055727BF"
+				type: "advancement"
+				advancement: "beyond_earth:space_station"
+				criterion: ""
 			}]
 		}
 		{
