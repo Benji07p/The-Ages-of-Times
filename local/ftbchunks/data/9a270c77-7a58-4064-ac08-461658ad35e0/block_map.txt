@@ -18,10 +18,12 @@
 #E152BD create:basin
 #7F50F6 minecraft:bell
 #7C938F create:belt
+#73D2B3 minecraft:birch_planks
 #C9CBB9 minecraft:blackstone
 #64CB99 immersiveengineering:blast_furnace
 #7DCED1 immersiveengineering:blastbrick
 #C5E5AF immersiveengineering:blastbrick_reinforced
+#63D15D create:blaze_burner
 #45C994 minecolonies:blockhutbaker
 #990133 minecolonies:blockhutblacksmith
 #7F1716 minecolonies:blockhutlibrary
@@ -41,6 +43,7 @@
 #8B43D8 minecraft:coal_block
 #DE242D minecraft:coal_ore
 #FE4F0A minecraft:coarse_dirt
+#B3053C tconstruct:cobalt_platform
 #058353 minecraft:cobblestone
 #531031 immersiveengineering:coke_oven
 #7E82C3 immersiveengineering:cokebrick
@@ -48,6 +51,7 @@
 #E727DA immersiveengineering:concrete_sprayed
 #0D9C42 ironchest:copper_chest
 #6E76AF minecraft:copper_ore
+#724B56 tconstruct:copper_platform
 #468304 minecraft:crafting_table
 #8700D4 immersiveengineering:craftingtable
 #95EC20 createaddition:creative_energy
@@ -80,6 +84,7 @@
 #1E33BF minecraft:gilded_blackstone
 #2F436F minecraft:glass
 #5A75B0 minecraft:glow_lichen
+#5D9BEF tconstruct:gold_platform
 #060B35 minecraft:granite
 #727610 notreepunching:granite_loose_rock
 #3F84B7 minecraft:grass_block
@@ -91,6 +96,7 @@
 #369260 create:industrial_iron_block
 #EAC0B1 ironchest:iron_chest
 #D7EADE minecraft:iron_ore
+#051C87 tconstruct:iron_platform
 #8E1D90 beyond_earth:iron_plating_block
 #EA439B minecraft:lapis_ore
 #83CED3 minecraft:lava
@@ -107,6 +113,7 @@
 #E638FD create:mechanical_mixer
 #CA8F8D create:mechanical_piston
 #145137 create:mechanical_press
+#4B39A0 melter:melter
 #C4844D create:millstone
 #BB8DD9 createaddition:modular_accumulator
 #55AC9E beyond_earth:moon_cheese_ore
@@ -158,8 +165,10 @@
 #EE8191 notreepunching:sandstone_loose_rock
 #9D474B minecraft:sandstone_slab
 #9EF0DB minecraft:sandstone_wall
+#2562EE tconstruct:scorched_basin
 #DA8C3D tconstruct:scorched_faucet
 #A09272 tconstruct:seared_faucet
+#39CA17 tconstruct:seared_heater
 #C70547 tconstruct:seared_melter
 #18A9AE tconstruct:seared_table
 #C7FBBB create:secondary_linear_chassis
@@ -180,6 +189,7 @@
 #A6348F create:stockpile_switch
 #DC3458 minecraft:stone
 #A2490D notreepunching:stone_loose_rock
+#134A52 the_ages_of_times:stone_platform
 #7D07A9 minecraft:stone_pressure_plate
 #9E51B2 create:stressometer
 #3525F3 immersiveengineering:strip_curtain
@@ -200,5 +210,6 @@
 #C6D1CE minecraft:white_concrete
 #79C917 create:windmill_bearing
 #F75977 immersiveengineering:wooden_barrel
+#9C81F3 woodenhopper:wooden_hopper
 #5A0B47 immersiveengineering:workbench
 #6137CB create:zinc_ore

@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "ae2:recipes/tools/tools/certus_quartz_cutting_knife": {
-    "criteria": {
-      "has_certus_quartz": "2023-11-29 15:39:24 +0100"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
     "criteria": {
       "has_the_recipe": "2023-11-29 15:28:45 +0100"
@@ -26,6 +20,18 @@
   "ceramicshears:recipes/misc/ceramic_shears_part": {
     "criteria": {
       "has_clay": "2023-11-29 15:28:53 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2023-11-29 15:39:24 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
@@ -72,12 +78,6 @@
       "ras_fury": "2023-11-29 15:28:53 +0100",
       "gebs_might": "2023-11-29 15:28:53 +0100",
       "isis_healing": "2023-11-29 15:28:53 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
-    "criteria": {
-      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
@@ -132,21 +132,15 @@
     },
     "done": true
   },
-  "ae2:recipes/ae2.main/network/blocks/energy_energy_cell": {
-    "criteria": {
-      "has_crystals/certus": "2023-11-29 15:39:24 +0100"
-    },
-    "done": true
-  },
   "ae2:main/compass": {
     "criteria": {
       "compass": "2023-11-29 15:32:48 +0100"
     },
     "done": true
   },
-  "beyond_earth:moon_advancement": {
+  "ae2:recipes/ae2.main/network/blocks/energy_energy_cell": {
     "criteria": {
-      "moon_advancement": "2023-11-29 15:31:37 +0100"
+      "has_crystals/certus": "2023-11-29 15:39:24 +0100"
     },
     "done": true
   },
@@ -159,6 +153,12 @@
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2023-11-29 15:28:53 +0100"
+    },
+    "done": true
+  },
+  "beyond_earth:moon_advancement": {
+    "criteria": {
+      "moon_advancement": "2023-11-29 15:31:37 +0100"
     },
     "done": true
   },
@@ -194,6 +194,18 @@
     },
     "done": false
   },
+  "beyond_earth:root": {
+    "criteria": {
+      "tick": "2023-12-13 16:17:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2023-12-13 17:04:02 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-29 15:28:45 +0100"
@@ -224,6 +236,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_block_to_items": {
     "criteria": {
       "has_the_recipe": "2023-11-29 15:28:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-12-13 17:04:02 +0100"
     },
     "done": true
   },
@@ -310,7 +328,19 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2023-12-13 16:18:56 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
     "criteria": {
       "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
@@ -322,13 +352,13 @@
     },
     "done": true
   },
-  "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
+  "immersivepetroleum:recipes/building_blocks/cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
-  "immersivepetroleum:recipes/building_blocks/cut_copper_paraffin_waxed": {
+  "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
     "criteria": {
       "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
@@ -337,12 +367,6 @@
   "astikorcarts:recipes/plow": {
     "criteria": {
       "has_wheel": "2023-11-29 15:28:53 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
-    "criteria": {
-      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
@@ -400,12 +424,6 @@
     },
     "done": true
   },
-  "ae2:recipes/ae2.main/block_cutter/walls/sky_stone_wall": {
-    "criteria": {
-      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
-    },
-    "done": true
-  },
   "atum:core/itbelongsinamuseum": {
     "criteria": {
       "isis_division": "2023-11-29 15:28:53 +0100",
@@ -448,7 +466,7 @@
     },
     "done": true
   },
-  "ae2:recipes/ae2.main/block_cutter/slabs/sky_stone_slab": {
+  "ae2:recipes/ae2.main/block_cutter/walls/sky_stone_wall": {
     "criteria": {
       "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
     },
@@ -460,17 +478,23 @@
     },
     "done": true
   },
-  "ae2:main/presses": {
+  "ae2:recipes/ae2.main/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
-      "eng": "2023-11-29 15:39:24 +0100"
+      "has_sky_stone_block": "2023-11-29 15:39:24 +0100"
     },
-    "done": false
+    "done": true
   },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
     "criteria": {
       "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "eng": "2023-11-29 15:39:24 +0100"
+    },
+    "done": false
   },
   "ae2:recipes/tools/tools/certus_quartz_spade": {
     "criteria": {
@@ -511,6 +535,12 @@
   "ae2:recipes/tools/tools/certus_quartz_hoe": {
     "criteria": {
       "has_certus_quartz": "2023-11-29 15:39:24 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2023-12-13 16:24:43 +0100"
     },
     "done": true
   },
@@ -562,6 +592,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
+    },
+    "done": true
+  },
   "atum:core/powerwasher": {
     "criteria": {
       "gold_brooch": "2023-11-29 15:28:53 +0100",
@@ -597,12 +633,6 @@
     },
     "done": true
   },
-  "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
-    "criteria": {
-      "has_the_recipe": "2023-11-29 15:28:45 +0100"
-    },
-    "done": true
-  },
   "antiqueatlas:recipes/atlas": {
     "criteria": {
       "has_compass": "2023-11-29 15:28:53 +0100"
@@ -615,7 +645,19 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2023-12-13 16:20:11 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
+    "criteria": {
+      "has_the_recipe": "2023-11-29 15:28:45 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
     "criteria": {
       "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
@@ -630,12 +672,6 @@
   "tempad:tempad": {
     "criteria": {
       "requirement": "2023-11-29 15:29:57 +0100"
-    },
-    "done": true
-  },
-  "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
-    "criteria": {
-      "has_the_recipe": "2023-11-29 15:28:45 +0100"
     },
     "done": true
   },
