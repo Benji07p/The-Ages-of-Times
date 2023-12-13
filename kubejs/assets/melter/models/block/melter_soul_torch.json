@@ -1,0 +1,7 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "melter:block/melter",
+  "textures": {
+		"front": "melter:block/melter_front_inactive"
+	}
+}
