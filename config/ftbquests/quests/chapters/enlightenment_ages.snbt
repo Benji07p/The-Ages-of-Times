@@ -25,7 +25,7 @@
 			tasks: [{
 				id: "1DA1F17832FD9BA3"
 				type: "item"
-				item: "minecraft:map"
+				item: "antiqueatlas:empty_antique_atlas"
 			}]
 		}
 		{
@@ -47,6 +47,17 @@
 				id: "727696EB43472CC0"
 				type: "item"
 				item: "car:engine_3_cylinder"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.5d
+			dependencies: ["464CBA2509DC3C07"]
+			id: "2A00F2C8D1F747CD"
+			tasks: [{
+				id: "1DAA61329FBD9CE4"
+				type: "item"
+				item: "antiqueatlas:antique_atlas"
 			}]
 		}
 	]
