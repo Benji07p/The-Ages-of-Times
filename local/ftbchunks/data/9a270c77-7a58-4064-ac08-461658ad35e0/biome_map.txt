@@ -1,5 +1,7 @@
 #556 minecraft:beach
 #008 minecraft:desert
+#010 minecraft:forest
+#79A minecraft:lukewarm_ocean
 #039 beyond_earth:moon_desert
 #570 beyond_earth:orbit
 #3DC minecraft:plains
