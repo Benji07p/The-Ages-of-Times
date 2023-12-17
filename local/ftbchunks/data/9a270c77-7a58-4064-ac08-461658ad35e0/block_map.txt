@@ -5,8 +5,10 @@
 #E8223C immersiveengineering:advanced_blast_furnace
 #52B53D minecraft:air
 #FBEB73 minecraft:allium
+#384494 immersiveengineering:alloy_smelter
 #D0995E immersiveengineering:alloybrick
 #222F76 createaddition:alternator
+#9963E0 chemlib:ammonia
 #FA75A8 minecraft:andesite
 #A4683B create:andesite_casing
 #DA9404 create:andesite_funnel
@@ -98,6 +100,7 @@
 #62139B tconstruct:earth_slime_fluid
 #91A5DB createaddition:electric_motor
 #A952FC create:encased_chain_drive
+#D76B4B chemlib:ethanol
 #56C7FC create:experience_block
 #009B14 minecraft:farmland
 #B9B269 minecraft:fire_coral_block
@@ -172,6 +175,7 @@
 #97C749 electrodynamics:oreuraninite
 #D222D1 electrodynamics:orevanadinite
 #2D7F28 farmersdelight:organic_compost
+#661508 chemlib:oxygen
 #AB1C58 minecraft:peony
 #3088BD electrodynamics:pipesteel
 #5CDCB7 minecraft:polished_basalt
@@ -233,6 +237,7 @@
 #9E51B2 create:stressometer
 #3525F3 immersiveengineering:strip_curtain
 #5CF3F1 minecraft:sugar_cane
+#46AB11 chemlib:sulfuric_acid
 #0AA947 tardim:tardim_door
 #11066D tardim:tardim_roof
 #9209D8 minecraft:terracotta
