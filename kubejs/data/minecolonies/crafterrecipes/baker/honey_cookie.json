@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "baker_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:honey_bottle",
+        "count": 1
+    },
+    {
+        "item" : "minecraft:wheat",
+        "count": 2
+    }
+  ],
+  "result": "farmersdelight:honey_cookie",
+  "count": 8,
+  "intermediate" : "minecraft:air",
+  "min-building-level" : 1,
+  "show-tooltip": true
+}
