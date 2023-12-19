@@ -249,3 +249,28 @@ onEvent('item.tags', event => {
 	event.get('forge:ingots/chromium').remove('chemlib:chromium_ingot')
 	event.get('forge:storage_blocks/chromium').remove('chemlib:chromium_metal_block')
 })
+
+onEvent('fluid.tags', event => {
+	// Ethanol
+	event.get('forge:ethanol').remove(['electrodynamics:fluidethanol', 'immersiveengineering:ethanol', 'createaddition:flowing_bioethanol', 'createaddition:bioethanol'])
+	event.get('forge:ethanol').add(['chemlib:ethanol_fluid', 'chemlib:ethanol_flowing'])
+
+	// Oxygen
+	event.get('forge:oxygen').remove('electrodynamics:fluidoxygen')
+	event.get('forge:oxygen').add(['chemlib:oxygen_fluid', 'chemlib:oxygen_flowing'])
+
+	// Hydrogen
+	event.get('forge:hydrogen').remove('electrodynamics:fluidhydrogen')
+	event.get('forge:hydrogen').add(['chemlib:hydrogen_fluid', 'chemlib:hydrogen_flowing'])
+
+	// Sulfuric Acid
+	event.get('forge:sulfuric_acid').remove('electrodynamics:fluidsulfuricacid')
+	event.get('forge:sulfuric_acid').add(['chemlib:sulfuric_acid_fluid', 'chemlib:sulfuric_acid_flowing'])
+
+	// Ammonia
+	event.get('forge:ammonia').remove('nuclearscience:fluidammonia')
+	event.get('forge:ammonia').add(['chemlib:ammonia_fluid', 'chemlib:ammonia_flowing'])
+
+	// Liquid Concrete
+	event.get('forge:concrete').remove('electrodynamics:fluidconcrete')
+})
