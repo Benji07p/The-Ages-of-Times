@@ -75,7 +75,7 @@
 			}]
 		}
 		{
-			x: 16.0d
+			x: 8.5d
 			y: -1.5d
 			dependencies: ["6A531AD1D8AF5435"]
 			id: "20FD8C20CF222406"
@@ -406,6 +406,17 @@
 				id: "188370CEAB8422E6"
 				type: "item"
 				item: "ceramics:terracotta_cistern"
+			}]
+		}
+		{
+			x: 16.0d
+			y: -1.5d
+			dependencies: ["20FD8C20CF222406"]
+			id: "7ED4DAB4041E7B45"
+			tasks: [{
+				id: "744120F9A63E8E93"
+				type: "item"
+				item: "minecraft:map"
 			}]
 		}
 	]

@@ -81,16 +81,6 @@
 			}]
 		}
 		{
-			x: 7.5d
-			y: -5.0d
-			id: "7ED4DAB4041E7B45"
-			tasks: [{
-				id: "744120F9A63E8E93"
-				type: "item"
-				item: "minecraft:map"
-			}]
-		}
-		{
 			x: 1.5d
 			y: 0.5d
 			dependencies: ["0BF955A0B9039FB3"]
