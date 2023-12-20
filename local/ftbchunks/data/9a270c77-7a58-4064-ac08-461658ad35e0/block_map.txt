@@ -107,6 +107,7 @@
 #128EDC beyond_earth:fuel
 #2DC94B minecraft:furnace
 #AF9170 create:gantry_carriage
+#BA5926 create:gantry_shaft
 #1E33BF minecraft:gilded_blackstone
 #2F436F minecraft:glass
 #5A75B0 minecraft:glow_lichen
