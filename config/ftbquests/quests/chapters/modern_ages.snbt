@@ -225,6 +225,22 @@
 				}
 			]
 		}
+		{
+			x: 16.0d
+			y: -5.0d
+			dependencies: ["3E4FA15B2A08A9EF"]
+			id: "24F1AF1542A49D66"
+			tasks: [{
+				id: "57361A711B04E8DF"
+				type: "checkmark"
+				title: "Get your table"
+			}]
+			rewards: [{
+				id: "401BAAA26A439A47"
+				type: "item"
+				item: "chemlib:periodic_table"
+			}]
+		}
 	]
 	quest_links: [ ]
 }
