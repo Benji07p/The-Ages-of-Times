@@ -332,6 +332,61 @@
 				item: "minecraft:gunpowder"
 			}]
 		}
+		{
+			title: "Born of the civilisation !"
+			x: -1.0d
+			y: -7.0d
+			dependencies: ["07C5D9B8D0B89F95"]
+			size: 2.0d
+			id: "29381B3B9F32189D"
+			tasks: [{
+				id: "3B7A9FAEE165F341"
+				type: "item"
+				item: "minecolonies:blockhuttownhall"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -8.0d
+			invisible: true
+			id: "07C5D9B8D0B89F95"
+			tasks: [{
+				id: "47A5A3E827B3AA91"
+				type: "item"
+				item: "electrodynamics:ingotbronze"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -7.0d
+			dependencies: ["29381B3B9F32189D"]
+			id: "194124D1A0F34DEE"
+			tasks: [{
+				id: "3CD3821F7A1CE18A"
+				type: "item"
+				item: "minecolonies:blockhutbuilder"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -8.0d
+			id: "11BF87B03F5ED4AF"
+			tasks: [{
+				id: "4B0E570825EAF726"
+				type: "item"
+				item: "minecolonies:blockhutbaker"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -6.0d
+			id: "7C2F92C5EE76C84B"
+			tasks: [{
+				id: "054F88334B038294"
+				type: "item"
+				item: "minecolonies:blockhutcook"
+			}]
+		}
 	]
 	quest_links: [ ]
 }
