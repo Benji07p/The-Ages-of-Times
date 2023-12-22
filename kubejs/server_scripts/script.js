@@ -271,6 +271,27 @@ onEvent('recipes', event => {
 
 	//Remove Enchanter from Minecolonies
 	event.remove({ id: 'minecolonies:blockhutenchanter'})
+
+	//Bronze Dust Remove
+	event.remove({ id: 'electrodynamics:dustbronze'})
+
+	//Baker
+	event.remove({ id: 'minecraft:cake'})
+	event.remove({ id: 'bucketlib:cake'})
+	event.remove({ id: 'atum:cake'})
+	event.remove({ id: 'ceramics:cake'})
+	event.remove({ id: 'create:crafting/curiosities/cake'})
+	event.remove({ id: 'farmersdelight:cake_from_milk_bottle'})
+	event.remove({ id: 'farmersdelight:honey_cookie'})
+	event.remove({ id: 'farmersdelight:sweet_berry_cookie'})
+	event.remove({ id: 'farmersdelight:chocolate_pie'})
+	event.remove({ id: 'farmersdelight:sweet_berry_cheesecake'})
+	event.remove({ id: 'farmersdelight:apple_pie'})
+	event.remove({ id: 'farmersdelight:bread_from_smelting'})
+	event.remove({ id: 'farmersdelight:bread_from_smoking'})
+	event.remove({output: 'farmersdelight:wheat_dough'})
+	event.remove({ id: 'bucketlib:create/dough'})
+	event.remove({ id: 'create:crafting/appliances/dough'})
 })
 
 onEvent('item.tags', event => {
@@ -286,5 +307,6 @@ onEvent('item.tags', event => {
 	event.add('forge:beds', ['minecraft:cyan_bed', 'minecraft:purple_bed', 'minecraft:blue_bed', 'minecraft:brown_bed', 'minecraft:green_bed', 'minecraft:red_bed', 'minecraft:black_bed', 'minecraft:white_bed', 'minecraft:orange_bed', 'minecraft:magenta_bed', 'minecraft:light_blue_bed', 'minecraft:yellow_bed', 'minecraft:lime_bed', 'minecraft:pink_bed', 'minecraft:gray_bed', 'minecraft:light_gray_bed'])
 
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
-	// event.get('forge:plates/copper').remove('chemlib:copper_plate')
+	event.get('forge:dough').remove('farmersdelight:wheat_dough')
+	event.get('forge:dough/wheat').remove('farmersdelight:wheat_dough')
 })
