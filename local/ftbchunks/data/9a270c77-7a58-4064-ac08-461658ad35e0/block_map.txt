@@ -18,6 +18,7 @@
 #DBECBF minecraft:anvil
 #6E69B5 create:asurine
 #0F359D minecraft:azure_bluet
+#161AE7 minecraft:bamboo
 #18D108 minecraft:basalt
 #E152BD create:basin
 #840F59 minecraft:bedrock
@@ -78,6 +79,7 @@
 #5E9420 minecraft:deepslate
 #894C58 minecraft:deepslate_diamond_ore
 #9E0209 minecraft:deepslate_lapis_ore
+#E9DFF3 immersiveengineering:deepslate_ore_lead
 #60355C minecraft:deepslate_redstone_ore
 #B8F451 electrodynamics:deepslateorelead
 #0298AA electrodynamics:deepslateoremonazite
@@ -127,9 +129,12 @@
 #051C87 tconstruct:iron_platform
 #8E1D90 beyond_earth:iron_plating_block
 #C1E251 minecraft:jungle_leaves
+#6B68B5 minecraft:jungle_log
+#F7CC06 minecraft:jungle_planks
 #EA439B minecraft:lapis_ore
 #83CED3 minecraft:lava
 #72D77D minecraft:lever
+#7482E4 minecraft:lilac
 #DFD691 minecraft:lily_pad
 #746434 create:limestone
 #179590 create:linear_chassis
@@ -142,6 +147,7 @@
 #E638FD create:mechanical_mixer
 #CA8F8D create:mechanical_piston
 #145137 create:mechanical_press
+#80CAA6 minecraft:melon
 #4B39A0 melter:melter
 #C4844D create:millstone
 #BB8DD9 createaddition:modular_accumulator
@@ -216,6 +222,7 @@
 #C7FBBB create:secondary_linear_chassis
 #EBD65B create:sequenced_gearshift
 #9B036C tconstruct:sky_slime_crystal_block
+#8E64F9 tconstruct:sky_slime_dirt
 #3768ED beyond_earth:sky_stone
 #D4DCCF multibeds:slab
 #975FAF create:smart_chute
