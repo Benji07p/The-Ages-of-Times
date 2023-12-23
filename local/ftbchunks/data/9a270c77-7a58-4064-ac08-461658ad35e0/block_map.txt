@@ -10,6 +10,7 @@
 #222F76 createaddition:alternator
 #9963E0 chemlib:ammonia
 #FA75A8 minecraft:andesite
+#251593 create:andesite_alloy_block
 #A4683B create:andesite_casing
 #DA9404 create:andesite_funnel
 #4515BD notreepunching:andesite_loose_rock
@@ -37,6 +38,7 @@
 #0B8E43 minecolonies:blockhutschool
 #F19195 beyond_earth:blue_iron_plating_block
 #8AE729 minecraft:brain_coral_block
+#C54983 create:brass_block
 #CCD23F create:brass_casing
 #02FE08 create:brass_funnel
 #E6D6BA create:brass_tunnel
@@ -91,6 +93,7 @@
 #303BC4 electrodynamics:deepslateorevanadinite
 #5E5E58 create:deployer
 #FF48B8 create:depot
+#001A41 ftbquests:detector
 #16D43D ironchest:diamond_chest
 #BED665 minecraft:diorite
 #2BCCE0 notreepunching:diorite_loose_rock
@@ -112,6 +115,7 @@
 #BA5926 create:gantry_shaft
 #1E33BF minecraft:gilded_blackstone
 #2F436F minecraft:glass
+#7DA2C9 atum:glassblower_furnace
 #5A75B0 minecraft:glow_lichen
 #B76A76 minecraft:gold_ore
 #5D9BEF tconstruct:gold_platform
@@ -185,11 +189,13 @@
 #661508 chemlib:oxygen
 #AB1C58 minecraft:peony
 #3088BD electrodynamics:pipesteel
+#6A5197 minecraft:polished_andesite
 #5CDCB7 minecraft:polished_basalt
 #437566 minecraft:polished_granite
 #AFAC0D minecraft:poppy
 #BA6112 the_ages_of_times:porcelain_casting_basin
 #32FF6B ceramics:porcelain_faucet
+#22F88C ceramics:porcelain_gauge
 #EBE752 the_ages_of_times:porcelain_heater
 #458296 the_ages_of_times:porcelain_heater_on
 #22CDAE createaddition:portable_energy_interface
@@ -212,6 +218,7 @@
 #EE8191 notreepunching:sandstone_loose_rock
 #9D474B minecraft:sandstone_slab
 #9EF0DB minecraft:sandstone_wall
+#8505E1 atum:sarcophagus
 #C369ED tconstruct:scorched_alloyer
 #2562EE tconstruct:scorched_basin
 #DA8C3D tconstruct:scorched_faucet
@@ -250,6 +257,7 @@
 #11066D tardim:tardim_roof
 #9209D8 minecraft:terracotta
 #B2F195 ceramics:terracotta_faucet
+#271922 ceramics:terracotta_gauge
 #4C0FBF createaddition:tesla_coil
 #2035B7 minecraft:tube_coral_block
 #87BAF4 minecraft:tuff
