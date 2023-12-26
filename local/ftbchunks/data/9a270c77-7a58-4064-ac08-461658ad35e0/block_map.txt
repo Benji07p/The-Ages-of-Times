@@ -9,6 +9,7 @@
 #D0995E immersiveengineering:alloybrick
 #222F76 createaddition:alternator
 #9963E0 chemlib:ammonia
+#1BD7BD the_ages_of_times:ammonia
 #FA75A8 minecraft:andesite
 #251593 create:andesite_alloy_block
 #A4683B create:andesite_casing
@@ -45,6 +46,7 @@
 #BA9FBF minecraft:bubble_coral_block
 #C6AC20 minecraft:cactus
 #00BE18 minecraft:calcite
+#54A3DE the_ages_of_times:carbyne_sulfate
 #F2A1A5 create:chute
 #9EC980 immersiveengineering:circuit_table
 #7FDE54 minecraft:clay
@@ -61,6 +63,7 @@
 #0D9C42 ironchest:copper_chest
 #6E76AF minecraft:copper_ore
 #724B56 tconstruct:copper_platform
+#3E77D5 the_ages_of_times:copper_sulfate
 #CC07F6 minecraft:cornflower
 #468304 minecraft:crafting_table
 #8700D4 immersiveengineering:craftingtable
@@ -119,6 +122,7 @@
 #5A75B0 minecraft:glow_lichen
 #B76A76 minecraft:gold_ore
 #5D9BEF tconstruct:gold_platform
+#CA301C the_ages_of_times:gold_sulfate
 #060B35 minecraft:granite
 #727610 notreepunching:granite_loose_rock
 #3F84B7 minecraft:grass_block
@@ -127,21 +131,26 @@
 #F67E21 minecraft:hay_block
 #1A0827 minecraft:hopper
 #9D2636 minecraft:horn_coral_block
+#54DDA3 the_ages_of_times:hydraulic_fluid
+#165DA5 the_ages_of_times:hydrogen
 #369260 create:industrial_iron_block
 #EAC0B1 ironchest:iron_chest
 #D7EADE minecraft:iron_ore
 #051C87 tconstruct:iron_platform
 #8E1D90 beyond_earth:iron_plating_block
+#643C84 the_ages_of_times:iron_sulfate
 #C1E251 minecraft:jungle_leaves
 #6B68B5 minecraft:jungle_log
 #F7CC06 minecraft:jungle_planks
 #EA439B minecraft:lapis_ore
 #83CED3 minecraft:lava
+#2B9318 the_ages_of_times:lead_sulfate
 #72D77D minecraft:lever
 #7482E4 minecraft:lilac
 #DFD691 minecraft:lily_pad
 #746434 create:limestone
 #179590 create:linear_chassis
+#03FE2C the_ages_of_times:lithium_sulfate
 #470B4D immersiveengineering:logic_unit
 #DE9468 minecraft:magma_block
 #4F0350 create:mechanical_arm
@@ -155,6 +164,7 @@
 #4B39A0 melter:melter
 #C4844D create:millstone
 #BB8DD9 createaddition:modular_accumulator
+#98296E the_ages_of_times:molybdenum_sulfate
 #55AC9E beyond_earth:moon_cheese_ore
 #A16428 beyond_earth:moon_sand
 #0AFECD beyond_earth:moon_stone
@@ -187,6 +197,7 @@
 #D222D1 electrodynamics:orevanadinite
 #2D7F28 farmersdelight:organic_compost
 #661508 chemlib:oxygen
+#E888E5 the_ages_of_times:oxygen
 #AB1C58 minecraft:peony
 #3088BD electrodynamics:pipesteel
 #6A5197 minecraft:polished_andesite
@@ -228,6 +239,7 @@
 #18A9AE tconstruct:seared_table
 #C7FBBB create:secondary_linear_chassis
 #EBD65B create:sequenced_gearshift
+#9E85C9 the_ages_of_times:silver_sulfate
 #9B036C tconstruct:sky_slime_crystal_block
 #8E64F9 tconstruct:sky_slime_dirt
 #3768ED beyond_earth:sky_stone
@@ -259,9 +271,12 @@
 #B2F195 ceramics:terracotta_faucet
 #271922 ceramics:terracotta_gauge
 #4C0FBF createaddition:tesla_coil
+#982755 the_ages_of_times:tin_sulfate
 #2035B7 minecraft:tube_coral_block
 #87BAF4 minecraft:tuff
 #EDFEF9 immersiveengineering:turntable
+#81B30B the_ages_of_times:uranium_hexafluoride
+#A79137 the_ages_of_times:vanadium_sulfate
 #6DB687 create:veridium
 #88779D minecraft:vine
 #2F6B3B multibeds:vintage
