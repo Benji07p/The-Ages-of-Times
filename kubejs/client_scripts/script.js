@@ -73,4 +73,9 @@ onEvent('item.tooltip', tooltip => {
 		text.add(1, Text.of('§3Zn (30)'))
 		text.add(2, Text.of('§7Transition Metals'))
 	})
+
+	tooltip.addAdvanced(['nuclearscience:thorianitedust'], (item, advanced, text) => {
+		text.add(1, Text.of('§3Th (90)'))
+		text.add(2, Text.of('§7Actinides'))
+	})
 })
