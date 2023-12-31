@@ -1,0 +1,13 @@
+{
+  "type": "alchemistry:compactor",
+  "group": "alchemistry:compactor",
+  "input": {
+    "ingredient": {
+      "item": "chemlib:thorium"
+    },
+    "count": 16
+  },
+  "result": {
+    "item": "nuclearscience:thorianitedust"
+  }
+}
