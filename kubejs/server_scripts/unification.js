@@ -81,6 +81,8 @@ onEvent('recipes', event => {
 	event.remove({ id: 'chemlib:lithium_ingot_from_blasting_lithium_dust'})
 	event.remove({ id: 'chemlib:vanadium_ingot_from_smelting_vanadium_dust'})
 	event.remove({ id: 'chemlib:vanadium_ingot_from_blasting_vanadium_dust'})
+	event.remove({ id: 'chemlib:thorium_ingot_from_smelting_thorium_dust'})
+	event.remove({ id: 'chemlib:thorium_ingot_from_blasting_thorium_dust'})
 	event.remove({ id: 'chemlib:tin_ingot_to_nugget'})
 	event.remove({ id: 'chemlib:tin_nugget_to_ingot'})
 	event.remove({ id: 'chemlib:tin_block_to_ingot'})
@@ -248,6 +250,9 @@ onEvent('item.tags', event => {
 	//Chromium
 	event.get('forge:ingots/chromium').remove('chemlib:chromium_ingot')
 	event.get('forge:storage_blocks/chromium').remove('chemlib:chromium_metal_block')
+
+	//Thorium
+	event.get('forge:dusts/thorium').remove('chemlib:thorium_dust')
 })
 
 onEvent('fluid.tags', event => {
@@ -272,5 +277,58 @@ onEvent('fluid.tags', event => {
 	event.get('forge:ammonia').add(['chemlib:ammonia_fluid', 'chemlib:ammonia_flowing'])
 
 	// Liquid Concrete
-	event.get('forge:concrete').remove('electrodynamics:fluidconcrete')
+	event.get('forge:concrete').remove(['electrodynamics:fluidconcrete', 'immersiveengineering:concrete', 'immersiveengineering:concrete_flowing'])
+	event.get('forge:concrete').add(['the_ages_of_times:liquid_concrete', 'the_ages_of_times:flowing_liquid_concrete'])
+
+	// Copper Sulfate
+	event.get('forge:copper_sulfate').remove('electrodynamics:fluidsulfatecopper')
+	event.get('forge:copper_sulfate').add(['the_ages_of_times:copper_sulfate', 'the_ages_of_times:flowing_copper_sulfate'])
+
+	// Gold Sulfate
+	event.get('forge:gold_sulfate').remove('electrodynamics:fluidsulfategold')
+	event.get('forge:gold_sulfate').add(['the_ages_of_times:gold_sulfate', 'the_ages_of_times:flowing_gold_sulfate'])
+
+	// Silver Sulfate
+	event.get('forge:silver_sulfate').remove('electrodynamics:fluidsulfatesilver')
+	event.get('forge:silver_sulfate').add(['the_ages_of_times:silver_sulfate', 'the_ages_of_times:flowing_silver_sulfate'])
+
+	// Tin Sulfate
+	event.get('forge:tin_sulfate').remove('electrodynamics:fluidsulfatetin')
+	event.get('forge:tin_sulfate').add(['the_ages_of_times:tin_sulfate', 'the_ages_of_times:flowing_tin_sulfate'])
+
+	// Vanadium Sulfate
+	event.get('forge:vanadium_sulfate').remove('electrodynamics:fluidsulfatevanadium')
+	event.get('forge:vanadium_sulfate').add(['the_ages_of_times:vanadium_sulfate', 'the_ages_of_times:flowing_vanadium_sulfate'])
+
+	// Lithium Sulfate
+	event.get('forge:lithium_sulfate').remove('electrodynamics:fluidsulfatelithium')
+	event.get('forge:lithium_sulfate').add(['the_ages_of_times:lithium_sulfate', 'the_ages_of_times:flowing_lithium_sulfate'])
+
+	// Molybdenum Sulfate
+	event.get('forge:molybdenum_sulfate').remove('electrodynamics:fluidsulfatemolybdenum')
+	event.get('forge:molybdenum_sulfate').add(['the_ages_of_times:molybdenum_sulfate', 'the_ages_of_times:flowing_molybdenum_sulfate'])
+
+	// Carbyne Sulfate
+	event.get('forge:netherite_sulfate').remove('electrodynamics:fluidsulfatenetherite')
+	event.get('forge:netherite_sulfate').add(['the_ages_of_times:carbyne_sulfate', 'the_ages_of_times:flowing_carbyne_sulfate'])
+
+	// Lead Sulfate
+	event.get('forge:lead_sulfate').remove('electrodynamics:fluidsulfatelead')
+	event.get('forge:lead_sulfate').add(['the_ages_of_times:lead_sulfate', 'the_ages_of_times:flowing_lead_sulfate'])
+
+	// Iron Sulfate
+	event.get('forge:iron_sulfate').remove('electrodynamics:fluidsulfateiron')
+	event.get('forge:iron_sulfate').add(['the_ages_of_times:iron_sulfate', 'the_ages_of_times:flowing_iron_sulfate'])
+
+	// Hydraulic Fluid
+	event.get('forge:hydraulic_fluid').remove('electrodynamics:fluidhydraulic')
+	event.get('forge:hydraulic_fluid').add(['the_ages_of_times:hydraulic_fluid', 'the_ages_of_times:flowing_hydraulic_fluid'])
+
+	// Liquid Clay
+	event.get('forge:clay').remove('electrodynamics:fluidclay')
+	event.get('forge:clay').add(['the_ages_of_times:liquid_clay', 'the_ages_of_times:flowing_liquid_clay'])
+
+	// Polyethylene
+	event.get('forge:polyethylene').remove('electrodynamics:fluidpolyethylene')
+	event.get('forge:polyethylene').add(['the_ages_of_times:polyethylene', 'the_ages_of_times:flowing_polyethylene'])
 })
