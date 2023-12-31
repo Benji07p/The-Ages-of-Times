@@ -59,6 +59,7 @@
 #531031 immersiveengineering:coke_oven
 #7E82C3 immersiveengineering:cokebrick
 #E2D601 minecraft:composter
+#1030A6 immersiveengineering:concrete_fluid_block
 #E727DA immersiveengineering:concrete_sprayed
 #0D9C42 ironchest:copper_chest
 #6E76AF minecraft:copper_ore
@@ -75,6 +76,7 @@
 #7DF6E7 create:crushing_wheel
 #E9A8F5 minecraft:crying_obsidian
 #C0ADCD create:cuckoo_clock
+#FDCD6A custommachinery:custom_machine_block
 #3C3897 minecraft:cut_sandstone
 #B2A2E1 minecraft:dandelion
 #A66708 minecraft:dark_oak_log
@@ -132,6 +134,7 @@
 #1A0827 minecraft:hopper
 #9D2636 minecraft:horn_coral_block
 #54DDA3 the_ages_of_times:hydraulic_fluid
+#93E9C8 chemlib:hydrogen
 #165DA5 the_ages_of_times:hydrogen
 #369260 create:industrial_iron_block
 #EAC0B1 ironchest:iron_chest
@@ -150,6 +153,8 @@
 #DFD691 minecraft:lily_pad
 #746434 create:limestone
 #179590 create:linear_chassis
+#E09EC9 the_ages_of_times:liquid_clay
+#62456D the_ages_of_times:liquid_concrete
 #03FE2C the_ages_of_times:lithium_sulfate
 #470B4D immersiveengineering:logic_unit
 #DE9468 minecraft:magma_block
@@ -203,6 +208,7 @@
 #6A5197 minecraft:polished_andesite
 #5CDCB7 minecraft:polished_basalt
 #437566 minecraft:polished_granite
+#5E5E01 the_ages_of_times:polyethylene
 #AFAC0D minecraft:poppy
 #BA6112 the_ages_of_times:porcelain_casting_basin
 #32FF6B ceramics:porcelain_faucet
