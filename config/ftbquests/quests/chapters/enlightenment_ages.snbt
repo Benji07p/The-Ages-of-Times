@@ -60,6 +60,22 @@
 				item: "antiqueatlas:antique_atlas"
 			}]
 		}
+		{
+			x: 0.0d
+			y: 0.5d
+			id: "7984C5618B3F5B9D"
+			tasks: [{
+				id: "3E4DCD9DFC26A98B"
+				type: "item"
+				item: {
+					id: "custommachinery:custom_machine_item"
+					Count: 1b
+					tag: {
+						machine: "taotmachinery:alembic"
+					}
+				}
+			}]
+		}
 	]
 	quest_links: [ ]
 }
