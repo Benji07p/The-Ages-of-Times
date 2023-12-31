@@ -1,0 +1,134 @@
+{
+    "name": "Alembic",
+    "appearance": {
+        "block": "kubejs:machine/alembic",
+        "running": {
+            "block": "kubejs:machine/alembic_powered",
+            "light": 15
+        }
+    },
+    "components": [
+        {
+            "type": "custommachinery:fluid",
+            "capacity": 10000,
+            "id": "input"
+        },
+        {
+            "type": "custommachinery:fluid",
+            "capacity": 10000,
+            "id": "output1",
+            "mode": "output"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input1"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input2"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input3"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input4",
+            "mode": "input",
+            "variant": "custommachinery:fuel"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input5"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input6"
+        }
+    ],
+    "gui": [
+        {
+            "texture": "custommachinery:textures/gui/base_background.png",
+            "x": 0,
+            "y": 0,
+            "type": "custommachinery:texture",
+            "height": 166,
+            "width": 176
+        },
+        {
+            "texture": "kubejs:textures/alembic.png",
+            "x": 0,
+            "y": 0,
+            "type": "custommachinery:texture"
+        },
+        {
+            "x": 6,
+            "y": 82,
+            "type": "custommachinery:player_inventory"
+        },
+        {
+            "id": "input1",
+            "x": 24,
+            "y": 10,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input2",
+            "x": 24,
+            "y": 46,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input3",
+            "x": 61,
+            "y": 10,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input4",
+            "x": 61,
+            "y": 46,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input5",
+            "x": 139,
+            "y": 10,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input6",
+            "x": 139,
+            "y": 46,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input",
+            "x": 45,
+            "y": 9,
+            "texture": "kubejs:textures/fluidtank.png",
+            "type": "custommachinery:fluid"
+        },
+        {
+            "id": "output1",
+            "x": 118,
+            "y": 9,
+            "texture": "kubejs:textures/fluidtank.png",
+            "type": "custommachinery:fluid"
+        },
+        {
+            "x": 89,
+            "y": 30,
+            "type": "custommachinery:progress",
+            "emptyTexture": "kubejs:textures/off.png",
+            "filledTexture": "kubejs:textures/on.png"
+        },
+        {
+            "type": "custommachinery:fuel",
+            "x": 62,
+            "y": 29,
+            "emptyTexture": "kubejs:textures/offy.png",
+            "filledTexture": "kubejs:textures/ony.png"
+        }
+    ]
+}
