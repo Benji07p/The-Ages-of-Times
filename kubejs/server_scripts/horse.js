@@ -4,7 +4,7 @@ onEvent('recipes', event => {
         {
             "type": "custommachinery:custom_machine",
             "machine": "taotmachinery:horse_power",
-            "time": 1000,
+            "time": 4000,
             "requirements": [
                 {
                     "type": "custommachinery:entity",
@@ -22,11 +22,11 @@ onEvent('recipes', event => {
                     "stress": 256
 				},
                 {
-					"type": "custommachinery:command",
-					"command": "/say it work",
-					"permission": 2,
-					"phase": "crafting_tickable"
-				}
+                    "type": "custommachinery:command",
+                    "command": "/execute as @e[type=horse,distance=..7] run tp @s ~ ~ ~2",
+                    "permission": 2,
+                    "phase": "crafting_tickable"
+                }
 			]
 		}
 	)
