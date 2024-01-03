@@ -1,0 +1,229 @@
+---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 1/1/24, 3:23 PM
+Description: Ticking block entity
+
+java.lang.UnsupportedOperationException: null
+	at java.util.ImmutableCollections.uoe(ImmutableCollections.java:142) ~[?:?] {}
+	at java.util.ImmutableCollections$ListItr.remove(ImmutableCollections.java:380) ~[?:?] {}
+	at fr.frinn.custommachinery.common.crafting.machine.MachineProcessor.processDelayed(MachineProcessor.java:181) ~[CustomMachinery-forge-1.18.2-0.8.7.jar%2382!/:?] {re:classloading}
+	at fr.frinn.custommachinery.common.crafting.machine.MachineProcessor.tick(MachineProcessor.java:84) ~[CustomMachinery-forge-1.18.2-0.8.7.jar%2382!/:?] {re:classloading}
+	at fr.frinn.custommachinery.common.init.CustomMachineTile.serverTick(CustomMachineTile.java:166) ~[CustomMachinery-forge-1.18.2-0.8.7.jar%2382!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.LevelChunk$BoundTickingBlockEntity.m_142224_(LevelChunk.java:673) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.LevelChunk$RebindableTickingBlockEntityWrapper.m_142224_(LevelChunk.java:766) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.Level.m_46463_(Level.java:476) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:kubejs-common.mixins.json:LevelMixin,pl:mixin:APP:beyond_earth.mixin.json:BlockSet,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:327) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:crafttweaker.mixins.json:common.transform.world.level.MixinServerLevel,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:902) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.client.server.IntegratedServer.m_5705_(IntegratedServer.java:84) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:833) [?:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.ImmutableCollections.uoe(ImmutableCollections.java:142) ~[?:?] {}
+	at java.util.ImmutableCollections$ListItr.remove(ImmutableCollections.java:380) ~[?:?] {}
+	at fr.frinn.custommachinery.common.crafting.machine.MachineProcessor.processDelayed(MachineProcessor.java:181) ~[CustomMachinery-forge-1.18.2-0.8.7.jar%2382!/:?] {re:classloading}
+	at fr.frinn.custommachinery.common.crafting.machine.MachineProcessor.tick(MachineProcessor.java:84) ~[CustomMachinery-forge-1.18.2-0.8.7.jar%2382!/:?] {re:classloading}
+	at fr.frinn.custommachinery.common.init.CustomMachineTile.serverTick(CustomMachineTile.java:166) ~[CustomMachinery-forge-1.18.2-0.8.7.jar%2382!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.LevelChunk$BoundTickingBlockEntity.m_142224_(LevelChunk.java:673) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.LevelChunk$RebindableTickingBlockEntityWrapper.m_142224_(LevelChunk.java:766) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.Level.m_46463_(Level.java:476) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:kubejs-common.mixins.json:LevelMixin,pl:mixin:APP:beyond_earth.mixin.json:BlockSet,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:327) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:crafttweaker.mixins.json:common.transform.world.level.MixinServerLevel,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+-- Block entity being ticked --
+Details:
+	Name: custommachinery:custom_machine_tile // fr.frinn.custommachinery.forge.init.ForgeCustomMachineTile
+	Block: Block{custommachinery:custom_machine_block}[facing=west]
+	Block location: World: (366,64,-148), Section: (at 14,0,12 in 22,4,-10; chunk contains blocks 352,-64,-160 to 367,319,-145), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,-64,-512 to 511,319,-1)
+	Block: Block{custommachinery:custom_machine_block}[facing=west]
+	Block location: World: (366,64,-148), Section: (at 14,0,12 in 22,4,-10; chunk contains blocks 352,-64,-160 to 367,319,-145), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,-64,-512 to 511,319,-1)
+Stacktrace:
+	at net.minecraft.world.level.chunk.LevelChunk$BoundTickingBlockEntity.m_142224_(LevelChunk.java:673) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.LevelChunk$RebindableTickingBlockEntityWrapper.m_142224_(LevelChunk.java:766) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:classloading}
+	at net.minecraft.world.level.Level.m_46463_(Level.java:476) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:kubejs-common.mixins.json:LevelMixin,pl:mixin:APP:beyond_earth.mixin.json:BlockSet,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:327) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:crafttweaker.mixins.json:common.transform.world.level.MixinServerLevel,pl:mixin:APP:immersiveengineering.mixins.json:coremods.ServerWorldMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:902) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.client.server.IntegratedServer.m_5705_(IntegratedServer.java:84) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:833) [?:?] {}
+
+
+-- Affected level --
+Details:
+	All players: 1 total; [ServerPlayer['Benji07p'/61, l='ServerLevel[TEST2]', x=363.52, y=67.99, z=-148.36]]
+	Chunk stats: 3898
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (0,74,0), Section: (at 0,10,0 in 0,4,0; chunk contains blocks 0,-64,0 to 15,319,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,-64,0 to 511,319,511)
+	Level time: 8724519 game time, 6000 day time
+	Level name: TEST2
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Known server brands: forge
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:902) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.client.server.IntegratedServer.m_5705_(IntegratedServer.java:84) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[client-1.18.2-20220404.173914-srg.jar%23131!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:833) [?:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.2
+	Minecraft Version ID: 1.18.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.1, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+	Memory: 3229927944 bytes (3080 MiB) / 7075790848 bytes (6748 MiB) up to 8589934592 bytes (8192 MiB)
+	CPUs: 12
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz
+	Identifier: Intel64 Family 6 Model 63 Stepping 2
+	Microarchitecture: Haswell (Server)
+	Frequency (GHz): 3.30
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: NVIDIA GeForce GTX 1070
+	Graphics card #0 vendor: NVIDIA (0x10de)
+	Graphics card #0 VRAM (MB): 4095.00
+	Graphics card #0 deviceId: 0x1b81
+	Graphics card #0 versionInfo: DriverVersion=31.0.15.3623
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 2.13
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 2.13
+	Memory slot #1 type: DDR4
+	Memory slot #2 capacity (MB): 8192.00
+	Memory slot #2 clockSpeed (GHz): 2.13
+	Memory slot #2 type: DDR4
+	Memory slot #3 capacity (MB): 8192.00
+	Memory slot #3 clockSpeed (GHz): 2.13
+	Memory slot #3 type: DDR4
+	Virtual memory max (MB): 37533.62
+	Virtual memory used (MB): 21903.89
+	Swap memory total (MB): 4864.00
+	Swap memory used (MB): 27.75
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Xmx8192m -Xms256m
+	Server Running: true
+	Player Count: 1 / 8; [ServerPlayer['Benji07p'/61, l='ServerLevel[TEST2]', x=363.52, y=67.99, z=-148.36]]
+	Data Packs: vanilla, mod:rhino (incompatible), mod:alchemylib, mod:cucumber, mod:no_f3, mod:jei (incompatible), mod:extendedcrafting, mod:woodenhopper (incompatible), mod:sleeping_bags (incompatible), mod:electrodynamics (incompatible), mod:beyond_earth, mod:immersivepetroleum (incompatible), mod:cloth_config (incompatible), mod:forge, mod:shetiphiancore, mod:mctb (incompatible), mod:jeimultiblocks, mod:ironchest, mod:alchemistry, mod:tconstruct (incompatible), mod:farmersdelight, mod:compasscoords (incompatible), mod:immersiveengineering, mod:notreepunching (incompatible), mod:ceramicshears (incompatible), mod:astikorcarts (incompatible), mod:car (incompatible), mod:curios (incompatible), mod:atum, mod:flywheel (incompatible), mod:create, mod:mantle (incompatible), mod:chemlib (incompatible), mod:beyond_earth_giselle_addon, mod:multibeds, mod:nuclearscience (incompatible), mod:ceramics (incompatible), mod:butchersdelight, mod:architectury (incompatible), mod:kubejs (incompatible), mod:ftblibrary (incompatible), mod:itemfilters (incompatible), mod:custommachinery (incompatible), mod:custommachinerycreate (incompatible), mod:ftbteams (incompatible), mod:antiqueatlas (incompatible), mod:ftbquests (incompatible), mod:illusion (incompatible), mod:immersivemc (incompatible), mod:lychee, mod:woodenshears (incompatible), mod:ballistix (incompatible), mod:createaddition (incompatible), mod:tardim (incompatible), mod:tempad (incompatible), mod:titanium (incompatible), mod:functionalstorage (incompatible), mod:carryon (incompatible), mod:bucketlib, mod:woodenbucket, mod:domum_ornamentum (incompatible), mod:blockui (incompatible), mod:structurize (incompatible), mod:multipiston (incompatible), mod:minecolonies (incompatible), mod:magistuarmory (incompatible), mod:farmingforblockheads (incompatible), mod:balm (incompatible), mod:journeymap, mod:nologpunch, mod:ae2 (incompatible), mod:the_ages_of_times, mod:jmapstages (incompatible), mod:jmi (incompatible), mod:bookshelf, mod:jeitweaker (incompatible), mod:crafttweaker (incompatible), mod:gamestages, mod:ftbchunks (incompatible), mod:melter
+	World Generation: Experimental
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'forge'; Server brand changed to 'forge'
+	ModLauncher: 9.1.3+9.1.3+main.9b69c82a
+	ModLauncher launch target: forgeclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+		 mixin PLUGINSERVICE 
+		 eventbus PLUGINSERVICE 
+		 slf4jfixer PLUGINSERVICE 
+		 object_holder_definalize PLUGINSERVICE 
+		 runtime_enum_extender PLUGINSERVICE 
+		 capability_token_subclass PLUGINSERVICE 
+		 accesstransformer PLUGINSERVICE 
+		 runtimedistcleaner PLUGINSERVICE 
+		 mixin TRANSFORMATIONSERVICE 
+		 fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		jmapstages-cont-1.18.2-2.1.1.jar                  |JMap Staged                   |jmapstages                    |1.18.2-2.1.0        |DONE      |Manifest: NOSIGNATURE
+		rhino-forge-1802.2.1-build.255.jar                |Rhino                         |rhino                         |1802.2.1-build.255  |DONE      |Manifest: NOSIGNATURE
+		alchemylib-1.18.2-1.0.22.jar                      |AlchemyLib                    |alchemylib                    |1.18.2-1.0.22       |DONE      |Manifest: NOSIGNATURE
+		Cucumber-1.18.2-5.1.5.jar                         |Cucumber Library              |cucumber                      |5.1.5               |DONE      |Manifest: NOSIGNATURE
+		jmi-forge-1.18.2-0.13-43.jar                      |JourneyMap Integration        |jmi                           |0.13-43             |DONE      |Manifest: NOSIGNATURE
+		no_f3-1.0.jar                                     |No F3                         |no_f3                         |1.0                 |DONE      |Manifest: NOSIGNATURE
+		melterblock-1.18.2-1.3.2-all.jar                  |Melter                        |melter                        |1.18.2-1.3.2        |DONE      |Manifest: NOSIGNATURE
+		jei-1.18.2-forge-10.2.1.1005.jar                  |Just Enough Items             |jei                           |10.2.1.1005         |DONE      |Manifest: NOSIGNATURE
+		appliedenergistics2-forge-11.7.6.jar              |Applied Energistics 2         |ae2                           |11.7.6              |DONE      |Manifest: NOSIGNATURE
+		ExtendedCrafting-1.18.2-4.1.2.jar                 |Extended Crafting             |extendedcrafting              |4.1.2               |DONE      |Manifest: NOSIGNATURE
+		woodenhopper-1.18.1-1.2.2.1.jar                   |Wooden Hopper                 |woodenhopper                  |1.18.1-1.2.2.1      |DONE      |Manifest: NOSIGNATURE
+		sleeping_bags-1.18.2-1.0.1.jar                    |Sleeping Bags                 |sleeping_bags                 |1.18.2-1.0.1        |DONE      |Manifest: NOSIGNATURE
+		nologpunch-1.18.2-2.0.0.jar                       |nologpunch                    |nologpunch                    |1.18.2-2.0.0        |DONE      |Manifest: NOSIGNATURE
+		journeymap-1.18.2-5.9.7-forge.jar                 |Journeymap                    |journeymap                    |5.9.7               |DONE      |Manifest: NOSIGNATURE
+		farmingforblockheads-forge-1.18.2-10.0.2.jar      |Farming for Blockheads        |farmingforblockheads          |10.0.2              |DONE      |Manifest: NOSIGNATURE
+		Bookshelf-Forge-1.18.2-13.3.56.jar                |Bookshelf                     |bookshelf                     |13.3.56             |DONE      |Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		Electrodynamics-1.18.2-0.6.4-0.jar                |Electrodynamics               |electrodynamics               |1.18.2-0.6.4-0      |DONE      |Manifest: NOSIGNATURE
+		balm-3.2.6.jar                                    |Balm                          |balm                          |3.2.6               |DONE      |Manifest: NOSIGNATURE
+		JEITweaker-1.18.2-3.0.0.9.jar                     |JEI Tweaker                   |jeitweaker                    |3.0.0.9             |DONE      |Manifest: NOSIGNATURE
+		carryon-1.18.2-1.17.1.12.jar                      |Carry On                      |carryon                       |1.17.1.12           |DONE      |Manifest: NOSIGNATURE
+		CraftTweaker-forge-1.18.2-9.1.211.jar             |CraftTweaker                  |crafttweaker                  |9.1.211             |DONE      |Manifest: NOSIGNATURE
+		Beyond-Earth-1.18.2-6.3.jar                       |Beyond Earth                  |beyond_earth                  |6.3                 |DONE      |Manifest: NOSIGNATURE
+		ImmersivePetroleum-1.18.2-4.2.0-22.jar            |Immersive Petroleum           |immersivepetroleum            |4.2.0-22            |DONE      |Manifest: NOSIGNATURE
+		cloth-config-6.5.102-forge.jar                    |Cloth Config v4 API           |cloth_config                  |6.5.102             |DONE      |Manifest: NOSIGNATURE
+		forge-1.18.2-40.2.4-universal.jar                 |Forge                         |forge                         |40.2.4              |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		shetiphiancore-forge-1.18.2-3.10.16.jar           |ShetiPhian-Core               |shetiphiancore                |3.10.16             |DONE      |Manifest: NOSIGNATURE
+		MoreCraftingTables+1.18.2-3.2.1.jar               |More Crafting Tables Mod      |mctb                          |1.18.2              |DONE      |Manifest: NOSIGNATURE
+		jeimultiblocks-1.18.2-0.0.2.jar                   |Just Enough Immersive Multiblo|jeimultiblocks                |0.0.2               |DONE      |Manifest: NOSIGNATURE
+		tardim-1.1.4.jar                                  |TARDIM                        |tardim                        |1.1.3               |DONE      |Manifest: NOSIGNATURE
+		ironchest-1.18.2-13.2.11.jar                      |Iron Chests                   |ironchest                     |1.18.2-13.2.11      |DONE      |Manifest: NOSIGNATURE
+		alchemistry-1.18.2-2.2.2.jar                      |Alchemistry                   |alchemistry                   |1.18.2-2.2.2        |DONE      |Manifest: NOSIGNATURE
+		client-1.18.2-20220404.173914-srg.jar             |Minecraft                     |minecraft                     |1.18.2              |DONE      |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		TConstruct-1.18.2-3.6.4.113.jar                   |Tinkers' Construct            |tconstruct                    |3.6.4.113           |DONE      |Manifest: NOSIGNATURE
+		FarmersDelight-1.18.2-1.2.3.jar                   |Farmer's Delight              |farmersdelight                |1.18.2-1.2.3        |DONE      |Manifest: NOSIGNATURE
+		tempad-forge-1.18.2-1.4.1.jar                     |Tempad                        |tempad                        |1.4.1               |DONE      |Manifest: NOSIGNATURE
+		CompassCoords-1.4.0-mc1.18.2.jar                  |Compass Coords                |compasscoords                 |1.4.0               |DONE      |Manifest: NOSIGNATURE
+		titanium-1.18.2-3.5.11-45.jar                     |Titanium                      |titanium                      |3.5.11              |DONE      |Manifest: NOSIGNATURE
+		ImmersiveEngineering-1.18.2-8.4.0-161.jar         |Immersive Engineering         |immersiveengineering          |1.18.2-8.4.0-161    |DONE      |Manifest: 44:39:94:cf:1d:8c:be:3c:7f:a9:ee:f4:1e:63:a5:ac:61:f9:c2:87:d5:5b:d9:d6:8c:b5:3e:96:5d:8e:3f:b7
+		notreepunching-forge-1.18.2-5.1.0.jar             |No Tree Punching              |notreepunching                |5.1.0               |DONE      |Manifest: NOSIGNATURE
+		domum_ornamentum-1.18.2-1.0.50-ALPHA-universal.jar|Domum Ornamentum              |domum_ornamentum              |1.18.2-1.0.50-ALPHA |DONE      |Manifest: NOSIGNATURE
+		ceramicshears-1.18.2-1.6.1.1.jar                  |Ceramic Shears                |ceramicshears                 |1.18.2-1.6.1.1      |DONE      |Manifest: NOSIGNATURE
+		astikorcarts-1.18.2-1.1.2.jar                     |AstikorCarts                  |astikorcarts                  |1.1.2               |DONE      |Manifest: NOSIGNATURE
+		car-1.18.2-1.0.1.jar                              |Ultimate Car Mod              |car                           |1.18.2-1.0.1        |DONE      |Manifest: NOSIGNATURE
+		curios-forge-1.18.2-5.0.9.1.jar                   |Curios API                    |curios                        |1.18.2-5.0.9.1      |DONE      |Manifest: NOSIGNATURE
+		Atum-1.18.2-2.3.0.jar                             |Atum 2                        |atum                          |1.18.2-2.3.0        |DONE      |Manifest: NOSIGNATURE
+		flywheel-forge-1.18.2-0.6.8.a-99.jar              |Flywheel                      |flywheel                      |0.6.8.a-99          |DONE      |Manifest: NOSIGNATURE
+		create-1.18.2-0.5.1.b.jar                         |Create                        |create                        |0.5.1.b             |DONE      |Manifest: NOSIGNATURE
+		Mantle-1.18.2-1.9.45.jar                          |Mantle                        |mantle                        |1.9.45              |DONE      |Manifest: NOSIGNATURE
+		blockui-1.18.2-0.0.71-ALPHA.jar                   |UI Library Mod                |blockui                       |1.18.2-0.0.71-ALPHA |DONE      |Manifest: NOSIGNATURE
+		GameStages-Forge-1.18.2-8.1.3.jar                 |GameStages                    |gamestages                    |8.1.3               |DONE      |Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		bucketlib-1.18.2-0.5.5.0.jar                      |BucketLib                     |bucketlib                     |1.18.2-0.5.5.0      |DONE      |Manifest: NOSIGNATURE
+		chemlib-1.18.2-2.0.18.jar                         |ChemLib                       |chemlib                       |1.18.2-2.0.18       |DONE      |Manifest: NOSIGNATURE
+		Beyond-Earth-Giselle-Addon-1.18.2-2.20.jar        |Beyond Earth: Giselle Addon   |beyond_earth_giselle_addon    |1.18.2-2.20         |DONE      |Manifest: NOSIGNATURE
+		multibeds-forge-1.18.2-1.9.10.jar                 |Multi-Beds                    |multibeds                     |1.9.10              |DONE      |Manifest: NOSIGNATURE
+		Nuclear+Science-1.18.2-0.4.8-11.jar               |Nuclear Science               |nuclearscience                |1.18.2-0.4.8-11     |DONE      |Manifest: NOSIGNATURE
+		Ceramics-1.18.2-1.7.1.jar                         |Ceramics                      |ceramics                      |1.7.1               |DONE      |Manifest: NOSIGNATURE
+		structurize-1.18.2-1.0.424-ALPHA.jar              |Structurize                   |structurize                   |1.18.2-1.0.424-ALPHA|DONE      |Manifest: NOSIGNATURE
+		multi-piston-1.18.2-1.2.15-ALPHA.jar              |Multi-Piston                  |multipiston                   |1.18.2-1.2.15-ALPHA |DONE      |Manifest: NOSIGNATURE
+		minecolonies-1.18.2-1.1.149-RELEASE.jar           |MineColonies                  |minecolonies                  |1.18.2-1.1.149-RELEA|DONE      |Manifest: NOSIGNATURE
+		Butchersdelight beta 1.18.2 1.0.0.jar             |ButchersDelight               |butchersdelight               |1.8.21.0.0          |DONE      |Manifest: NOSIGNATURE
+		architectury-4.11.92-forge.jar                    |Architectury                  |architectury                  |4.11.92             |DONE      |Manifest: NOSIGNATURE
+		ftb-library-forge-1802.3.11-build.177.jar         |FTB Library                   |ftblibrary                    |1802.3.11-build.177 |DONE      |Manifest: NOSIGNATURE
+		item-filters-forge-1802.2.8-build.50.jar          |Item Filters                  |itemfilters                   |1802.2.8-build.50   |DONE      |Manifest: NOSIGNATURE
+		CustomMachinery-forge-1.18.2-0.8.7.jar            |Custom Machinery              |custommachinery               |0.8.7               |DONE      |Manifest: NOSIGNATURE
+		CustomMachineryCreate-forge-1.18.2-1.0.2.jar      |Custom Machinery Create       |custommachinerycreate         |1.0.2               |DONE      |Manifest: NOSIGNATURE
+		[1.18.2-forge]-Epic-Knights-8.2.jar               |Epic Knights Mod              |magistuarmory                 |8.2                 |DONE      |Manifest: NOSIGNATURE
+		ftb-teams-forge-1802.2.11-build.107.jar           |FTB Teams                     |ftbteams                      |1802.2.11-build.107 |DONE      |Manifest: NOSIGNATURE
+		ftb-chunks-forge-1802.3.17-build.265.jar          |FTB Chunks                    |ftbchunks                     |1802.3.17-build.265 |DONE      |Manifest: NOSIGNATURE
+		kubejs-forge-1802.5.5-build.569.jar               |KubeJS                        |kubejs                        |1802.5.5-build.569  |DONE      |Manifest: NOSIGNATURE
+		antiqueatlas-7.1.1-forge-mc1.18.2.jar             |Antique Atlas                 |antiqueatlas                  |7.1.1-forge-mc1.18.2|DONE      |Manifest: NOSIGNATURE
+		ftb-quests-forge-1802.3.15-build.298.jar          |FTB Quests                    |ftbquests                     |1802.3.15-build.298 |DONE      |Manifest: NOSIGNATURE
+		illusion-forge-1.0.2+1.18.2.jar                   |Illusion                      |illusion                      |1.0.2+1.18.2        |DONE      |Manifest: NOSIGNATURE
+		immersivemc-1.4.0-1.18.2-forge.jar                |ImmersiveMC                   |immersivemc                   |1.4.0               |DONE      |Manifest: NOSIGNATURE
+		functionalstorage-1.18.2-1.1.3.jar                |Functional Storage            |functionalstorage             |1.18.2-1.1.3        |DONE      |Manifest: NOSIGNATURE
+		woodenbucket-1.18.2-1.0.2.1.jar                   |Wooden Bucket                 |woodenbucket                  |1.18.2-1.0.2.1      |DONE      |Manifest: NOSIGNATURE
+		Lychee-1.18.2-forge-2.9.1.jar                     |Lychee Tweaker                |lychee                        |2.9.1               |DONE      |Manifest: NOSIGNATURE
+		woodenshears-1.18.2-1.2.1.2.jar                   |Wooden Shears                 |woodenshears                  |1.18.2-1.2.1.2      |DONE      |Manifest: NOSIGNATURE
+		Ballistix-1.18.2-0.5.3-3.jar                      |Ballistix                     |ballistix                     |1.18.2-0.5.3-3      |DONE      |Manifest: NOSIGNATURE
+		createaddition-1.18.2-1.0.0.jar                   |Create Crafts & Additions     |createaddition                |1.18.2-1.0.0        |DONE      |Manifest: NOSIGNATURE
+		The Ages of Times alpha 0.25.jar                  |The Ages of Times             |the_ages_of_times             |1.0.0               |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 2c6ab714-3aa8-4fee-96db-51ce4eff8f9c
+	FML: 40.2
+	Forge: net.minecraftforge:40.2.4
+	Flywheel Backend: GL33 Instanced Arrays
