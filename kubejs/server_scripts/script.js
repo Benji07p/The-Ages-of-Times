@@ -275,6 +275,97 @@ onEvent('recipes', event => {
 	//Bronze Dust Remove
 	event.remove({ id: 'electrodynamics:dustbronze'})
 
+	//Melter Remove
+	event.remove({ id: 'melter:melting/cobble_melting'})
+	event.remove({ id: 'melter:melting/snow_melting'})
+	event.remove({ id: 'melter:melting/ice_block_melting'})
+	event.remove({ id: 'melter:crafting/melter_block'})
+
+	//Ingot Smelting Remove
+	event.remove({ id: 'minecraft:copper_ingot_from_blasting_raw_copper'})
+	event.remove({ id: 'minecraft:copper_ingot_from_smelting_raw_copper'})
+	event.remove({ id: 'minecraft:iron_ingot_from_blasting_raw_iron'})
+	event.remove({ id: 'minecraft:iron_ingot_from_smelting_raw_iron'})
+	event.remove({ id: 'minecraft:gold_ingot_from_blasting_raw_gold'})
+	event.remove({ id: 'minecraft:gold_ingot_from_smelting_raw_gold'})
+	event.remove({ id: 'electrodynamics:ingotsilver_raw_blasting'})
+	event.remove({ id: 'electrodynamics:ingotsilver_raw_smelting'})
+	event.remove({ id: 'electrodynamics:ingottin_raw_blasting'})
+	event.remove({ id: 'electrodynamics:ingottin_raw_smelting'})
+	event.remove({ id: 'electrodynamics:ingotlead_raw_smelting'})
+	event.remove({ id: 'electrodynamics:ingotlead_raw_blasting'})
+
+	//Remove Hammering Crushing
+	event.remove({ id: 'immersiveengineering:crafting/raw_hammercrushing_copper'})
+	event.remove({ id: 'immersiveengineering:crafting/raw_hammercrushing_iron'})
+	event.remove({ id: 'immersiveengineering:crafting/raw_hammercrushing_gold'})
+	event.remove({ id: 'immersiveengineering:crafting/raw_hammercrushing_silver'})
+	event.remove({ id: 'immersiveengineering:crafting/raw_hammercrushing_tin'})
+	event.remove({ id: 'immersiveengineering:crafting/raw_hammercrushing_lead'})
+
+	//Seared Heater
+	event.remove({ id: 'tconstruct:smeltery/seared/heater'})
+	event.custom(
+		{
+		  "type": "create:item_application",
+		  "ingredients": [
+			{
+			  "item": "the_ages_of_times:porcelain_heater"
+			},
+			{
+			  "item": "the_ages_of_times:seared_upgrade"
+			}
+		  ],
+		  "results": [
+			{
+			  "item": "tconstruct:seared_heater"
+			}
+		  ]
+		}
+	)
+
+	//Seared Melter
+	event.remove({ id: 'tconstruct:smeltery/seared/melter'})
+	event.custom(
+		{
+		  "type": "create:item_application",
+		  "ingredients": [
+			{
+			  "item": "melter:melter"
+			},
+			{
+			  "item": "the_ages_of_times:seared_upgrade"
+			}
+		  ],
+		  "results": [
+			{
+			  "item": "tconstruct:seared_melter"
+			}
+		  ]
+		}
+	)
+
+	//Seared Basin
+	event.remove({ id: 'tconstruct:smeltery/seared/basin'})
+	event.custom(
+		{
+		  "type": "create:item_application",
+		  "ingredients": [
+			{
+			  "item": "tconstruct:scorched_basin"
+			},
+			{
+			  "item": "the_ages_of_times:seared_upgrade"
+			}
+		  ],
+		  "results": [
+			{
+			  "item": "tconstruct:seared_basin"
+			}
+		  ]
+		}
+	)
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
