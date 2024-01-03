@@ -1,7 +1,7 @@
 {
     "name": "Horse Power Generator",
     "appearance":{
-           "block": "create:gearbox"
+           "block": "create:gearbox[axis=z]"
     },
     "components": [
         {
