@@ -184,7 +184,7 @@
 			tasks: [{
 				id: "393827177D944DB2"
 				type: "item"
-				item: "tconstruct:seared_melter"
+				item: "melter:melter"
 			}]
 		}
 		{
@@ -195,7 +195,7 @@
 			tasks: [{
 				id: "7E2D8C15578460D2"
 				type: "item"
-				item: "tconstruct:seared_heater"
+				item: "the_ages_of_times:porcelain_heater"
 			}]
 		}
 		{

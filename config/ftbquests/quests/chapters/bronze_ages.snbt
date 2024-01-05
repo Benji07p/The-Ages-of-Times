@@ -29,7 +29,7 @@
 			tasks: [{
 				id: "357901E579E8E19C"
 				type: "item"
-				item: "tconstruct:seared_melter"
+				item: "melter:melter"
 			}]
 		}
 		{
