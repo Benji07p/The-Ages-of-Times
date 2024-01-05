@@ -4,7 +4,7 @@ onEvent('recipes', event => {
         {
             "type": "custommachinery:custom_machine",
             "machine": "taotmachinery:horse_power",
-            "time": 4000,
+            "time": 40000,
             "requirements": [
                 {
                     "type": "custommachinery:entity",
@@ -23,9 +23,15 @@ onEvent('recipes', event => {
 				},
                 {
                     "type": "custommachinery:command",
-                    "command": "/execute as @e[type=horse,distance=..7] run tp @s ~ ~ ~2",
+                    "command": "/execute as @e[type=horse,distance=..2] at @s if blocks 424 -63 -132 424 -63 -132 424 -63 -132 all run tp @s ~1 ~ ~",
                     "permission": 2,
                     "phase": "crafting_tickable"
+                },
+                {
+                    "type": "custommachinery:command",
+                    "command": "/execute as @e[type=horse,distance=..2] at @s if blocks 424 -63 -132 424 -63 -132 424 -63 -132 all run tp @s ~ ~ ~-2",
+                    "permission": 2,
+                    "phase": "starting"
                 }
 			]
 		}
