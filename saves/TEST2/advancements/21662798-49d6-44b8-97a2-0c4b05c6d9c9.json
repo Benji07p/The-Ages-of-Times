@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -308,6 +314,12 @@
   "woodenshears:recipes/tools/wooden_shears": {
     "criteria": {
       "has_planks": "2023-12-12 20:55:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
     },
     "done": true
   },
@@ -496,6 +508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
     "criteria": {
       "has_sulfur": "2023-12-21 17:54:06 +0100"
@@ -535,6 +553,12 @@
   "tconstruct:recipes/tconstruct/general/common/firewood/lavawood_slab": {
     "criteria": {
       "has_item": "2023-12-12 20:55:38 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/building_blocks/smooth_sandstone_kiln": {
+    "criteria": {
+      "has_item": "2024-01-04 18:21:24 +0100"
     },
     "done": true
   },
@@ -835,6 +859,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
   "chemlib:recipes/chemlib.metals/thorium_ingot_to_block": {
     "criteria": {
       "has_thorium": "2023-12-27 17:06:52 +0100"
@@ -1057,6 +1087,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_hv": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
@@ -1114,6 +1150,12 @@
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-01-04 18:21:24 +0100"
     },
     "done": true
   },
@@ -1300,6 +1342,12 @@
   "ceramics:recipes/ceramics/lime_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
     },
     "done": true
   },
@@ -1757,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
@@ -1910,6 +1964,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2023-12-22 18:14:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
     },
     "done": true
   },
@@ -2183,6 +2243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/dark_bricks_smelting": {
     "criteria": {
       "has_item": "2023-12-12 20:55:00 +0100"
@@ -2279,6 +2345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -2312,6 +2384,12 @@
   "ceramics:recipes/ceramics/brown_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-01-04 18:21:24 +0100"
     },
     "done": true
   },
@@ -2667,6 +2745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -2745,6 +2829,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/golden_bricks_stairs_gold": {
     "criteria": {
       "has_gold": "2024-01-01 19:13:41 +0100"
@@ -2814,6 +2904,12 @@
   "woodenbucket:recipes/misc/wooden_bucket": {
     "criteria": {
       "has_log": "2023-12-22 22:40:22 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-01-04 18:21:24 +0100"
     },
     "done": true
   },
@@ -2913,6 +3009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/rockcutter": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
@@ -2952,6 +3054,12 @@
   "ceramics:recipes/ceramics/black_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
     },
     "done": true
   },
@@ -3002,6 +3110,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2023-12-13 14:34:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-04 18:21:24 +0100"
     },
     "done": true
   },
