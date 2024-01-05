@@ -366,6 +366,29 @@ onEvent('recipes', event => {
 		}
 	)
 
+	//Porcelain Melter
+	event.shaped('melter:melter', [
+		'PHP',
+		'PKP',
+		'PCP'
+	], {
+	K: 'ceramics:kiln',
+	H: 'woodenhopper:wooden_hopper',
+	P: 'ceramics:porcelain_brick',
+	C: 'minecraft:chest'
+	})
+
+	//Porcelain Heater
+	event.shaped('the_ages_of_times:porcelain_heater', [
+		'PCP',
+		'PCP',
+		'PKP'
+	], {
+	K: 'ceramics:kiln',
+	P: 'ceramics:porcelain_brick',
+	C: 'ceramics:terracotta_cistern'
+	})
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
