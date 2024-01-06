@@ -70,6 +70,7 @@
 #8C5E34 tconstruct:crafting_station
 #468304 minecraft:crafting_table
 #8700D4 immersiveengineering:craftingtable
+#E7F5B7 create:creative_crate
 #95EC20 createaddition:creative_energy
 #BF5353 create:creative_fluid_tank
 #73CA69 create:creative_motor
@@ -89,6 +90,8 @@
 #894C58 minecraft:deepslate_diamond_ore
 #9E0209 minecraft:deepslate_lapis_ore
 #E9DFF3 immersiveengineering:deepslate_ore_lead
+#CA8BE4 immersiveengineering:deepslate_ore_silver
+#ADB910 immersiveengineering:deepslate_ore_uranium
 #60355C minecraft:deepslate_redstone_ore
 #B8F451 electrodynamics:deepslateorelead
 #0298AA electrodynamics:deepslateoremonazite
@@ -97,6 +100,7 @@
 #4D16AE electrodynamics:deepslateoresulfur
 #BEFDD0 electrodynamics:deepslateorethorianite
 #4A2CC4 electrodynamics:deepslateoretin
+#6943F6 electrodynamics:deepslateoreuraninite
 #303BC4 electrodynamics:deepslateorevanadinite
 #5E5E58 create:deployer
 #FF48B8 create:depot

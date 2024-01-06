@@ -1,15 +1,15 @@
-[20:50:57.349][INFO]: Parsing all .json files in machines folder.
-[20:50:57.400][INFO]: Parsing all .json files in upgrades folder.
-[20:50:57.800][INFO]: Finished, 2 .json files successfully parsed in machines folder.
-[20:50:57.823][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
-[20:51:08.638][INFO]: Reading Custom Machinery Machines...
-[20:51:08.638][INFO]: Parsing machine json: taotmachinery:alembic in datapack: KubeJS Resource Pack [data]
-[20:51:08.640][INFO]: Successfully parsed machine json: taotmachinery:alembic
-[20:51:08.640][INFO]: Parsing machine json: taotmachinery:horse_power in datapack: KubeJS Resource Pack [data]
-[20:51:08.640][INFO]: Successfully parsed machine json: taotmachinery:horse_power
-[20:51:08.640][INFO]: Finished creating custom machines.
-[20:51:08.640][INFO]: Reading Custom Machinery Upgrades json
-[20:51:08.640][INFO]: No machine upgrade json found.
-[20:51:08.640][INFO]: Collecting machine upgrades with kubeJS.
-[20:51:08.640][INFO]: No machine upgrades found with kubejs
-[20:51:08.640][INFO]: Finished creating custom machine upgrades.
+[20:01:35.822][INFO]: Parsing all .json files in machines folder.
+[20:01:35.846][INFO]: Parsing all .json files in upgrades folder.
+[20:01:36.240][INFO]: Finished, 2 .json files successfully parsed in machines folder.
+[20:01:36.246][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
+[20:01:46.806][INFO]: Reading Custom Machinery Machines...
+[20:01:46.806][INFO]: Parsing machine json: taotmachinery:alembic in datapack: KubeJS Resource Pack [data]
+[20:01:46.808][INFO]: Successfully parsed machine json: taotmachinery:alembic
+[20:01:46.808][INFO]: Parsing machine json: taotmachinery:horse_power in datapack: KubeJS Resource Pack [data]
+[20:01:46.809][INFO]: Successfully parsed machine json: taotmachinery:horse_power
+[20:01:46.809][INFO]: Finished creating custom machines.
+[20:01:46.809][INFO]: Reading Custom Machinery Upgrades json
+[20:01:46.809][INFO]: No machine upgrade json found.
+[20:01:46.809][INFO]: Collecting machine upgrades with kubeJS.
+[20:01:46.809][INFO]: No machine upgrades found with kubejs
+[20:01:46.809][INFO]: Finished creating custom machine upgrades.
