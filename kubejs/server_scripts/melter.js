@@ -4,4 +4,5 @@ onEvent('recipes', event => {
     event.recipes.melterMelting(Fluid.of('tconstruct:molten_silver', 90),"electrodynamics:raworesilver").processingTime(1000);
     event.recipes.melterMelting(Fluid.of('tconstruct:molten_tin', 90),"electrodynamics:raworetin").processingTime(1000);
     event.recipes.melterMelting(Fluid.of('tconstruct:molten_lead', 90),"electrodynamics:raworelead").processingTime(1000);
+    //event.recipes.melterMelting(Fluid.of('tconstruct:molten_gold', 45),"immersiveengineering:dust_electrum").processingTime(1000);
 })
