@@ -389,6 +389,82 @@ onEvent('recipes', event => {
 	C: 'ceramics:terracotta_cistern'
 	})
 
+	//Lead
+	event.remove({ id: 'minecraft:lead'})
+	event.remove({ id: 'tconstruct:common/slime/lead'})
+	event.custom(
+        {
+            "type": "farmersdelight:cutting",
+            "ingredients": [
+              {
+                "item": "minecraft:leather"
+              }
+            ],
+            "tool": {
+              "tag": "forge:tools/knives"
+            },
+            "result": [
+              {
+                "item": "the_ages_of_times:leather_strip",
+				"count": 9
+              }
+            ]
+          }
+    )
+
+	//Andesite Alloy
+	event.remove({ id: 'create:crafting/materials/andesite_alloy'})
+	event.remove({ id: 'create:crafting/materials/andesite_alloy_from_zinc'})
+	event.remove({ id: 'create:mixing/andesite_alloy'})
+	event.remove({ id: 'create:mixing/andesite_alloy_from_zinc'})
+	event.remove({ id: 'tconstruct:compat/create/andesite_alloy_iron'})
+	event.remove({ id: 'tconstruct:compat/create/andesite_alloy_zinc'})
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "notreepunching:andesite_loose_rock"
+			},
+			"cast_consumed": true,
+			"fluid": {
+			  "tag": "forge:molten_copper",
+			  "amount": 90
+			},
+			"result": "create:andesite_alloy",
+			"cooling_time": 90
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "notreepunching:andesite_loose_rock"
+			},
+			"cast_consumed": true,
+			"fluid": {
+			  "tag": "forge:molten_iron",
+			  "amount": 20
+			},
+			"result": "create:andesite_alloy",
+			"cooling_time": 25
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "notreepunching:andesite_loose_rock"
+			},
+			"cast_consumed": true,
+			"fluid": {
+			  "tag": "forge:molten_zinc",
+			  "amount": 10
+			},
+			"result": "create:andesite_alloy",
+			"cooling_time": 10
+		  }
+	)
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
