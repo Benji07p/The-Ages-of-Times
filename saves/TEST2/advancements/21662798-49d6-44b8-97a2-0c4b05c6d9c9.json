@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-01-09 20:23:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-12-12 20:55:32 +0100"
@@ -230,6 +236,12 @@
   "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-01-09 20:26:35 +0100"
     },
     "done": true
   },
@@ -502,6 +514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-01-09 20:23:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -766,6 +784,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/generator": {
     "criteria": {
       "has_electrum_ingot": "2024-01-01 19:10:31 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:story/use_clay_tool": {
+    "criteria": {
+      "damage_clay_tool": "2024-01-10 16:30:09 +0100"
     },
     "done": true
   },
@@ -1721,6 +1745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-01-09 20:23:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
@@ -1778,6 +1808,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-01-09 20:26:35 +0100"
     },
     "done": true
   },
@@ -2333,6 +2369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-01-09 20:23:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -2561,6 +2603,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-01-09 20:26:35 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/golden_bricks_gold": {
     "criteria": {
       "has_gold": "2024-01-01 19:13:41 +0100"
@@ -2606,6 +2654,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2023-12-04 17:35:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-01-09 20:23:25 +0100"
     },
     "done": true
   },
@@ -2826,6 +2880,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
     "criteria": {
       "has_water_bucket": "2023-12-04 18:07:24 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-01-09 20:26:44 +0100"
     },
     "done": true
   },
@@ -3200,6 +3260,12 @@
   "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-01-09 20:23:25 +0100"
     },
     "done": true
   },
@@ -3667,6 +3733,12 @@
   "ceramics:recipes/ceramics/porcelain_bricks_stairs_stonecutter": {
     "criteria": {
       "has_item": "2023-12-13 15:26:15 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2024-01-09 20:23:25 +0100"
     },
     "done": true
   },
