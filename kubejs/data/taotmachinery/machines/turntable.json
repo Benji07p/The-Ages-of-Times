@@ -1,0 +1,17 @@
+{
+    "name": "Turntable",
+    "appearance":{
+           "block": "the_ages_of_times:turntest"
+    },
+    "components": [
+        {
+            "type": "custommachinery:contraption",
+            "config": {
+                "default": "none",
+                "bottom": "input",
+                "input": true,
+                "stress_impact": 4
+            }
+        }
+    ]
+}
