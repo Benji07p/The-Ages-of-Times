@@ -338,6 +338,7 @@
 		{
 			x: 13.0d
 			y: 2.5d
+			dependencies: ["1FDE916027BDAB70"]
 			id: "6A855DB2D462A68D"
 			tasks: [{
 				id: "5158E70C6E9E766C"
@@ -418,6 +419,23 @@
 				id: "744120F9A63E8E93"
 				type: "item"
 				item: "minecraft:map"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 2.5d
+			dependencies: ["345668DB87590723"]
+			id: "1FDE916027BDAB70"
+			tasks: [{
+				id: "1D465330753C11DD"
+				type: "item"
+				item: {
+					id: "custommachinery:custom_machine_item"
+					Count: 1b
+					tag: {
+						machine: "taotmachinery:turntable"
+					}
+				}
 			}]
 		}
 	]
