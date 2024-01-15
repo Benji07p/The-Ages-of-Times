@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "the_ages_of_times:andesite_shaft"
+    },
+    {
+      "item": "astikorcarts:wheel"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:cogwheel"
+    }
+  ]
+}

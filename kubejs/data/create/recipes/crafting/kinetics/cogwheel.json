@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_ages_of_times:andesite_shaft"
+    },
+    {
+      "item": "astikorcarts:wheel"
+    }
+  ],
+  "result": {
+    "item": "create:cogwheel"
+  }
+}
