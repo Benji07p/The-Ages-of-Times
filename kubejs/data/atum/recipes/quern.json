@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        " W ",
+        "CCC",
+        "CCC"
+    ],
+    "key":{
+        "W":{
+            "tag":"forge:rods/wooden"
+        },
+        "C":{
+            "item":"minecraft:stone"
+        }
+    },
+    "result":{
+        "item":"atum:quern"
+    }
+}
