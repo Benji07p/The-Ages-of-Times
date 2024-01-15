@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "C",
+    "I"
+  ],
+  "key": {
+    "B": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "C": {
+      "tag": "forge:stone"
+    },
+    "I": {
+      "item": "the_ages_of_times:andesite_shaft"
+    }
+  },
+  "result": {
+    "item": "create:windmill_bearing"
+  }
+}

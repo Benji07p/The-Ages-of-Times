@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "A",
+    "P"
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_casing"
+    },
+    "S": {
+      "item": "the_ages_of_times:andesite_shaft"
+    },
+    "P": {
+      "item": "create:propeller"
+    }
+  },
+  "result": {
+    "item": "create:encased_fan"
+  }
+}
