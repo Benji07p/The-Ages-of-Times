@@ -16,6 +16,7 @@
 #DA9404 create:andesite_funnel
 #4515BD notreepunching:andesite_loose_rock
 #89AB26 create:andesite_scaffolding
+#2F16B5 the_ages_of_times:andesite_shaft
 #BE6CB6 create:andesite_tunnel
 #DBECBF minecraft:anvil
 #6E69B5 create:asurine
@@ -46,6 +47,7 @@
 #BA9FBF minecraft:bubble_coral_block
 #C6AC20 minecraft:cactus
 #00BE18 minecraft:calcite
+#FC842A minecraft:campfire
 #54A3DE the_ages_of_times:carbyne_sulfate
 #F2A1A5 create:chute
 #9EC980 immersiveengineering:circuit_table
@@ -229,6 +231,7 @@
 #3088BD electrodynamics:pipesteel
 #6A5197 minecraft:polished_andesite
 #5CDCB7 minecraft:polished_basalt
+#E685AE minecraft:polished_deepslate_slab
 #437566 minecraft:polished_granite
 #5E5E01 the_ages_of_times:polyethylene
 #AFAC0D minecraft:poppy
@@ -241,6 +244,7 @@
 #6DC9E1 minecraft:potted_cactus
 #ACE775 minecraft:potted_dead_bush
 #E6B35B minecraft:pumpkin
+#FC8012 atum:quern
 #64F142 butchersdelight:rack
 #5CF136 the_ages_of_times:rackraw
 #25AEF5 minecraft:redstone_block
@@ -273,6 +277,7 @@
 #EBD65B create:sequenced_gearshift
 #D3CCFE create:shaft
 #9E85C9 the_ages_of_times:silver_sulfate
+#2AA99B farmersdelight:skillet
 #9B036C tconstruct:sky_slime_crystal_block
 #8E64F9 tconstruct:sky_slime_dirt
 #3768ED beyond_earth:sky_stone
@@ -294,7 +299,9 @@
 #A2490D notreepunching:stone_loose_rock
 #134A52 the_ages_of_times:stone_platform
 #7D07A9 minecraft:stone_pressure_plate
+#2E9337 minecraft:stonecutter
 #59BD67 immersiveengineering:storage_electrum
+#B81C38 farmersdelight:stove
 #9E51B2 create:stressometer
 #3525F3 immersiveengineering:strip_curtain
 #5CF3F1 minecraft:sugar_cane
