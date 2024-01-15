@@ -97,21 +97,35 @@
 			}]
 		}
 		{
+			icon: {
+				id: "minecraft:stone_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
 			x: 5.5d
 			y: 0.5d
 			dependencies: ["386F1C9868910291"]
 			id: "247C3DF3E3BCEC52"
-			tasks: [{
-				id: "26D2ACDA6E076478"
-				type: "item"
-				item: {
-					id: "minecraft:stone_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "26D2ACDA6E076478"
+					type: "item"
+					item: {
+						id: "minecraft:stone_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
+				{
+					id: "65EE5ECDD1700462"
+					type: "item"
+					item: "the_ages_of_times:plumb_line"
+				}
+			]
 		}
 		{
 			x: 7.0d
