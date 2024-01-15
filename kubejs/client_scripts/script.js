@@ -78,4 +78,9 @@ onEvent('item.tooltip', tooltip => {
 		text.add(1, Text.of('§3Th (90)'))
 		text.add(2, Text.of('§7Actinides'))
 	})
+
+	tooltip.addAdvanced(['the_ages_of_times:andesite_shaft'], (item, advanced, text) => {
+		text.add(1, Text.of('Just for crafting'))
+	})
+
 })

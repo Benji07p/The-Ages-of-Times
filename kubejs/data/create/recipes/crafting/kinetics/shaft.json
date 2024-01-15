@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "the_ages_of_times:andesite_shaft",
+    "count": 8
+  }
+}
