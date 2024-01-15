@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-01-15 19:25:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2023-12-13 20:38:06 +0100"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-01-14 21:25:47 +0100"
+    },
+    "done": true
+  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2023-12-04 17:35:07 +0100"
@@ -131,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-14 21:25:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-01-09 20:23:25 +0100"
@@ -146,6 +164,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_electrum_from_slab": {
     "criteria": {
       "has_storage_electrum": "2024-01-01 19:10:29 +0100"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-01-15 18:28:48 +0100"
     },
     "done": true
   },
@@ -206,6 +230,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-12-13 15:25:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-01-14 21:25:47 +0100"
     },
     "done": true
   },
@@ -715,6 +745,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2024-01-15 18:12:21 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -763,6 +799,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-01-14 20:18:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-12-13 15:25:49 +0100"
@@ -778,6 +820,18 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_pants": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-01-15 19:25:50 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2024-01-15 18:12:21 +0100"
     },
     "done": true
   },
@@ -823,9 +877,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-01-14 20:17:21 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-01-14 20:17:56 +0100"
     },
     "done": true
   },
@@ -1063,6 +1129,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_feet": {
     "criteria": {
       "has_steel_plate": "2023-12-09 14:59:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-01-15 18:12:21 +0100"
     },
     "done": true
   },
@@ -1321,6 +1393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-01-15 19:25:50 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/pink_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
@@ -1459,6 +1537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-01-14 21:25:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2023-12-12 20:55:32 +0100"
@@ -1504,6 +1588,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_steel": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-01-14 21:25:47 +0100"
     },
     "done": true
   },
@@ -1604,6 +1694,12 @@
   "create:recipes/create.palettes/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2023-12-16 22:27:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-01-15 18:12:21 +0100"
     },
     "done": true
   },
@@ -1907,9 +2003,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-01-15 18:12:21 +0100"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_item": "2023-12-12 20:55:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-01-14 20:17:56 +0100"
     },
     "done": true
   },
@@ -1988,6 +2096,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-01-14 20:17:56 +0100"
     },
     "done": true
   },
@@ -2072,6 +2186,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2023-12-13 15:03:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-01-15 19:25:50 +0100"
     },
     "done": true
   },
@@ -2285,6 +2405,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-01-15 18:12:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
@@ -2351,9 +2477,21 @@
     },
     "done": true
   },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-01-15 19:58:15 +0100"
+    },
+    "done": true
+  },
   "chemlib:recipes/chemlib.metals/thorium_ingot_from_blasting_thorium_dust": {
     "criteria": {
       "has_thorium": "2023-12-27 17:06:52 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/earth": {
+    "criteria": {
+      "has_item": "2024-01-15 18:12:21 +0100"
     },
     "done": true
   },
@@ -2399,6 +2537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-01-15 19:25:50 +0100"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailboots": {
     "criteria": {
       "has_iron": "2024-01-01 19:13:40 +0100"
@@ -2408,6 +2552,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2023-12-12 20:55:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-01-14 20:17:56 +0100"
     },
     "done": true
   },
@@ -2675,6 +2825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-01-14 21:25:47 +0100"
+    },
+    "done": true
+  },
   "notreepunching:sticks_from_planks_with_flint_axe": {
     "criteria": {
       "has_item": "2023-12-12 20:55:32 +0100"
@@ -2744,6 +2900,12 @@
   "create:recipes/create.palettes/birch_window": {
     "criteria": {
       "has_ingredient": "2023-12-12 21:01:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-14 21:25:47 +0100"
     },
     "done": true
   },
@@ -2847,6 +3009,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-01-14 20:18:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2023-12-04 18:07:36 +0100"
@@ -2868,6 +3036,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_electrum": {
     "criteria": {
       "has_electrum_ingot": "2024-01-01 19:10:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-01-14 21:25:47 +0100"
     },
     "done": true
   },
@@ -2913,9 +3087,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-01-15 19:25:50 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-01-15 19:57:26 +0100"
     },
     "done": true
   },
@@ -3057,6 +3243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-01-14 21:25:47 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
@@ -3096,6 +3288,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-01-15 18:12:21 +0100"
     },
     "done": true
   },
@@ -3368,6 +3566,12 @@
   "ceramics:recipes/ceramics/lava_bricks_stairs_stonecutter": {
     "criteria": {
       "has_item": "2023-12-12 20:55:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-01-14 21:44:08 +0100"
     },
     "done": true
   },
@@ -3655,6 +3859,12 @@
   "create:recipes/create.palettes/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-01-14 21:25:47 +0100"
     },
     "done": true
   },
