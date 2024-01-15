@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "CSC",
+    "CIC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:spruce_planks"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "I": {
+      "item": "minecraft:polished_deepslate_slab"
+    },
+    "P": {
+      "item": "minecraft:lead"
+    }
+  },
+  "result": {
+    "item": "create:mechanical_press"
+  }
+}
