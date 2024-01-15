@@ -104,9 +104,9 @@
 		}
 		{
 			icon: "create:millstone"
-			x: 6.0d
+			x: 7.5d
 			y: 0.5d
-			dependencies: ["5A23AFEE1E409DA1"]
+			dependencies: ["0D5FF20F873F3973"]
 			id: "34294DF550ED7E19"
 			tasks: [
 				{
@@ -122,9 +122,9 @@
 			]
 		}
 		{
-			x: 7.5d
+			x: 6.0d
 			y: 0.5d
-			dependencies: ["34294DF550ED7E19"]
+			dependencies: ["5A23AFEE1E409DA1"]
 			id: "0D5FF20F873F3973"
 			tasks: [{
 				id: "3077C8E27FF6AEA1"
@@ -225,7 +225,7 @@
 		{
 			x: 9.0d
 			y: 0.5d
-			dependencies: ["0D5FF20F873F3973"]
+			dependencies: ["34294DF550ED7E19"]
 			id: "5B18FA8A911F00FB"
 			tasks: [{
 				id: "2AC1E16FE2F33579"
