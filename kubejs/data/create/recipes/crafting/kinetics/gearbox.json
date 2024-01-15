@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "TBT",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "create:cogwheel"
+    },
+    "B": {
+      "item": "create:andesite_casing"
+    },
+    "T": {
+      "item": "electrodynamics:gearbronze"
+    }
+  },
+  "result": {
+    "item": "create:gearbox"
+  }
+}
