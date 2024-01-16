@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/item_batcher": {
+    "criteria": {
+      "has_conveyor_basic": "2024-01-16 16:34:48 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick_to_slab": {
     "criteria": {
       "has_blastbrick": "2023-12-09 14:55:29 +0100"
@@ -934,6 +940,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2023-12-12 20:55:00 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_redstone": {
+    "criteria": {
+      "has_conveyor": "2024-01-16 16:34:48 +0100"
     },
     "done": true
   },
@@ -1796,6 +1808,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_electrum_to_storage_electrum": {
     "criteria": {
       "has_ingot_electrum": "2024-01-01 19:10:31 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_splitter": {
+    "criteria": {
+      "has_conveyor": "2024-01-16 16:34:48 +0100"
     },
     "done": true
   },
@@ -3015,6 +3033,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sorter": {
+    "criteria": {
+      "has_conveyor_basic": "2024-01-16 16:34:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2023-12-04 18:07:36 +0100"
@@ -3273,6 +3297,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_dropper": {
+    "criteria": {
+      "has_conveyor": "2024-01-16 16:34:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2023-12-22 18:14:24 +0100"
@@ -3351,6 +3381,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic_covered": {
+    "criteria": {
+      "has_vertical_conveyor": "2024-01-16 16:34:48 +0100"
+    },
+    "done": true
+  },
   "tconstruct:foundry/alloyer": {
     "criteria": {
       "scorched_alloyer": "2023-12-13 20:13:59 +0100",
@@ -3404,6 +3440,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_vertical": {
+    "criteria": {
+      "has_conveyor": "2024-01-16 16:34:48 +0100"
     },
     "done": true
   },
@@ -3494,6 +3536,12 @@
   "notreepunching:gold_knife": {
     "criteria": {
       "has_item": "2024-01-01 19:13:41 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_extract": {
+    "criteria": {
+      "has_conveyor": "2024-01-16 16:34:48 +0100"
     },
     "done": true
   },
