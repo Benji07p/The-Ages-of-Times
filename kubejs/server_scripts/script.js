@@ -465,6 +465,59 @@ onEvent('recipes', event => {
 		  }
 	)
 
+	//Shaft
+	event.shaped('8x create:shaft', [
+		' C ',
+		' C ',
+		'   '
+	], {
+	C: '#forge:cobblestone'
+	})
+
+	//Turntable
+	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:turntable"}'), [
+		'DSD',
+		'GCG',
+		'GRG'
+	], {
+	D: 'minecraft:polished_deepslate_slab',
+	S: 'minecraft:slime_ball',
+	R: 'the_ages_of_times:andesite_shaft',
+	G: 'electrodynamics:gearcopper',
+	C: 'create:andesite_casing'
+	})
+	
+	//Millstone
+	event.remove({ id: 'create:crafting/kinetics/millstone'})
+	event.shaped('create:millstone', [
+		'AWA',
+		'AQA',
+		'AAA'
+	], {
+	Q: 'atum:quern',
+	A: 'minecraft:polished_andesite',
+	W: 'astikorcarts:wheel'
+	})
+
+	//Stonecutter
+	event.remove({ id: 'minecraft:stonecutter'})
+	event.shaped('minecraft:stonecutter', [
+		'   ',
+		' Q ',
+		'AAA'
+	], {
+	Q: 'electrodynamics:geariron',
+	A: 'minecraft:stone'
+	})
+	event.shaped('minecraft:stonecutter', [
+		'   ',
+		' Q ',
+		'AAA'
+	], {
+	Q: 'the_ages_of_times:flint_gear',
+	A: 'minecraft:stone'
+	})
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
