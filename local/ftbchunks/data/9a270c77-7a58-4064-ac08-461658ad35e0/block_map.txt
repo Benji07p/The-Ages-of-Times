@@ -39,6 +39,7 @@
 #7F1716 minecolonies:blockhutlibrary
 #0B8E43 minecolonies:blockhutschool
 #F19195 beyond_earth:blue_iron_plating_block
+#45C81B minecraft:blue_orchid
 #8AE729 minecraft:brain_coral_block
 #C54983 create:brass_block
 #CCD23F create:brass_casing
@@ -86,6 +87,7 @@
 #7DF6E7 create:crushing_wheel
 #E9A8F5 minecraft:crying_obsidian
 #C0ADCD create:cuckoo_clock
+#358006 multibeds:custom
 #FDCD6A custommachinery:custom_machine_block
 #3C3897 minecraft:cut_sandstone
 #1B74F2 farmersdelight:cutting_board
@@ -183,6 +185,7 @@
 #E638FD create:mechanical_mixer
 #CA8F8D create:mechanical_piston
 #145137 create:mechanical_press
+#FC0886 tconstruct:medium_sky_slime_crystal_bud
 #80CAA6 minecraft:melon
 #4B39A0 melter:melter
 #C4844D create:millstone
@@ -227,6 +230,9 @@
 #2D7F28 farmersdelight:organic_compost
 #661508 chemlib:oxygen
 #E888E5 the_ages_of_times:oxygen
+#A6ED9E atum:palm_leaves
+#C5B40C atum:palm_log
+#306BEB atum:papyrus
 #AB1C58 minecraft:peony
 #3088BD electrodynamics:pipesteel
 #6A5197 minecraft:polished_andesite
@@ -236,6 +242,7 @@
 #5E5E01 the_ages_of_times:polyethylene
 #AFAC0D minecraft:poppy
 #BA6112 the_ages_of_times:porcelain_casting_basin
+#034096 ceramics:porcelain_channel
 #32FF6B ceramics:porcelain_faucet
 #22F88C ceramics:porcelain_gauge
 #EBE752 the_ages_of_times:porcelain_heater
@@ -259,6 +266,7 @@
 #9C3ECB minecraft:rose_bush
 #E493B9 create:rotation_speed_controller
 #6566C1 butchersdelight:salt
+#C327D9 atum:sand
 #86FC77 minecraft:sand
 #7E2654 minecraft:sandstone
 #EE8191 notreepunching:sandstone_loose_rock
@@ -268,6 +276,7 @@
 #C369ED tconstruct:scorched_alloyer
 #2562EE tconstruct:scorched_basin
 #DA8C3D tconstruct:scorched_faucet
+#33130F create:scoria
 #1B4219 tconstruct:seared_basin
 #A09272 tconstruct:seared_faucet
 #39CA17 tconstruct:seared_heater
@@ -302,6 +311,7 @@
 #2E9337 minecraft:stonecutter
 #59BD67 immersiveengineering:storage_electrum
 #B81C38 farmersdelight:stove
+#064552 atum:strange_sand_path
 #9E51B2 create:stressometer
 #3525F3 immersiveengineering:strip_curtain
 #5CF3F1 minecraft:sugar_cane
@@ -310,6 +320,7 @@
 #0AA947 tardim:tardim_door
 #11066D tardim:tardim_roof
 #9209D8 minecraft:terracotta
+#8193AC ceramics:terracotta_channel
 #B2F195 ceramics:terracotta_faucet
 #271922 ceramics:terracotta_gauge
 #4C0FBF createaddition:tesla_coil

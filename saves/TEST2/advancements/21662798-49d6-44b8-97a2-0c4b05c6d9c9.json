@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-01-16 20:02:11 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-01-01 19:13:40 +0100"
@@ -278,6 +284,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2024-01-09 20:26:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2024-01-17 13:42:16 +0100"
     },
     "done": true
   },
@@ -547,6 +559,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:flint_axe": {
+    "criteria": {
+      "has_item": "2024-01-16 20:42:28 +0100"
     },
     "done": true
   },
@@ -1243,6 +1261,12 @@
     },
     "done": true
   },
+  "notreepunching:acacia_planks_with_flint_axe": {
+    "criteria": {
+      "has_item": "2024-01-17 14:59:20 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
@@ -1258,6 +1282,12 @@
   "notreepunching:story/find_loose_rock": {
     "criteria": {
       "has_loose_rock": "2023-12-16 22:27:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-01-17 14:59:20 +0100"
     },
     "done": true
   },
@@ -1465,6 +1495,12 @@
     },
     "done": true
   },
+  "notreepunching:flint_pickaxe": {
+    "criteria": {
+      "has_item": "2024-01-16 20:42:28 +0100"
+    },
+    "done": true
+  },
   "chemlib:recipes/chemlib.misc/xenon_lamp_block": {
     "criteria": {
       "has_xenon": "2023-12-14 11:48:31 +0100"
@@ -1564,6 +1600,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2023-12-12 20:55:32 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-01-17 14:22:00 +0100"
     },
     "done": true
   },
@@ -1745,11 +1787,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-01-17 13:42:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2023-12-14 12:12:36 +0100",
       "minecraft:river": "2023-12-09 14:43:29 +0100",
       "minecraft:lukewarm_ocean": "2023-12-21 17:46:53 +0100",
+      "minecraft:swamp": "2024-01-17 15:01:12 +0100",
       "minecraft:desert": "2023-12-04 17:35:07 +0100",
       "minecraft:windswept_savanna": "2023-12-14 12:20:01 +0100",
       "minecraft:savanna": "2023-12-14 12:12:32 +0100",
@@ -1778,6 +1827,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/electrum_mix": {
     "criteria": {
       "has_gold_dust": "2024-01-02 12:26:54 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2024-01-17 13:42:16 +0100"
     },
     "done": true
   },
@@ -1961,6 +2016,18 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2024-01-17 13:42:16 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:acacia_planks_with_saw": {
+    "criteria": {
+      "has_item": "2024-01-17 14:59:20 +0100"
+    },
+    "done": true
+  },
   "notreepunching:gold_mattock": {
     "criteria": {
       "has_item": "2024-01-01 19:13:41 +0100"
@@ -2066,6 +2133,12 @@
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-01-17 13:42:16 +0100"
     },
     "done": true
   },
@@ -2315,6 +2388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-01-17 14:22:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2023-12-04 18:07:32 +0100"
@@ -2375,6 +2454,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2024-01-17 13:42:16 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/firewood/lavawood_stairs": {
     "criteria": {
       "has_item": "2023-12-12 20:55:38 +0100"
@@ -2384,6 +2469,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-01-01 19:13:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-01-17 14:22:16 +0100"
     },
     "done": true
   },
@@ -2519,6 +2610,12 @@
     },
     "done": true
   },
+  "notreepunching:story/knapping": {
+    "criteria": {
+      "has_flint_shard": "2024-01-16 20:42:28 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2023-12-13 15:03:55 +0100"
@@ -2645,6 +2742,18 @@
     },
     "done": true
   },
+  "ceramics:recipes/clay_repair/terracotta_channel_repair": {
+    "criteria": {
+      "has_item": "2024-01-17 13:30:20 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:fire_starter": {
+    "criteria": {
+      "has_item": "2024-01-16 20:42:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2023-12-12 20:52:20 +0100"
@@ -2684,6 +2793,12 @@
   "tconstruct:foundry/encyclopedia": {
     "criteria": {
       "crafted_book": "2023-12-13 20:22:46 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_saplings_with_knife": {
+    "criteria": {
+      "has_item": "2024-01-17 14:58:36 +0100"
     },
     "done": true
   },
@@ -2909,6 +3024,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-01-17 14:22:00 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2023-12-16 22:27:59 +0100"
@@ -2924,6 +3045,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-01-14 21:25:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-01-17 13:42:16 +0100"
     },
     "done": true
   },
@@ -2967,6 +3094,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-01-16 20:02:51 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:flint_knife": {
+    "criteria": {
+      "has_item": "2024-01-16 20:42:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-01-16 20:02:11 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/iron_platform": {
     "criteria": {
       "has_bars": "2024-01-01 19:13:40 +0100"
@@ -3006,6 +3151,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-01-17 13:42:16 +0100"
     },
     "done": true
   },
@@ -3084,6 +3235,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2024-01-09 20:26:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-01-17 14:22:16 +0100"
     },
     "done": true
   },
@@ -3225,6 +3382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-01-17 13:37:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2023-12-11 20:57:11 +0100"
@@ -3261,6 +3424,12 @@
     },
     "done": true
   },
+  "notreepunching:plant_fiber_from_leaves_with_knife": {
+    "criteria": {
+      "has_item": "2024-01-17 14:59:23 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick_from_slab": {
     "criteria": {
       "has_cokebrick": "2023-12-09 14:55:30 +0100"
@@ -3276,6 +3445,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:flint_hoe": {
+    "criteria": {
+      "has_item": "2024-01-16 20:42:28 +0100"
     },
     "done": true
   },
@@ -3467,6 +3642,12 @@
     },
     "done": true
   },
+  "notreepunching:macuahuitl": {
+    "criteria": {
+      "has_item": "2024-01-16 20:42:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-01-01 16:18:01 +0100"
@@ -3512,6 +3693,12 @@
   "create:recipes/create.base/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-01-17 14:59:20 +0100"
     },
     "done": true
   },
@@ -3572,6 +3759,12 @@
   "tardim:recipes/rotor": {
     "criteria": {
       "has_iron": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2024-01-17 13:42:16 +0100"
     },
     "done": true
   },
@@ -3988,6 +4181,18 @@
     },
     "done": true
   },
+  "notreepunching:flint_shovel": {
+    "criteria": {
+      "has_item": "2024-01-16 20:42:28 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_sugarcane_with_knife": {
+    "criteria": {
+      "has_item": "2024-01-17 14:22:16 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/porcelain_bricks_stairs_stonecutter": {
     "criteria": {
       "has_item": "2023-12-13 15:26:15 +0100"
@@ -4003,6 +4208,12 @@
   "create:recipes/create.base/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-01-17 14:22:00 +0100"
     },
     "done": true
   },
