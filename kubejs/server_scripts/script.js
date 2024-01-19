@@ -560,7 +560,7 @@ onEvent('recipes', event => {
 			"results": [
 			  {
 				"item": "atum:papyrus_plant",
-				"nbt": '{SequencedAssembly:{Step:1,id:"create:kjs_3d1xewit79kj881hzq4pcb9ht"}}'
+				"nbt": '{SequencedAssembly:{Step:1,id:"create:kjs_1diuw7fkgct2c5wwf93ei83zh"}}'
 			  }
 			]
 		}
@@ -578,7 +578,7 @@ onEvent('recipes', event => {
 					"nbt": {
 						"SequencedAssembly":{
 							"Step": 1,
-							"id": "create:kjs_3d1xewit79kj881hzq4pcb9ht"
+							"id": "create:kjs_1diuw7fkgct2c5wwf93ei83zh"
 						}
 					}
                 }
@@ -588,7 +588,7 @@ onEvent('recipes', event => {
                 {
                     "type": "drop_item",
                     "item": "atum:papyrus_plant",
-					"nbt": '{SequencedAssembly:{Progress:"0.6666667f",Step:2,id:"create:kjs_3d1xewit79kj881hzq4pcb9ht"}}'
+					"nbt": '{SequencedAssembly:{Progress:0.6666667f,Step:2,id:"create:kjs_1diuw7fkgct2c5wwf93ei83zh"}}'
                 }
             ]
         }

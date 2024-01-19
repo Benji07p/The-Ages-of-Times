@@ -25,15 +25,45 @@ onEvent('recipes', event => {
                         "item": "atum:papyrus_plant"
                       }
                     ]
+                  },
+                  {
+                    "type": "create:filling",
+                    "ingredients": [
+                      {
+                        "item": "atum:papyrus_plant"
+                      },
+                      {
+                        "fluid": "minecraft:water",
+                        "amount": 250
+                      }
+                    ],
+                    "results": [
+                      {
+                        "item": "atum:papyrus_plant"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "create:pressing",
+                    "ingredients": [
+                      {
+                      "item": "atum:papyrus_plant"
+                      }
+                    ],
+                    "results": [
+                      {
+                      "item": "atum:papyrus_plant"
+                      }
+                    ]
                   }
             ],
             "results": [
               {
-                "item": "atum:papyrus_plant",
+                "item": "the_ages_of_times:papyrus",
                 "chance": 1.0
               }
             ],
-            "loops": 3
+            "loops": 1
           }
     )
 })
