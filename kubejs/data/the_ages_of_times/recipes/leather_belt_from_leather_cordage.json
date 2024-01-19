@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "the_ages_of_times:leather_cordage"
+    },
+    "3": {
+      "item": "the_ages_of_times:leather_cordage"
+    },
+    "4": {
+      "tag": "forge:superglue"
+    },
+    "5": {
+      "item": "the_ages_of_times:leather_cordage"
+    },
+    "7": {
+      "item": "the_ages_of_times:leather_cordage"
+    }
+  },
+  "result": {
+    "item": "the_ages_of_times:leather_belt",
+    "count": 1
+  }
+}
