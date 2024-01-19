@@ -518,6 +518,82 @@ onEvent('recipes', event => {
 	A: 'minecraft:stone'
 	})
 
+	//Mechanical Saw
+	event.remove({ id: 'create:crafting/kinetics/mechanical_saw'})
+	event.shaped('create:mechanical_saw', [
+		' S ',
+		'CAC',
+		'LBL'
+	], {
+	S: 'minecraft:stonecutter',
+	C: 'electrodynamics:gearcopper',
+	A: 'create:andesite_casing',
+	B: 'electrodynamics:gearbronze',
+	L: 'the_ages_of_times:leather_belt'
+	})
+
+	//Flint Gear
+	event.shaped('the_ages_of_times:flint_gear', [
+		' S ',
+		'STS',
+		' S '
+	], {
+	S: 'notreepunching:flint_shard',
+	T: 'electrodynamics:geartin'
+	})
+
+	//Scorched Remove
+	event.remove({ id: 'tconstruct:smeltery/casting/scorched/brick_composite'})
+	event.remove({ id: 'tconstruct:smeltery/casting/scorched/polished_from_magma'})
+	event.remove({ id: 'tconstruct:smeltery/casting/scorched/stone_from_magma'})
+	event.remove({ id: 'tconstruct:smeltery/scorched/nether_grout'})
+
+	//Papyrus One
+	event.custom(
+		{
+			"type": "create:pressing",
+			"ingredients": [
+			  {
+				"item": "atum:papyrus"
+			  }
+			],
+			"results": [
+			  {
+				"item": "atum:papyrus_plant",
+				"nbt": '{SequencedAssembly:{Step:1,id:"create:kjs_3d1xewit79kj881hzq4pcb9ht"}}'
+			  }
+			]
+		}
+	)
+
+	//Papyrus Two
+	event.custom(
+        {
+            "type": "lychee:item_inside",
+			"time": 20,
+            "item_in": [
+                {
+					"type": "forge:nbt",
+                    "item": "atum:papyrus_plant",
+					"nbt": {
+						"SequencedAssembly":{
+							"Step": 1,
+							"id": "create:kjs_3d1xewit79kj881hzq4pcb9ht"
+						}
+					}
+                }
+            ],
+            "block_in": "water",
+            "post": [
+                {
+                    "type": "drop_item",
+                    "item": "atum:papyrus_plant",
+					"nbt": '{SequencedAssembly:{Progress:"0.6666667f",Step:2,id:"create:kjs_3d1xewit79kj881hzq4pcb9ht"}}'
+                }
+            ]
+        }
+    )
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
@@ -548,6 +624,9 @@ onEvent('item.tags', event => {
 
 	// Create the tags #forge:bed and add the Vanilla Bed
 	event.add('forge:beds', ['minecraft:cyan_bed', 'minecraft:purple_bed', 'minecraft:blue_bed', 'minecraft:brown_bed', 'minecraft:green_bed', 'minecraft:red_bed', 'minecraft:black_bed', 'minecraft:white_bed', 'minecraft:orange_bed', 'minecraft:magenta_bed', 'minecraft:light_blue_bed', 'minecraft:yellow_bed', 'minecraft:lime_bed', 'minecraft:pink_bed', 'minecraft:gray_bed', 'minecraft:light_gray_bed'])
+
+	// Create the tags #forge:superglue and add Glue and Slime
+	event.add('forge:superglue', ['the_ages_of_times:glue', 'minecraft:slime_ball'])
 
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	event.get('forge:dough').remove('farmersdelight:wheat_dough')
