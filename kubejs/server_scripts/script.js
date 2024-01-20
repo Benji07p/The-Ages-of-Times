@@ -548,6 +548,9 @@ onEvent('recipes', event => {
 	event.remove({ id: 'tconstruct:smeltery/casting/scorched/stone_from_magma'})
 	event.remove({ id: 'tconstruct:smeltery/scorched/nether_grout'})
 
+	//Papyrus to Papyrus Plant
+	event.shapeless('atum:papyrus_plant', ['atum:papyrus'])
+
 	//Papyrus One
 	event.custom(
 		{
@@ -593,6 +596,41 @@ onEvent('recipes', event => {
             ]
         }
     )
+
+	//Scroll
+	event.remove({ id: 'atum:scroll'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "PPP",
+			  "SPS",
+			  "PPP"
+			],
+			"key": {
+			  "P": {
+				"item": "the_ages_of_times:hide_raw"
+			  },
+			  "S": {
+				"tag": "balm:wooden_rods"
+			  }
+			},
+			"result": {
+			  "item": "atum:scroll"
+			}
+		}
+	)
+
+	//Cauldron
+	event.remove({ id: 'minecraft:cauldron'})
+	event.remove({ id: 'tconstruct:smeltery/melting/metal/iron/cauldron'})
+	event.shaped('minecraft:cauldron', [
+		'B B',
+		'B B',
+		'BBB'
+	], {
+	B: 'minecraft:oak_log'
+	})
 
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
