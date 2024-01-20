@@ -12,6 +12,11 @@ onEvent('jei.hide.items', event => {
 	event.hide(['immersiveengineering:dust_sulfur', 'chemlib:sulfur_dust', 'immersiveengineering:dust_saltpeter', 'butchersdelight:item_salt', 'createaddition:gold_wire', 'createaddition:electrum_ingot', 'createaddition:electrum_nugget', 'createaddition:electrum_sheet', 'createaddition:electrum_wire', 'magistuarmory:steel_ingot', 'magistuarmory:steel_nugget', 'magistuarmory:steel_plate', 'immersiveengineering:stick_steel', 'immersiveengineering:stick_iron', 'createaddition:iron_rod', 'car:iron_stick', 'chemlib:zinc_plate', 'createaddition:iron_wire'])
 })
 
+onEvent('jei.add.items', event => {
+	//Papyrus
+	event.add('atum:papyrus_plant')
+})
+
 //Tooltips ChemLib
 onEvent('item.tooltip', tooltip => {
 
