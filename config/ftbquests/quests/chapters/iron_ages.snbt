@@ -390,6 +390,16 @@
 				item: "minecolonies:blockhutcook"
 			}]
 		}
+		{
+			x: 12.0d
+			y: -0.5d
+			id: "7ED4DAB4041E7B45"
+			tasks: [{
+				id: "744120F9A63E8E93"
+				type: "item"
+				item: "minecraft:map"
+			}]
+		}
 	]
 	quest_links: [ ]
 }
