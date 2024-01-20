@@ -1,78 +1,58 @@
-[18:38:34.671][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[18:38:34.772][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[18:38:34.775][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[18:38:34.783][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
-[18:38:38.383][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[18:38:38.452][INFO]: - 'atum' at version '1.18.2-2.3.0'
-[18:38:38.452][INFO]: - 'crafttweaker' at version '9.1.211'
-[18:38:38.452][INFO]: - 'custommachinery' at version '0.8.7'
-[18:38:38.452][INFO]: - 'custommachinerycreate' at version '1.0.2'
-[18:38:38.452][INFO]: - 'extendedcrafting' at version '4.1.2'
-[18:38:38.452][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
-[18:38:38.453][INFO]: - 'gamestages' at version '8.1.3'
-[18:38:38.453][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
-[18:38:38.453][INFO]: - 'immersivepetroleum' at version '4.2.0-22'
-[18:38:38.453][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[18:38:38.453][INFO]: - 'jmapstages' at version '1.18.2-2.1.0'
-[18:39:06.193][INFO]: Started loading scripts for loader 'initialize'
-[18:39:07.009][INFO]: Compiling and executing scripts
-[18:39:07.083][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:39:07.216][INFO]: Execution for loader 'initialize' completed successfully
-[18:44:10.194][INFO]: Started loading scripts for loader 'tags'
-[18:44:10.214][INFO]: Compiling and executing scripts
-[18:44:10.225][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:44:10.235][INFO]: Execution for loader 'tags' completed successfully
-[18:44:15.773][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:44:15.791][INFO]: Compiling and executing scripts
-[18:44:16.107][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:44:16.116][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:48:15.947][INFO]: Started loading scripts for loader 'tags'
-[18:48:15.947][INFO]: Undoing previous actions
-[18:48:15.967][INFO]: Compiling and executing scripts
-[18:48:15.971][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:48:15.980][INFO]: Execution for loader 'tags' completed successfully
-[18:48:21.031][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:48:21.031][INFO]: Undoing previous actions
-[18:48:21.046][INFO]: Compiling and executing scripts
-[18:48:21.158][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:48:21.166][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:51:57.801][INFO]: Started loading scripts for loader 'tags'
-[18:51:57.801][INFO]: Undoing previous actions
-[18:51:57.815][INFO]: Compiling and executing scripts
-[18:51:57.817][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:51:57.824][INFO]: Execution for loader 'tags' completed successfully
-[18:52:02.601][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:52:02.601][INFO]: Undoing previous actions
-[18:52:02.613][INFO]: Compiling and executing scripts
-[18:52:02.699][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:52:02.707][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:53:03.940][INFO]: Started loading scripts for loader 'tags'
-[18:53:03.940][INFO]: Undoing previous actions
-[18:53:03.953][INFO]: Compiling and executing scripts
-[18:53:03.955][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:53:03.962][INFO]: Execution for loader 'tags' completed successfully
-[18:53:08.623][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:53:08.623][INFO]: Undoing previous actions
-[18:53:08.634][INFO]: Compiling and executing scripts
-[18:53:08.713][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:53:08.720][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:54:43.053][INFO]: Started loading scripts for loader 'tags'
-[18:54:43.053][INFO]: Undoing previous actions
-[18:54:43.065][INFO]: Compiling and executing scripts
-[18:54:43.067][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:54:43.074][INFO]: Execution for loader 'tags' completed successfully
-[18:54:47.855][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:54:47.855][INFO]: Undoing previous actions
-[18:54:47.866][INFO]: Compiling and executing scripts
-[18:54:47.942][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:54:47.949][INFO]: Execution for loader 'crafttweaker' completed successfully
-[19:05:17.341][INFO]: Started loading scripts for loader 'tags'
-[19:05:17.342][INFO]: Undoing previous actions
-[19:05:17.353][INFO]: Compiling and executing scripts
-[19:05:17.355][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[19:05:17.362][INFO]: Execution for loader 'tags' completed successfully
-[19:05:22.253][INFO]: Started loading scripts for loader 'crafttweaker'
-[19:05:22.253][INFO]: Undoing previous actions
-[19:05:22.270][INFO]: Compiling and executing scripts
-[19:05:22.383][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[19:05:22.391][INFO]: Execution for loader 'crafttweaker' completed successfully
+[12:11:18.589][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[12:11:18.639][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[12:11:18.642][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[12:11:18.653][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
+[12:11:22.920][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[12:11:22.925][INFO]: - 'atum' at version '1.18.2-2.3.0'
+[12:11:22.925][INFO]: - 'crafttweaker' at version '9.1.211'
+[12:11:22.925][INFO]: - 'custommachinery' at version '0.8.7'
+[12:11:22.925][INFO]: - 'custommachinerycreate' at version '1.0.2'
+[12:11:22.925][INFO]: - 'extendedcrafting' at version '4.1.2'
+[12:11:22.925][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
+[12:11:22.926][INFO]: - 'gamestages' at version '8.1.3'
+[12:11:22.926][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
+[12:11:22.926][INFO]: - 'immersivepetroleum' at version '4.2.0-22'
+[12:11:22.926][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[12:11:22.926][INFO]: - 'jmapstages' at version '1.18.2-2.1.0'
+[12:11:51.285][INFO]: Started loading scripts for loader 'initialize'
+[12:11:51.970][INFO]: Compiling and executing scripts
+[12:11:52.030][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[12:11:52.155][INFO]: Execution for loader 'initialize' completed successfully
+[12:13:46.703][INFO]: Started loading scripts for loader 'tags'
+[12:13:46.726][INFO]: Compiling and executing scripts
+[12:13:46.737][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[12:13:46.747][INFO]: Execution for loader 'tags' completed successfully
+[12:13:52.467][INFO]: Started loading scripts for loader 'crafttweaker'
+[12:13:52.485][INFO]: Compiling and executing scripts
+[12:13:52.809][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[12:13:52.818][INFO]: Execution for loader 'crafttweaker' completed successfully
+[12:29:26.149][INFO]: Started loading scripts for loader 'tags'
+[12:29:26.150][INFO]: Undoing previous actions
+[12:29:26.169][INFO]: Compiling and executing scripts
+[12:29:26.172][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[12:29:26.181][INFO]: Execution for loader 'tags' completed successfully
+[12:29:31.158][INFO]: Started loading scripts for loader 'crafttweaker'
+[12:29:31.158][INFO]: Undoing previous actions
+[12:29:31.173][INFO]: Compiling and executing scripts
+[12:29:31.289][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[12:29:31.296][INFO]: Execution for loader 'crafttweaker' completed successfully
+[12:32:09.619][INFO]: Started loading scripts for loader 'tags'
+[12:32:09.619][INFO]: Undoing previous actions
+[12:32:09.632][INFO]: Compiling and executing scripts
+[12:32:09.634][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[12:32:09.642][INFO]: Execution for loader 'tags' completed successfully
+[12:32:14.465][INFO]: Started loading scripts for loader 'crafttweaker'
+[12:32:14.466][INFO]: Undoing previous actions
+[12:32:14.478][INFO]: Compiling and executing scripts
+[12:32:14.561][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[12:32:14.570][INFO]: Execution for loader 'crafttweaker' completed successfully
+[12:46:21.597][INFO]: Started loading scripts for loader 'tags'
+[12:46:21.597][INFO]: Undoing previous actions
+[12:46:21.609][INFO]: Compiling and executing scripts
+[12:46:21.611][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[12:46:21.618][INFO]: Execution for loader 'tags' completed successfully
+[12:46:26.346][INFO]: Started loading scripts for loader 'crafttweaker'
+[12:46:26.346][INFO]: Undoing previous actions
+[12:46:26.357][INFO]: Compiling and executing scripts
+[12:46:26.439][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[12:46:26.446][INFO]: Execution for loader 'crafttweaker' completed successfully

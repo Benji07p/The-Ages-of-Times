@@ -20,6 +20,7 @@
 #BE6CB6 create:andesite_tunnel
 #DBECBF minecraft:anvil
 #6E69B5 create:asurine
+#0D47EE minecraft:azalea_leaves
 #0F359D minecraft:azure_bluet
 #161AE7 minecraft:bamboo
 #18D108 minecraft:basalt
@@ -50,6 +51,7 @@
 #00BE18 minecraft:calcite
 #FC842A minecraft:campfire
 #54A3DE the_ages_of_times:carbyne_sulfate
+#6A23D5 minecraft:cauldron
 #06B1AD tconstruct:chiseled_scorched_bricks
 #F2A1A5 create:chute
 #9EC980 immersiveengineering:circuit_table
@@ -126,12 +128,14 @@
 #3B3ABB tconstruct:earth_congealed_slime
 #7CDED2 tconstruct:earth_earth_slime_grass
 #62139B tconstruct:earth_slime_fluid
+#314645 tconstruct:earth_slime_leaves
 #91A5DB createaddition:electric_motor
 #A952FC create:encased_chain_drive
 #D76B4B chemlib:ethanol
 #56C7FC create:experience_block
 #009B14 minecraft:farmland
 #B9B269 minecraft:fire_coral_block
+#E66556 minecraft:flowering_azalea_leaves
 #DC0D87 create:fluid_pipe
 #DA0ACF tconstruct:foundry_controller
 #128EDC beyond_earth:fuel
@@ -170,6 +174,7 @@
 #6B68B5 minecraft:jungle_log
 #F7CC06 minecraft:jungle_planks
 #EA439B minecraft:lapis_ore
+#B77BCC tconstruct:large_sky_slime_crystal_bud
 #83CED3 minecraft:lava
 #2B9318 the_ages_of_times:lead_sulfate
 #72D77D minecraft:lever
@@ -211,6 +216,7 @@
 #73753E minecraft:oak_fence
 #AD9EB5 minecraft:oak_leaves
 #BBA6D1 minecraft:oak_log
+#E3886A minecraft:oak_planks
 #4A5E4E minecraft:obsidian
 #5C837A create:ochrum
 #E41AF8 beyond_earth:oil
@@ -332,6 +338,8 @@
 #4762B7 create:sticky_mechanical_piston
 #A6348F create:stockpile_switch
 #DC3458 minecraft:stone
+#B21185 minecraft:stone_brick_slab
+#43D995 minecraft:stone_brick_stairs
 #A2490D notreepunching:stone_loose_rock
 #134A52 the_ages_of_times:stone_platform
 #7D07A9 minecraft:stone_pressure_plate
@@ -363,6 +371,7 @@
 #6DB687 create:veridium
 #88779D minecraft:vine
 #2F6B3B multibeds:vintage
+#FB59FD minecraft:water_cauldron
 #AAF4B7 create:water_wheel
 #B150CC minecraft:waxed_copper_block
 #E2C9D0 create:weighted_ejector

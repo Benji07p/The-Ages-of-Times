@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_straw": "2024-01-20 11:38:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2023-12-12 20:55:00 +0100"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2023-12-13 15:25:49 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-01-20 11:38:34 +0100"
     },
     "done": true
   },
@@ -155,9 +167,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-12-12 20:55:32 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
     },
     "done": true
   },
@@ -296,6 +320,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_black_dye": "2024-01-17 13:42:16 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-01-20 11:22:59 +0100"
     },
     "done": true
   },
@@ -544,6 +574,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
+    },
+    "done": true
+  },
   "tempad:tempad": {
     "criteria": {
       "requirement": "2023-12-04 18:03:50 +0100"
@@ -727,6 +763,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2024-01-20 11:38:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2023-12-04 18:07:24 +0100"
@@ -790,6 +832,12 @@
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2024-01-20 11:38:34 +0100"
     },
     "done": true
   },
@@ -1519,6 +1567,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2024-01-20 11:38:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-01-15 19:25:50 +0100"
@@ -1669,6 +1723,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-01-14 21:25:47 +0100"
@@ -1678,6 +1738,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2023-12-12 20:55:32 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-01-20 11:25:16 +0100"
     },
     "done": true
   },
@@ -1853,6 +1919,12 @@
     },
     "done": true
   },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2024-01-20 11:23:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
@@ -1891,6 +1963,7 @@
       "minecraft:swamp": "2024-01-17 15:01:12 +0100",
       "minecraft:desert": "2023-12-04 17:35:07 +0100",
       "minecraft:windswept_savanna": "2023-12-14 12:20:01 +0100",
+      "minecraft:warm_ocean": "2024-01-20 11:21:58 +0100",
       "minecraft:savanna": "2023-12-14 12:12:32 +0100",
       "minecraft:plains": "2023-12-21 17:47:53 +0100"
     },
@@ -2112,6 +2185,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/basket": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -2262,6 +2341,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
     "criteria": {
       "has_coppper_ingot": "2023-12-11 20:57:12 +0100"
@@ -2325,6 +2410,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_mv": {
     "criteria": {
       "has_electrum_ingot": "2024-01-01 19:10:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-01-20 12:36:06 +0100"
     },
     "done": true
   },
@@ -2604,6 +2695,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-01-20 11:35:06 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/firewood/lavawood_stairs": {
     "criteria": {
       "has_item": "2023-12-12 20:55:38 +0100"
@@ -2868,6 +2965,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2024-01-20 11:36:25 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -2910,6 +3013,12 @@
     },
     "done": true
   },
+  "notreepunching:plant_fiber_from_tall_flowers_with_knife": {
+    "criteria": {
+      "has_item": "2024-01-20 11:22:27 +0100"
+    },
+    "done": true
+  },
   "notreepunching:fire_starter": {
     "criteria": {
       "has_item": "2024-01-16 20:42:28 +0100"
@@ -2928,6 +3037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-01-20 12:36:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
@@ -2937,6 +3052,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2024-01-20 11:38:34 +0100"
     },
     "done": true
   },
@@ -3066,6 +3187,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2024-01-20 11:38:34 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/misc/copper_ingot_from_smelting_copper_dust": {
     "criteria": {
       "has_copper": "2023-12-21 17:54:12 +0100"
@@ -3075,6 +3202,12 @@
   "ceramics:recipes/ceramics/porcelain_bricks_wall_stonecutter": {
     "criteria": {
       "has_item": "2023-12-13 15:26:15 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2024-01-20 11:36:25 +0100"
     },
     "done": true
   },
@@ -3280,6 +3413,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-01-16 20:02:51 +0100"
@@ -3325,6 +3464,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2023-12-04 18:07:32 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
     },
     "done": true
   },
@@ -3411,6 +3556,12 @@
       "has_planks": "2024-01-14 21:25:47 +0100"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "rice": "2024-01-20 11:35:06 +0100"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_wallmount": {
     "criteria": {
@@ -3598,6 +3749,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
@@ -3610,6 +3767,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-01-20 11:22:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -3619,6 +3782,12 @@
   "notreepunching:plant_fiber_from_leaves_with_knife": {
     "criteria": {
       "has_item": "2024-01-17 14:59:23 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-01-20 11:22:59 +0100"
     },
     "done": true
   },
@@ -3874,6 +4043,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tatami": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpowder_barrel": {
     "criteria": {
       "has_wooden_barrel": "2023-12-09 14:29:40 +0100"
@@ -4063,6 +4238,12 @@
   "create:recipes/create.base/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2024-01-20 11:38:35 +0100"
     },
     "done": true
   },
@@ -4302,6 +4483,12 @@
   "create:recipes/create.base/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2023-12-16 22:27:59 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-01-20 11:22:59 +0100"
     },
     "done": true
   },
