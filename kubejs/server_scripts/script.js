@@ -649,6 +649,14 @@ onEvent('recipes', event => {
 	event.remove({output: 'farmersdelight:wheat_dough'})
 	event.remove({ id: 'bucketlib:create/dough'})
 	event.remove({ id: 'create:crafting/appliances/dough'})
+	event.remove({ id: 'minecolonies:baked_bread_campfire_cooking'})
+	event.remove({ id: 'minecolonies:baked_bread'})
+	event.remove({ id: 'minecolonies:baked_bread_smoking'})
+	event.remove({ id: 'create:campfire_cooking/bread'})
+	event.remove({ id: 'create:smelting/bread'})
+	event.remove({ id: 'create:smoking/bread'})
+	event.remove({ id: 'minecraft:bread'})
+	event.remove({ id: 'farmersdelight:pie_crust'})
 })
 
 onEvent('item.tags', event => {
