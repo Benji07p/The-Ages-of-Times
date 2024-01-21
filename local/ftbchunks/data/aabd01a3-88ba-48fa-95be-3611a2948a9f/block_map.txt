@@ -17,6 +17,7 @@
 #1F34F5 minecolonies:blockconstructiontape
 #45C994 minecolonies:blockhutbaker
 #990133 minecolonies:blockhutblacksmith
+#729097 minecolonies:blockhutcook
 #351AE8 minecolonies:blockhutmysticalsite
 #973544 minecolonies:blockminecoloniesrack
 #34E999 structurize:blocksolidsubstitution
@@ -122,6 +123,7 @@
 #F6678E minecraft:oxeye_daisy
 #AB1C58 minecraft:peony
 #F37841 minecraft:pink_terracotta
+#B32B19 domum_ornamentum:plain
 #BB7F65 minecraft:podzol
 #6A5197 minecraft:polished_andesite
 #5CDCB7 minecraft:polished_basalt

@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-01-20 16:14:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-20 19:53:52 +0100"
@@ -215,9 +221,21 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/baked_cookies": {
+    "criteria": {
+      "has_dough": "2024-01-20 15:47:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-11-20 17:35:21 +0100"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/baked_cookies_campfire_cooking": {
+    "criteria": {
+      "has_dough": "2024-01-20 15:47:24 +0100"
     },
     "done": true
   },
@@ -349,6 +367,12 @@
   "farmersdelight:recipes/farmersdelight/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2023-12-17 18:37:04 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2024-01-20 16:14:30 +0100"
     },
     "done": true
   },
@@ -559,6 +583,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-01-20 16:14:30 +0100"
+    },
+    "done": true
+  },
   "tardim:recipes/tardim_key": {
     "criteria": {
       "has_the_recipe": "2023-11-19 17:42:12 +0100"
@@ -748,6 +778,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/baked_cake_smoking": {
+    "criteria": {
+      "has_dough": "2024-01-20 15:47:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-11-20 18:24:26 +0100"
@@ -856,6 +892,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg": {
     "criteria": {
       "fried_egg": "2023-11-20 17:35:21 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-01-20 16:14:30 +0100"
     },
     "done": true
   },
@@ -970,6 +1012,12 @@
   "create:recipes/create.palettes/crafting/kinetics/black_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2023-11-06 18:21:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-01-20 16:14:30 +0100"
     },
     "done": true
   },
@@ -1148,6 +1196,12 @@
       "minecraft:plains": "2023-11-06 17:24:53 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-01-20 16:14:30 +0100"
+    },
+    "done": true
   },
   "ae2:recipes/redstone/misc/vanilla_comparator": {
     "criteria": {
@@ -1719,6 +1773,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/baked_cake_campfire_cooking": {
+    "criteria": {
+      "has_dough": "2024-01-20 15:47:32 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/exposed_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -2049,6 +2109,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2024-01-20 16:14:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-20 19:53:52 +0100"
@@ -2094,6 +2160,12 @@
   "create:root": {
     "criteria": {
       "0": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2024-01-20 16:14:30 +0100"
     },
     "done": true
   },
@@ -2157,6 +2229,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/baked_cake": {
+    "criteria": {
+      "has_dough": "2024-01-20 15:47:32 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "honey_glazed_ham": "2023-11-28 18:52:34 +0100"
@@ -2211,6 +2289,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2024-01-20 16:14:30 +0100"
+    },
+    "done": true
+  },
   "minecolonies:production/build_blacksmith": {
     "criteria": {
       "blacksmith": "2023-12-17 20:07:17 +0100"
@@ -2256,6 +2340,12 @@
   "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2023-11-06 18:24:33 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-01-20 16:14:30 +0100"
     },
     "done": true
   },
@@ -2832,6 +2922,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2023-12-17 18:01:12 +0100"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/baked_cookies_smoking": {
+    "criteria": {
+      "has_dough": "2024-01-20 15:47:24 +0100"
     },
     "done": true
   },
