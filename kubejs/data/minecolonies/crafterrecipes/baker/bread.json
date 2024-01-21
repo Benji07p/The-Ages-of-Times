@@ -1,0 +1,13 @@
+{
+  "type" : "recipe",
+  "crafter": "baker_smelting",
+  "inputs": [
+    {
+        "item" : "create:dough",
+        "count": 1
+    }
+  ],
+  "result": "minecraft:bread",
+  "count": 1,
+  "intermediate" : "minecraft:furnace"
+}
