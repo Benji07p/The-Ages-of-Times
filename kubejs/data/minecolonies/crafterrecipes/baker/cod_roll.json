@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "baker_crafting",
+  "inputs": [
+    {
+        "item" : "farmersdelight:cooked_rice",
+        "count": 1
+    },
+    {
+        "item" : "farmersdelight:cod_slice",
+        "count": 2
+    }
+  ],
+  "result": "farmersdelight:cod_roll",
+  "count": 2,
+  "intermediate" : "minecraft:air",
+  "min-building-level" : 1,
+  "show-tooltip": true
+}

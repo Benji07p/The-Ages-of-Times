@@ -1,0 +1,27 @@
+{
+  "type" : "recipe",
+  "crafter": "baker_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:beetroot",
+        "count": 1
+    },
+    {
+        "item" : "farmersdelight:tomato",
+        "count": 1
+    },
+    {
+        "item" : "minecraft:bowl",
+        "count": 1
+    },
+    {
+        "item" : "farmersdelight:cabbage",
+        "count": 1
+    }
+  ],
+  "result": "farmersdelight:mixed_salad",
+  "count": 1,
+  "intermediate" : "minecraft:air",
+  "min-building-level" : 1,
+  "show-tooltip": false
+}

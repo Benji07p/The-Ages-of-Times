@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "baker_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:bowl",
+        "count": 1
+    },
+    {
+        "item" : "farmersdelight:fried_egg",
+        "count": 2
+    },
+    {
+        "item" : "farmersdelight:cooked_bacon",
+        "count": 2
+    }
+  ],
+  "result": "farmersdelight:bacon_and_eggs",
+  "count": 1,
+  "intermediate" : "minecraft:air",
+  "min-building-level" : 1,
+  "show-tooltip": true
+}

@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "baker_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:bowl",
+        "count": 1
+    },
+    {
+        "item" : "minecraft:crimson_fungus",
+        "count": 1
+    },
+    {
+        "item" : "minecraft:warped_fungus",
+        "count": 1
+    }
+  ],
+  "result": "farmersdelight:nether_salad",
+  "count": 1,
+  "intermediate" : "minecraft:air",
+  "min-building-level" : 1,
+  "show-tooltip": true
+}
