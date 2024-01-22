@@ -19,6 +19,9 @@
 #990133 minecolonies:blockhutblacksmith
 #729097 minecolonies:blockhutcook
 #351AE8 minecolonies:blockhutmysticalsite
+#AA6FE7 minecolonies:blockhuttavern
+#36F082 minecolonies:blockminecoloniesgrave
+#8976D9 minecolonies:blockminecoloniesnamedgrave
 #973544 minecolonies:blockminecoloniesrack
 #34E999 structurize:blocksolidsubstitution
 #69FD68 structurize:blocksubstitution
