@@ -657,6 +657,16 @@ onEvent('recipes', event => {
 	event.remove({ id: 'create:smoking/bread'})
 	event.remove({ id: 'minecraft:bread'})
 	event.remove({ id: 'farmersdelight:pie_crust'})
+	event.remove({ id: 'farmersdelight:fruit_salad'})
+	event.remove({ id: 'farmersdelight:mixed_salad'})
+	event.remove({ id: 'farmersdelight:nether_salad'})
+	event.remove({ id: 'farmersdelight:egg_sandwich'})
+	event.remove({ id: 'farmersdelight:cod_roll'})
+	event.remove({ id: 'farmersdelight:salmon_roll'})
+	event.remove({ id: 'farmersdelight:kelp_roll'})
+	event.remove({ id: 'farmersdelight:bacon_and_eggs'})
+	event.remove({ id: 'farmersdelight:roasted_mutton_chops'})
+	event.remove({ id: 'farmersdelight:steak_and_potatoes'})
 })
 
 onEvent('item.tags', event => {
