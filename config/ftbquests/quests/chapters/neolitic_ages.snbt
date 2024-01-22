@@ -21,7 +21,7 @@
 			}]
 		}
 		{
-			x: 11.5d
+			x: 12.0d
 			y: 2.5d
 			description: [
 				"Craft :"
@@ -262,7 +262,7 @@
 			}]
 		}
 		{
-			x: 10.0d
+			x: 10.5d
 			y: 2.5d
 			dependencies: ["2AD79C7B62DE9359"]
 			id: "07B17E7314EDB20C"
@@ -273,7 +273,7 @@
 			}]
 		}
 		{
-			x: 8.0d
+			x: 9.0d
 			y: 2.5d
 			dependencies: ["2B7910CBEEBCF514"]
 			id: "2AD79C7B62DE9359"
@@ -284,7 +284,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 7.5d
 			y: 2.5d
 			dependencies: ["2744F5C1E2A3B2F3"]
 			id: "2B7910CBEEBCF514"
@@ -295,9 +295,9 @@
 			}]
 		}
 		{
-			x: 4.5d
+			x: 6.0d
 			y: 2.5d
-			dependencies: ["7785A7481AE9EF67"]
+			dependencies: ["45DE808D8982A6FF"]
 			id: "2744F5C1E2A3B2F3"
 			tasks: [{
 				id: "0BDE02F8330912D0"
@@ -398,6 +398,17 @@
 				id: "6ACFADA35C27E093"
 				type: "checkmark"
 				title: "Get Water on Barrel"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 2.5d
+			dependencies: ["7785A7481AE9EF67"]
+			id: "45DE808D8982A6FF"
+			tasks: [{
+				id: "27F83ECE6B35E297"
+				type: "item"
+				item: "minecraft:cauldron"
 			}]
 		}
 	]
