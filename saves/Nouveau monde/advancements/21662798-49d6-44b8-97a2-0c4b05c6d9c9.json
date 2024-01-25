@@ -179,6 +179,18 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2024-01-23 21:29:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-11-20 20:44:15 +0100"
@@ -188,6 +200,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2023-11-28 19:04:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-01-23 20:33:10 +0100"
     },
     "done": true
   },
@@ -296,6 +314,12 @@
   "woodenshears:recipes/tools/wooden_shears": {
     "criteria": {
       "has_planks": "2023-11-19 17:42:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-01-24 13:40:22 +0100"
     },
     "done": true
   },
@@ -487,6 +511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -544,6 +574,12 @@
   "create:recipes/create.palettes/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2024-01-22 18:18:20 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "rice_roll_medley": "2024-01-23 21:22:54 +0100"
     },
     "done": true
   },
@@ -643,6 +679,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-01-23 21:32:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-11-20 20:44:15 +0100"
@@ -676,6 +718,12 @@
   "farmersdelight:recipes/farmersdelight/melon_popsicle": {
     "criteria": {
       "has_melon": "2024-01-21 20:28:22 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/honey_block": {
+    "criteria": {
+      "has_the_recipe": "2024-01-23 21:40:13 +0100"
     },
     "done": true
   },
@@ -892,6 +940,24 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2024-01-23 21:41:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -988,6 +1054,12 @@
   "tardim:recipes/panel_buttons": {
     "criteria": {
       "has_button": "2023-11-20 18:09:38 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2024-01-24 13:40:22 +0100"
     },
     "done": true
   },
@@ -1093,6 +1165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -1153,6 +1231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-01-23 21:29:21 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -1162,6 +1246,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-20 20:27:05 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -1256,6 +1346,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-01-23 21:29:13 +0100"
+    },
+    "done": true
+  },
   "notreepunching:story/root": {
     "criteria": {
       "has_sticks": "2023-11-28 19:04:07 +0100"
@@ -1277,6 +1373,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2023-11-20 18:09:34 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/gold_block": {
+    "criteria": {
+      "has_the_recipe": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -1338,9 +1440,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-11-20 20:48:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -1479,6 +1593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-01-23 21:40:13 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -1590,6 +1710,18 @@
   "farmersdelight:recipes/farmersdelight/cooked_salmon_slice_from_campfire_cooking": {
     "criteria": {
       "cooked_salmon_slice": "2024-01-22 19:00:48 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:gold_mattock": {
+    "criteria": {
+      "has_item": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutsawmill": {
+    "criteria": {
+      "has_items": "2024-01-23 20:56:16 +0100"
     },
     "done": true
   },
@@ -1785,6 +1917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-01-23 21:40:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2023-11-20 18:07:42 +0100"
@@ -1818,6 +1956,12 @@
   "minecolonies:recipes/minecolonies/blockhutcook": {
     "criteria": {
       "has_items": "2023-12-17 18:48:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -1905,9 +2049,27 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutminerstone": {
+    "criteria": {
+      "has_items": "2024-01-23 20:33:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-01-23 21:29:13 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/golden_bricks_wall_gold": {
+    "criteria": {
+      "has_gold": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -1932,6 +2094,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2023-12-17 14:22:09 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:gold_saw": {
+    "criteria": {
+      "has_item": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -1989,9 +2157,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2024-01-22 19:56:32 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2024-01-23 21:41:07 +0100"
     },
     "done": true
   },
@@ -2112,6 +2292,12 @@
   "create:recipes/create.palettes/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-01-22 18:18:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -2277,6 +2463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -2304,6 +2496,12 @@
   "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2024-01-22 18:18:20 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/golden_bricks_gold": {
+    "criteria": {
+      "has_gold": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -2469,6 +2667,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutlumberjack": {
+    "criteria": {
+      "has_items": "2024-01-23 20:56:16 +0100"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/ingot_aluminum_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2023-11-06 18:08:44 +0100"
@@ -2493,6 +2697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-01-24 13:40:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2023-11-06 18:29:47 +0100"
@@ -2502,6 +2712,12 @@
   "minecolonies:recipes/minecolonies/blockhutwarehouse": {
     "criteria": {
       "has_items": "2023-12-17 14:19:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-01-23 20:33:10 +0100"
     },
     "done": true
   },
@@ -2550,6 +2766,18 @@
   "create:recipes/create.palettes/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-11-20 20:48:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-01-23 21:32:58 +0100"
     },
     "done": true
   },
@@ -2631,6 +2859,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/golden_bricks_stairs_gold": {
+    "criteria": {
+      "has_gold": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/blasting/ingot_lead_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2023-11-06 18:10:47 +0100"
@@ -2640,6 +2874,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
     "criteria": {
       "has_paper": "2024-01-20 16:14:30 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-01-24 13:40:23 +0100"
     },
     "done": true
   },
@@ -2670,6 +2910,12 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2023-11-20 20:48:39 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/gold_nugget": {
+    "criteria": {
+      "has_the_recipe": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -2721,6 +2967,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutgraveyard": {
+    "criteria": {
+      "has_items": "2024-01-23 21:29:21 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2023-12-17 18:01:10 +0100"
@@ -2763,6 +3015,18 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -2772,6 +3036,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_axe": "2023-12-17 19:46:43 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-01-23 21:40:13 +0100"
     },
     "done": true
   },
@@ -2805,6 +3075,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-01-23 21:29:21 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/golden_apple": {
+    "criteria": {
+      "has_the_recipe": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-11-20 18:24:26 +0100"
@@ -2826,6 +3108,12 @@
   "alchemistry:recipes/dissolver/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -2938,6 +3226,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/golden_bricks_slab_gold": {
+    "criteria": {
+      "has_gold": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/blasting/lead_ingot_compat_thermal": {
     "criteria": {
       "has_item": "2023-11-06 18:10:47 +0100"
@@ -2995,6 +3289,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2023-11-06 18:29:47 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:gold_knife": {
+    "criteria": {
+      "has_item": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -3112,6 +3412,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/bone_block": {
+    "criteria": {
+      "has_the_recipe": "2024-01-23 21:29:13 +0100"
+    },
+    "done": true
+  },
   "atum:core/justlikenew": {
     "criteria": {
       "gold_brooch": "2023-11-06 17:24:58 +0100",
@@ -3150,6 +3456,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2023-11-19 17:42:12 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
+    "criteria": {
+      "has_item": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -3192,6 +3504,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_icebreaker": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -3294,6 +3612,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2024-01-22 18:39:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-01-24 13:39:55 +0100"
     },
     "done": true
   },
@@ -3402,6 +3726,18 @@
   "minecolonies:recipes/food/baked_cookies_smoking": {
     "criteria": {
       "has_dough": "2024-01-20 15:47:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-01-23 21:29:13 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_panicle": {
+    "criteria": {
+      "has_rice_bale": "2024-01-24 13:41:14 +0100"
     },
     "done": true
   },

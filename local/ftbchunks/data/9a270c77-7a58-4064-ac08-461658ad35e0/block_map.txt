@@ -19,10 +19,12 @@
 #2F16B5 the_ages_of_times:andesite_shaft
 #BE6CB6 create:andesite_tunnel
 #DBECBF minecraft:anvil
+#75B9F3 immersiveengineering:arc_furnace
 #6E69B5 create:asurine
 #0D47EE minecraft:azalea_leaves
 #0F359D minecraft:azure_bluet
 #161AE7 minecraft:bamboo
+#75DFAA minecraft:barrier
 #18D108 minecraft:basalt
 #E152BD create:basin
 #840F59 minecraft:bedrock
@@ -52,6 +54,7 @@
 #FC842A minecraft:campfire
 #54A3DE the_ages_of_times:carbyne_sulfate
 #6A23D5 minecraft:cauldron
+#743AC3 minecraft:chipped_anvil
 #06B1AD tconstruct:chiseled_scorched_bricks
 #F2A1A5 create:chute
 #9EC980 immersiveengineering:circuit_table
@@ -95,6 +98,7 @@
 #FDCD6A custommachinery:custom_machine_block
 #3C3897 minecraft:cut_sandstone
 #1B74F2 farmersdelight:cutting_board
+#F8FED5 minecraft:damaged_anvil
 #B2A2E1 minecraft:dandelion
 #A66708 minecraft:dark_oak_log
 #19C8D3 minecraft:dark_oak_planks
@@ -134,9 +138,11 @@
 #D76B4B chemlib:ethanol
 #56C7FC create:experience_block
 #009B14 minecraft:farmland
+#9B1166 immersiveengineering:fermenter
 #B9B269 minecraft:fire_coral_block
 #E66556 minecraft:flowering_azalea_leaves
 #DC0D87 create:fluid_pipe
+#C40C8B immersiveengineering:fluid_pipe
 #DA0ACF tconstruct:foundry_controller
 #128EDC beyond_earth:fuel
 #2DC94B minecraft:furnace
@@ -157,6 +163,7 @@
 #88BAFA minecraft:gravel
 #87B5C3 create:hand_crank
 #F67E21 minecraft:hay_block
+#B6A923 immersiveengineering:heavy_engineering
 #1A0827 minecraft:hopper
 #9D2636 minecraft:horn_coral_block
 #54DDA3 the_ages_of_times:hydraulic_fluid
@@ -175,9 +182,11 @@
 #F7CC06 minecraft:jungle_planks
 #EA439B minecraft:lapis_ore
 #B77BCC tconstruct:large_sky_slime_crystal_bud
+#290DB3 create:large_water_wheel
 #83CED3 minecraft:lava
 #2B9318 the_ages_of_times:lead_sulfate
 #72D77D minecraft:lever
+#19EEF2 immersiveengineering:light_engineering
 #7482E4 minecraft:lilac
 #DFD691 minecraft:lily_pad
 #746434 create:limestone
@@ -277,6 +286,7 @@
 #F7A42A create:rope_pulley
 #9C3ECB minecraft:rose_bush
 #E493B9 create:rotation_speed_controller
+#7B5F9D immersiveengineering:rs_engineering
 #6566C1 butchersdelight:salt
 #C327D9 atum:sand
 #86FC77 minecraft:sand
@@ -285,6 +295,7 @@
 #9D474B minecraft:sandstone_slab
 #9EF0DB minecraft:sandstone_wall
 #8505E1 atum:sarcophagus
+#3C4AE0 create:schematic_table
 #C369ED tconstruct:scorched_alloyer
 #2562EE tconstruct:scorched_basin
 #F14597 tconstruct:scorched_bricks
@@ -311,11 +322,14 @@
 #1B4219 tconstruct:seared_basin
 #A09272 tconstruct:seared_faucet
 #39CA17 tconstruct:seared_heater
+#5ED1DC tconstruct:seared_ingot_tank
 #C70547 tconstruct:seared_melter
 #18A9AE tconstruct:seared_table
 #C7FBBB create:secondary_linear_chassis
 #EBD65B create:sequenced_gearshift
 #D3CCFE create:shaft
+#8B3F27 immersiveengineering:sheetmetal_iron
+#079D5C immersiveengineering:sheetmetal_steel
 #9E85C9 the_ages_of_times:silver_sulfate
 #2AA99B farmersdelight:skillet
 #9B036C tconstruct:sky_slime_crystal_block
@@ -323,6 +337,7 @@
 #3768ED beyond_earth:sky_stone
 #C2CF94 ae2:sky_stone_tank
 #D4DCCF multibeds:slab
+#7552C1 immersiveengineering:slab_sheetmetal_steel
 #975FAF create:smart_chute
 #8638B9 minecraft:smooth_basalt
 #13D503 minecraft:smooth_sandstone
@@ -335,6 +350,7 @@
 #DDCD2A mctb:spruce_crafting_table
 #49DF61 minecraft:spruce_planks
 #D9135A minecraft:spruce_stairs
+#F428EC immersiveengineering:steel_scaffolding_standard
 #4762B7 create:sticky_mechanical_piston
 #A6348F create:stockpile_switch
 #DC3458 minecraft:stone
@@ -345,6 +361,7 @@
 #7D07A9 minecraft:stone_pressure_plate
 #2E9337 minecraft:stonecutter
 #59BD67 immersiveengineering:storage_electrum
+#72EC8F immersiveengineering:storage_steel
 #B81C38 farmersdelight:stove
 #064552 atum:strange_sand_path
 #9E51B2 create:stressometer
@@ -373,6 +390,7 @@
 #2F6B3B multibeds:vintage
 #FB59FD minecraft:water_cauldron
 #AAF4B7 create:water_wheel
+#7D38EB create:water_wheel_structure
 #B150CC minecraft:waxed_copper_block
 #E2C9D0 create:weighted_ejector
 #C6D1CE minecraft:white_concrete

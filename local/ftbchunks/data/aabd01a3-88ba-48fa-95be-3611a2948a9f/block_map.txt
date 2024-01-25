@@ -85,6 +85,7 @@
 #51FA1A minecraft:gray_carpet
 #49417A minecraft:green_carpet
 #F67E21 minecraft:hay_block
+#D675BF farmersdelight:honey_glazed_ham_block
 #9D2636 minecraft:horn_coral_block
 #EAC0B1 ironchest:iron_chest
 #D7EADE minecraft:iron_ore
@@ -133,6 +134,7 @@
 #FC4096 minecraft:polished_diorite
 #437566 minecraft:polished_granite
 #AFAC0D minecraft:poppy
+#458296 the_ages_of_times:porcelain_heater_on
 #A9887C minecraft:potted_azure_bluet
 #E01AFA minecraft:potted_blue_orchid
 #6DC9E1 minecraft:potted_cactus
@@ -142,6 +144,9 @@
 #E5CE2C minecraft:red_glazed_terracotta
 #D83486 minecraft:red_wall_banner
 #62B28A minecraft:redstone_ore
+#CD1879 farmersdelight:rice_bale
+#D77ED9 farmersdelight:rice_roll_medley_block
+#08F0C4 farmersdelight:roast_chicken_block
 #9C3ECB minecraft:rose_bush
 #6566C1 butchersdelight:salt
 #C327D9 atum:sand
@@ -151,6 +156,7 @@
 #9EF0DB minecraft:sandstone_wall
 #3C4AE0 create:schematic_table
 #705189 minecraft:sea_lantern
+#048D1A farmersdelight:shepherds_pie_block
 #3624F5 domum_ornamentum:shingle
 #177682 domum_ornamentum:shingle_slab
 #3768ED beyond_earth:sky_stone
@@ -161,18 +167,21 @@
 #C5C0F6 minecraft:soul_campfire
 #A67F43 minecraft:soul_sand
 #A6B33E minecraft:soul_soil
+#DDCD2A mctb:spruce_crafting_table
 #FAE367 minecraft:spruce_fence
 #6A8B3A minecraft:spruce_log
 #49DF61 minecraft:spruce_planks
 #64F88A minecraft:spruce_slab
 #D9135A minecraft:spruce_stairs
 #B1D22B minecraft:spruce_trapdoor
+#ECBA68 the_ages_of_times:stick_world
 #DC3458 minecraft:stone
 #B21185 minecraft:stone_brick_slab
 #43D995 minecraft:stone_brick_stairs
 #B3BB15 minecraft:stone_brick_wall
 #F8955F minecraft:stone_bricks
 #5C6350 minecraft:stripped_dark_oak_log
+#121625 farmersdelight:stuffed_pumpkin_block
 #5CF3F1 minecraft:sugar_cane
 #9209D8 minecraft:terracotta
 #2035B7 minecraft:tube_coral_block
