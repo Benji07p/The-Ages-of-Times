@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"sgs",
+		"gcg",
+		"sgs"
+	],
+	"key": {
+		"s": {
+			"tag": "forge:plates/steel"
+		},
+		"c": {
+			"item": "tconstruct:seared_ingot_tank"
+		},
+		"g": {
+			"tag": "forge:glass"
+		}
+	},
+	"result": {
+		"item": "electrodynamics:tanksteel",
+		"count": 1
+	}
+}
