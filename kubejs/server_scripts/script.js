@@ -22,6 +22,29 @@ onEvent('recipes', event => {
 		  }
 	)
 
+	//Anvil
+	event.remove({ id: 'minecraft:anvil' })
+	event.remove({ id: 'tconstruct:smeltery/melting/metal/iron/anvil'})
+	event.remove({ id: 'alchemistry:dissolver/anvil'})
+	event.custom(
+		{
+			"type": "minecraft:stonecutting",
+			"ingredient": {
+			  "item": "minecraft:stone"
+			},
+			"result": "minecraft:anvil",
+			"count": 1
+		  }
+	)
+	event.shaped('minecraft:anvil', [
+		'BBB',
+		' T ',
+		'TTT'
+	], {
+	B: 'minecraft:stone',
+	T: 'minecraft:stone_button'
+	})
+
 	//Shears
 	event.remove({ id: 'minecraft:shears' })
 	event.shaped('ceramicshears:ceramic_shears', [
@@ -632,6 +655,28 @@ onEvent('recipes', event => {
 	B: 'minecraft:oak_log'
 	})
 
+	//Stone Platform
+	event.shaped('the_ages_of_times:stone_platform', [
+		'BTB',
+		'T T',
+		'BTB'
+	], {
+	B: 'minecraft:stone',
+	T: 'minecraft:stone_button'
+	})
+
+	//Water Wheel
+	event.remove({ id: 'create:crafting/kinetics/large_water_wheel'})
+	event.remove({ id: 'create:crafting/kinetics/water_wheel'})
+	event.shaped('create:large_water_wheel', [
+		'SSS',
+		'SGS',
+		'SSS'
+	], {
+	S: 'minecraft:spruce_slab',
+	G: 'electrodynamics:gearcopper'
+	})
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
@@ -667,6 +712,10 @@ onEvent('recipes', event => {
 	event.remove({ id: 'farmersdelight:bacon_and_eggs'})
 	event.remove({ id: 'farmersdelight:roasted_mutton_chops'})
 	event.remove({ id: 'farmersdelight:steak_and_potatoes'})
+	event.remove({ id: 'farmersdelight:rice_roll_medley_block'})
+	event.remove({ id: 'farmersdelight:roast_chicken_block'})
+	event.remove({ id: 'farmersdelight:honey_glazed_ham_block'})
+	event.remove({ id: 'farmersdelight:horse_feed'})
 })
 
 onEvent('item.tags', event => {
