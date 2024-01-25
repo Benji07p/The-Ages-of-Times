@@ -249,7 +249,7 @@
 			}]
 		}
 		{
-			x: 11.0d
+			x: 11.5d
 			y: 1.5d
 			dependencies: ["6E2B4729C8F73D04"]
 			id: "351473900510EFE6"
@@ -313,7 +313,7 @@
 			tasks: [{
 				id: "51509B37EE11C2FD"
 				type: "item"
-				item: "create:water_wheel"
+				item: "create:large_water_wheel"
 			}]
 		}
 		{
@@ -391,7 +391,7 @@
 		}
 		{
 			icon: "ironchest:copper_chest"
-			x: 11.0d
+			x: 11.5d
 			y: -0.5d
 			dependencies: ["6E2B4729C8F73D04"]
 			id: "29ABC460C770CCED"
