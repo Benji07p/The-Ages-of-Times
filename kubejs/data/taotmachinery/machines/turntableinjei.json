@@ -1,0 +1,56 @@
+{
+    "name": "Turntable ",
+    "appearance":{
+           "block": "the_ages_of_times:turntest"
+    },
+    "components":[
+        {
+            "type": "custommachinery:item",
+            "id": "input1"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input2"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input3"
+        }
+    ],
+    "gui": [
+        {
+            "texture": "custommachinery:textures/gui/base_background.png",
+            "x": 0,
+            "y": 0,
+            "type": "custommachinery:texture",
+            "height": 126,
+            "width": 186
+        },
+        {
+            "x": 6,
+            "y": 42,
+            "type": "custommachinery:player_inventory"
+        },
+        {
+            "type": "custommachinery:slot",
+            "id": "input1",
+            "x": 24,
+            "y": 7
+        },
+        {
+            "type": "custommachinery:slot",
+            "id": "input2",
+            "x": 24,
+            "y": 25,
+            "texture": "custommachinery:textures/gui/base_background.png",
+            "width": 17,
+            "height": 17
+        },
+        {
+            "type": "custommachinery:slot",
+            "id": "input3",
+            "x": 61,
+            "y": 7
+        }
+    ]
+}
