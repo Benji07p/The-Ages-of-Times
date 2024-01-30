@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-01-30 20:14:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -407,6 +413,12 @@
   "create:recipes/create.palettes/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2024-01-24 17:36:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-01-30 20:11:10 +0100"
     },
     "done": true
   },
@@ -713,6 +725,12 @@
     },
     "done": true
   },
+  "notreepunching:dark_oak_planks_with_flint_axe": {
+    "criteria": {
+      "has_item": "2024-01-30 20:32:23 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2023-12-11 20:57:12 +0100"
@@ -734,6 +752,12 @@
   "tconstruct:world/tinkers_gadgetry": {
     "criteria": {
       "crafted_book": "2023-12-13 20:22:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2024-01-30 20:14:36 +0100"
     },
     "done": true
   },
@@ -788,6 +812,12 @@
   "tardim:recipes/panel_buttons": {
     "criteria": {
       "has_button": "2024-01-24 20:26:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-01-30 20:31:58 +0100"
     },
     "done": true
   },
@@ -881,6 +911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-01-30 20:13:32 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/pink_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
@@ -890,6 +926,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-01-30 20:12:02 +0100"
     },
     "done": true
   },
@@ -1226,6 +1268,12 @@
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:spruce_planks_with_flint_axe": {
+    "criteria": {
+      "has_item": "2024-01-30 20:31:55 +0100"
     },
     "done": true
   },
@@ -1856,6 +1904,12 @@
   "ceramics:recipes/ceramics/golden_bricks_gold": {
     "criteria": {
       "has_gold": "2024-01-01 19:13:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-01-30 20:32:23 +0100"
     },
     "done": true
   },
@@ -2937,6 +2991,12 @@
     },
     "done": true
   },
+  "notreepunching:birch_planks_with_flint_axe": {
+    "criteria": {
+      "has_item": "2024-01-30 20:31:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:55 +0100"
@@ -2997,6 +3057,12 @@
     },
     "done": true
   },
+  "notreepunching:jungle_planks_with_saw": {
+    "criteria": {
+      "has_item": "2024-01-30 20:31:58 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2023-12-13 15:03:54 +0100"
@@ -3006,6 +3072,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_electrum_to_slab": {
     "criteria": {
       "has_storage_electrum": "2024-01-01 19:10:29 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:story/flint_axe": {
+    "criteria": {
+      "has_flint_axe": "2024-01-30 19:46:09 +0100"
     },
     "done": true
   },
@@ -3077,6 +3149,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/hoe_steel": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2024-01-30 20:12:02 +0100"
     },
     "done": true
   },
@@ -3344,6 +3422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-01-30 20:31:56 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/light_gray_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
@@ -3488,6 +3572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-01-30 20:14:46 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_scaffolding_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2023-12-16 22:27:58 +0100"
@@ -3566,6 +3656,12 @@
   "ceramics:recipes/ceramics/monochrome_bricks_wall_ink": {
     "criteria": {
       "has_ink": "2024-01-18 22:10:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-01-30 20:31:55 +0100"
     },
     "done": true
   },
@@ -3834,6 +3930,12 @@
       "ras_fury": "2023-12-04 17:35:07 +0100",
       "gebs_might": "2023-12-04 17:35:07 +0100",
       "isis_healing": "2023-12-04 17:35:07 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:dark_oak_planks_with_saw": {
+    "criteria": {
+      "has_item": "2024-01-30 20:32:23 +0100"
     },
     "done": true
   },
@@ -4388,6 +4490,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/circuit_table": {
     "criteria": {
       "has_circuit_board": "2023-12-09 14:25:20 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:birch_planks_with_saw": {
+    "criteria": {
+      "has_item": "2024-01-30 20:31:56 +0100"
     },
     "done": true
   },
@@ -4991,6 +5099,12 @@
     },
     "done": true
   },
+  "notreepunching:spruce_planks_with_saw": {
+    "criteria": {
+      "has_item": "2024-01-30 20:31:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
@@ -5242,6 +5356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2024-01-30 20:13:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2023-12-13 15:25:49 +0100"
@@ -5272,6 +5392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-01-30 20:11:10 +0100"
+    },
+    "done": true
+  },
   "notreepunching:iron_knife": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
@@ -5287,6 +5413,12 @@
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:jungle_planks_with_flint_axe": {
+    "criteria": {
+      "has_item": "2024-01-30 20:31:58 +0100"
     },
     "done": true
   },

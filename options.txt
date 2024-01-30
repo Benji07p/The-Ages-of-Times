@@ -185,9 +185,9 @@ key_key.car_start:key.keyboard.keypad.9
 key_key.car_horn:key.keyboard.h
 key_key.center_car:key.keyboard.space
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
-key_key.ftbquests.quests:key.keyboard.unknown
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
+key_key.ftbquests.quests:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.right.alt
 key_key.tconstruct.helmet_interact:key.keyboard.z

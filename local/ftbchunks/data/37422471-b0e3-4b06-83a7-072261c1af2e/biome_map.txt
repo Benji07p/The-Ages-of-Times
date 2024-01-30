@@ -1,0 +1,7 @@
+#556 minecraft:beach
+#3D6 minecraft:cold_ocean
+#010 minecraft:forest
+#3DC minecraft:plains
+#5FF minecraft:river
+#4D3 minecraft:swamp
+#05C minecraft:windswept_gravelly_hills

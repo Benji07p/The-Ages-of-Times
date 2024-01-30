@@ -180,6 +180,7 @@
 #C1E251 minecraft:jungle_leaves
 #6B68B5 minecraft:jungle_log
 #F7CC06 minecraft:jungle_planks
+#BD9263 ceramics:kiln
 #EA439B minecraft:lapis_ore
 #B77BCC tconstruct:large_sky_slime_crystal_bud
 #290DB3 create:large_water_wheel
