@@ -150,7 +150,7 @@ onEvent('recipes', event => {
         }
     )
 
-    //Jungle Planks
+  //Jungle Planks
 	event.custom(
       {
           "type": "farmersdelight:cutting",
@@ -170,4 +170,40 @@ onEvent('recipes', event => {
           ]
       }
   )
+
+
+  /////////Cutting board
+  function cut(inb, out) {
+	  event.custom(
+      {
+			  "type": "lychee:block_interacting",
+			  "item_in": {
+				  "item": "notreepunching:flint_axe"
+			  },
+			  "block_in": inb,
+			  "post": [
+          {
+              "type": "damage_item",
+              "damage": 1
+          },
+          {
+              "type": "place",
+              "block": out
+          },
+          {
+              "type": "drop_item",
+              "item": "farmersdelight:cutting_board"
+          }
+		    ]
+		  }
+    )
+  }
+
+  cut("stripped_oak_log", "oak_slab")
+  cut("stripped_spruce_log", "spruce_slab")
+  cut("stripped_birch_log", "birch_slab")
+  cut("stripped_jungle_log", "jungle_slab")
+  cut("stripped_acacia_log", "acacia_slab")
+  cut("stripped_dark_oak_log", "dark_oak_slab")
+
 })
