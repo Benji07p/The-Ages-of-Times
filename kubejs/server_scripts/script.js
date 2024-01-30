@@ -132,31 +132,6 @@ onEvent('recipes', event => {
 	L: '#minecraft:leaves'
 	})
 
-	//Cutting board
-	event.custom(
-		{
-			"type": "lychee:block_interacting",
-			"item_in": {
-				"item": "notreepunching:flint_axe"
-			},
-			"block_in": "stripped_oak_log",
-			"post": [
-                {
-                    "type": "damage_item",
-                    "damage": 1
-                },
-                {
-                    "type": "place",
-                    "block": "oak_slab"
-                },
-                {
-                    "type": "drop_item",
-                    "item": "farmersdelight:cutting_board"
-                }
-			]
-		}
-    )
-
 	//Flakes Bones
 	event.custom(
 		{
@@ -556,6 +531,7 @@ onEvent('recipes', event => {
 	})
 
 	//Flint Gear
+	event.remove({ id: 'notreepunching:flint_from_gravel'})
 	event.shaped('the_ages_of_times:flint_gear', [
 		' S ',
 		'STS',
@@ -732,6 +708,12 @@ onEvent('item.tags', event => {
 
 	// Create the tags #forge:superglue and add Glue and Slime
 	event.add('forge:superglue', ['the_ages_of_times:glue', 'minecraft:slime_ball'])
+
+	// Add Flint Axe to #forge:tools/axe
+	event.add('forge:tools/axe', ['notreepunching:flint_axe'])
+
+	//Logs Tag for Quest
+	event.add('forge:log', ['minecraft:oak_log', 'minecraft:spruce_log', 'minecraft:birch_log', 'minecraft:jungle_log', 'minecraft:acacia_log', 'minecraft:dark_oak_log'])
 
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	event.get('forge:dough').remove('farmersdelight:wheat_dough')
