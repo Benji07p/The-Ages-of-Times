@@ -27,7 +27,14 @@
 			tasks: [{
 				id: "2AAF6EF2286CCAA3"
 				type: "item"
-				item: "minecraft:oak_log"
+				title: "Any #minecraft:logs"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:log"
+					}
+				}
 			}]
 		}
 		{
