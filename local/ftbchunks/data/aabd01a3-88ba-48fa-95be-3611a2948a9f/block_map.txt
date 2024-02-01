@@ -49,6 +49,7 @@
 #3D8BFC minecraft:cobblestone_stairs
 #74DB3C minecraft:cobblestone_wall
 #8B8A11 minecraft:cobweb
+#FB5E8C minecraft:command_block
 #E2D601 minecraft:composter
 #6E76AF minecraft:copper_ore
 #CC07F6 minecraft:cornflower
@@ -188,6 +189,7 @@
 #87BAF4 minecraft:tuff
 #B411C4 minecraft:twisting_vines_plant
 #6DB687 create:veridium
+#2F6B3B multibeds:vintage
 #FB59FD minecraft:water_cauldron
 #B24D94 minecraft:white_carpet
 #1B60CF minecraft:white_tulip

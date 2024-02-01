@@ -3226,6 +3226,12 @@
     },
     "done": true
   },
+  "tardim:recipes/panel_lever": {
+    "criteria": {
+      "has_lever": "2024-02-01 13:09:19 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/golden_bricks_slab_gold": {
     "criteria": {
       "has_gold": "2024-01-24 13:39:55 +0100"

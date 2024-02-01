@@ -39,6 +39,7 @@
 #63D15D create:blaze_burner
 #45C994 minecolonies:blockhutbaker
 #990133 minecolonies:blockhutblacksmith
+#4F6441 minecolonies:blockhutdeliveryman
 #7F1716 minecolonies:blockhutlibrary
 #0B8E43 minecolonies:blockhutschool
 #F19195 beyond_earth:blue_iron_plating_block
@@ -54,10 +55,12 @@
 #FC842A minecraft:campfire
 #54A3DE the_ages_of_times:carbyne_sulfate
 #6A23D5 minecraft:cauldron
+#F522F4 minecraft:chest
 #743AC3 minecraft:chipped_anvil
 #06B1AD tconstruct:chiseled_scorched_bricks
 #F2A1A5 create:chute
 #9EC980 immersiveengineering:circuit_table
+#802D27 multibeds:classic
 #7FDE54 minecraft:clay
 #D67615 notreepunching:clay_bucket
 #3FE39C notreepunching:clay_flower_pot
@@ -288,6 +291,7 @@
 #9C3ECB minecraft:rose_bush
 #E493B9 create:rotation_speed_controller
 #7B5F9D immersiveengineering:rs_engineering
+#CE3093 multibeds:rustic
 #6566C1 butchersdelight:salt
 #C327D9 atum:sand
 #86FC77 minecraft:sand
@@ -379,6 +383,7 @@
 #271922 ceramics:terracotta_gauge
 #4C0FBF createaddition:tesla_coil
 #982755 the_ages_of_times:tin_sulfate
+#0BBF37 minecraft:trapped_chest
 #2035B7 minecraft:tube_coral_block
 #87BAF4 minecraft:tuff
 #05FFF5 create:turntable
