@@ -209,7 +209,7 @@ onEvent('recipes', event => {
                 },
                 {
                     "type": "drop_item",
-                    "item": "minecraft:white_wool"
+                    "item": "multibeds:woolen_cloth"
                 }
             ]
         }
