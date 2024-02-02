@@ -63,6 +63,7 @@
 		{
 			x: 0.0d
 			y: 0.5d
+			dependencies: ["32FF322D016DC443"]
 			id: "7984C5618B3F5B9D"
 			tasks: [{
 				id: "3E4DCD9DFC26A98B"
@@ -74,6 +75,27 @@
 						machine: "taotmachinery:alembic"
 					}
 				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -1.0d
+			id: "3A0CEEAEBF9BCEDA"
+			tasks: [{
+				id: "4B9B461B634D9198"
+				type: "item"
+				item: "minecraft:paper"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -1.0d
+			dependencies: ["3A0CEEAEBF9BCEDA"]
+			id: "6ED623D6D2BD7D88"
+			tasks: [{
+				id: "3D8986FB74F3FDB3"
+				type: "item"
+				item: "minecraft:book"
 			}]
 		}
 	]
