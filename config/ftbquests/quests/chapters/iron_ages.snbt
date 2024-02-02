@@ -9,9 +9,9 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -1.0d
+			x: 5.0d
 			y: 0.0d
-			dependencies: ["10E196C554F2436E"]
+			dependencies: ["0E6B918DB6514642"]
 			id: "6DC23EDE2D460CDF"
 			tasks: [{
 				id: "315395D051251A62"
@@ -20,30 +20,9 @@
 			}]
 		}
 		{
-			x: 22.5d
-			y: 2.0d
-			id: "3A0CEEAEBF9BCEDA"
-			tasks: [{
-				id: "4B9B461B634D9198"
-				type: "item"
-				item: "minecraft:paper"
-			}]
-		}
-		{
-			x: 25.5d
-			y: 2.0d
-			dependencies: ["3A0CEEAEBF9BCEDA"]
-			id: "6ED623D6D2BD7D88"
-			tasks: [{
-				id: "3D8986FB74F3FDB3"
-				type: "item"
-				item: "minecraft:book"
-			}]
-		}
-		{
 			x: 0.5d
 			y: -1.5d
-			dependencies: ["6DC23EDE2D460CDF"]
+			dependencies: ["42835DBD75C59F46"]
 			id: "5F2F79896CD9CA30"
 			tasks: [{
 				id: "0731C3ADBAF832CB"
@@ -77,9 +56,9 @@
 			}]
 		}
 		{
-			x: 0.5d
+			x: 2.0d
 			y: 0.0d
-			dependencies: ["6DC23EDE2D460CDF"]
+			dependencies: ["33A51BF42883BEAA"]
 			id: "1AD1488B9C98B0CC"
 			tasks: [
 				{
@@ -100,7 +79,7 @@
 			]
 		}
 		{
-			x: 2.0d
+			x: 3.5d
 			y: 0.0d
 			dependencies: ["1AD1488B9C98B0CC"]
 			id: "0E6B918DB6514642"
@@ -123,7 +102,7 @@
 			]
 		}
 		{
-			x: 6.5d
+			x: 8.0d
 			y: 0.0d
 			dependencies: ["666F38B8222A889A"]
 			id: "0610E9919CDF384D"
@@ -153,14 +132,22 @@
 				{
 					id: "194302EB100F6551"
 					type: "item"
-					item: "tconstruct:seared_brick"
+					item: "tconstruct:seared_bricks"
+				}
+				{
+					id: "4311A34C3201C665"
+					type: "item"
+					item: "tconstruct:seared_ingot_tank"
 				}
 			]
 		}
 		{
-			x: 3.5d
+			x: -1.0d
 			y: 0.0d
-			dependencies: ["0E6B918DB6514642"]
+			dependencies: [
+				"04E55AE9FD6151EF"
+				"10E196C554F2436E"
+			]
 			id: "42835DBD75C59F46"
 			tasks: [
 				{
@@ -199,9 +186,9 @@
 			]
 		}
 		{
-			x: 5.0d
+			x: 6.5d
 			y: 0.0d
-			dependencies: ["42835DBD75C59F46"]
+			dependencies: ["6DC23EDE2D460CDF"]
 			id: "666F38B8222A889A"
 			tasks: [{
 				id: "2CE3F37CAF38FAE1"
@@ -217,8 +204,8 @@
 			}]
 		}
 		{
-			x: 25.5d
-			y: 0.5d
+			x: 13.0d
+			y: -4.0d
 			dependencies: ["645F7B0B67596818"]
 			id: "390F1B7456F41F12"
 			tasks: [{
@@ -228,8 +215,8 @@
 			}]
 		}
 		{
-			x: 22.5d
-			y: 0.5d
+			x: 10.0d
+			y: -4.0d
 			id: "2D957015AA53DEC2"
 			tasks: [
 				{
@@ -245,8 +232,8 @@
 			]
 		}
 		{
-			x: 24.0d
-			y: 0.5d
+			x: 11.5d
+			y: -4.0d
 			dependencies: ["2D957015AA53DEC2"]
 			id: "645F7B0B67596818"
 			tasks: [
@@ -263,7 +250,7 @@
 			]
 		}
 		{
-			x: 3.5d
+			x: 5.0d
 			y: -1.5d
 			dependencies: ["0E6B918DB6514642"]
 			id: "0786984FD6DAB5D4"
@@ -277,7 +264,7 @@
 			icon: "create:white_sail"
 			x: -1.0d
 			y: -1.5d
-			dependencies: ["6DC23EDE2D460CDF"]
+			dependencies: ["42835DBD75C59F46"]
 			id: "54202D137A8E54E7"
 			tasks: [
 				{
@@ -307,7 +294,7 @@
 		{
 			x: -1.0d
 			y: 1.5d
-			dependencies: ["6DC23EDE2D460CDF"]
+			dependencies: ["42835DBD75C59F46"]
 			id: "014EAF6C05B85341"
 			tasks: [{
 				id: "466D2345ECB25608"
@@ -323,8 +310,8 @@
 			}]
 		}
 		{
-			x: 22.5d
-			y: 3.5d
+			x: 12.0d
+			y: 1.0d
 			id: "0A583359D127FAB6"
 			tasks: [{
 				id: "0B9E1B98E3621C81"
@@ -398,6 +385,17 @@
 				id: "744120F9A63E8E93"
 				type: "item"
 				item: "minecraft:map"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.0d
+			dependencies: ["42835DBD75C59F46"]
+			id: "33A51BF42883BEAA"
+			tasks: [{
+				id: "6388E75E56CCDC77"
+				type: "item"
+				item: "the_ages_of_times:seared_upgrade"
 			}]
 		}
 	]
