@@ -364,6 +364,48 @@ onEvent('recipes', event => {
 		}
 	)
 
+	//Seared Casting Table
+	event.remove({ id: 'tconstruct:smeltery/seared/table'})
+	event.custom(
+		{
+		  "type": "create:item_application",
+		  "ingredients": [
+			{
+			  "item": "tconstruct:scorched_table"
+			},
+			{
+			  "item": "the_ages_of_times:seared_upgrade"
+			}
+		  ],
+		  "results": [
+			{
+			  "item": "tconstruct:seared_table"
+			}
+		  ]
+		}
+	)
+
+	//Seared Faucet
+	event.remove({ id: 'tconstruct:smeltery/seared/faucet'})
+	event.custom(
+		{
+		  "type": "create:item_application",
+		  "ingredients": [
+			{
+			  "item": "ceramics:porcelain_faucet"
+			},
+			{
+			  "item": "the_ages_of_times:seared_upgrade"
+			}
+		  ],
+		  "results": [
+			{
+			  "item": "tconstruct:seared_faucet"
+			}
+		  ]
+		}
+	)
+
 	//Porcelain Melter
 	event.shaped('melter:melter', [
 		'PHP',
@@ -652,6 +694,93 @@ onEvent('recipes', event => {
 	S: 'minecraft:spruce_slab',
 	G: 'electrodynamics:gearcopper'
 	})
+
+	//Black Iron
+	event.remove({ id: 'extendedcrafting:black_iron_ingot'})
+	event.custom(
+		{
+			"type":"immersiveengineering:alloy",
+			"time": 50,
+			"result":{
+				"base_ingredient":{
+					"item":"extendedcrafting:black_iron_ingot"
+				}
+			},
+			"input0":{
+				"base_ingredient":{
+					"item":"minecraft:iron_ingot"
+				}
+			},
+			"input1":{
+				"item":"minecraft:black_dye"
+			}
+		}
+	)
+
+	//Seared Upgrade
+	event.shaped('the_ages_of_times:seared_upgrade', [
+		'SSS',
+		'SGS',
+		'SSS'
+	], {
+	S: 'tconstruct:seared_brick',
+	G: 'functionalstorage:copper_upgrade'
+	})
+
+	//String
+	event.remove({ id: 'notreepunching:smelting/string_from_plant_string'})
+	event.custom(
+		{
+			"type":"atum:spinning_wheel",
+			"ingredient":{
+				"item":"notreepunching:plant_string"
+			},
+			"result":"minecraft:string",
+			"rotations":1
+		}
+	)
+	event.custom(
+		{
+			"type":"atum:spinning_wheel",
+			"ingredient":{
+				"item":"multibeds:woolen_cloth"
+			},
+			"result":"minecraft:string",
+			"rotations":2
+		}
+	)
+
+	//Laine
+	event.remove({ id: 'minecraft:white_wool_from_string'})
+	event.custom(
+		{
+			"type":"atum:spinning_wheel",
+			"ingredient":{
+				"item":"atum:linen_white",
+				"count": 2
+			},
+			"result":"minecraft:white_wool",
+			"rotations":1
+		}
+	)
+
+	//Tissu
+	event.custom(
+		{
+			"type":"atum:spinning_wheel",
+			"ingredient":{
+				"item":"immersiveengineering:hemp_fabric",
+				"count": 2
+			},
+			"result":"atum:cloth_scrap",
+			"rotations":2
+		}
+	)
+
+	//Verre
+	event.remove({ id: 'minecraft:glass'})
+	event.remove({ id: 'ceramics:glass_kiln'})
+	event.smelting('minecraft:glass', 'tconstruct:clear_glass')
 
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
