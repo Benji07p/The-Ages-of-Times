@@ -153,25 +153,41 @@
 			}]
 		}
 		{
+			title: "Manganese"
+			icon: "chemlib:manganese"
 			x: -2.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "115FF8ABC45F708C"
 			tasks: [{
 				id: "2F18CFCC96C19369"
 				type: "item"
+				item: "chemlib:manganese_oxide_dust"
+			}]
+			rewards: [{
+				id: "57071216621A2E19"
+				type: "item"
 				item: "chemlib:manganese"
 			}]
 		}
 		{
+			title: "Iron"
+			icon: "chemlib:iron"
 			x: -1.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "7EEB375BB6242F87"
 			tasks: [{
 				id: "361ACF666155D538"
+				type: "item"
+				item: "minecraft:iron_ingot"
+			}]
+			rewards: [{
+				id: "4B79D30B941FDC1D"
 				type: "item"
 				item: "chemlib:iron"
 			}]
@@ -189,37 +205,61 @@
 			}]
 		}
 		{
+			title: "Nickel"
+			icon: "chemlib:nickel"
 			x: 1.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "25DDE297DD53E882"
 			tasks: [{
 				id: "2F3A1622F6D6034D"
 				type: "item"
+				item: "immersiveengineering:ingot_nickel"
+			}]
+			rewards: [{
+				id: "11E0F5EA3FEBE7FA"
+				type: "item"
 				item: "chemlib:nickel"
 			}]
 		}
 		{
+			title: "Copper"
+			icon: "chemlib:copper"
 			x: 2.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "4EF8F131211E7175"
 			tasks: [{
 				id: "2FACE365A0375411"
 				type: "item"
+				item: "minecraft:copper_ingot"
+			}]
+			rewards: [{
+				id: "7DF7FE6F82E92F51"
+				type: "item"
 				item: "chemlib:copper"
 			}]
 		}
 		{
+			title: "Zinc"
+			icon: "chemlib:zinc"
 			x: 3.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "1ECFB346CC204276"
 			tasks: [{
 				id: "35F7E20F0214704D"
+				type: "item"
+				item: "create:zinc_ingot"
+			}]
+			rewards: [{
+				id: "2EBACD2A9F661388"
 				type: "item"
 				item: "chemlib:zinc"
 			}]
@@ -345,13 +385,21 @@
 			}]
 		}
 		{
+			title: "Sulfur"
+			icon: "chemlib:sulfur"
 			x: 7.0d
 			y: -5.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "10909A06A21459E3"
 			tasks: [{
 				id: "74550343ED67030B"
+				type: "item"
+				item: "electrodynamics:dustsulfur"
+			}]
+			rewards: [{
+				id: "76ECDB773FC5788B"
 				type: "item"
 				item: "chemlib:sulfur"
 			}]
@@ -393,13 +441,21 @@
 			}]
 		}
 		{
+			title: "Arsenic"
+			icon: "chemlib:arsenic"
 			x: 6.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "5DD94E392FDC0BE2"
 			tasks: [{
 				id: "57670F12F5A45ED6"
+				type: "item"
+				item: "chemlib:arsenic_dust"
+			}]
+			rewards: [{
+				id: "75957674E545D726"
 				type: "item"
 				item: "chemlib:arsenic"
 			}]
@@ -621,49 +677,81 @@
 			}]
 		}
 		{
+			title: "Mercury"
+			icon: "chemlib:mercury"
 			x: 3.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "07CDA80F823A48AF"
 			tasks: [{
 				id: "26DAFD58091C5D2C"
 				type: "item"
+				item: "chemlib:mercury_sulfide_dust"
+			}]
+			rewards: [{
+				id: "55B07FC2059A7785"
+				type: "item"
 				item: "chemlib:mercury"
 			}]
 		}
 		{
+			title: "Gold"
+			icon: "chemlib:gold"
 			x: 2.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "13363C1B00496A07"
 			tasks: [{
 				id: "7DF67104EEE4EB7D"
 				type: "item"
+				item: "minecraft:gold_ingot"
+			}]
+			rewards: [{
+				id: "601336175C44F404"
+				type: "item"
 				item: "chemlib:gold"
 			}]
 		}
 		{
+			title: "Silver"
+			icon: "chemlib:silver"
 			x: 2.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "72A2BBA5C7BB8EA9"
 			tasks: [{
 				id: "7466D3D87D2EB332"
 				type: "item"
+				item: "electrodynamics:ingotsilver"
+			}]
+			rewards: [{
+				id: "46E74E0EC3D68F43"
+				type: "item"
 				item: "chemlib:silver"
 			}]
 		}
 		{
+			title: "Tin"
+			icon: "chemlib:tin"
 			x: 5.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "65C588CE6907E9F8"
 			tasks: [{
 				id: "4B7EE84060702CE2"
+				type: "item"
+				item: "electrodynamics:ingottin"
+			}]
+			rewards: [{
+				id: "3E8C8BB10A8E13B9"
 				type: "item"
 				item: "chemlib:tin"
 			}]
@@ -705,21 +793,32 @@
 			}]
 		}
 		{
+			title: "Lead"
+			icon: "chemlib:lead"
 			x: 5.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "3507408198F832E5"
 			tasks: [{
 				id: "71DF5E8FC811632F"
 				type: "item"
+				item: "electrodynamics:ingotlead"
+			}]
+			rewards: [{
+				id: "7A6C59CF70B3D40C"
+				type: "item"
 				item: "chemlib:lead"
 			}]
 		}
 		{
+			title: "Bismuth"
+			icon: "chemlib:bismuth"
 			x: 6.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "2B06A53ECDBCFEBA"
 			tasks: [{
