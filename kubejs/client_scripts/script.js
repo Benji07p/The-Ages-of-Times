@@ -44,6 +44,10 @@ onEvent('item.tooltip', tooltip => {
 		text.add(2, Text.of('§7Alkali Metals'))
 	})
 
+	tooltip.addAdvanced(['the_ages_of_times:iron_oxide_iii'], (item, advanced, text) => {
+		text.add(1, Text.of('§3Fe₃O₄'))
+	})
+
 	tooltip.addAdvanced(['#forge:ingots/titanium', '#forge:storage_blocks/titanium', '#forge:plates/titanium'], (item, advanced, text) => {
 		text.add(1, Text.of('§3Ti (22)'))
 		text.add(2, Text.of('§7Transition Metals'))
