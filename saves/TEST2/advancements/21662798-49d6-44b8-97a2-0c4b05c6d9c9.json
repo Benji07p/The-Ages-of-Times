@@ -464,6 +464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
@@ -908,6 +914,12 @@
   "notreepunching:story/find_loose_rock": {
     "criteria": {
       "has_loose_rock": "2023-12-16 22:27:57 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:diamond_saw": {
+    "criteria": {
+      "has_item": "2024-02-02 22:13:07 +0100"
     },
     "done": true
   },
@@ -1637,6 +1649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2024-01-24 17:34:50 +0100"
@@ -1676,6 +1694,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-01-17 14:22:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
     },
     "done": true
   },
@@ -2027,6 +2051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
   "notreepunching:fire_starter": {
     "criteria": {
       "has_item": "2024-01-16 20:42:28 +0100"
@@ -2207,6 +2237,12 @@
     },
     "done": true
   },
+  "notreepunching:diamond_mattock": {
+    "criteria": {
+      "has_item": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
@@ -2316,6 +2352,12 @@
   "tconstruct:recipes/tconstruct/general/common/iron_platform": {
     "criteria": {
       "has_bars": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
     },
     "done": true
   },
@@ -2685,6 +2727,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
   "tconstruct:foundry/alloyer": {
     "criteria": {
       "scorched_fuel_tank": "2024-01-19 17:22:26 +0100",
@@ -2901,9 +2949,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick_reinforced_to_slab": {
     "criteria": {
       "has_blastbrick_reinforced": "2023-12-09 14:59:33 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2024-02-02 22:13:07 +0100"
     },
     "done": true
   },
@@ -3776,6 +3836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2023-12-11 20:57:12 +0100"
@@ -3785,6 +3851,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2023-12-16 22:27:59 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:diamond_knife": {
+    "criteria": {
+      "has_item": "2024-02-02 22:13:07 +0100"
     },
     "done": true
   },
@@ -4553,6 +4625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/clay_repair/terracotta_faucet_repair": {
     "criteria": {
       "has_item": "2023-12-13 16:04:18 +0100"
@@ -5165,6 +5243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/heavy_engineering": {
     "criteria": {
       "has_electrum_ingot": "2024-01-01 19:10:31 +0100"
@@ -5192,6 +5276,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
     },
     "done": true
   },
@@ -5270,6 +5360,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-02-02 22:13:07 +0100"
     },
     "done": true
   },
@@ -5384,6 +5480,12 @@
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
     },
     "done": true
   },
@@ -6049,6 +6151,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-02-02 22:13:07 +0100"
     },
     "done": true
   },

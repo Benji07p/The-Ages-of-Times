@@ -1,0 +1,422 @@
+{
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "ceramicshears:recipes/misc/ceramic_shears_part": {
+    "criteria": {
+      "has_clay": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "atum:core/thefullmuseum": {
+    "criteria": {
+      "isis_division": "2024-02-02 22:04:45 +0100",
+      "nepthys_banishing": "2024-02-02 22:04:45 +0100",
+      "anubis_wrath": "2024-02-02 22:04:45 +0100",
+      "seths_venom": "2024-02-02 22:04:45 +0100",
+      "body_of_ra": "2024-02-02 22:04:45 +0100",
+      "montus_strike": "2024-02-02 22:04:45 +0100",
+      "ptahs_decadence": "2024-02-02 22:04:45 +0100",
+      "horus_soaring": "2024-02-02 22:04:45 +0100",
+      "tefnuts_call": "2024-02-02 22:04:45 +0100",
+      "shus_exile": "2024-02-02 22:04:45 +0100",
+      "osiris_blessing": "2024-02-02 22:04:45 +0100",
+      "seths_sting": "2024-02-02 22:04:45 +0100",
+      "shus_breath": "2024-02-02 22:04:45 +0100",
+      "anputs_hunger": "2024-02-02 22:04:45 +0100",
+      "feet_of_ra": "2024-02-02 22:04:45 +0100",
+      "nuits_vanishing": "2024-02-02 22:04:45 +0100",
+      "nepthys_guard": "2024-02-02 22:04:45 +0100",
+      "legs_of_ra": "2024-02-02 22:04:45 +0100",
+      "anputs_grounding": "2024-02-02 22:04:45 +0100",
+      "shus_swiftness": "2024-02-02 22:04:45 +0100",
+      "montus_blast": "2024-02-02 22:04:45 +0100",
+      "atems_homecoming": "2024-02-02 22:04:45 +0100",
+      "atems_will": "2024-02-02 22:04:45 +0100",
+      "nuits_quarter": "2024-02-02 22:04:45 +0100",
+      "gebs_toil": "2024-02-02 22:04:45 +0100",
+      "atems_bounty": "2024-02-02 22:04:45 +0100",
+      "eyes_of_atem": "2024-02-02 22:04:45 +0100",
+      "osiris_mercy": "2024-02-02 22:04:45 +0100",
+      "feet_of_atem": "2024-02-02 22:04:45 +0100",
+      "halo_of_ra": "2024-02-02 22:04:45 +0100",
+      "body_of_atem": "2024-02-02 22:04:45 +0100",
+      "gebs_undoing": "2024-02-02 22:04:45 +0100",
+      "nuits_ire": "2024-02-02 22:04:45 +0100",
+      "tefnuts_rain": "2024-02-02 22:04:45 +0100",
+      "horus_ascension": "2024-02-02 22:04:45 +0100",
+      "ras_step": "2024-02-02 22:04:45 +0100",
+      "legs_of_atem": "2024-02-02 22:04:45 +0100",
+      "atems_protection": "2024-02-02 22:04:45 +0100",
+      "ras_fury": "2024-02-02 22:04:45 +0100",
+      "gebs_might": "2024-02-02 22:04:45 +0100",
+      "isis_healing": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/circuit_table": {
+    "criteria": {
+      "has_circuit_board": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "atum:core/radyforaction": {
+    "criteria": {
+      "feet_of_ra": "2024-02-02 22:04:45 +0100",
+      "body_of_ra": "2024-02-02 22:04:45 +0100",
+      "legs_of_ra": "2024-02-02 22:04:45 +0100",
+      "halo_of_ra": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-02-02 22:04:55 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/floodlight": {
+    "criteria": {
+      "has_light_bulb": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "atum:core/itbelongsinamuseum": {
+    "criteria": {
+      "isis_division": "2024-02-02 22:04:45 +0100",
+      "anubis_wrath": "2024-02-02 22:04:45 +0100",
+      "seths_venom": "2024-02-02 22:04:45 +0100",
+      "body_of_ra": "2024-02-02 22:04:45 +0100",
+      "montus_strike": "2024-02-02 22:04:45 +0100",
+      "ptahs_decadence": "2024-02-02 22:04:45 +0100",
+      "horus_soaring": "2024-02-02 22:04:45 +0100",
+      "tefnuts_call": "2024-02-02 22:04:45 +0100",
+      "shus_exile": "2024-02-02 22:04:45 +0100",
+      "osiris_blessing": "2024-02-02 22:04:45 +0100",
+      "seths_sting": "2024-02-02 22:04:45 +0100",
+      "shus_breath": "2024-02-02 22:04:45 +0100",
+      "anputs_hunger": "2024-02-02 22:04:45 +0100",
+      "feet_of_ra": "2024-02-02 22:04:45 +0100",
+      "nuits_vanishing": "2024-02-02 22:04:45 +0100",
+      "legs_of_ra": "2024-02-02 22:04:45 +0100",
+      "anputs_grounding": "2024-02-02 22:04:45 +0100",
+      "shus_swiftness": "2024-02-02 22:04:45 +0100",
+      "montus_blast": "2024-02-02 22:04:45 +0100",
+      "atems_homecoming": "2024-02-02 22:04:45 +0100",
+      "atems_will": "2024-02-02 22:04:45 +0100",
+      "nuits_quarter": "2024-02-02 22:04:45 +0100",
+      "gebs_toil": "2024-02-02 22:04:45 +0100",
+      "atems_bounty": "2024-02-02 22:04:45 +0100",
+      "eyes_of_atem": "2024-02-02 22:04:45 +0100",
+      "osiris_mercy": "2024-02-02 22:04:45 +0100",
+      "feet_of_atem": "2024-02-02 22:04:45 +0100",
+      "halo_of_ra": "2024-02-02 22:04:45 +0100",
+      "body_of_atem": "2024-02-02 22:04:45 +0100",
+      "gebs_undoing": "2024-02-02 22:04:45 +0100",
+      "nuits_ire": "2024-02-02 22:04:45 +0100",
+      "tefnuts_rain": "2024-02-02 22:04:45 +0100",
+      "horus_ascension": "2024-02-02 22:04:45 +0100",
+      "legs_of_atem": "2024-02-02 22:04:45 +0100",
+      "ras_fury": "2024-02-02 22:04:45 +0100",
+      "gebs_might": "2024-02-02 22:04:45 +0100",
+      "isis_healing": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-02-02 22:04:55 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/cloche": {
+    "criteria": {
+      "has_light_bulb": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "ceramicshears:recipes/tools/ceramic_shears": {
+    "criteria": {
+      "has_clay": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2024-02-02 22:04:45 +0100"
+    },
+    "done": false
+  },
+  "beyond_earth:root": {
+    "criteria": {
+      "tick": "2024-02-02 22:04:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/electric_lantern": {
+    "criteria": {
+      "has_light_bulb": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:electrodynamics/guidebook": {
+    "criteria": {
+      "spawn": "2024-02-02 22:04:55 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/building_blocks/glass_kiln": {
+    "criteria": {
+      "has_item": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "atum:core/atumed": {
+    "criteria": {
+      "eyes_of_atem": "2024-02-02 22:04:45 +0100",
+      "legs_of_atem": "2024-02-02 22:04:45 +0100",
+      "feet_of_atem": "2024-02-02 22:04:45 +0100",
+      "body_of_atem": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "atum:core/powerwasher": {
+    "criteria": {
+      "gold_brooch": "2024-02-02 22:04:45 +0100",
+      "ruby_ring": "2024-02-02 22:04:45 +0100",
+      "silver_necklace": "2024-02-02 22:04:45 +0100",
+      "diamond_idol": "2024-02-02 22:04:45 +0100",
+      "diamond_brooch": "2024-02-02 22:04:45 +0100",
+      "diamond_necklace": "2024-02-02 22:04:45 +0100",
+      "gold_ring": "2024-02-02 22:04:45 +0100",
+      "sapphire_brooch": "2024-02-02 22:04:45 +0100",
+      "emerald_brooch": "2024-02-02 22:04:45 +0100",
+      "sapphire_necklace": "2024-02-02 22:04:45 +0100",
+      "ruby_idol": "2024-02-02 22:04:45 +0100",
+      "emerald_bracelet": "2024-02-02 22:04:45 +0100",
+      "emerald_ring": "2024-02-02 22:04:45 +0100",
+      "sapphire_idol": "2024-02-02 22:04:45 +0100",
+      "diamond_bracelet": "2024-02-02 22:04:45 +0100",
+      "silver_bracelet": "2024-02-02 22:04:45 +0100",
+      "sapphire_ring": "2024-02-02 22:04:45 +0100",
+      "gold_necklace": "2024-02-02 22:04:45 +0100",
+      "ruby_bracelet": "2024-02-02 22:04:45 +0100",
+      "emerald_idol": "2024-02-02 22:04:45 +0100",
+      "silver_idol": "2024-02-02 22:04:45 +0100",
+      "gold_idol": "2024-02-02 22:04:45 +0100",
+      "sapphire_bracelet": "2024-02-02 22:04:45 +0100",
+      "silver_ring": "2024-02-02 22:04:45 +0100",
+      "ruby_brooch": "2024-02-02 22:04:45 +0100",
+      "ruby_necklace": "2024-02-02 22:04:45 +0100",
+      "diamond_ring": "2024-02-02 22:04:45 +0100",
+      "gold_bracelet": "2024-02-02 22:04:45 +0100",
+      "emerald_necklace": "2024-02-02 22:04:45 +0100",
+      "silver_brooch": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/scorched/scorched_brick_kiln": {
+    "criteria": {
+      "has_item": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "antiqueatlas:recipes/atlas": {
+    "criteria": {
+      "has_compass": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_brick": {
+    "criteria": {
+      "has_item": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/logic_unit": {
+    "criteria": {
+      "has_circuit_board": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "ceramicshears:recipes/misc/clay_shears_part": {
+    "criteria": {
+      "has_clay": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "atum:core/justlikenew": {
+    "criteria": {
+      "gold_brooch": "2024-02-02 22:04:45 +0100",
+      "ruby_ring": "2024-02-02 22:04:45 +0100",
+      "silver_necklace": "2024-02-02 22:04:45 +0100",
+      "diamond_idol": "2024-02-02 22:04:45 +0100",
+      "diamond_brooch": "2024-02-02 22:04:45 +0100",
+      "diamond_necklace": "2024-02-02 22:04:45 +0100",
+      "gold_ring": "2024-02-02 22:04:45 +0100",
+      "sapphire_brooch": "2024-02-02 22:04:45 +0100",
+      "emerald_brooch": "2024-02-02 22:04:45 +0100",
+      "sapphire_necklace": "2024-02-02 22:04:45 +0100",
+      "ruby_idol": "2024-02-02 22:04:45 +0100",
+      "emerald_bracelet": "2024-02-02 22:04:45 +0100",
+      "emerald_ring": "2024-02-02 22:04:45 +0100",
+      "sapphire_idol": "2024-02-02 22:04:45 +0100",
+      "diamond_bracelet": "2024-02-02 22:04:45 +0100",
+      "silver_bracelet": "2024-02-02 22:04:45 +0100",
+      "sapphire_ring": "2024-02-02 22:04:45 +0100",
+      "gold_necklace": "2024-02-02 22:04:45 +0100",
+      "ruby_bracelet": "2024-02-02 22:04:45 +0100",
+      "emerald_idol": "2024-02-02 22:04:45 +0100",
+      "silver_idol": "2024-02-02 22:04:45 +0100",
+      "gold_idol": "2024-02-02 22:04:45 +0100",
+      "sapphire_bracelet": "2024-02-02 22:04:45 +0100",
+      "silver_ring": "2024-02-02 22:04:45 +0100",
+      "ruby_brooch": "2024-02-02 22:04:45 +0100",
+      "ruby_necklace": "2024-02-02 22:04:45 +0100",
+      "diamond_ring": "2024-02-02 22:04:45 +0100",
+      "gold_bracelet": "2024-02-02 22:04:45 +0100",
+      "emerald_necklace": "2024-02-02 22:04:45 +0100",
+      "silver_brooch": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "atum:core/root": {
+    "criteria": {
+      "scarab": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "tempad:tempad": {
+    "criteria": {
+      "requirement": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/fantastic_foundry": {
+    "criteria": {
+      "has_item": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "atum:core/aquaculture": {
+    "criteria": {
+      "fish_jeweled": "2024-02-02 22:04:45 +0100",
+      "fish_mummified": "2024-02-02 22:04:45 +0100",
+      "fish_skeletal": "2024-02-02 22:04:45 +0100",
+      "fish_forsaken": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "antiqueatlas:recipes/atlas_new": {
+    "criteria": {
+      "has_compass": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-02-02 22:04:45 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

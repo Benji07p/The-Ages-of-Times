@@ -54,6 +54,7 @@
 #C6AC20 minecraft:cactus
 #00BE18 minecraft:calcite
 #FC842A minecraft:campfire
+#7ACD52 chemlib:carbon_dioxide
 #54A3DE the_ages_of_times:carbyne_sulfate
 #6A23D5 minecraft:cauldron
 #F522F4 minecraft:chest
@@ -135,6 +136,7 @@
 #2BCCE0 notreepunching:diorite_loose_rock
 #80497A minecraft:dirt
 #4FA7D0 minecraft:dirt_path
+#A47868 alchemistry:dissolver
 #3B0AD1 minecraft:dripstone_block
 #3B3ABB tconstruct:earth_congealed_slime
 #7CDED2 tconstruct:earth_earth_slime_grass

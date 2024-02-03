@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "9a1f194544de460b83521ec6b81555b2"
+	name: "furio360"
+	can_edit: true
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		003AB961B00D7B83: 1
+	}
+	started: {
+		4D1451F9C596982B: 1706907885482L
+		003AB961B00D7B83: 1706907885482L
+		578BBF063FED2F12: 1706907885482L
+		0000000000000001: 1706907885482L
+	}
+	completed: {
+		4D1451F9C596982B: 1706907885485L
+		003AB961B00D7B83: 1706907885485L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
