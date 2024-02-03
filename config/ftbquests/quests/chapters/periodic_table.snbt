@@ -12,6 +12,7 @@
 			x: -8.0d
 			y: -7.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "3093679F8D2C1DE2"
 			tasks: [{
@@ -289,13 +290,21 @@
 			}]
 		}
 		{
+			title: "Carbon"
+			icon: "chemlib:carbon"
 			x: 5.0d
 			y: -6.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "2E7AE88A1545E0AD"
 			tasks: [{
 				id: "6EE7E6E950870134"
+				type: "item"
+				item: "chemlib:carbon_dioxide"
+			}]
+			rewards: [{
+				id: "6C8B9EE2DF696F99"
 				type: "item"
 				item: "chemlib:carbon"
 			}]
