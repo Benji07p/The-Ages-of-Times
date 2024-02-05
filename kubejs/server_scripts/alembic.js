@@ -1,6 +1,6 @@
 onEvent('recipes', event => {
 
-    function distillation(input, amount1, fluidinput, amount2, fluidoutput, amount3, output1, amount4, chance1, output2, amount5, chance2){
+    function distillation(input, amount1, input7, amount7, fluidinput, amount2, fluidoutput, amount3, output1, amount4, chance1, output2, amount5, chance2){
     event.custom(
         {
             "type": "custommachinery:custom_machine",
@@ -13,6 +13,13 @@ onEvent('recipes', event => {
                     "item": input,
                     "amount": amount1,
                     "slot": "input1"
+                },
+                {
+                    "type": "custommachinery:item",
+                    "mode": "input",
+                    "item": input7,
+                    "amount": amount7,
+                    "slot": "input2"
                 },
                 {
                     "type": "custommachinery:fluid",
@@ -227,9 +234,9 @@ onEvent('recipes', event => {
             )}
 
     //Hydrogen
-    distillation("chemlib:iron", 1, "minecraft:water", 100, "chemlib:hydrogen_fluid", 100, "chemlib:iron_ii_oxide", 1, 1, "minecraft:air", 1, 0.01)
-    distillation("chemlib:iron", 2, "minecraft:water", 300, "chemlib:hydrogen_fluid", 300, "chemlib:iron_oxide", 1, 1, "minecraft:air", 1, 0.01)
-    distillation("chemlib:iron", 3, "minecraft:water", 400, "chemlib:hydrogen_fluid", 400, "the_ages_of_times:iron_oxide_iii", 1, 1, "minecraft:air", 1, 0.01)
+    distillation("chemlib:iron", 1, "the_ages_of_times:beaker", 1, "minecraft:water", 100, "chemlib:hydrogen_fluid", 100, "chemlib:iron_ii_oxide", 1, 1, "the_ages_of_times:test_tube", 1, 1)
+    distillation("chemlib:iron", 2, "the_ages_of_times:beaker", 1, "minecraft:water", 300, "chemlib:hydrogen_fluid", 300, "chemlib:iron_oxide", 1, 1, "the_ages_of_times:test_tube", 2, 1)
+    distillation("chemlib:iron", 3, "the_ages_of_times:beaker", 1, "minecraft:water", 400, "chemlib:hydrogen_fluid", 400, "the_ages_of_times:iron_oxide_iii", 1, 1, "the_ages_of_times:test_tube", 3, 1)
     meltingfluid("the_ages_of_times:gas_test_tube", 2, "chemlib:hydrogen_fluid", 100, "minecraft:water", 10, "chemlib:hydrogen", 2, 1, "minecraft:air", 1, 0.01)
 
     //Bismuth
