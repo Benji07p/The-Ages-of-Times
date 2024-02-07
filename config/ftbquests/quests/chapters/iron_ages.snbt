@@ -153,35 +153,17 @@
 				{
 					id: "512D9ADE643552BA"
 					type: "item"
-					item: {
-						id: "tconstruct:crafting_station"
-						Count: 1b
-						tag: {
-							texture: "minecraft:oak_log"
-						}
-					}
+					item: "tconstruct:crafting_station"
 				}
 				{
 					id: "2C9206405B6286ED"
 					type: "item"
-					item: {
-						id: "tconstruct:tinker_station"
-						Count: 1b
-						tag: {
-							texture: "minecraft:oak_planks"
-						}
-					}
+					item: "tconstruct:tinker_station"
 				}
 				{
 					id: "1AB4EEA2C95C1836"
 					type: "item"
-					item: {
-						id: "tconstruct:part_builder"
-						Count: 1b
-						tag: {
-							texture: "minecraft:oak_planks"
-						}
-					}
+					item: "tconstruct:part_builder"
 				}
 			]
 		}
