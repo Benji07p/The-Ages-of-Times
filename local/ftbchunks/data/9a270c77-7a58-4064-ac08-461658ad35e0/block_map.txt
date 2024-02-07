@@ -272,6 +272,7 @@
 #306BEB atum:papyrus
 #AB1C58 minecraft:peony
 #3088BD electrodynamics:pipesteel
+#6DAD6C minecraft:piston
 #6A5197 minecraft:polished_andesite
 #5CDCB7 minecraft:polished_basalt
 #E685AE minecraft:polished_deepslate_slab
