@@ -782,6 +782,15 @@ onEvent('recipes', event => {
 	event.remove({ id: 'ceramics:glass_kiln'})
 	event.smelting('minecraft:glass', 'tconstruct:clear_glass')
 
+	//Embroidery Thread
+	event.remove({ id: 'multibeds:embroidery_thread'})
+	event.shaped('multibeds:embroidery_thread', [
+		'FB'
+	], {
+	B: 'minecraft:black_dye',
+	F: 'minecraft:feather'
+	})
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
