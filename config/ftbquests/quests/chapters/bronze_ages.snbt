@@ -442,9 +442,9 @@
 			}]
 		}
 		{
-			x: 11.5d
+			x: 13.0d
 			y: -1.5d
-			dependencies: ["5A761AAABC729B77"]
+			dependencies: ["66DAB1BB22F3E2B1"]
 			id: "3EF6F96B0E680139"
 			tasks: [{
 				id: "02E77A7E0B8A3C41"
@@ -453,9 +453,9 @@
 			}]
 		}
 		{
-			x: 13.0d
+			x: 11.5d
 			y: -1.5d
-			dependencies: ["3EF6F96B0E680139"]
+			dependencies: ["5A761AAABC729B77"]
 			id: "66DAB1BB22F3E2B1"
 			tasks: [{
 				id: "4E8CF1F9B63A8333"
@@ -466,7 +466,7 @@
 		{
 			x: 14.5d
 			y: -1.5d
-			dependencies: ["66DAB1BB22F3E2B1"]
+			dependencies: ["3EF6F96B0E680139"]
 			id: "088654949F59898B"
 			tasks: [{
 				id: "0CE684B76FFB0E44"
@@ -517,6 +517,46 @@
 				type: "item"
 				item: "farmersdelight:canvas"
 			}]
+		}
+		{
+			x: 16.0d
+			y: -1.5d
+			dependencies: ["088654949F59898B"]
+			id: "5D3C438BC29395C3"
+			tasks: [{
+				id: "65BDED58979F0101"
+				type: "item"
+				item: "the_ages_of_times:writable_papyrus"
+			}]
+		}
+		{
+			title: "Invention of Writing"
+			x: 19.5d
+			y: 0.5d
+			shape: "gear"
+			dependencies: [
+				"5D3C438BC29395C3"
+				"44FEEE01C7DD1B03"
+				"5408C4484DF8D673"
+			]
+			size: 2.0d
+			id: "345A418D79BC00A0"
+			tasks: [
+				{
+					id: "56DD800394A4B738"
+					type: "item"
+					item: "the_ages_of_times:written_papyrus"
+				}
+				{
+					id: "4BD74D93D3128880"
+					type: "item"
+					item: {
+						id: "multibeds:embroidery_thread"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
 		}
 	]
 	quest_links: [ ]
