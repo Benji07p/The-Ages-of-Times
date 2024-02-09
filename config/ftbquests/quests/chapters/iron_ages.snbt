@@ -147,6 +147,7 @@
 			dependencies: [
 				"04E55AE9FD6151EF"
 				"10E196C554F2436E"
+				"2BC7C89C420ECD45"
 			]
 			id: "42835DBD75C59F46"
 			tasks: [
@@ -378,6 +379,18 @@
 				id: "6388E75E56CCDC77"
 				type: "item"
 				item: "the_ages_of_times:seared_upgrade"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -1.5d
+			dependencies: ["04E55AE9FD6151EF"]
+			invisible: true
+			id: "2BC7C89C420ECD45"
+			tasks: [{
+				id: "7D48596E65487CD0"
+				type: "item"
+				item: "the_ages_of_times:written_papyrus"
 			}]
 		}
 	]
