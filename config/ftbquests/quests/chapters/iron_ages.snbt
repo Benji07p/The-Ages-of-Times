@@ -306,7 +306,10 @@
 			title: "Born of the civilisation !"
 			x: -1.0d
 			y: -7.0d
-			dependencies: ["07C5D9B8D0B89F95"]
+			dependencies: [
+				"07C5D9B8D0B89F95"
+				"3C75E3E9A3332DF2"
+			]
 			size: 2.0d
 			id: "29381B3B9F32189D"
 			tasks: [{
@@ -389,6 +392,17 @@
 			id: "2BC7C89C420ECD45"
 			tasks: [{
 				id: "7D48596E65487CD0"
+				type: "item"
+				item: "the_ages_of_times:written_papyrus"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -6.0d
+			dependencies: ["04E55AE9FD6151EF"]
+			id: "3C75E3E9A3332DF2"
+			tasks: [{
+				id: "6B3D5E9CD095B12A"
 				type: "item"
 				item: "the_ages_of_times:written_papyrus"
 			}]
