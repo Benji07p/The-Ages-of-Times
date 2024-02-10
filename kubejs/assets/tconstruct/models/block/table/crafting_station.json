@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "minecraft:block/stone",
+    "north": "minecraft:block/stone",
+    "south": "minecraft:block/stone",
+    "east": "minecraft:block/stone",
+    "west": "minecraft:block/stone",
+    "up": "minecraft:block/crafting_table_topp",
+    "down": "minecraft:block/stone"
+  }
+}
