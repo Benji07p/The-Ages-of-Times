@@ -158,6 +158,7 @@ onEvent('recipes', event => {
 
 	//Rock Crafting Table
 	event.remove({output: 'minecraft:crafting_table'})
+	event.remove({output: 'tconstruct:crafting_station'})
 	event.custom(
 		{
 		  "type": "create:item_application",
@@ -171,7 +172,7 @@ onEvent('recipes', event => {
 		  ],
 		  "results": [
 			{
-			  "item": "minecraft:crafting_table"
+			  "item": "tconstruct:crafting_station"
 			}
 		  ]
 		}
