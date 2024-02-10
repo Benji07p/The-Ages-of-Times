@@ -51,6 +51,7 @@
 #02FE08 create:brass_funnel
 #E6D6BA create:brass_tunnel
 #BA9FBF minecraft:bubble_coral_block
+#424F4E tconstruct:budding_sky_slime_crystal
 #C6AC20 minecraft:cactus
 #00BE18 minecraft:calcite
 #FC842A minecraft:campfire
@@ -90,6 +91,7 @@
 #724B56 tconstruct:copper_platform
 #3E77D5 the_ages_of_times:copper_sulfate
 #CC07F6 minecraft:cornflower
+#306005 minecraft:cracked_stone_bricks
 #8C5E34 tconstruct:crafting_station
 #468304 minecraft:crafting_table
 #8700D4 immersiveengineering:craftingtable
@@ -236,6 +238,8 @@
 #0AFECD beyond_earth:moon_stone
 #28AC36 beyond_earth:moon_stone_brick_slab
 #2B9F10 beyond_earth:moon_stone_bricks
+#8A7583 minecraft:moss_block
+#5A981B minecraft:moss_carpet
 #A4FC4B minecraft:mossy_cobblestone
 #454322 minecraft:netherrack
 #73753E minecraft:oak_fence
@@ -301,6 +305,7 @@
 #CA5CEC electrodynamics:resourceblocksilver
 #0FC6DA electrodynamics:resourceblocktin
 #F9A178 beyond_earth:rocket_launch_pad
+#991DF8 minecraft:rooted_dirt
 #F7A42A create:rope_pulley
 #9C3ECB minecraft:rose_bush
 #E493B9 create:rotation_speed_controller
@@ -363,6 +368,7 @@
 #13D503 minecraft:smooth_sandstone
 #046DFC minecraft:smooth_sandstone_slab
 #70F44C minecraft:smooth_sandstone_stairs
+#A0B4F5 minecraft:soul_fire
 #A67F43 minecraft:soul_sand
 #A6B33E minecraft:soul_soil
 #8B8605 create:speedometer
@@ -377,9 +383,12 @@
 #DC3458 minecraft:stone
 #B21185 minecraft:stone_brick_slab
 #43D995 minecraft:stone_brick_stairs
+#B3BB15 minecraft:stone_brick_wall
+#F8955F minecraft:stone_bricks
 #A2490D notreepunching:stone_loose_rock
 #134A52 the_ages_of_times:stone_platform
 #7D07A9 minecraft:stone_pressure_plate
+#AB5BC7 minecraft:stone_slab
 #2E9337 minecraft:stonecutter
 #59BD67 immersiveengineering:storage_electrum
 #72EC8F immersiveengineering:storage_steel
