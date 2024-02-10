@@ -4178,6 +4178,12 @@
     },
     "done": true
   },
+  "beyond_earth:workbench_advancement": {
+    "criteria": {
+      "workbench_advancement": "2024-02-09 21:14:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-01-15 18:12:21 +0100"
@@ -5690,6 +5696,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2023-12-13 20:50:03 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2024-02-09 21:14:42 +0100"
     },
     "done": true
   },
