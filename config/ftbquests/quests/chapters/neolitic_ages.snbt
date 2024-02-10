@@ -17,7 +17,7 @@
 			tasks: [{
 				id: "4F091BC143B0ACAF"
 				type: "item"
-				item: "minecraft:crafting_table"
+				item: "tconstruct:crafting_station"
 			}]
 		}
 		{
