@@ -1,12 +1,24 @@
 {
-  "parent": "minecraft:block/cube",
+  "loader": "tconstruct:table",
+  "parent": "tconstruct:block/table/table8",
   "textures": {
-    "particle": "minecraft:block/stone",
-    "north": "minecraft:block/stone",
-    "south": "minecraft:block/stone",
-    "east": "minecraft:block/stone",
-    "west": "minecraft:block/stone",
-    "up": "minecraft:block/crafting_table_topp",
-    "down": "minecraft:block/stone"
-  }
+    "particle": "minecraft:block/crafting_table_topp",
+    "top": "minecraft:block/crafting_table_topp",
+    "side": "minecraft:block/stone",
+    "leg": "minecraft:block/stone",
+    "bottom": "minecraft:block/stone",
+    "legBottom": "minecraft:block/stone"
+  },
+  "retextured": [ "leg", "legBottom" ],
+  "items": [
+    { "center": [  5, 17,  5 ], "size": 2 },
+    { "center": [  8, 17,  5 ], "size": 2 },
+    { "center": [ 11, 17,  5 ], "size": 2 },
+    { "center": [  5, 17,  8 ], "size": 2 },
+    { "center": [  8, 17,  8 ], "size": 2 },
+    { "center": [ 11, 17,  8 ], "size": 2 },
+    { "center": [  5, 17, 11 ], "size": 2 },
+    { "center": [  8, 17, 11 ], "size": 2 },
+    { "center": [ 11, 17, 11 ], "size": 2 }
+  ]
 }
