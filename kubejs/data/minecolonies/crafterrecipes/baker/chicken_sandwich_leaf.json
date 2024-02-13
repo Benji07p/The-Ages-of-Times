@@ -1,0 +1,27 @@
+{
+  "type" : "recipe",
+  "crafter": "baker_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:bread",
+        "count": 1
+    },
+    {
+        "item" : "minecraft:carrot",
+        "count": 1
+    },
+    {
+        "item" : "minecraft:cooked_chicken",
+        "count": 1
+    },
+    {
+        "item" : "farmersdelight:cabbage_leaf",
+        "count": 1
+    }
+  ],
+  "result": "farmersdelight:chicken_sandwich",
+  "count": 1,
+  "intermediate" : "minecraft:air",
+  "min-building-level" : 1,
+  "show-tooltip": false
+}

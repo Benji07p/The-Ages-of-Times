@@ -831,6 +831,10 @@ onEvent('recipes', event => {
 	event.remove({ id: 'farmersdelight:roast_chicken_block'})
 	event.remove({ id: 'farmersdelight:honey_glazed_ham_block'})
 	event.remove({ id: 'farmersdelight:horse_feed'})
+	event.remove({ id: 'farmersdelight:hamburger'})
+	event.remove({ id: 'farmersdelight:bacon_sandwich'})
+	event.remove({ id: 'farmersdelight:grilled_salmon'})
+	event.remove({ id: 'farmersdelight:chicken_sandwich'})
 })
 
 onEvent('item.tags', event => {
