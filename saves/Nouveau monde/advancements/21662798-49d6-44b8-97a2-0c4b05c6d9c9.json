@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-02-12 20:43:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-11-20 20:44:15 +0100"
@@ -1480,6 +1486,7 @@
     "criteria": {
       "minecraft:river": "2023-11-06 17:41:09 +0100",
       "minecraft:desert": "2023-11-06 17:40:30 +0100",
+      "minecraft:warm_ocean": "2024-02-12 21:07:33 +0100",
       "minecraft:savanna": "2023-11-06 17:41:27 +0100",
       "minecraft:plains": "2023-11-06 17:24:53 +0100"
     },
@@ -2346,6 +2353,12 @@
   "minecolonies:recipes/minecolonies/blockwaypoint": {
     "criteria": {
       "has_build_tool": "2023-11-19 16:55:54 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2024-02-12 20:48:50 +0100"
     },
     "done": true
   },

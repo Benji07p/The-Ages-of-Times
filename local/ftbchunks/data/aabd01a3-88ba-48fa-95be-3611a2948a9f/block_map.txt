@@ -54,6 +54,8 @@
 #6E76AF minecraft:copper_ore
 #CC07F6 minecraft:cornflower
 #306005 minecraft:cracked_stone_bricks
+#8C5E34 tconstruct:crafting_station
+#468304 minecraft:crafting_table
 #4BF61E create:crimsite
 #E9A8F5 minecraft:crying_obsidian
 #3C3897 minecraft:cut_sandstone
@@ -161,6 +163,7 @@
 #3624F5 domum_ornamentum:shingle
 #177682 domum_ornamentum:shingle_slab
 #3768ED beyond_earth:sky_stone
+#31A081 minecraft:smithing_table
 #8638B9 minecraft:smooth_basalt
 #13D503 minecraft:smooth_sandstone
 #046DFC minecraft:smooth_sandstone_slab
