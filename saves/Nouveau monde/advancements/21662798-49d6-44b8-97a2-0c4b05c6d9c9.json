@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2023-11-06 17:25:59 +0100"
@@ -62,6 +68,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2023-12-17 14:22:09 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-02-14 17:34:33 +0100"
     },
     "done": true
   },
@@ -104,6 +116,12 @@
   "create:recipes/create.base/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-02-13 14:51:38 +0100"
     },
     "done": true
   },
@@ -221,6 +239,12 @@
     },
     "done": true
   },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2024-02-13 14:04:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2023-11-19 17:42:12 +0100"
@@ -242,6 +266,12 @@
   "antiqueatlas:recipes/atlas_new": {
     "criteria": {
       "has_compass": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-02-13 13:16:28 +0100"
     },
     "done": true
   },
@@ -284,6 +314,12 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-11-20 18:24:26 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2024-02-13 16:24:11 +0100"
     },
     "done": true
   },
@@ -344,6 +380,12 @@
   "alchemistry:recipes/dissolver/sandstone": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
     },
     "done": true
   },
@@ -412,6 +454,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/bricks": {
+    "criteria": {
+      "has_the_recipe": "2024-02-13 16:24:11 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/brown_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -439,6 +487,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2023-12-17 18:01:12 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cracked_stone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2024-02-13 14:51:38 +0100"
     },
     "done": true
   },
@@ -535,6 +589,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-02-13 14:28:42 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2024-02-14 17:34:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2023-12-17 19:05:56 +0100"
@@ -571,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2023-11-20 18:24:26 +0100"
@@ -589,6 +661,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/building_blocks/brick_slab_from_bricks": {
+    "criteria": {
+      "has_bricks": "2024-02-13 16:24:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2023-11-19 17:42:12 +0100"
@@ -598,6 +676,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-11-20 20:48:44 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-02-14 16:53:29 +0100"
     },
     "done": true
   },
@@ -616,6 +700,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-11-20 20:48:44 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2024-02-14 17:34:33 +0100"
     },
     "done": true
   },
@@ -709,6 +799,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cobblestone_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/cyan_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -733,6 +829,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutstonemason": {
+    "criteria": {
+      "has_items": "2024-02-13 14:51:38 +0100"
+    },
+    "done": true
+  },
   "notreepunching:netherite_knife": {
     "criteria": {
       "has_item": "2023-11-20 18:24:26 +0100"
@@ -754,6 +856,12 @@
   "minecolonies:recipes/minecolonies/blockhutcombatacademy": {
     "criteria": {
       "has_items": "2023-11-20 18:09:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-02-13 14:51:38 +0100"
     },
     "done": true
   },
@@ -994,6 +1102,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-02-14 16:53:29 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
@@ -1228,6 +1342,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2024-01-22 18:18:20 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2024-02-14 17:34:33 +0100"
     },
     "done": true
   },
@@ -1470,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/animal_cart": {
     "criteria": {
       "has_wheel": "2023-11-06 17:24:58 +0100"
@@ -1528,6 +1654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2023-11-19 17:42:12 +0100"
@@ -1540,9 +1672,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/baked_potato": {
     "criteria": {
       "has_the_recipe": "2023-11-28 19:09:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2024-02-13 16:24:11 +0100"
     },
     "done": true
   },
@@ -1594,6 +1744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
   "notreepunching:plant_fiber_from_small_flowers_with_knife": {
     "criteria": {
       "has_item": "2023-11-06 18:29:43 +0100"
@@ -1633,6 +1789,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2023-12-17 18:37:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-02-13 16:24:11 +0100"
     },
     "done": true
   },
@@ -1786,6 +1948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-02-13 13:16:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2023-11-06 18:29:47 +0100"
@@ -1795,6 +1963,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
     },
     "done": true
   },
@@ -1843,6 +2017,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_cod_slice": {
     "criteria": {
       "cooked_cod_slice": "2024-01-22 19:05:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
     },
     "done": true
   },
@@ -1906,9 +2086,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-02-13 14:51:38 +0100"
+    },
+    "done": true
+  },
   "ae2:recipes/tools/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2023-12-17 14:22:09 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:story/fire_pottery": {
+    "criteria": {
+      "has_ceramics": "2024-02-13 13:57:58 +0100"
     },
     "done": true
   },
@@ -1987,6 +2179,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2023-11-20 20:44:15 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/building_blocks/brick_stairs_from_bricks": {
+    "criteria": {
+      "has_bricks": "2024-02-13 16:24:11 +0100"
     },
     "done": true
   },
@@ -2110,6 +2308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-02-13 14:51:38 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2023-11-19 17:42:12 +0100"
@@ -2134,6 +2338,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/skillet": {
+    "criteria": {
+      "has_brick": "2024-02-13 16:24:11 +0100"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/build_town_hall": {
     "criteria": {
       "town_hall": "2023-12-17 20:01:56 +0100"
@@ -2149,6 +2359,12 @@
   "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-11-20 18:24:26 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/chiseled_stone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2024-02-13 14:51:38 +0100"
     },
     "done": true
   },
@@ -2221,6 +2437,18 @@
   "immersivepetroleum:recipes/building_blocks/exposed_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-02-13 14:51:38 +0100"
     },
     "done": true
   },
@@ -2350,6 +2578,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2024-02-14 17:34:32 +0100"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockwaypoint": {
     "criteria": {
       "has_build_tool": "2023-11-19 16:55:54 +0100"
@@ -2365,6 +2599,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2023-11-20 17:35:21 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_tall_flowers_with_knife": {
+    "criteria": {
+      "has_item": "2024-02-13 14:28:42 +0100"
     },
     "done": true
   },
@@ -2398,9 +2638,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2023-12-17 14:18:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
     },
     "done": true
   },
@@ -2413,6 +2665,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-01-21 20:36:03 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2024-02-14 17:34:33 +0100"
     },
     "done": true
   },
@@ -2470,6 +2728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-02-13 14:51:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2023-11-20 16:50:47 +0100"
@@ -2524,9 +2788,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2024-02-14 17:34:33 +0100"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/ingot_lead_compat_mekanism": {
     "criteria": {
       "has_item": "2023-11-06 18:10:47 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2024-02-14 17:34:32 +0100"
     },
     "done": true
   },
@@ -2572,6 +2848,24 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2024-02-13 14:02:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder_2": {
+    "criteria": {
+      "builders_hut": "2024-02-13 14:04:07 +0100"
+    },
+    "done": true
+  },
   "notreepunching:sticks_from_planks_with_flint_axe": {
     "criteria": {
       "has_item": "2023-11-19 17:42:12 +0100"
@@ -2593,6 +2887,12 @@
   "alchemistry:recipes/dissolver/light_blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutstonesmeltery": {
+    "criteria": {
+      "has_items": "2024-02-13 14:51:38 +0100"
     },
     "done": true
   },
@@ -2764,6 +3064,18 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2024-02-13 14:04:07 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/kiln": {
+    "criteria": {
+      "has_brick": "2024-02-13 16:24:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-20 20:27:05 +0100"
@@ -2773,6 +3085,12 @@
   "alchemistry:recipes/dissolver/stone_slab": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:44:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-02-13 14:51:38 +0100"
     },
     "done": true
   },
@@ -2896,6 +3214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-02-13 14:51:38 +0100"
+    },
+    "done": true
+  },
   "minecolonies:production/build_blacksmith": {
     "criteria": {
       "blacksmith": "2023-12-17 20:07:17 +0100"
@@ -2932,9 +3256,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-02-13 16:24:11 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-02-13 14:51:38 +0100"
     },
     "done": true
   },
@@ -2959,6 +3295,12 @@
   "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2024-01-20 16:14:30 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/building_blocks/stone_kiln": {
+    "criteria": {
+      "has_item": "2024-02-13 13:45:16 +0100"
     },
     "done": true
   },
@@ -3058,6 +3400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/purple_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -3127,6 +3475,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-02-14 16:53:29 +0100"
     },
     "done": true
   },
@@ -3326,6 +3680,12 @@
   "minecolonies:recipes/minecolonies/blockhuttownhall": {
     "criteria": {
       "has_items": "2023-11-19 16:55:54 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/stone": {
+    "criteria": {
+      "has_the_recipe": "2024-02-13 13:45:16 +0100"
     },
     "done": true
   },
@@ -3706,6 +4066,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/building_blocks/cracked_stone_bricks_kiln": {
+    "criteria": {
+      "has_item": "2024-02-13 14:51:38 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2023-11-06 17:25:59 +0100"
@@ -3715,6 +4081,12 @@
   "antiqueatlas:recipes/atlas": {
     "criteria": {
       "has_compass": "2023-11-06 17:24:58 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/stone_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-02-13 14:51:38 +0100"
     },
     "done": true
   },
