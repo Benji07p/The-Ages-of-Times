@@ -6,6 +6,7 @@ onEvent('recipes', event => {
             "type": "custommachinery:custom_machine",
             "machine": "taotmachinery:turntable",
             "time": 40,
+            "hidden": true,
             "requirements": [
                 {
                     "type": "custommachinery:block",
