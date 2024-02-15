@@ -5,6 +5,7 @@ onEvent('recipes', event => {
             "type": "custommachinery:custom_machine",
             "machine": "taotmachinery:horse_power",
             "time": 3,
+            "hidden": true,
             "requirements": [
                 {
                     "type": "custommachinery:entity",
