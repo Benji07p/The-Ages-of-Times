@@ -32,9 +32,9 @@ onEvent('recipes', event => {
 		}
 	)}
 
-    pottery("notreepunching:clay_worked", "notreepunching:clay_large_vessel")
-    pottery("notreepunching:clay_large_vessel", "notreepunching:clay_small_vessel")
-    pottery("notreepunching:clay_small_vessel", "notreepunching:clay_bucket")
-    pottery("notreepunching:clay_bucket", "notreepunching:clay_flower_pot")
+    pottery("the_ages_of_times:intermediary_pottery_large_vessel", "notreepunching:clay_large_vessel")
+    pottery("the_ages_of_times:intermediary_pottery_small_vessel", "notreepunching:clay_small_vessel")
+    pottery("the_ages_of_times:intermediary_pottery_bucket", "notreepunching:clay_bucket")
+    pottery("the_ages_of_times:intermediary_pottery_flower_pot", "notreepunching:clay_flower_pot")
 
 })

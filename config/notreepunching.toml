@@ -49,5 +49,5 @@
     # The sequence of blocks that can be created with the clay tool.
     # When the clay tool is used, if the block is present in this list, it may be converted to the next block in the list.
     # If the next block is minecraft:air, the block will be destroyed (the clay tool will never try and convert air into something)
-    potteryBlockSequences = ["minecraft:clay", "notreepunching:clay_worked", "notreepunching:clay_large_vessel", "notreepunching:clay_small_vessel", "notreepunching:clay_bucket", "notreepunching:clay_flower_pot", "minecraft:air"]
+    potteryBlockSequences = ["the_ages_of_times:intermediary_pottery_large_vessel", "notreepunching:clay_large_vessel", "minecraft:air", "the_ages_of_times:intermediary_pottery_small_vessel", "notreepunching:clay_small_vessel", "minecraft:air", "the_ages_of_times:intermediary_pottery_bucket", "notreepunching:clay_bucket", "minecraft:air", "the_ages_of_times:intermediary_pottery_flower_pot", "notreepunching:clay_flower_pot", "minecraft:air"]
 
