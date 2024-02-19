@@ -792,6 +792,26 @@ onEvent('recipes', event => {
 	F: 'minecraft:feather'
 	})
 
+	//Worked Clay
+	event.custom(
+		{
+		  "type": "create:item_application",
+		  "ingredients": [
+			{
+			  "item": "ceramics:clay_cistern"
+			},
+			{
+			  "item": "minecraft:clay"
+			}
+		  ],
+		  "results": [
+			{
+			  "item": "notreepunching:clay_worked"
+			}
+		  ]
+		}
+	)
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
