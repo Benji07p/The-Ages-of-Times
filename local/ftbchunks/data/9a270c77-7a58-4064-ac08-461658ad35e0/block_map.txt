@@ -67,6 +67,7 @@
 #802D27 multibeds:classic
 #7FDE54 minecraft:clay
 #D67615 notreepunching:clay_bucket
+#3645DF ceramics:clay_cistern
 #3FE39C notreepunching:clay_flower_pot
 #D2D965 notreepunching:clay_large_vessel
 #04A219 notreepunching:clay_small_vessel
