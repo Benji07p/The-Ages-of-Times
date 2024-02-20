@@ -858,6 +858,7 @@ onEvent('recipes', event => {
 	event.remove({ id: 'farmersdelight:shepherds_pie_block'})
 	event.remove({ id: 'farmersdelight:stuffed_potato'})
 	event.remove({ id: 'farmersdelight:mutton_wrap'})
+	event.remove({ id: 'farmersdelight:barbecue_stick'})
 })
 
 onEvent('item.tags', event => {
