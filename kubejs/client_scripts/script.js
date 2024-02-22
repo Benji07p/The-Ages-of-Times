@@ -48,6 +48,10 @@ onEvent('item.tooltip', tooltip => {
 		text.add(1, Text.of('§3Fe₃O₄'))
 	})
 
+	tooltip.addAdvanced(['the_ages_of_times:manganese_chloride_ii'], (item, advanced, text) => {
+		text.add(1, Text.of('§3MnCl₂'))
+	})
+
 	tooltip.addAdvanced(['#forge:ingots/titanium', '#forge:storage_blocks/titanium', '#forge:plates/titanium'], (item, advanced, text) => {
 		text.add(1, Text.of('§3Ti (22)'))
 		text.add(2, Text.of('§7Transition Metals'))
@@ -88,6 +92,7 @@ onEvent('item.tooltip', tooltip => {
 		text.add(2, Text.of('§7Actinides'))
 	})
 
+	// Others Tooltips
 	tooltip.addAdvanced(['the_ages_of_times:andesite_shaft'], (item, advanced, text) => {
 		text.add(1, Text.of('Just for crafting'))
 	})
