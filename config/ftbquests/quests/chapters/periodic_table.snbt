@@ -417,6 +417,7 @@
 			x: 8.0d
 			y: -5.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "3458C7AD97C6E816"
 			tasks: [{
