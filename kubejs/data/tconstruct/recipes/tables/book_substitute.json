@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "atum:scroll"
+    },
+    {
+      "item": "atum:scroll"
+    },
+    {
+      "item": "atum:scroll"
+    },
+    {
+      "tag": "forge:superglue"
+    },
+    {
+      "item": "tconstruct:pattern"
+    },
+    {
+      "item": "tconstruct:pattern"
+    }
+  ],
+  "result": {
+    "item": "minecraft:book"
+  }
+}
