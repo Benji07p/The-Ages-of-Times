@@ -107,6 +107,119 @@ onEvent('recipes', event => {
                 ]
             }
         )}
+        function oxydoreduction(input, amount1, input45, amount45, input9, amount9, fluidinput, amount2, fluidoutput, amount3, output1, amount4, chance1, output2, amount5, chance2){
+            event.custom(
+                {
+                    "type": "custommachinery:custom_machine",
+                    "machine": "taotmachinery:alembic",
+                    "time": 80,
+                    "requirements": [
+                        {
+                            "type": "custommachinery:item",
+                            "mode": "input",
+                            "item": input,
+                            "amount": amount1,
+                            "slot": "input1"
+                        },
+                        {
+                            "type": "custommachinery:item",
+                            "mode": "input",
+                            "item": input45,
+                            "amount": amount45,
+                            "slot": "input2"
+                        },
+                        {
+                            "type": "custommachinery:item",
+                            "mode": "input",
+                            "item": input9,
+                            "amount": amount9,
+                            "slot": "input3"
+                        },
+                        {
+                            "type": "custommachinery:fluid",
+                            "mode": "input",
+                            "fluid": fluidinput,
+                            "amount": amount2
+                        },
+                        {
+                            "type": "custommachinery:fluid",
+                            "mode": "output",
+                            "fluid": fluidoutput,
+                            "amount": amount3
+                        },
+                        {
+                            "type": "custommachinery:item",
+                            "mode": "output",
+                            "item": output1,
+                            "amount": amount4,
+                            "slot": "input5",
+                            "chance": chance1
+                        },
+                        {
+                            "type": "custommachinery:item",
+                            "mode": "output",
+                            "item": output2,
+                            "amount": amount5,
+                            "slot": "input6",
+                            "chance": chance2
+                        },
+                        {
+                            "type": "custommachinery:fuel"
+                        }
+                    ]
+                }
+            )}
+
+            function melter(input, amount1, input45, amount45, input9, amount9, output1, amount4, chance1, output2, amount5, chance2){
+                event.custom(
+                    {
+                        "type": "custommachinery:custom_machine",
+                        "machine": "taotmachinery:alembic",
+                        "time": 80,
+                        "requirements": [
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input,
+                                "amount": amount1,
+                                "slot": "input1"
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input45,
+                                "amount": amount45,
+                                "slot": "input2"
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input9,
+                                "amount": amount9,
+                                "slot": "input3"
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "output",
+                                "item": output1,
+                                "amount": amount4,
+                                "slot": "input5",
+                                "chance": chance1
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "output",
+                                "item": output2,
+                                "amount": amount5,
+                                "slot": "input6",
+                                "chance": chance2
+                            },
+                            {
+                                "type": "custommachinery:fuel"
+                            }
+                        ]
+                    }
+                )}
 
     function melting(input, amount1, fluidoutput, amount3, output1, amount4, chance1, output2, amount5, chance2){
         event.custom(
@@ -246,6 +359,10 @@ onEvent('recipes', event => {
     melting("minecraft:charcoal", 1, "chemlib:carbon_dioxide_fluid", 100, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01)
     melting("minecraft:coal", 1, "chemlib:carbon_dioxide_fluid", 100, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01)
     melting("minecraft:diamond", 1, "chemlib:carbon_dioxide_fluid", 100, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01)
+
+    //Chlorine
+    melter("minecraft:air", 1, "minecraft:air", 1, "electrodynamics:crystalhalite", 1, "chemlib:ammonium_chloride_dust", 1, 0.1, "minecraft:air", 1, 1)
+    oxydoreduction("the_ages_of_times:beaker", 1, "the_ages_of_times:gas_test_tube", 2, "chemlib:manganese_oxide_dust", 1, "chemlib:hydrochloric_acid_fluid", 250, "minecraft:water", 125, "the_ages_of_times:manganese_chloride_ii", 1, 1, "chemlib:chlorine", 2, 1)
 
     //Fill
     fill("the_ages_of_times:balloon", "chemlib:carbon_dioxide_fluid", 63, "chemlib:carbon_dioxide")
