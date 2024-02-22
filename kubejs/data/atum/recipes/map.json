@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "###",
+        "#X#",
+        "###"
+    ],
+    "key":{
+        "#":{
+            "item":"atum:scroll"
+        },
+        "X":{
+            "item":"multibeds:embroidery_thread"
+        }
+    },
+    "result":{
+        "item":"minecraft:map"
+    }
+}
