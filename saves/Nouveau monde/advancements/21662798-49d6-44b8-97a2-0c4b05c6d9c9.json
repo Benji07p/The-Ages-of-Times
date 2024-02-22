@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-02-21 14:58:04 +0100"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/blasting/ingot_lead_compat_mekanism": {
     "criteria": {
       "has_item": "2023-11-06 18:10:47 +0100"
@@ -158,6 +164,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2024-01-22 18:18:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-02-21 15:29:17 +0100"
     },
     "done": true
   },
@@ -242,6 +254,18 @@
   "minecolonies:production/root": {
     "criteria": {
       "builders_hut": "2024-02-13 14:04:07 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-02-21 14:57:52 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2024-02-21 14:57:47 +0100"
     },
     "done": true
   },
@@ -1584,6 +1608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-02-21 15:29:17 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/smooth_stone_kiln": {
     "criteria": {
       "has_item": "2023-11-20 20:44:15 +0100"
@@ -2902,6 +2932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-02-21 15:29:17 +0100"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutcitizen": {
     "criteria": {
       "has_items": "2023-11-20 18:10:08 +0100"
@@ -3442,6 +3478,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-02-21 14:57:52 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/golden_apple": {
     "criteria": {
       "has_the_recipe": "2024-01-24 13:39:55 +0100"
@@ -3620,6 +3662,12 @@
   "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2023-11-06 17:24:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-02-21 15:29:17 +0100"
     },
     "done": true
   },
@@ -4027,6 +4075,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2023-11-20 20:44:15 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-02-21 14:57:58 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-02-21 14:57:52 +0100"
     },
     "done": true
   },

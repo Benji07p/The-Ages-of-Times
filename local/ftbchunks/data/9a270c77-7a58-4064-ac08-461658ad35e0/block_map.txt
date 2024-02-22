@@ -147,6 +147,7 @@
 #314645 tconstruct:earth_slime_leaves
 #91A5DB createaddition:electric_motor
 #A952FC create:encased_chain_drive
+#3A8323 chemlib:epinephrine
 #D76B4B chemlib:ethanol
 #56C7FC create:experience_block
 #009B14 minecraft:farmland
@@ -179,6 +180,7 @@
 #1A0827 minecraft:hopper
 #9D2636 minecraft:horn_coral_block
 #54DDA3 the_ages_of_times:hydraulic_fluid
+#B58B10 chemlib:hydrochloric_acid
 #74B425 the_ages_of_times:hydrofluoric_acid
 #93E9C8 chemlib:hydrogen
 #165DA5 the_ages_of_times:hydrogen

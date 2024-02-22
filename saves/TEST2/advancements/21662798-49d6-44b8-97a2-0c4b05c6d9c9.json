@@ -1055,6 +1055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-02-21 17:06:26 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/redstone_link": {
     "criteria": {
       "has_item": "2023-12-13 15:03:54 +0100"
@@ -3896,6 +3902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-02-21 17:06:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
@@ -4271,6 +4283,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_stairs_stonecutter": {
     "criteria": {
       "has_item": "2024-01-19 17:20:14 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
+    "criteria": {
+      "has_book": "2024-02-21 17:06:26 +0100"
     },
     "done": true
   },
@@ -5132,6 +5150,12 @@
   "ceramics:recipes/ceramics/porcelain_bricks_wall_crafting": {
     "criteria": {
       "has_item": "2023-12-13 15:26:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-02-21 17:06:26 +0100"
     },
     "done": true
   },

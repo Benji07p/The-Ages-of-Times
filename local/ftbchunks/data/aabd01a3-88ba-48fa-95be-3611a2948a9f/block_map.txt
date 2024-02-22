@@ -63,6 +63,7 @@
 #FB5E8C minecraft:command_block
 #91215B minecolonies:composted_dirt
 #E2D601 minecraft:composter
+#3BEB0B farmersdelight:cooking_pot
 #6E76AF minecraft:copper_ore
 #CC07F6 minecraft:cornflower
 #306005 minecraft:cracked_stone_bricks
@@ -239,6 +240,7 @@
 #B3BB15 minecraft:stone_brick_wall
 #F8955F minecraft:stone_bricks
 #7D07A9 minecraft:stone_pressure_plate
+#B81C38 farmersdelight:stove
 #5C6350 minecraft:stripped_dark_oak_log
 #121625 farmersdelight:stuffed_pumpkin_block
 #5CF3F1 minecraft:sugar_cane
