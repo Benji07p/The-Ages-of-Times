@@ -812,6 +812,13 @@ onEvent('recipes', event => {
 		}
 	)
 
+	//Book
+	event.remove({ id: 'minecraft:book'})
+	event.remove({ id: 'atum:book'})
+
+	//Map
+	event.remove({ id: 'minecraft:map'})
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
