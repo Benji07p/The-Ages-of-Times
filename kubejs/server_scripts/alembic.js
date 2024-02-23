@@ -333,7 +333,8 @@ onEvent('recipes', event => {
                             "type": "custommachinery:fluid",
                             "mode": "input",
                             "fluid": fluidinput,
-                            "amount": amount2
+                            "amount": amount2,
+                            "tank": "input"
                         },
                         {
                             "type": "custommachinery:item",
@@ -345,6 +346,38 @@ onEvent('recipes', event => {
                     ]
                 }
             )}
+    
+            function unfill(input, fluidoutput, amount2, output1){
+                event.custom(
+                    {
+                        "type": "custommachinery:custom_machine",
+                        "machine": "taotmachinery:alembic",
+                        "time": 10,
+                        "requirements": [
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input,
+                                "amount": 1,
+                                "slot": "input1"
+                            },
+                            {
+                                "type": "custommachinery:fluid",
+                                "mode": "output",
+                                "fluid": fluidoutput,
+                                "amount": amount2,
+                                "tank": "output1"
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "output",
+                                "item": output1,
+                                "amount": 1,
+                                "slot": "input5"
+                            }
+                        ]
+                    }
+                )}
 
     //Hydrogen
     distillation("chemlib:iron", 1, "the_ages_of_times:beaker", 1, "minecraft:water", 100, "chemlib:hydrogen_fluid", 100, "chemlib:iron_ii_oxide", 1, 1, "the_ages_of_times:test_tube", 1, 1)
@@ -362,6 +395,9 @@ onEvent('recipes', event => {
 
     //Chlorine
     melter("minecraft:air", 1, "minecraft:air", 1, "electrodynamics:crystalhalite", 1, "chemlib:ammonium_chloride_dust", 1, 0.1, "minecraft:air", 1, 1)
+    melter("the_ages_of_times:erlenmeyer", 8, "the_ages_of_times:balloon", 8, "chemlib:ammonium_chloride_dust", 1, "chemlib:hydrochloric_acid", 8, 1, "chemlib:ammonia", 8, 1)
+    unfill("chemlib:ammonia", "chemlib:ammonia_fluid", 63, "the_ages_of_times:balloon")
+    unfill("chemlib:hydrochloric_acid", "chemlib:hydrochloric_acid_fluid", 63, "the_ages_of_times:erlenmeyer")
     oxydoreduction("the_ages_of_times:beaker", 1, "the_ages_of_times:gas_test_tube", 2, "chemlib:manganese_oxide_dust", 1, "chemlib:hydrochloric_acid_fluid", 250, "minecraft:water", 125, "the_ages_of_times:manganese_chloride_ii", 1, 1, "chemlib:chlorine", 2, 1)
 
     //Fill
