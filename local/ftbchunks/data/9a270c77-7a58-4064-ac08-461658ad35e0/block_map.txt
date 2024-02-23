@@ -227,6 +227,7 @@
 #FC0886 tconstruct:medium_sky_slime_crystal_bud
 #80CAA6 minecraft:melon
 #4B39A0 melter:melter
+#FE827B chemlib:mercury
 #C4844D create:millstone
 #BB8DD9 createaddition:modular_accumulator
 #95218D tconstruct:molten_copper_fluid
