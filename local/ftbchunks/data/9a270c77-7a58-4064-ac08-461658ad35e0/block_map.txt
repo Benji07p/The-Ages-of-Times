@@ -246,6 +246,7 @@
 #5A981B minecraft:moss_carpet
 #A4FC4B minecraft:mossy_cobblestone
 #454322 minecraft:netherrack
+#C4CCE2 chemlib:nitrogen
 #73753E minecraft:oak_fence
 #AD9EB5 minecraft:oak_leaves
 #BBA6D1 minecraft:oak_log
