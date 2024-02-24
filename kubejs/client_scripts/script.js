@@ -52,6 +52,18 @@ onEvent('item.tooltip', tooltip => {
 		text.add(1, Text.of('§3MnCl₂'))
 	})
 
+	tooltip.addAdvanced(['the_ages_of_times:nitrogen'], (item, advanced, text) => {
+		text.add(1, Text.of('§3N₂'))
+	})
+
+	tooltip.addAdvanced(['the_ages_of_times:oxygen_ballon'], (item, advanced, text) => {
+		text.add(1, Text.of('§3O₂'))
+	})
+
+	tooltip.addAdvanced(['the_ages_of_times:mercury_oxide'], (item, advanced, text) => {
+		text.add(1, Text.of('§3HgO'))
+	})
+
 	tooltip.addAdvanced(['#forge:ingots/titanium', '#forge:storage_blocks/titanium', '#forge:plates/titanium'], (item, advanced, text) => {
 		text.add(1, Text.of('§3Ti (22)'))
 		text.add(2, Text.of('§7Transition Metals'))
