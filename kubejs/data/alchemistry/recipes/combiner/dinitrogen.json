@@ -1,0 +1,15 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:nitrogen"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:nitrogen"
+  }
+}
