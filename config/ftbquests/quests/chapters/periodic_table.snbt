@@ -310,6 +310,7 @@
 			}]
 		}
 		{
+			title: "Nitrogen"
 			icon: "chemlib:nitrogen"
 			x: 6.0d
 			y: -6.0d
@@ -324,6 +325,7 @@
 			}]
 		}
 		{
+			title: "Oxygen"
 			icon: "chemlib:oxygen"
 			x: 7.0d
 			y: -6.0d
