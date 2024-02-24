@@ -310,27 +310,31 @@
 			}]
 		}
 		{
+			icon: "chemlib:nitrogen"
 			x: 6.0d
 			y: -6.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "36780CF033E180D1"
 			tasks: [{
 				id: "19A03DEB48DF0150"
 				type: "item"
-				item: "chemlib:nitrogen"
+				item: "the_ages_of_times:nitrogen"
 			}]
 		}
 		{
+			icon: "chemlib:oxygen"
 			x: 7.0d
 			y: -6.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "0A5790FA2652F28D"
 			tasks: [{
 				id: "06CEAF0EC66FF311"
 				type: "item"
-				item: "chemlib:oxygen"
+				item: "the_ages_of_times:oxygen_ballon"
 			}]
 		}
 		{
