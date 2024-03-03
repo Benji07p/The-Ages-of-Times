@@ -1,6 +1,7 @@
 #942E52 minecraft:acacia_leaves
 #A78454 minecraft:acacia_log
 #0A478E createaddition:accumulator
+#0592B9 chemlib:acetic_acid
 #1A1803 create:adjustable_chain_gearshift
 #E8223C immersiveengineering:advanced_blast_furnace
 #52B53D minecraft:air
@@ -10,6 +11,7 @@
 #222F76 createaddition:alternator
 #9963E0 chemlib:ammonia
 #1BD7BD the_ages_of_times:ammonia
+#D1D4C9 chemlib:ammonium
 #FA75A8 minecraft:andesite
 #251593 create:andesite_alloy_block
 #A4683B create:andesite_casing
@@ -20,6 +22,7 @@
 #BE6CB6 create:andesite_tunnel
 #DBECBF minecraft:anvil
 #75B9F3 immersiveengineering:arc_furnace
+#9A4298 chemlib:argon_lamp_block
 #6E69B5 create:asurine
 #D510B6 alchemistry:atomizer
 #0D47EE minecraft:azalea_leaves
@@ -56,6 +59,8 @@
 #00BE18 minecraft:calcite
 #FC842A minecraft:campfire
 #7ACD52 chemlib:carbon_dioxide
+#79A8BF chemlib:carbon_disulfide
+#40C68F chemlib:carbon_monoxide
 #54A3DE the_ages_of_times:carbyne_sulfate
 #6A23D5 minecraft:cauldron
 #F522F4 minecraft:chest
@@ -148,7 +153,9 @@
 #91A5DB createaddition:electric_motor
 #A952FC create:encased_chain_drive
 #3A8323 chemlib:epinephrine
+#157107 chemlib:ethane
 #D76B4B chemlib:ethanol
+#A5DE58 chemlib:ethylene
 #56C7FC create:experience_block
 #009B14 minecraft:farmland
 #9B1166 immersiveengineering:fermenter
@@ -161,6 +168,7 @@
 #2DC94B minecraft:furnace
 #AF9170 create:gantry_carriage
 #BA5926 create:gantry_shaft
+#A814E7 nuclearscience:gascentrifuge
 #D60460 create:gearbox
 #1E33BF minecraft:gilded_blackstone
 #2F436F minecraft:glass
@@ -177,6 +185,7 @@
 #87B5C3 create:hand_crank
 #F67E21 minecraft:hay_block
 #B6A923 immersiveengineering:heavy_engineering
+#DB81DB chemlib:helium_lamp_block
 #1A0827 minecraft:hopper
 #9D2636 minecraft:horn_coral_block
 #54DDA3 the_ages_of_times:hydraulic_fluid
@@ -184,6 +193,7 @@
 #74B425 the_ages_of_times:hydrofluoric_acid
 #93E9C8 chemlib:hydrogen
 #165DA5 the_ages_of_times:hydrogen
+#4CAE57 chemlib:hydrogen_sulfide
 #369260 create:industrial_iron_block
 #2E2249 minecraft:iron_block
 #EAC0B1 ironchest:iron_chest
@@ -228,6 +238,7 @@
 #80CAA6 minecraft:melon
 #4B39A0 melter:melter
 #FE827B chemlib:mercury
+#1CABB4 chemlib:methane
 #C4844D create:millstone
 #BB8DD9 createaddition:modular_accumulator
 #95218D tconstruct:molten_copper_fluid
@@ -245,8 +256,12 @@
 #8A7583 minecraft:moss_block
 #5A981B minecraft:moss_carpet
 #A4FC4B minecraft:mossy_cobblestone
+#2BF4D7 chemlib:neon_lamp_block
 #454322 minecraft:netherrack
+#9B7491 chemlib:nitric_acid
+#E0AC9D chemlib:nitric_oxide
 #C4CCE2 chemlib:nitrogen
+#18AC5F chemlib:nitrogen_dioxide
 #73753E minecraft:oak_fence
 #AD9EB5 minecraft:oak_leaves
 #BBA6D1 minecraft:oak_log
@@ -302,6 +317,7 @@
 #FC8012 atum:quern
 #64F142 butchersdelight:rack
 #5CF136 the_ages_of_times:rackraw
+#1E9339 chemlib:radon_lamp_block
 #25AEF5 minecraft:redstone_block
 #6A5D69 create:redstone_link
 #80100E createaddition:redstone_relay
@@ -402,6 +418,7 @@
 #9E51B2 create:stressometer
 #3525F3 immersiveengineering:strip_curtain
 #5CF3F1 minecraft:sugar_cane
+#C736DE chemlib:sulfur_dioxide
 #46AB11 chemlib:sulfuric_acid
 #C91EEE the_ages_of_times:sulfuric_acid
 #A97B01 electrodynamics:tanksteel
