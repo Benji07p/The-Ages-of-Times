@@ -1,4 +1,5 @@
 onEvent('recipes', event => {
+    //Papyrus
     event.custom(
         {
             "type": "create:sequenced_assembly",
