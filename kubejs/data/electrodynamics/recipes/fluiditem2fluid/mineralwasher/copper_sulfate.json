@@ -10,7 +10,7 @@
 	"fluidinputs":{
 		"count" : 1,
 		"0": {
-			"fluid": "electrodynamics:fluidsulfuricacid",
+			"fluid": "chemlib:sulfuric_acid_fluid",
 			"amount": 1000
 		}
 	},

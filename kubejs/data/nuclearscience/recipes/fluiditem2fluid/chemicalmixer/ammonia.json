@@ -1,21 +1,21 @@
 {
 	"type": "electrodynamics:chemical_mixer_recipe",
-	"iteminputs":{
+	"iteminputs": {
 		"count" : 1,
-		"0": {
-			"tag": "forge:oxide/trisulfur",
+		"0" : {
+			"tag": "forge:dusts/saltpeter",
 			"count": 1
 		}
 	},
-	"fluidinputs":{
+	"fluidinputs": {
 		"count" : 1,
-		"0": {
+		"0" : {
 			"fluid": "minecraft:water",
 			"amount": 1000
 		}
 	},
 	"output": {
-		"fluid": "chemlib:sulfuric_acid_fluid",
-		"amount": 2500
+		"fluid": "the_ages_of_times:ammonia",
+		"amount": 1000
 	}
 }

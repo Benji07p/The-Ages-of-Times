@@ -272,6 +272,10 @@ onEvent('fluid.tags', event => {
 	event.get('forge:sulfuric_acid').remove('electrodynamics:fluidsulfuricacid')
 	event.get('forge:sulfuric_acid').add(['chemlib:sulfuric_acid_fluid', 'chemlib:sulfuric_acid_flowing'])
 
+	// Hydrofluoric Acid
+	event.get('forge:hydrofluoric_acid').remove('electrodynamics:fluidhydrogenfluoride')
+	event.get('forge:hydrofluoric_acid').add(['the_ages_of_times:hydrofluoric_acid', 'the_ages_of_times:flowing_hydrofluoric_acid'])
+
 	// Ammonia
 	event.get('forge:ammonia').remove('nuclearscience:fluidammonia')
 	event.get('forge:ammonia').add(['chemlib:ammonia_fluid', 'chemlib:ammonia_flowing'])
@@ -331,4 +335,8 @@ onEvent('fluid.tags', event => {
 	// Polyethylene
 	event.get('forge:polyethylene').remove('electrodynamics:fluidpolyethylene')
 	event.get('forge:polyethylene').add(['the_ages_of_times:polyethylene', 'the_ages_of_times:flowing_polyethylene'])
+
+	// Uranium Hexafluoride
+	event.get('forge:uranium_hexafluoride').remove('nuclearscience:fluiduraniumhexafluoride')
+	event.get('forge:uranium_hexafluoride').add(['the_ages_of_times:uranium_hexafluoride', 'the_ages_of_times:flowing_uranium_hexafluoride'])
 })

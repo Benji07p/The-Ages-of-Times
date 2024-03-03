@@ -1,21 +1,21 @@
 {
 	"type": "electrodynamics:chemical_mixer_recipe",
-	"iteminputs":{
+	"iteminputs": {
 		"count" : 1,
-		"0": {
-			"tag": "forge:raw_materials/fluorite",
+		"0" : {
+			"tag": "forge:storage_blocks/iron",
 			"count": 1
 		}
 	},
-	"fluidinputs":{
+	"fluidinputs": {
 		"count" : 1,
-		"0": {
+		"0" : {
 			"tag":"forge:sulfuric_acid",
 			"amount": 1000
 		}
 	},
 	"output": {
-		"fluid": "the_ages_of_times:hydrofluoric_acid",
+		"fluid": "the_ages_of_times:iron_sulfate",
 		"amount": 1000
 	}
 }
