@@ -588,6 +588,7 @@ onEvent('recipes', event => {
 	event.remove({ id: 'tconstruct:smeltery/casting/scorched/brick_composite'})
 	event.remove({ id: 'tconstruct:smeltery/casting/scorched/polished_from_magma'})
 	event.remove({ id: 'tconstruct:smeltery/casting/scorched/stone_from_magma'})
+	event.remove({ id: 'tconstruct:smeltery/melting/scorched/casting'})
 	event.remove({ id: 'tconstruct:smeltery/scorched/nether_grout'})
 
 	//Papyrus to Papyrus Plant
