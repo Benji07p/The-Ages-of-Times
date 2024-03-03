@@ -152,11 +152,6 @@
 			id: "42835DBD75C59F46"
 			tasks: [
 				{
-					id: "512D9ADE643552BA"
-					type: "item"
-					item: "tconstruct:crafting_station"
-				}
-				{
 					id: "2C9206405B6286ED"
 					type: "item"
 					item: "tconstruct:tinker_station"
