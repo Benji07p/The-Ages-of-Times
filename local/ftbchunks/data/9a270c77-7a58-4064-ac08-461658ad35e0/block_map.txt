@@ -226,6 +226,7 @@
 #03FE2C the_ages_of_times:lithium_sulfate
 #470B4D immersiveengineering:logic_unit
 #DE9468 minecraft:magma_block
+#70A959 farmingforblockheads:market
 #4F0350 create:mechanical_arm
 #EB48A2 create:mechanical_bearing
 #FB37C1 create:mechanical_crafter
