@@ -178,6 +178,7 @@
 #B76A76 minecraft:gold_ore
 #5D9BEF tconstruct:gold_platform
 #CA301C the_ages_of_times:gold_sulfate
+#A079A6 the_ages_of_times:golden_water
 #060B35 minecraft:granite
 #727610 notreepunching:granite_loose_rock
 #3F84B7 minecraft:grass_block

@@ -464,6 +464,18 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-02-10 17:57:07 +0100"
@@ -1007,6 +1019,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/potassium_nugget_to_ingot": {
+    "criteria": {
+      "has_potassium": "2024-03-06 16:30:34 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
@@ -1106,6 +1124,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
     },
     "done": true
   },
@@ -1532,6 +1556,12 @@
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2023-12-16 22:27:59 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/potassium_ingot_from_smelting_potassium_dust": {
+    "criteria": {
+      "has_potassium": "2024-03-06 16:30:34 +0100"
     },
     "done": true
   },
@@ -3609,6 +3639,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/logic_unit": {
     "criteria": {
       "has_circuit_board": "2023-12-09 14:25:20 +0100"
@@ -3666,6 +3702,12 @@
   "create:recipes/create.base/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2024-01-25 17:08:53 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
     },
     "done": true
   },
@@ -3744,6 +3786,12 @@
   "create:recipes/create.base/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
     },
     "done": true
   },
@@ -4280,6 +4328,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_stairs_stonecutter": {
     "criteria": {
       "has_item": "2024-01-19 17:20:14 +0100"
@@ -4664,6 +4718,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/sand_cast": {
     "criteria": {
       "has_casting": "2023-12-09 14:46:14 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
     },
     "done": true
   },
@@ -5078,6 +5138,12 @@
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-01-15 18:12:21 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/potassium_block_to_ingot": {
+    "criteria": {
+      "has_potassium": "2024-03-06 16:30:34 +0100"
     },
     "done": true
   },
@@ -5873,6 +5939,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/potassium_ingot_to_block": {
+    "criteria": {
+      "has_potassium": "2024-03-06 16:30:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-01-15 19:25:50 +0100"
@@ -5936,6 +6008,12 @@
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:46 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2024-03-06 14:59:04 +0100"
     },
     "done": true
   },
@@ -6167,6 +6245,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/potassium_ingot_from_blasting_potassium_dust": {
+    "criteria": {
+      "has_potassium": "2024-03-06 16:30:34 +0100"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
@@ -6361,6 +6445,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/potassium_ingot_to_nugget": {
+    "criteria": {
+      "has_potassium": "2024-03-06 16:30:34 +0100"
     },
     "done": true
   },
