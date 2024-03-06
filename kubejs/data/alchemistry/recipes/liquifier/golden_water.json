@@ -1,0 +1,14 @@
+{
+  "type": "alchemistry:liquifier",
+  "group": "alchemistry:liquifier",
+  "input": {
+    "ingredient": {
+      "item": "the_ages_of_times:gold_water"
+    },
+    "count": 8
+  },
+  "result": {
+    "fluid": "the_ages_of_times:golden_water",
+    "amount": "500"
+  }
+}

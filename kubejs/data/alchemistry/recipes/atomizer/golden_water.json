@@ -1,0 +1,12 @@
+{
+  "type": "alchemistry:atomizer",
+  "group": "alchemistry:atomizer",
+  "input": {
+    "fluid": "the_ages_of_times:golden_water",
+    "amount": "500"
+  },
+  "result": {
+    "item": "the_ages_of_times:gold_water",
+    "count": 8
+  }
+}

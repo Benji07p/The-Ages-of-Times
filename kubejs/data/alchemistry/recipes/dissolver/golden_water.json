@@ -1,0 +1,87 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "recipe": {
+        "type": "alchemistry:dissolver",
+        "group": "alchemistry:dissolver",
+        "input": {
+          "ingredient": {
+            "item": "the_ages_of_times:gold_water"
+          },
+          "count": 1
+        },
+        "output": {
+          "rolls": 1,
+          "weighted": false,
+          "groups": [
+            {
+              "probability": 95.0,
+              "results": [
+                {
+                  "item": "chemlib:water"
+                }
+              ]
+            },
+            {
+              "probability": 2.0,
+              "results": [
+                {
+                  "item": "chemlib:urea"
+                }
+              ]
+            },
+            {
+              "probability": 0.6,
+              "results": [
+                {
+                  "item": "chemlib:potassium"
+                }
+              ]
+            },
+            {
+              "probability": 0.6,
+              "results": [
+                {
+                  "item": "chemlib:chlorine"
+                }
+              ]
+            },
+            {
+              "probability": 0.18,
+              "results": [
+                {
+                  "item": "chemlib:sulfur"
+                }
+              ]
+            },
+            {
+              "probability": 0.1,
+              "results": [
+                {
+                  "item": "chemlib:sodium"
+                }
+              ]
+            },
+            {
+              "probability": 0.015,
+              "results": [
+                {
+                  "item": "chemlib:calcium"
+                }
+              ]
+            },
+            {
+              "probability": 0.01,
+              "results": [
+                {
+                  "item": "chemlib:magnesium"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
