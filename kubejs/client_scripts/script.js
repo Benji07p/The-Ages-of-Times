@@ -64,6 +64,14 @@ onEvent('item.tooltip', tooltip => {
 		text.add(1, Text.of('§3HgO'))
 	})
 
+	tooltip.addAdvanced(['the_ages_of_times:vivianite_dust'], (item, advanced, text) => {
+		text.add(1, Text.of('§3Fe₃(PO₄)₂•8(H₂O)'))
+	})
+
+	tooltip.addAdvanced(['the_ages_of_times:gold_water', 'the_ages_of_times:golden_water_bucket'], (item, advanced, text) => {
+		text.add(1, Text.of('§3H₈₈O₂₉N₄₃C₂₅K₆Cl₆S₂NaCaMg'))
+	})
+
 	tooltip.addAdvanced(['#forge:ingots/titanium', '#forge:storage_blocks/titanium', '#forge:plates/titanium'], (item, advanced, text) => {
 		text.add(1, Text.of('§3Ti (22)'))
 		text.add(2, Text.of('§7Transition Metals'))
