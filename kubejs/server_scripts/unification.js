@@ -335,8 +335,4 @@ onEvent('fluid.tags', event => {
 	// Polyethylene
 	event.get('forge:polyethylene').remove('electrodynamics:fluidpolyethylene')
 	event.get('forge:polyethylene').add(['the_ages_of_times:polyethylene', 'the_ages_of_times:flowing_polyethylene'])
-
-	// Uranium Hexafluoride
-	event.get('forge:uranium_hexafluoride').remove('nuclearscience:fluiduraniumhexafluoride')
-	event.get('forge:uranium_hexafluoride').add(['the_ages_of_times:uranium_hexafluoride', 'the_ages_of_times:flowing_uranium_hexafluoride'])
 })
