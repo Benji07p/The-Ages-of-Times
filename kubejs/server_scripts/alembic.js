@@ -411,6 +411,43 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
                 }
             )}
 
+            function meltingflui(input, amount1, output1, amount4, chance1, output2, amount5, chance2){
+                event.custom(
+                    {
+                        "type": "custommachinery:custom_machine",
+                        "machine": "taotmachinery:alembic",
+                        "time": 80,
+                        "requirements": [
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input,
+                                "amount": amount1,
+                                "slot": "input3"
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "output",
+                                "item": output1,
+                                "amount": amount4,
+                                "slot": "input5",
+                                "chance": chance1
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "output",
+                                "item": output2,
+                                "amount": amount5,
+                                "slot": "input6",
+                                "chance": chance2
+                            },
+                            {
+                                "type": "custommachinery:fuel"
+                            }
+                        ]
+                    }
+                )}
+
         function fill(input, fluidinput, amount2, output1){
             event.custom(
                 {
@@ -481,6 +518,17 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     distillation("chemlib:iron", 3, "the_ages_of_times:beaker", 1, "minecraft:water", 400, "chemlib:hydrogen_fluid", 400, "the_ages_of_times:iron_oxide_iii", 1, 1, "the_ages_of_times:test_tube", 3, 1)
     meltingfluid("the_ages_of_times:gas_test_tube", 2, "chemlib:hydrogen_fluid", 100, "minecraft:water", 10, "chemlib:hydrogen", 2, 1, "minecraft:air", 1, 0.01)
 
+    //Sulfuric Acid & Iron Sulfate
+    meltingfluid("the_ages_of_times:nitrogen", 1, "chemlib:oxygen_fluid", 200, "chemlib:nitrogen_dioxide_fluid", 200, "the_ages_of_times:balloon", 1, 1, "minecraft:air", 1, 0.01)
+    meltingflui("electrodynamics:dustsulfur", 1, "electrodynamics:oxidedisulfur", 1, 1, "minecraft:air", 1, 0.01)
+    meltingfluid("electrodynamics:oxidedisulfur", 1, "chemlib:nitrogen_dioxide_fluid", 100, "chemlib:nitric_oxide_fluid", 100, "electrodynamics:oxidetrisulfur", 1, 1, "minecraft:air", 1, 0.01)
+    meltingfluid("electrodynamics:oxidetrisulfur", 1, "minecraft:water", 100, "chemlib:sulfuric_acid_fluid", 100, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01)
+    fill("the_ages_of_times:balloon", "chemlib:nitrogen_dioxide_fluid", 63, "chemlib:nitrogen_dioxide")
+    unfill("chemlib:nitrogen_dioxide", "chemlib:nitrogen_dioxide_fluid", 63, "the_ages_of_times:balloon")
+    fill("the_ages_of_times:balloon", "chemlib:nitric_oxide_fluid", 63, "chemlib:nitric_oxide")
+    unfill("chemlib:nitric_oxide", "chemlib:nitric_oxide_fluid", 63, "the_ages_of_times:balloon")
+    meltingfluid("minecraft:raw_iron", 1, "chemlib:sulfuric_acid_fluid", 100, "the_ages_of_times:iron_sulfate", 100, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01)
+
     //Phosphorus
     fill("the_ages_of_times:beaker", "the_ages_of_times:iron_sulfate", 63, "chemlib:iron_ii_sulfate")
     unfill("chemlib:iron_ii_sulfate", "the_ages_of_times:iron_sulfate", 63, "the_ages_of_times:beaker")
@@ -508,7 +556,9 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
 
     //Oxygen and Nitrogen
     meltingfluid("the_ages_of_times:beaker", 6, "chemlib:mercury_fluid", 100, "chemlib:nitrogen_fluid", 282, "the_ages_of_times:mercury_oxide", 3, 1, "the_ages_of_times:beaker", 3, 1)
-    fill("the_ages_of_times:balloon", "chemlib:nitrogen_fluid", 63, "the_ages_of_times:nitrogen")
+    fill("the_ages_of_times:balloon", "chemlib:nitrogen_fluid", 126, "the_ages_of_times:nitrogen")
+    unfill("the_ages_of_times:nitrogen", "chemlib:nitrogen_fluid", 126, "the_ages_of_times:balloon")
     melting("the_ages_of_times:glass_ampul", 2, "the_ages_of_times:mercury_oxide", 3, "chemlib:oxygen_fluid", 76, "the_ages_of_times:beaker", 3, 1, "chemlib:mercury", 2, 1)
-    fill("the_ages_of_times:balloon", "chemlib:oxygen_fluid", 63, "the_ages_of_times:oxygen_ballon")
+    fill("the_ages_of_times:balloon", "chemlib:oxygen_fluid", 126, "the_ages_of_times:oxygen_ballon")
+    unfill("the_ages_of_times:oxygen_ballon", "chemlib:oxygen_fluid", 126, "the_ages_of_times:balloon")
 })
