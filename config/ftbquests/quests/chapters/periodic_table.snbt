@@ -388,13 +388,21 @@
 			}]
 		}
 		{
+			title: "Phosphorus"
+			icon: "chemlib:phosphorus"
 			x: 6.0d
 			y: -5.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "4D86490F27F1D46B"
 			tasks: [{
 				id: "18DC28E56B2C4DF1"
+				type: "item"
+				item: "chemlib:phosphoric_acid"
+			}]
+			rewards: [{
+				id: "0C2ECD312271C855"
 				type: "item"
 				item: "chemlib:phosphorus"
 			}]
@@ -892,13 +900,21 @@
 			}]
 		}
 		{
+			title: "Antimony"
+			icon: "chemlib:antimony"
 			x: 6.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "0C9F3C5505273DB9"
 			tasks: [{
 				id: "324DC2FAEF39D32E"
+				type: "item"
+				item: "chemlib:antimony_dust"
+			}]
+			rewards: [{
+				id: "6CEDCE77EE96C3D2"
 				type: "item"
 				item: "chemlib:antimony"
 			}]
