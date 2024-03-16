@@ -642,27 +642,6 @@ onEvent('recipes', event => {
 
 	//Scroll
 	event.remove({ id: 'atum:scroll'})
-	event.custom(
-		{
-			"type": "extendedcrafting:shaped_table",
-			"pattern": [
-			  "PPP",
-			  "SPS",
-			  "PPP"
-			],
-			"key": {
-			  "P": {
-				"item": "the_ages_of_times:hide_raw"
-			  },
-			  "S": {
-				"tag": "balm:wooden_rods"
-			  }
-			},
-			"result": {
-			  "item": "atum:scroll"
-			}
-		}
-	)
 
 	//Cauldron
 	event.remove({ id: 'minecraft:cauldron'})

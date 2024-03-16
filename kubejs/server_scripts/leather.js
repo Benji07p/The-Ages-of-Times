@@ -127,7 +127,60 @@ onEvent('recipes', event => {
                         ]
                     }
                 )}
+
+        function mixingChaudron(item_in, item_in2, block_out){
+            event.custom(
+                {
+                    "type": "lychee:item_inside",
+                    "item_in": [
+                        {
+                            "item": item_in
+                        },
+                        {
+                            "item": item_in2
+                        }
+                    ],
+                    "block_in": {
+                        "blocks": ["water_cauldron"],
+                        "state": {
+                            "level": 3
+                        }
+                    },
+                    "post": [
+                        {
+                            "type": "place",
+                            "block": block_out
+                        }
+                    ]
+                }
+            )
+        }
     
+        function nulEmptymixingChaudron(item_in, block_in, item_out){
+            event.custom(
+                {
+                    "type": "lychee:item_inside",
+                    "item_in": [
+                        {
+                            "item": item_in
+                        }
+                    ],
+                    "block_in": {
+                        "blocks": block_in
+                    },
+                    "post": [
+                        {
+                            "type": "drop_item",
+                            "item": item_out
+                        },
+                        {
+                            "type": "place",
+                            "block": "cauldron"
+                        }
+                    ]
+                }
+            )}
+
     function ItemtoRack(item, block){
     event.custom(
         {
@@ -173,8 +226,10 @@ onEvent('recipes', event => {
     ItemtoRack("the_ages_of_times:hide_tanned", "butchersdelight:rackcow")
     ItemtoRack("the_ages_of_times:hide_salted", "the_ages_of_times:racksalted")
     ItemtoRack("the_ages_of_times:hide_clean", "the_ages_of_times:rackraw")
+    ItemtoRack("the_ages_of_times:white_leather", "the_ages_of_times:white_leather_rack")
     RacktoItem("the_ages_of_times:hide_dried", "the_ages_of_times:racksalted")
     RacktoItem("the_ages_of_times:hide_raw", "the_ages_of_times:rackraw")
+    RacktoItem("atum:scroll", "the_ages_of_times:white_leather_rack")
 
     Chaudron("the_ages_of_times:hide_raw", "electrodynamics:dustsalt", 3, "the_ages_of_times:hide_salted", 2)
     Chaudron("the_ages_of_times:hide_raw", "electrodynamics:dustsalt", 2, "the_ages_of_times:hide_salted", 1)
@@ -185,6 +240,8 @@ onEvent('recipes', event => {
     nulChaudron("the_ages_of_times:hide_dried", 3, "the_ages_of_times:hide_wet", 2)
     nulChaudron("the_ages_of_times:hide_dried", 2, "the_ages_of_times:hide_wet", 1)
     nulEmptyChaudron("the_ages_of_times:hide_dried", "the_ages_of_times:hide_wet")
+    mixingChaudron("minecraft:white_dye", "minecraft:yellow_dye", "the_ages_of_times:white_cauldron")
+    nulEmptymixingChaudron("minecraft:leather", ["the_ages_of_times:white_cauldron"], "the_ages_of_times:white_leather")
 
     //Mouton
     event.custom(
