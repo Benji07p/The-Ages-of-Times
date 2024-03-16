@@ -335,4 +335,7 @@ onEvent('fluid.tags', event => {
 	// Polyethylene
 	event.get('forge:polyethylene').remove('electrodynamics:fluidpolyethylene')
 	event.get('forge:polyethylene').add(['the_ages_of_times:polyethylene', 'the_ages_of_times:flowing_polyethylene'])
+
+	//Wax
+	event.get('forge:wax').add('the_ages_of_times:wax')
 })
