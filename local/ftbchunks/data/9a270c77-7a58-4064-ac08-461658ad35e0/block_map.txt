@@ -447,6 +447,7 @@
 #FB59FD minecraft:water_cauldron
 #AAF4B7 create:water_wheel
 #7D38EB create:water_wheel_structure
+#ACD233 the_ages_of_times:wax
 #B150CC minecraft:waxed_copper_block
 #E2C9D0 create:weighted_ejector
 #F3F27D the_ages_of_times:white_cauldron
