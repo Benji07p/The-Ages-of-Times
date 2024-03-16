@@ -3747,6 +3747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-03-14 21:39:16 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/projector": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -4289,6 +4295,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/cushion": {
     "criteria": {
       "has_hemp_fabric": "2024-02-01 20:45:35 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2024-03-15 21:08:44 +0100"
     },
     "done": true
   },
@@ -6541,6 +6553,12 @@
   "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-03-14 21:39:16 +0100"
     },
     "done": true
   },
