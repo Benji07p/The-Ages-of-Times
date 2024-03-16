@@ -591,8 +591,8 @@ onEvent('recipes', event => {
 	event.remove({ id: 'tconstruct:smeltery/melting/scorched/casting'})
 	event.remove({ id: 'tconstruct:smeltery/scorched/nether_grout'})
 
-	//Papyrus to Papyrus Plant
-	event.shapeless('atum:papyrus_plant', ['atum:papyrus'])
+	//Papyrus Plant to Papyrus
+	event.shapeless('atum:papyrus', ['atum:papyrus_plant'])
 
 	//Papyrus One
 	event.custom(
@@ -798,6 +798,54 @@ onEvent('recipes', event => {
 
 	//Map
 	event.remove({ id: 'minecraft:map'})
+
+	//Wax Tablet
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:wooden_sheat"
+			},
+			"cast_consumed": true,
+			"fluid": {
+			  "tag": "forge:wax",
+			  "amount": 90
+			},
+			"result": "create:clipboard",
+			"cooling_time": 90
+		  }
+	)
+
+	//Wax
+	event.custom({
+		"type": "tconstruct:melting",
+		"ingredient": {
+		  "item": "minecraft:honeycomb"
+		},
+		"result": {
+		  "fluid": "the_ages_of_times:wax",
+		  "amount": 90
+		},
+		"temperature": 65,
+		"time": 90
+	})
+
+	//Wooden Sheat
+	event.custom(
+		{
+			"type": "create:pressing",
+			"ingredients": [
+			  {
+				"item": "minecraft:oak_planks"
+			  }
+			],
+			"results": [
+			  {
+				"item": "the_ages_of_times:wooden_sheat"
+			  }
+			]
+		}
+	)
 
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
