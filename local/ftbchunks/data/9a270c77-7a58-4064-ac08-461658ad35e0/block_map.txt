@@ -77,6 +77,7 @@
 #D2D965 notreepunching:clay_large_vessel
 #04A219 notreepunching:clay_small_vessel
 #5E7F9B notreepunching:clay_worked
+#EA5C1A create:clipboard
 #D8FA12 create:clockwork_bearing
 #8B43D8 minecraft:coal_block
 #DE242D minecraft:coal_ore
@@ -448,6 +449,7 @@
 #7D38EB create:water_wheel_structure
 #B150CC minecraft:waxed_copper_block
 #E2C9D0 create:weighted_ejector
+#F3F27D the_ages_of_times:white_cauldron
 #C6D1CE minecraft:white_concrete
 #79C917 create:windmill_bearing
 #F75977 immersiveengineering:wooden_barrel

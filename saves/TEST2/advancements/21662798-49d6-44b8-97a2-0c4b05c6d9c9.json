@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2024-03-16 11:58:43 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2024-03-16 11:58:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-01-04 18:21:24 +0100"
@@ -350,6 +362,12 @@
   "tempad:tempad": {
     "criteria": {
       "requirement": "2023-12-04 18:03:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-03-16 11:58:12 +0100"
     },
     "done": true
   },
@@ -689,6 +707,12 @@
   "create:recipes/create.palettes/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-03-16 11:58:12 +0100"
     },
     "done": true
   },
@@ -1457,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-03-16 11:58:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:14 +0100"
@@ -1592,6 +1622,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-02-01 20:48:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2024-03-16 11:58:43 +0100"
     },
     "done": true
   },
@@ -3153,6 +3189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-03-16 11:58:43 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/raw_lead_to_raw_block_lead": {
     "criteria": {
       "has_raw_lead": "2024-02-02 18:15:46 +0100"
@@ -3531,6 +3573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2024-03-16 11:58:43 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2023-12-13 15:03:55 +0100"
@@ -3759,6 +3807,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2024-03-16 11:58:43 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/brass_door": {
     "criteria": {
       "has_item": "2023-12-13 15:03:54 +0100"
@@ -3962,6 +4016,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2024-03-16 11:58:12 +0100"
+    },
+    "done": true
+  },
   "ceramicshears:recipes/misc/ceramic_shears_part": {
     "criteria": {
       "has_clay": "2023-12-04 17:35:07 +0100"
@@ -4037,6 +4097,12 @@
   "farmersdelight:recipes/farmersdelight/canvas": {
     "criteria": {
       "has_straw": "2024-01-20 11:38:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-03-16 11:58:12 +0100"
     },
     "done": true
   },
@@ -4376,6 +4442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-03-16 11:58:12 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/chute_retextured": {
     "criteria": {
       "has_item": "2024-01-19 17:20:14 +0100"
@@ -4658,6 +4730,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-01-15 19:25:50 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2024-03-16 11:58:12 +0100"
     },
     "done": true
   },
@@ -5399,6 +5477,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2024-03-16 11:58:43 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/polished_scorched_stone_crafting": {
     "criteria": {
       "has_item": "2024-01-19 17:20:15 +0100"
@@ -5531,6 +5615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-03-16 11:58:12 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
@@ -5633,6 +5723,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2024-03-16 11:58:12 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
@@ -5708,6 +5804,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2024-01-01 19:09:26 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2024-03-16 11:58:12 +0100"
     },
     "done": true
   },
@@ -6170,6 +6272,12 @@
   "create:recipes/create.base/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2024-01-24 17:34:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2024-03-16 11:58:12 +0100"
     },
     "done": true
   },
@@ -6697,6 +6805,12 @@
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2024-03-16 11:58:43 +0100"
     },
     "done": true
   },
