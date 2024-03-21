@@ -28,13 +28,16 @@
 #0D47EE minecraft:azalea_leaves
 #0F359D minecraft:azure_bluet
 #161AE7 minecraft:bamboo
+#7266EB the_ages_of_times:barrel
 #75DFAA minecraft:barrier
 #18D108 minecraft:basalt
 #E152BD create:basin
+#85547E electrodynamics:batterybox
 #840F59 minecraft:bedrock
 #7F50F6 minecraft:bell
 #7C938F create:belt
 #3DE8FE minecraft:birch_leaves
+#3BA928 minecraft:birch_log
 #73D2B3 minecraft:birch_planks
 #C9CBB9 minecraft:blackstone
 #64CB99 immersiveengineering:blast_furnace
@@ -63,6 +66,7 @@
 #40C68F chemlib:carbon_monoxide
 #54A3DE the_ages_of_times:carbyne_sulfate
 #6A23D5 minecraft:cauldron
+#E9A18E minecraft:chain_command_block
 #F522F4 minecraft:chest
 #743AC3 minecraft:chipped_anvil
 #C3DAEA minecraft:chiseled_sandstone
@@ -117,6 +121,7 @@
 #1B74F2 farmersdelight:cutting_board
 #F8FED5 minecraft:damaged_anvil
 #B2A2E1 minecraft:dandelion
+#9DD1F0 minecraft:dark_oak_door
 #A66708 minecraft:dark_oak_log
 #19C8D3 minecraft:dark_oak_planks
 #A8FCCC minecraft:dark_oak_stairs
@@ -153,6 +158,7 @@
 #314645 tconstruct:earth_slime_leaves
 #91A5DB createaddition:electric_motor
 #A952FC create:encased_chain_drive
+#622CB1 minecraft:end_portal_frame
 #3A8323 chemlib:epinephrine
 #157107 chemlib:ethane
 #D76B4B chemlib:ethanol
@@ -162,6 +168,7 @@
 #9B1166 immersiveengineering:fermenter
 #B9B269 minecraft:fire_coral_block
 #E66556 minecraft:flowering_azalea_leaves
+#BD7300 the_ages_of_times:fluid_barrel
 #DC0D87 create:fluid_pipe
 #C40C8B immersiveengineering:fluid_pipe
 #DA0ACF tconstruct:foundry_controller
@@ -203,6 +210,7 @@
 #051C87 tconstruct:iron_platform
 #8E1D90 beyond_earth:iron_plating_block
 #643C84 the_ages_of_times:iron_sulfate
+#2B1FD4 minecraft:jigsaw
 #C1E251 minecraft:jungle_leaves
 #6B68B5 minecraft:jungle_log
 #F7CC06 minecraft:jungle_planks
@@ -302,6 +310,7 @@
 #6DAD6C minecraft:piston
 #6A5197 minecraft:polished_andesite
 #5CDCB7 minecraft:polished_basalt
+#EA3611 minecraft:polished_deepslate
 #E685AE minecraft:polished_deepslate_slab
 #437566 minecraft:polished_granite
 #EE73C9 tconstruct:polished_scorched_stone
@@ -325,6 +334,7 @@
 #6A5D69 create:redstone_link
 #80100E createaddition:redstone_relay
 #721B63 minecraft:redstone_wire
+#31B0B4 minecraft:repeating_command_block
 #A69CFB electrodynamics:resourceblocklead
 #CA5CEC electrodynamics:resourceblocksilver
 #0FC6DA electrodynamics:resourceblocktin
@@ -401,6 +411,7 @@
 #DDCD2A mctb:spruce_crafting_table
 #49DF61 minecraft:spruce_planks
 #D9135A minecraft:spruce_stairs
+#B1D22B minecraft:spruce_trapdoor
 #F428EC immersiveengineering:steel_scaffolding_standard
 #4762B7 create:sticky_mechanical_piston
 #A6348F create:stockpile_switch
@@ -420,6 +431,8 @@
 #064552 atum:strange_sand_path
 #9E51B2 create:stressometer
 #3525F3 immersiveengineering:strip_curtain
+#B96EB4 minecraft:structure_block
+#9788D3 minecraft:structure_void
 #5CF3F1 minecraft:sugar_cane
 #C736DE chemlib:sulfur_dioxide
 #46AB11 chemlib:sulfuric_acid
@@ -449,6 +462,7 @@
 #7D38EB create:water_wheel_structure
 #ACD233 the_ages_of_times:wax
 #B150CC minecraft:waxed_copper_block
+#549F25 minecraft:waxed_oxidized_copper
 #E2C9D0 create:weighted_ejector
 #F3F27D the_ages_of_times:white_cauldron
 #C6D1CE minecraft:white_concrete

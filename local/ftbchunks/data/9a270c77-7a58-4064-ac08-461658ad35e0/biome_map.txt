@@ -1,4 +1,5 @@
 #556 minecraft:beach
+#47F minecraft:birch_forest
 #34D minecraft:deep_lukewarm_ocean
 #008 minecraft:desert
 #010 minecraft:forest
