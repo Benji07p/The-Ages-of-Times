@@ -1,4 +1,10 @@
 {
+  "immersiveengineering:recipes/immersiveengineering/crafting/strip_mv": {
+    "criteria": {
+      "has_electrum_coil": "2024-03-22 18:40:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
@@ -122,6 +128,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_electrum_from_slab": {
     "criteria": {
       "has_storage_electrum": "2024-01-01 19:10:29 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/strip_lv": {
+    "criteria": {
+      "has_copper_coil": "2024-03-22 18:40:34 +0100"
     },
     "done": true
   },
@@ -1631,6 +1643,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2024-03-22 18:16:15 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2023-12-16 22:27:59 +0100"
@@ -3123,6 +3141,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_dynamo": {
+    "criteria": {
+      "place_block": "2024-03-22 18:36:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-01-04 18:21:24 +0100"
@@ -3441,6 +3465,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_electrum_ins": {
+    "criteria": {
+      "has_item": "2024-03-22 18:40:06 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
@@ -3624,6 +3654,12 @@
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2024-01-20 11:38:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper_ins": {
+    "criteria": {
+      "has_item": "2024-03-22 18:40:34 +0100"
     },
     "done": true
   },
@@ -4358,6 +4394,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/breaker_switch": {
+    "criteria": {
+      "has_wirecoil_copper": "2024-03-22 18:40:34 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/yellow_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
@@ -4385,6 +4427,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-02-10 17:57:07 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/current_transformer": {
+    "criteria": {
+      "has_voltmeter": "2024-03-22 18:37:46 +0100"
     },
     "done": true
   },
@@ -5837,6 +5885,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/transformer_hv": {
+    "criteria": {
+      "has_hv_connector": "2024-03-22 18:15:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:55 +0100"
@@ -6428,6 +6482,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-03-17 19:40:50 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/redstone_breaker": {
+    "criteria": {
+      "has_hv_connector": "2024-03-22 18:15:49 +0100"
     },
     "done": true
   },
