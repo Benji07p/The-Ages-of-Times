@@ -44,11 +44,19 @@
 #7DCED1 immersiveengineering:blastbrick
 #C5E5AF immersiveengineering:blastbrick_reinforced
 #63D15D create:blaze_burner
+#FFC3B1 minecolonies:blockhutarchery
 #45C994 minecolonies:blockhutbaker
 #990133 minecolonies:blockhutblacksmith
+#5AE1F6 minecolonies:blockhutbuilder
+#C8F353 minecolonies:blockhutcombatacademy
+#729097 minecolonies:blockhutcook
 #4F6441 minecolonies:blockhutdeliveryman
+#C4E232 minecolonies:blockhutfarmer
+#462F10 minecolonies:blockhutfisherman
+#0ADD53 minecolonies:blockhutguardtower
 #7F1716 minecolonies:blockhutlibrary
 #0B8E43 minecolonies:blockhutschool
+#EDB61A minecolonies:blockhuttownhall
 #F19195 beyond_earth:blue_iron_plating_block
 #45C81B minecraft:blue_orchid
 #8AE729 minecraft:brain_coral_block
@@ -229,6 +237,7 @@
 #290DB3 create:large_water_wheel
 #83CED3 minecraft:lava
 #2B9318 the_ages_of_times:lead_sulfate
+#750D6A minecraft:lectern
 #72D77D minecraft:lever
 #19EEF2 immersiveengineering:light_engineering
 #7482E4 minecraft:lilac
@@ -447,6 +456,7 @@
 #A97B01 electrodynamics:tanksteel
 #0AA947 tardim:tardim_door
 #11066D tardim:tardim_roof
+#CFAD84 minecraft:target
 #9209D8 minecraft:terracotta
 #8193AC ceramics:terracotta_channel
 #B2F195 ceramics:terracotta_faucet

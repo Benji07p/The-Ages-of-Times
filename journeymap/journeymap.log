@@ -1,10 +1,10 @@
-[17:56:58] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[17:56:58] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[17:56:58] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
-[17:56:58] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[17:56:58] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
-[17:56:58] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: frankv.jmi.JMIJourneyMapPlugin
-[17:56:59] [Render thread/INFO] [?] Version: JourneyMap 1.18.2-5.9.7, built with forge 1.18.2-40.1.86
+[20:32:33] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[20:32:33] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[20:32:33] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[20:32:33] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[20:32:33] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
+[20:32:33] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: frankv.jmi.JMIJourneyMapPlugin
+[20:32:34] [Render thread/INFO] [?] Version: JourneyMap 1.18.2-5.9.7, built with forge 1.18.2-40.1.86
 forge: 40.2.4
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=fr_fr, locale=en_us
 Features: 
@@ -16,73 +16,20 @@ Features:
 	MapSurface : singleplayer = true , multiplayer = true
 	MapCaves : singleplayer = true , multiplayer = true
 	MapBiome : singleplayer = true , multiplayer = true
-MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.9.7, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-148, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=false, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.9.7, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=false, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
 MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.9.7, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-195, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=false, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
 FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9.7, zoomLevel=1, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=day, mobDisplay=jm.common.entity_display.dots, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, selfDisplayScale=1.0, showGrid=false, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, dragScale=1, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.9.7, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.9.7, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.7, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=5.9.7, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.9.7, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[17:56:59] [Render thread/ERROR] [UIManager] Unexpected error: java.lang.IllegalArgumentException: Invalid texture size: -8x8
-	at TRANSFORMER/minecraft@1.18.2/com.mojang.blaze3d.platform.NativeImage.<init>(NativeImage.java:63)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.texture.ImageUtil.getSizedImage(ImageUtil.java:18)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.texture.TextureCache.getSizedThemeTexture(TextureCache.java:417)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.ui.theme.ThemeMinimapFrame.getTexture(ThemeMinimapFrame.java:343)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.ui.theme.ThemeMinimapFrame.<init>(ThemeMinimapFrame.java:97)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.ui.minimap.DisplayVars.<init>(DisplayVars.java:256)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.ui.minimap.MiniMap.updateDisplayVars(MiniMap.java:803)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.ui.minimap.MiniMap.reset(MiniMap.java:727)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.ui.minimap.MiniMap.setMiniMapProperties(MiniMap.java:180)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.ui.minimap.MiniMap.<init>(MiniMap.java:90)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.ui.UIManager.<init>(UIManager.java:60)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.ui.UIManager.<clinit>(UIManager.java:45)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.event.handlers.KeyEventHandler.registerActions(KeyEventHandler.java:202)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.JourneymapClient.init(JourneymapClient.java:196)
-	at TRANSFORMER/journeymap@5.9.7/journeymap.client.JourneymapClient.lambda$clientSetupEvent$0(JourneymapClient.java:147)
-	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
-	at LAYER PLUGIN/fmlcore@1.18.2-40.2.4/net.minecraftforge.fml.DeferredWorkQueue.lambda$makeRunnable$1(DeferredWorkQueue.java:67)
-	at LAYER PLUGIN/fmlcore@1.18.2-40.2.4/net.minecraftforge.fml.DeferredWorkQueue.makeRunnable(DeferredWorkQueue.java:63)
-	at LAYER PLUGIN/fmlcore@1.18.2-40.2.4/net.minecraftforge.fml.DeferredWorkQueue.lambda$runTasks$0(DeferredWorkQueue.java:57)
-	at java.base/java.util.concurrent.ConcurrentLinkedDeque.forEach(ConcurrentLinkedDeque.java:1650)
-	at LAYER PLUGIN/fmlcore@1.18.2-40.2.4/net.minecraftforge.fml.DeferredWorkQueue.runTasks(DeferredWorkQueue.java:57)
-	at TRANSFORMER/forge@40.2.4/net.minecraftforge.fml.core.ParallelTransition.lambda$finalActivityGenerator$2(ParallelTransition.java:37)
-	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1015)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.Minecraft.m_91374_(Minecraft.java:665)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.client.main.Main.main(Main.java:205)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at MC-BOOTSTRAP/fmlloader@1.18.2-40.2.4/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31)
-	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
-	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
-	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
-	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
-	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
-	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
-	at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.3/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
-	at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
-
-[17:56:59] [Render thread/INFO] [PropertiesBase] minimap (Initialized) Setting config file to version "5.9.7": journeymap.minimap.config
-[17:56:59] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 1063.16ms
-[17:57:41] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
-[17:57:41] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[17:57:41] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 855.41ms
-[17:57:42] [JM-VersionCheck-1/INFO] [VersionCheck] Newer version online: JourneyMap 5.9.7p1 for Minecraft 1.18.2 on https://www.curseforge.com/minecraft/mc-mods/journeymap/files/5157796
-[17:59:46] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[18:00:29] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
-[18:00:29] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\sp\TEST2\waypoints
-[18:00:29] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\sp\TEST2\overworld. Memory: 4960MB total, 2217MB free 
-[18:00:42] [Render thread/INFO] [ChatLog] 
-[19:25:05] [JM-task-4/WARN] [StatTimer] MapPlayerTask.performTask was slow: 21174.0467 (Warning limit reached)
-[19:25:05] [JM-task-4/WARN] [StatTimer] MapPlayerTask.performTask: Avg:   178.45ms, Min:     0.22ms, Max:   45102.89ms, Total:        868 sec, Count:     4868, Canceled:        0, Slow:       10
-[20:23:42] [IO-Worker-179/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [32, -5]
-[20:23:48] [IO-Worker-201/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [32, -16]
-[20:34:09] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\mp\offline\minecraft:overworld
-[20:34:09] [JM-task-4/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@5500af58
+[20:32:36] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 3314.06ms
+[20:33:53] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[20:33:55] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[20:33:55] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 1572.33ms
+[20:33:56] [JM-VersionCheck-1/INFO] [VersionCheck] Newer version online: JourneyMap 5.9.8 for Minecraft 1.18.2 on https://www.curseforge.com/minecraft/mc-mods/journeymap/files/5208370
+[20:35:26] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[20:36:19] [Render thread/INFO] [ChatLog] 
+[20:36:20] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[20:36:20] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\sp\TEST2\waypoints
+[20:36:20] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\sp\TEST2\overworld. Memory: 5312MB total, 1339MB free 
+[21:41:50] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\mp\offline\minecraft:overworld

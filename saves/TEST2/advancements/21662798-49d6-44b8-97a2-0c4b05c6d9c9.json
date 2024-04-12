@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "notreepunching:story/mattock": {
+    "criteria": {
+      "has_mattock": "2024-03-30 18:51:18 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2024-01-24 17:34:50 +0100"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2024-03-30 18:57:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-01-04 18:21:24 +0100"
@@ -260,6 +272,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-01-30 20:14:46 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/building_blocks/smooth_basalt_smelting": {
+    "criteria": {
+      "has_item": "2024-03-30 19:01:25 +0100"
     },
     "done": true
   },
@@ -428,6 +446,12 @@
   "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
     "criteria": {
       "has_sulfur": "2023-12-21 17:54:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-03-30 19:01:25 +0100"
     },
     "done": true
   },
@@ -827,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-03-30 19:04:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2023-12-12 20:55:32 +0100"
@@ -914,6 +944,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-03-17 19:40:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-03-30 20:20:24 +0100"
     },
     "done": true
   },
@@ -2357,6 +2393,12 @@
     },
     "done": true
   },
+  "atum:core/enchantingevening": {
+    "criteria": {
+      "golden_date_enchanted": "2024-03-30 19:07:46 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
       "has_straw": "2024-01-20 11:38:34 +0100"
@@ -2519,6 +2561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-03-30 20:20:24 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2023-12-04 17:35:07 +0100"
@@ -2546,6 +2594,12 @@
   "notreepunching:diamond_mattock": {
     "criteria": {
       "has_item": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-03-30 19:04:53 +0100"
     },
     "done": true
   },
@@ -2588,6 +2642,12 @@
   "create:recipes/create.base/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2023-12-16 22:27:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-03-30 19:04:53 +0100"
     },
     "done": true
   },
@@ -3147,6 +3207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-03-30 20:20:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-01-04 18:21:24 +0100"
@@ -3372,6 +3438,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick_reinforced_to_slab": {
     "criteria": {
       "has_blastbrick_reinforced": "2023-12-09 14:59:33 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-03-30 19:05:05 +0100"
     },
     "done": true
   },
@@ -3861,6 +3933,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-03-30 19:05:05 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2024-01-25 17:08:53 +0100"
@@ -3900,6 +3978,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2024-03-14 21:39:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-03-30 18:36:14 +0100"
     },
     "done": true
   },
@@ -4049,6 +4133,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_slab": {
     "criteria": {
       "has_item": "2024-01-19 17:20:14 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-30 19:04:53 +0100"
     },
     "done": true
   },
@@ -4325,6 +4415,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-01-01 16:05:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-03-30 19:01:25 +0100"
     },
     "done": true
   },
@@ -4754,6 +4850,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/building_blocks/smooth_basalt_kiln": {
+    "criteria": {
+      "has_item": "2024-03-30 19:01:25 +0100"
     },
     "done": true
   },
@@ -5345,6 +5447,12 @@
     },
     "done": true
   },
+  "atum:core/goldendatebridge": {
+    "criteria": {
+      "golden_date": "2024-03-30 19:07:46 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
@@ -5687,6 +5795,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2024-03-30 19:07:46 +0100"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2023-12-16 22:27:59 +0100"
@@ -5735,6 +5849,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-03-30 20:20:24 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2023-12-11 20:57:12 +0100"
@@ -5762,6 +5882,12 @@
   "chemlib:recipes/chemlib.metals/thorium_ingot_from_blasting_thorium_dust": {
     "criteria": {
       "has_thorium": "2023-12-27 17:06:52 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/earmuffs": {
+    "criteria": {
+      "has_iron_rod": "2024-03-30 18:57:21 +0100"
     },
     "done": true
   },
@@ -5915,6 +6041,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-30 19:07:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2023-12-04 18:07:32 +0100"
@@ -5972,6 +6104,12 @@
   "notreepunching:sticks_from_logs_with_flint_axe": {
     "criteria": {
       "has_item": "2023-12-22 22:40:22 +0100"
+    },
+    "done": true
+  },
+  "atum:core/itsadate": {
+    "criteria": {
+      "date": "2024-03-30 19:07:46 +0100"
     },
     "done": true
   },
@@ -6194,6 +6332,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sorter": {
     "criteria": {
       "has_conveyor_basic": "2024-01-16 16:34:48 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
+    "criteria": {
+      "has_iron_rod": "2024-03-30 18:57:21 +0100"
     },
     "done": true
   },
@@ -6512,6 +6656,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_brick": {
     "criteria": {
       "has_item": "2024-01-19 17:47:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-03-30 19:01:25 +0100"
     },
     "done": true
   },
