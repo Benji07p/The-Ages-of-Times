@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "XTX",
+    "XBX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "T": {
+      "item": "minecraft:book"
+    },
+    "B": {
+      "item": "minecraft:lectern"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutlibrary"
+  }
+}
