@@ -1,0 +1,31 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "DTC",
+    "XBX",
+    "XAX"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "minecraft:iron_helmet"
+    },
+    "T": {
+      "tag": "minecraft:wool"
+    },
+    "D": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "minecraft:string"
+    },
+    "A": {
+      "item": "minecraft:iron_chestplate"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutfletcher"
+  }
+}
