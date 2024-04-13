@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "XTX",
+    "XBX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "minecraft:lectern"
+    },
+    "T": {
+      "item": "the_ages_of_times:letter_book"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhuttownhall"
+  }
+}
