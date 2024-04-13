@@ -1,0 +1,28 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "AAA",
+    "BXB",
+    "SAF"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:armor_stand"
+    },
+    "B": {
+      "item": "minecraft:target"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "F": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutarchery"
+  }
+}
