@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "XTX",
+    "XBX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:bricks"
+    },
+    "B": {
+      "item": "farmersdelight:stove"
+    },
+    "T": {
+      "item": "farmersdelight:cooking_pot"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutbaker"
+  }
+}
