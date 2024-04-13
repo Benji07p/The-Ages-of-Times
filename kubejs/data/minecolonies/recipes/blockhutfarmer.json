@@ -1,0 +1,28 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "PPF",
+    "HTH",
+    "BBB"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "F": {
+      "item": "magistuarmory:pitchfork"
+    },
+    "B": {
+      "item": "minecraft:barrel"
+    },
+    "T": {
+      "item": "minecraft:dirt"
+    },
+    "H": {
+      "item": "minecraft:iron_hoe"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutfarmer"
+  }
+}
