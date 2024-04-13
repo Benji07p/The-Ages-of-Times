@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "XBX",
+    "BBB",
+    "XTX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:iron_sword"
+    },
+    "T": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutcombatacademy"
+  }
+}
