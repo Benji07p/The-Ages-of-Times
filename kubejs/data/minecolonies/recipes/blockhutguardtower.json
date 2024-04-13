@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "XTX",
+    "XBX",
+    "XTX"
+  ],
+  "key": {
+    "X": {
+      "item": "beyond_earth:iron_stick"
+    },
+    "B": {
+      "item": "minecraft:iron_sword"
+    },
+    "T": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutguardtower"
+  }
+}
