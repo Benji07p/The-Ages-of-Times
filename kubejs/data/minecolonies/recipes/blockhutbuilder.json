@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "XTX",
+    "XBX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "tag": "forge:cobblestone"
+    },
+    "T": {
+      "item": "notreepunching:iron_saw"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutbuilder"
+  }
+}
