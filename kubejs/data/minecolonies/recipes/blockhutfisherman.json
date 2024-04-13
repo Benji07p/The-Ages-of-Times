@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "XTX",
+    "XBX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "minecraft:string"
+    },
+    "T": {
+      "tag": "forge:raw_fishes"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutfisherman"
+  }
+}
