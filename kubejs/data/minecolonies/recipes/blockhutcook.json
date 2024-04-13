@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "XTX",
+    "XBX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:oak_log"
+    },
+    "B": {
+      "item": "minecraft:campfire"
+    },
+    "T": {
+      "item": "farmersdelight:skillet"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutcook"
+  }
+}
