@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2024-04-13 17:35:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-01-04 18:21:24 +0100"
@@ -296,6 +308,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2024-04-13 17:35:24 +0200"
     },
     "done": true
   },
@@ -455,6 +473,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "chemlib:recipes/chemlib.metals/sodium_ingot_from_smelting_sodium_dust": {
     "criteria": {
       "has_sodium": "2023-12-14 11:36:12 +0100"
@@ -470,6 +494,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -515,6 +545,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_electrum_from_dust": {
     "criteria": {
       "has_dust_electrum": "2024-01-01 19:10:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-04-13 13:33:18 +0200"
     },
     "done": true
   },
@@ -785,6 +821,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -1079,6 +1121,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2024-04-13 17:35:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-01-30 20:31:58 +0100"
@@ -1088,6 +1136,12 @@
   "notreepunching:story/find_loose_rock": {
     "criteria": {
       "has_loose_rock": "2023-12-16 22:27:57 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/part_chest": {
+    "criteria": {
+      "has_item": "2024-04-13 17:35:24 +0200"
     },
     "done": true
   },
@@ -1433,6 +1487,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
     "criteria": {
       "has_gold_ingot": "2024-01-01 19:13:41 +0100"
@@ -1544,6 +1604,18 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -1757,6 +1829,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_brown": {
     "criteria": {
       "has_sheetmetal": "2024-01-24 16:41:46 +0100"
@@ -1856,6 +1934,12 @@
   "minecolonies:recipes/minecolonies/blockconstructiontape": {
     "criteria": {
       "has_wool": "2024-02-01 20:44:03 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2024-04-13 17:35:24 +0200"
     },
     "done": true
   },
@@ -2029,6 +2113,7 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "large_plate": "2024-04-13 16:56:39 +0200",
       "ingot": "2024-01-19 17:53:15 +0100"
     },
     "done": false
@@ -2423,6 +2508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-02-01 20:48:47 +0100"
@@ -2486,6 +2577,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -2694,6 +2791,12 @@
   "create:recipes/create.palettes/warped_window": {
     "criteria": {
       "has_ingredient": "2024-01-24 21:14:46 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/part_builder": {
+    "criteria": {
+      "has_item": "2024-04-13 17:35:24 +0200"
     },
     "done": true
   },
@@ -3369,15 +3472,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_iron_from_slab": {
     "criteria": {
       "has_sheetmetal_iron": "2024-01-24 16:53:09 +0100"
     },
     "done": true
   },
+  "create:recipes/create.palettes/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "tardim:recipes/fuel_storage": {
     "criteria": {
       "has_iron": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -3480,6 +3601,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-02-01 20:48:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -4083,6 +4210,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/orange_clear_stained_glass": {
     "criteria": {
       "has_clear_glass": "2024-02-01 21:20:43 +0100"
@@ -4370,6 +4503,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/straw_bale": {
     "criteria": {
       "has_straw": "2024-01-20 11:38:34 +0100"
@@ -4469,6 +4614,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -4943,6 +5094,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "ceramicshears:recipes/tools/ceramic_shears": {
     "criteria": {
       "has_clay": "2023-12-04 17:35:07 +0100"
@@ -5072,6 +5229,12 @@
   "ironchest:recipes/ironchest/chests/trapped_copper_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -5244,6 +5407,7 @@
       "minecraft:desert": "2023-12-04 17:35:07 +0100",
       "minecraft:windswept_savanna": "2023-12-14 12:20:01 +0100",
       "minecraft:warm_ocean": "2024-01-20 11:21:58 +0100",
+      "minecraft:deep_lukewarm_ocean": "2024-04-13 14:39:57 +0200",
       "minecraft:savanna": "2023-12-14 12:12:32 +0100",
       "minecraft:plains": "2023-12-21 17:47:53 +0100"
     },
@@ -5270,6 +5434,12 @@
   "create:recipes/create.base/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2024-01-24 17:34:50 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -5507,6 +5677,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:14 +0100"
@@ -5606,6 +5788,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-02-01 20:48:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -5891,6 +6079,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2024-02-01 21:22:50 +0100"
@@ -6101,6 +6295,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/tinker_station": {
+    "criteria": {
+      "has_item": "2024-04-13 17:35:24 +0200"
+    },
+    "done": true
+  },
   "notreepunching:sticks_from_logs_with_flint_axe": {
     "criteria": {
       "has_item": "2023-12-22 22:40:22 +0100"
@@ -6200,6 +6400,12 @@
   "immersiveengineering:main/mb_blastfurnace": {
     "criteria": {
       "form_multiblock": "2023-12-09 14:56:25 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -6320,6 +6526,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -6506,6 +6718,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-13 17:53:16 +0200"
     },
     "done": true
   },
@@ -6797,9 +7015,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2024-04-13 17:35:24 +0200"
     },
     "done": true
   },

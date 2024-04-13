@@ -53,10 +53,12 @@
 #4F6441 minecolonies:blockhutdeliveryman
 #C4E232 minecolonies:blockhutfarmer
 #462F10 minecolonies:blockhutfisherman
+#85B596 minecolonies:blockhutfletcher
 #0ADD53 minecolonies:blockhutguardtower
 #7F1716 minecolonies:blockhutlibrary
 #0B8E43 minecolonies:blockhutschool
 #EDB61A minecolonies:blockhuttownhall
+#6CA05D minecolonies:blockhutuniversity
 #F19195 beyond_earth:blue_iron_plating_block
 #45C81B minecraft:blue_orchid
 #8AE729 minecraft:brain_coral_block
@@ -301,6 +303,7 @@
 #7A00CF immersiveengineering:ore_nickel
 #6F71C2 electrodynamics:orealuminum
 #984231 electrodynamics:orechromite
+#F5858A electrodynamics:orefluorite
 #0F7269 electrodynamics:orehalite
 #64691E electrodynamics:orelead
 #4D4BAD electrodynamics:orelepidolite
@@ -342,10 +345,12 @@
 #6DC9E1 minecraft:potted_cactus
 #ACE775 minecraft:potted_dead_bush
 #E6B35B minecraft:pumpkin
+#8DE070 ae2:quartz_ore
 #FC8012 atum:quern
 #64F142 butchersdelight:rack
 #5CF136 the_ages_of_times:rackraw
 #1E9339 chemlib:radon_lamp_block
+#213091 minecraft:raw_copper_block
 #25AEF5 minecraft:redstone_block
 #6A5D69 create:redstone_link
 #80100E createaddition:redstone_relay
@@ -407,8 +412,12 @@
 #079D5C immersiveengineering:sheetmetal_steel
 #9E85C9 the_ages_of_times:silver_sulfate
 #2AA99B farmersdelight:skillet
+#615192 tconstruct:sky_congealed_slime
+#789BE9 tconstruct:sky_earth_slime_grass
 #9B036C tconstruct:sky_slime_crystal_block
 #8E64F9 tconstruct:sky_slime_dirt
+#DB2DF2 tconstruct:sky_slime_fluid
+#DB76CE tconstruct:sky_slime_leaves
 #3768ED beyond_earth:sky_stone
 #C2CF94 ae2:sky_stone_tank
 #D4DCCF multibeds:slab
