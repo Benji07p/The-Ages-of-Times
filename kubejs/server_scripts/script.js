@@ -796,6 +796,17 @@ onEvent('recipes', event => {
 	event.remove({ id: 'minecraft:book'})
 	event.remove({ id: 'atum:book'})
 
+	//Horse Power Generator
+	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:horse_power"}'), [
+		'WAW',
+		'ARA',
+		'WAW'
+	], {
+	W: 'the_ages_of_times:wooden_sheat',
+	A: 'minecraft:andesite',
+	R: 'create:shaft',
+	})
+
 	//Map
 	event.remove({ id: 'minecraft:map'})
 
@@ -846,6 +857,124 @@ onEvent('recipes', event => {
 			]
 		}
 	)
+
+	//Minecolonies
+	event.remove({ id: 'minecolonies:blockhutfarmerstone'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "WPP",
+			  "GAA"
+			],
+			"key": {
+			  "W": {
+				"item": "the_ages_of_times:written_papyrus"
+			  },
+			  "P": {
+				"item": "atum:scroll"
+			  },
+			  "G": {
+				"item": "the_ages_of_times:glue"
+			  },
+			  "A": {
+				"item": "tconstruct:pattern"
+			  }
+			},
+			"result": {
+			  "item": "the_ages_of_times:letter_book"
+			}
+		  }
+	)
+	event.remove({ id: 'minecolonies:blockhutblacksmith'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "  X",
+			  " X ",
+			  "X  "
+			],
+			"key": {
+			  "X": {
+				"item": "minecraft:stick"
+			  }
+			},
+			"result": {
+			  "item": "the_ages_of_times:long_stick"
+			}
+		  }
+	)
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "X  ",
+			  " X ",
+			  "X X"
+			],
+			"key": {
+			  "X": {
+				"item": "beyond_earth:iron_stick"
+			  }
+			},
+			"result": {
+			  "item": "the_ages_of_times:pitchfork"
+			}
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_basin",
+			"cast": {
+			  "item": "minecraft:anvil"
+			},
+			"cast_consumed": true,
+			"fluid": {
+			  "tag": "forge:molten_iron",
+			  "amount": 900
+			},
+			"result": "minecolonies:blockhutblacksmith",
+			"cooling_time": 90
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:pitchfork_gold_cast"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "forge:molten_iron",
+			  "amount": 540
+			},
+			"result": "the_ages_of_times:pitchfork",
+			"cooling_time": 90
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:pitchfork"
+			},
+			"cast_consumed": true,
+			"fluid": {
+			  "tag": "forge:molten_gold",
+			  "amount": 90
+			},
+			"result": "the_ages_of_times:pitchfork_gold_cast",
+			"cooling_time": 90
+		  }
+	)
+	event.shaped('magistuarmory:pitchfork', [
+		' G',
+		'S '
+	], {
+	S: 'the_ages_of_times:long_stick',
+	G: 'the_ages_of_times:pitchfork'
+	})
 
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
