@@ -4779,3 +4779,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [18:20:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
 [18:20:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
 [18:20:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:23:38] [Render thread/INFO]: Stopping!
+[18:23:38] [Render thread/INFO]: Shutting down map thread
