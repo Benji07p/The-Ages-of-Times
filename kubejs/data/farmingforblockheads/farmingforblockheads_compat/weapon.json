@@ -1,0 +1,19 @@
+{
+  "group": {
+    "name": "FEUR",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "atum:coin_gold"
+    },
+    "defaultCategory": "weapon"
+  },
+  "customEntries": [
+    {
+      "output": "magistuarmory:iron_zweihander",
+      "payment": {
+        "item": "atum:coin_gold",
+        "count": 4
+      }
+    }
+  ]
+}

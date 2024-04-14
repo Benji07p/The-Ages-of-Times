@@ -1,1 +1,16 @@
-{}
+{
+    "customCategories": {
+      "weapon": {
+        "name": "Weapon",
+        "icon": {
+          "item": "magistuarmory:iron_zweihander"
+        }
+      },
+      "technologie": {
+        "name": "Technologie",
+        "icon": {
+          "item": "minecraft:paper"
+        }
+      }
+    }
+  }
