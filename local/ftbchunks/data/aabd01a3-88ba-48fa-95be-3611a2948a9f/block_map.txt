@@ -82,6 +82,7 @@
 #A4967C minecraft:dark_oak_slab
 #A8FCCC minecraft:dark_oak_stairs
 #60EFA5 minecraft:dark_prismarine_stairs
+#7EAB5E minecraft:daylight_detector
 #2D68D6 minecraft:dead_bush
 #5E9420 minecraft:deepslate
 #60355C minecraft:deepslate_redstone_ore
@@ -131,6 +132,7 @@
 #A8FC70 minecraft:lime_glazed_terracotta
 #746434 create:limestone
 #DE9468 minecraft:magma_block
+#70A959 farmingforblockheads:market
 #A4FC4B minecraft:mossy_cobblestone
 #F0D99D minecraft:mossy_stone_brick_stairs
 #311D1D minecraft:mossy_stone_brick_wall

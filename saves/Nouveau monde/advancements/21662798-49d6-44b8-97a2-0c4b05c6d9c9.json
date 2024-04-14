@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-04-14 15:14:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-11-20 17:35:21 +0100"
@@ -1828,6 +1834,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-04-14 13:17:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-11-20 18:24:26 +0100"
@@ -2134,6 +2146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-04-14 12:59:14 +0200"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockconstructiontape": {
     "criteria": {
       "has_wool": "2024-01-22 18:18:20 +0100"
@@ -2383,6 +2401,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-01-21 20:29:36 +0100"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutplantation": {
+    "criteria": {
+      "has_items": "2024-04-14 12:59:14 +0200"
     },
     "done": true
   },
@@ -3629,6 +3653,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/emerald_block": {
+    "criteria": {
+      "has_the_recipe": "2024-04-14 15:14:00 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2023-12-17 18:01:12 +0100"
@@ -3809,9 +3839,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-04-14 12:44:53 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_cactus_with_knife": {
+    "criteria": {
+      "has_item": "2024-04-14 12:59:14 +0200"
     },
     "done": true
   },
