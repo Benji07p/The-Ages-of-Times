@@ -1,0 +1,16 @@
+{
+  "modId": "create",
+  "group": {
+    "name": "Create Fertilizer",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "atum:coin_gold"
+    },
+    "defaultCategory": "farmingforblockheads:other"
+  },
+  "customEntries": [
+    {
+      "output": "create:tree_fertilizer"
+    }
+  ]
+}

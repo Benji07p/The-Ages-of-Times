@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "farmingforblockheads:market"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PCP",
+    "W W",
+    "WWW"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:red_wool"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "W": {
+      "tag": "minecraft:logs"
+    }
+  }
+}
