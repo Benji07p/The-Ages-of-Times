@@ -171,6 +171,7 @@ key_key.carry.desc:key.keyboard.keypad.7
 key_key.astikorcarts.desc:key.keyboard.r
 key_key.curios.open.desc:key.keyboard.g
 key_key.beyond_earth.rocket_start:key.keyboard.space
+key_key.ftbquests.quests:key.keyboard.unknown
 key_key.electrodynamics.jetpackascend:key.keyboard.space
 key_key.electrodynamics.jetpackmode:key.keyboard.keypad.1
 key_key.electrodynamics.togglenvgs:key.keyboard.n
@@ -185,7 +186,6 @@ key_key.car_start:key.keyboard.keypad.9
 key_key.car_horn:key.keyboard.h
 key_key.center_car:key.keyboard.space
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
-key_key.ftbquests.quests:key.keyboard.unknown
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
