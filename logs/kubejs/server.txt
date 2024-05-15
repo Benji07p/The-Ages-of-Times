@@ -1,547 +1,547 @@
-[15:56:36] [INFO ] Loaded script server_scripts:alembic.js in 0.001 s
-[15:56:36] [INFO ] Loaded script server_scripts:anvil.js in 0.0 s
-[15:56:36] [INFO ] Loaded script server_scripts:bladderandbarrel.js in 0.0 s
-[15:56:36] [INFO ] Loaded script server_scripts:computer.js in 0.0 s
-[15:56:36] [INFO ] Loaded script server_scripts:customitemcreate.js in 0.0 s
-[15:56:36] [INFO ] Loaded script server_scripts:horse.js in 0.001 s
-[15:56:36] [INFO ] Loaded script server_scripts:leather.js in 0.0 s
-[15:56:36] [INFO ] Loaded script server_scripts:melter.js in 0.0 s
-[15:56:36] [INFO ] Loaded script server_scripts:pottery.js in 0.0 s
-[15:56:36] [INFO ] Loaded script server_scripts:quern.js in 0.001 s
-[15:56:36] [INFO ] Loaded script server_scripts:script.js in 0.001 s
-[15:56:36] [INFO ] server_scripts:settings.js:8: Hello, World! (You will see this line every time server resources reload)
-[15:56:36] [INFO ] Loaded script server_scripts:settings.js in 0.0 s
-[15:56:36] [INFO ] Loaded script server_scripts:tree.js in 0.001 s
-[15:56:36] [INFO ] Loaded script server_scripts:turntable.js in 0.0 s
-[15:56:36] [INFO ] Loaded script server_scripts:turntable_jei.js in 0.001 s
-[15:56:36] [INFO ] Loaded script server_scripts:TYRESDFGG.js in 0.001 s
-[15:56:36] [INFO ] Loaded script server_scripts:unification.js in 0.001 s
-[15:56:36] [INFO ] Loaded script server_scripts:writting.js in 0.0 s
-[15:56:36] [INFO ] Loaded 18/18 KubeJS server scripts in 0.014 s
-[15:56:36] [INFO ] Scripts loaded
-[15:56:36] [INFO ] Scanning recipes...
-[15:56:37] [INFO ] [fluids] Found 192 tags, added 41 objects, removed 22 objects
-[15:56:38] [INFO ] [items] Found 1576 tags, added 38 objects, removed 110 objects
-[15:56:48] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/filling_cracked_clay_bucket[tconstruct:table_filling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:cracked_clay_bucket'
-[15:56:48] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/filling_cracked_clay_bucket[tconstruct:table_filling]: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:cracked_clay_bucket'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:cherry_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:cherry_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:blossom_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:blossom_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:blossom_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:blossom_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:redwood_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:redwood_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/clay/bricks_3[tconstruct:melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ceramics:clay_bucket'
-[15:56:48] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/clay/bricks_3[tconstruct:melting]: com.google.gson.JsonSyntaxException: Unknown item 'ceramics:clay_bucket'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:magic_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:magic_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:willow_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:willow_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:azalea_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:azalea_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:azalea_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:azalea_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:mahogany_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:mahogany_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:palm_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:palm_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:jacaranda_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:jacaranda_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:umbran_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:umbran_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/porcelain/golden_bricks_slab[tconstruct:melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid minecraft:empty
-[15:56:48] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/porcelain/golden_bricks_slab[tconstruct:melting]: com.google.gson.JsonSyntaxException: Unknown fluid minecraft:empty
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:hellbark_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:hellbark_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/filling_clay_bucket[tconstruct:table_filling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:clay_bucket'
-[15:56:48] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/filling_clay_bucket[tconstruct:table_filling]: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:clay_bucket'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:fir_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:fir_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[15:56:48] [WARN ] Failed to parse recipe 'mctb:dead_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[15:56:48] [WARN ] Failed to parse recipe mctb:dead_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[15:56:48] [INFO ] Found 15280 recipes and 0 failed recipes in 272.8 ms
-[15:56:48] [INFO ] server_scripts:alembic.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:415: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:277: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:111: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:56: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:321: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:321: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:321: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:277: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:175: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:111: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:226: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
-[15:56:48] [INFO ] server_scripts:bladderandbarrel.js:35: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:bladderandbarrel.js:35: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:bladderandbarrel.js:4: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:bladderandbarrel.js:4: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:bladderandbarrel.js:61: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:bladderandbarrel.js:83: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:computer.js:3: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:horse_power, time=1000, requirements=[custommachinery:structure, custommachinery:contraption, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:customitemcreate.js:3: + create:sequenced_assembly: [] -> []
-[15:56:48] [INFO ] server_scripts:horse.js:3: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:horse_power, time=3, requirements=[custommachinery:entity, custommachinery:entity, custommachinery:structure, custommachinery:contraption, custommachinery:command, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
-[15:56:48] [INFO ] server_scripts:horse.js:65: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:horse_power, time=1, requirements=[custommachinery:block, custommachinery:block], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
-[15:56:48] [INFO ] server_scripts:horse.js:93: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:horselol, time=3000, requirements=[custommachinery:command, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
-[15:56:48] [INFO ] server_scripts:leather.js:185: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:185: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:185: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:185: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:202: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:202: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:202: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:40: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:40: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:71: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:71: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:104: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:132: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:160: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:247: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:leather.js:276: + farmersdelight:cutting: [] -> []
-[15:56:48] [INFO ] server_scripts:melter.js:3: + melter:melting: [] -> []
-[15:56:48] [INFO ] server_scripts:melter.js:4: + melter:melting: [] -> []
-[15:56:48] [INFO ] server_scripts:melter.js:5: + melter:melting: [] -> []
-[15:56:48] [INFO ] server_scripts:melter.js:6: + melter:melting: [] -> []
-[15:56:48] [INFO ] server_scripts:pottery.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:pottery, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:pottery.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:pottery, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:pottery.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:pottery, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:pottery.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:pottery, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:48] [INFO ] server_scripts:quern.js:3: + atum:quern: [] -> []
-[15:56:48] [INFO ] server_scripts:quern.js:17: + atum:quern: [] -> []
-[15:56:48] [INFO ] server_scripts:quern.js:31: + atum:quern: [] -> []
-[15:56:48] [INFO ] server_scripts:quern.js:45: + atum:quern: [] -> []
-[15:56:48] [INFO ] server_scripts:quern.js:57: + atum:quern: [] -> []
-[15:56:48] [INFO ] server_scripts:quern.js:71: + atum:quern: [] -> []
-[15:56:48] [INFO ] server_scripts:quern.js:85: + atum:quern: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:4: + minecraft:stonecutting: ['electrodynamics:resourceblocksteel'] -> ['immersiveengineering:storage_steel']
-[15:56:48] [INFO ] server_scripts:script.js:14: + minecraft:stonecutting: ['immersiveengineering:storage_steel'] -> ['electrodynamics:resourceblocksteel']
-[15:56:48] [INFO ] server_scripts:script.js:26: - minecraft:anvil[minecraft:crafting_shaped]: ['minecraft:iron_block', '#forge:ingots/iron'] -> ['minecraft:anvil']
-[15:56:48] [INFO ] server_scripts:script.js:27: - tconstruct:smeltery/melting/metal/iron/anvil[tconstruct:melting]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:28: - alchemistry:dissolver/anvil[alchemistry:dissolver]: ['minecraft:anvil'] -> []
-[15:56:48] [INFO ] server_scripts:script.js:29: + minecraft:stonecutting: ['minecraft:stone'] -> ['minecraft:anvil']
-[15:56:48] [INFO ] server_scripts:script.js:39: + kubejs:shaped: ['minecraft:stone', 'minecraft:stone_button'] -> ['minecraft:anvil']
-[15:56:48] [INFO ] server_scripts:script.js:49: - minecraft:shears[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> [Item.of('minecraft:shears', '{Damage:0}')]
-[15:56:48] [INFO ] server_scripts:script.js:50: + kubejs:shaped: ['minecraft:iron_ingot'] -> [Item.of('ceramicshears:ceramic_shears', '{Damage:0}')]
-[15:56:48] [INFO ] server_scripts:script.js:59: + kubejs:shaped: ['minecraft:brown_dye', 'minecraft:black_dye', 'notreepunching:plant_string'] -> ['the_ages_of_times:fluidbladderempty']
-[15:56:48] [INFO ] server_scripts:script.js:69: + kubejs:shaped: ['#minecraft:planks', '#minecraft:wooden_slabs'] -> ['the_ages_of_times:barrel']
-[15:56:48] [INFO ] server_scripts:script.js:79: - minecraft:chest[minecraft:crafting_shaped]: ['#minecraft:planks'] -> ['minecraft:chest']
-[15:56:48] [INFO ] server_scripts:script.js:80: + kubejs:shaped: ['#minecraft:planks', '#minecraft:wooden_slabs'] -> ['minecraft:chest']
-[15:56:48] [INFO ] server_scripts:script.js:90: - mctb:spruce_crafting_table[minecraft:crafting_shaped]: ['minecraft:spruce_planks'] -> ['mctb:spruce_crafting_table']
-[15:56:48] [INFO ] server_scripts:script.js:91: - mctb:birch_crafting_table[minecraft:crafting_shaped]: ['minecraft:birch_planks'] -> ['mctb:birch_crafting_table']
-[15:56:48] [INFO ] server_scripts:script.js:92: - mctb:acacia_crafting_table[minecraft:crafting_shaped]: ['minecraft:acacia_planks'] -> ['mctb:acacia_crafting_table']
-[15:56:48] [INFO ] server_scripts:script.js:93: - mctb:jungle_crafting_table[minecraft:crafting_shaped]: ['minecraft:jungle_planks'] -> ['mctb:jungle_crafting_table']
-[15:56:48] [INFO ] server_scripts:script.js:94: - mctb:dark_oak_crafting_table[minecraft:crafting_shaped]: ['minecraft:dark_oak_planks'] -> ['mctb:dark_oak_crafting_table']
-[15:56:48] [INFO ] server_scripts:script.js:95: - mctb:crimson_crafting_table[minecraft:crafting_shaped]: ['minecraft:crimson_planks'] -> ['mctb:crimson_crafting_table']
-[15:56:48] [INFO ] server_scripts:script.js:96: - mctb:warped_crafting_table[minecraft:crafting_shaped]: ['minecraft:warped_planks'] -> ['mctb:warped_crafting_table']
-[15:56:48] [INFO ] server_scripts:script.js:97: + kubejs:shaped: ['#minecraft:planks'] -> ['mctb:spruce_crafting_table']
-[15:56:48] [INFO ] server_scripts:script.js:105: - sleeping_bags:brown_sleeping_bag[minecraft:crafting_shaped]: ['#minecraft:wool', 'minecraft:brown_carpet'] -> ['sleeping_bags:brown_sleeping_bag']
-[15:56:48] [INFO ] server_scripts:script.js:106: + kubejs:shaped: ['multibeds:feather_pile', 'minecraft:leather'] -> ['sleeping_bags:brown_sleeping_bag']
-[15:56:48] [INFO ] server_scripts:script.js:116: + kubejs:shaped: ['#notreepunching:loose_rocks', 'minecraft:string'] -> ['the_ages_of_times:plumb_line']
-[15:56:48] [INFO ] server_scripts:script.js:126: + kubejs:shaped: ['minecraft:hay_block', '#minecraft:leaves'] -> [Item.of('multibeds:slab', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_lime",tag:{pattern:"stripes"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:3250s,rgbsimple:4b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:3250s,rgbsimple:4b}},texture_item:{Count:1b,id:"minecraft:hay_block"}}}')]
-[15:56:48] [INFO ] server_scripts:script.js:136: + lychee:block_interacting: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:157: - atum:scarab_from_crunchy_scarab[minecraft:crafting_shaped]: ['atum:crunchy_scarab', '#forge:ingots/gold'] -> ['atum:scarab']
-[15:56:48] [INFO ] server_scripts:script.js:157: - atum:scarab_from_crunchy_golden_scarab[minecraft:crafting_shaped]: ['atum:crunchy_golden_scarab'] -> ['atum:scarab']
-[15:56:48] [INFO ] server_scripts:script.js:157: - atum:scarab[minecraft:crafting_shaped]: ['#forge:gems/diamond', '#forge:ingots/gold'] -> ['atum:scarab']
-[15:56:48] [INFO ] server_scripts:script.js:160: - mctb:workbench_revert[minecraft:crafting_shapeless]: ['#mctb:revertable_workbench'] -> ['minecraft:crafting_table']
-[15:56:48] [INFO ] server_scripts:script.js:160: - minecraft:crafting_table[minecraft:crafting_shaped]: ['minecraft:oak_planks'] -> ['minecraft:crafting_table']
-[15:56:48] [INFO ] server_scripts:script.js:161: - tconstruct:tables/crafting_station_from_logs[mantle:crafting_shaped_retextured]: [] -> ['tconstruct:crafting_station']
-[15:56:48] [INFO ] server_scripts:script.js:161: - tconstruct:tables/crafting_station[minecraft:crafting_shaped]: ['tconstruct:pattern', {"type":"forge:difference","base":[{"tag":"forge:workbenches"},{"tag":"tconstruct:tables"}],"subtracted":{"item":"tconstruct:crafting_station"}}] -> ['tconstruct:crafting_station']
-[15:56:48] [INFO ] server_scripts:script.js:162: + create:item_application: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:182: - minecraft:campfire[minecraft:crafting_shaped]: ['#minecraft:logs', 'minecraft:stick', '#minecraft:coals'] -> ['minecraft:campfire']
-[15:56:48] [INFO ] server_scripts:script.js:183: + create:item_application: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:203: - tconstruct:smeltery/seared/seared_brick[minecraft:smelting]: ['tconstruct:grout'] -> ['tconstruct:seared_brick']
-[15:56:48] [INFO ] server_scripts:script.js:204: - tconstruct:smeltery/seared/seared_brick_kiln[ceramics:kiln]: ['tconstruct:grout'] -> ['tconstruct:seared_brick']
-[15:56:48] [INFO ] server_scripts:script.js:205: + create:milling: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:221: + ceramics:kiln: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:232: + minecraft:smelting: ['the_ages_of_times:grout_dust'] -> ['tconstruct:seared_brick']
-[15:56:48] [INFO ] server_scripts:script.js:235: - ceramics:porcelain_brick_smelting[minecraft:smelting]: ['ceramics:unfired_porcelain'] -> ['ceramics:porcelain_brick']
-[15:56:48] [INFO ] server_scripts:script.js:236: - ceramics:porcelain_brick_kiln[ceramics:kiln]: ['ceramics:unfired_porcelain'] -> ['ceramics:porcelain_brick']
-[15:56:48] [INFO ] server_scripts:script.js:237: + kubejs:shapeless: ['minecraft:flint', 'minecraft:clay_ball', 'minecraft:bone_meal'] -> ['ceramics:unfired_porcelain']
-[15:56:48] [INFO ] server_scripts:script.js:238: + create:milling: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:254: + ceramics:kiln: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:265: + minecraft:smelting: ['the_ages_of_times:porcelain_dust'] -> ['ceramics:porcelain_brick']
-[15:56:48] [INFO ] server_scripts:script.js:268: - ceramics:empty_clay_bucket_smelting[minecraft:smelting]: ['ceramics:unfired_clay_bucket'] -> ['ceramics:empty_clay_bucket']
-[15:56:48] [INFO ] server_scripts:script.js:269: - ceramics:empty_clay_bucket_kiln[ceramics:kiln]: ['ceramics:unfired_clay_bucket'] -> ['ceramics:empty_clay_bucket']
-[15:56:48] [INFO ] server_scripts:script.js:272: - minecolonies:blockhutenchanter[minecraft:crafting_shaped]: ['#minecraft:planks', 'minecraft:enchanting_table', 'structurize:sceptergold'] -> ['minecolonies:blockhutenchanter']
-[15:56:48] [INFO ] server_scripts:script.js:275: - electrodynamics:dustbronze[minecraft:crafting_shapeless]: ['#forge:dusts/copper', '#forge:dusts/copper', '#forge:dusts/tin'] -> ['3x electrodynamics:dustbronze']
-[15:56:48] [INFO ] server_scripts:script.js:278: - melter:melting/cobble_melting[melter:melting]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:279: - melter:melting/snow_melting[melter:melting]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:280: - melter:melting/ice_block_melting[melter:melting]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:281: - melter:crafting/melter_block[minecraft:crafting_shaped]: ['minecraft:iron_nugget', '#forge:stone'] -> ['melter:melter']
-[15:56:48] [INFO ] server_scripts:script.js:284: - minecraft:copper_ingot_from_blasting_raw_copper[minecraft:blasting]: ['minecraft:raw_copper'] -> ['minecraft:copper_ingot']
-[15:56:48] [INFO ] server_scripts:script.js:285: - minecraft:copper_ingot_from_smelting_raw_copper[minecraft:smelting]: ['minecraft:raw_copper'] -> ['minecraft:copper_ingot']
-[15:56:48] [INFO ] server_scripts:script.js:286: - minecraft:iron_ingot_from_blasting_raw_iron[minecraft:blasting]: ['minecraft:raw_iron'] -> ['minecraft:iron_ingot']
-[15:56:48] [INFO ] server_scripts:script.js:287: - minecraft:iron_ingot_from_smelting_raw_iron[minecraft:smelting]: ['minecraft:raw_iron'] -> ['minecraft:iron_ingot']
-[15:56:48] [INFO ] server_scripts:script.js:288: - minecraft:gold_ingot_from_blasting_raw_gold[minecraft:blasting]: ['minecraft:raw_gold'] -> ['minecraft:gold_ingot']
-[15:56:48] [INFO ] server_scripts:script.js:289: - minecraft:gold_ingot_from_smelting_raw_gold[minecraft:smelting]: ['minecraft:raw_gold'] -> ['minecraft:gold_ingot']
-[15:56:48] [INFO ] server_scripts:script.js:290: - electrodynamics:ingotsilver_raw_blasting[minecraft:blasting]: ['#forge:raw_materials/silver'] -> ['electrodynamics:ingotsilver']
-[15:56:48] [INFO ] server_scripts:script.js:291: - electrodynamics:ingotsilver_raw_smelting[minecraft:smelting]: ['#forge:raw_materials/silver'] -> ['electrodynamics:ingotsilver']
-[15:56:48] [INFO ] server_scripts:script.js:292: - electrodynamics:ingottin_raw_blasting[minecraft:blasting]: ['#forge:raw_materials/tin'] -> ['electrodynamics:ingottin']
-[15:56:48] [INFO ] server_scripts:script.js:293: - electrodynamics:ingottin_raw_smelting[minecraft:smelting]: ['#forge:raw_materials/tin'] -> ['electrodynamics:ingottin']
-[15:56:48] [INFO ] server_scripts:script.js:294: - electrodynamics:ingotlead_raw_smelting[minecraft:smelting]: ['#forge:raw_materials/lead'] -> ['electrodynamics:ingotlead']
-[15:56:48] [INFO ] server_scripts:script.js:295: - electrodynamics:ingotlead_raw_blasting[minecraft:blasting]: ['#forge:raw_materials/lead'] -> ['electrodynamics:ingotlead']
-[15:56:48] [INFO ] server_scripts:script.js:298: - immersiveengineering:crafting/raw_hammercrushing_copper[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/copper'] -> ['electrodynamics:dustcopper']
-[15:56:48] [INFO ] server_scripts:script.js:299: - immersiveengineering:crafting/raw_hammercrushing_iron[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/iron'] -> ['electrodynamics:dustiron']
-[15:56:48] [INFO ] server_scripts:script.js:300: - immersiveengineering:crafting/raw_hammercrushing_gold[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/gold'] -> ['electrodynamics:dustgold']
-[15:56:48] [INFO ] server_scripts:script.js:301: - immersiveengineering:crafting/raw_hammercrushing_silver[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/silver'] -> ['electrodynamics:dustsilver']
-[15:56:48] [INFO ] server_scripts:script.js:302: - immersiveengineering:crafting/raw_hammercrushing_tin[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/tin'] -> ['electrodynamics:dusttin']
-[15:56:48] [INFO ] server_scripts:script.js:303: - immersiveengineering:crafting/raw_hammercrushing_lead[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/lead'] -> ['electrodynamics:dustlead']
-[15:56:48] [INFO ] server_scripts:script.js:306: - tconstruct:smeltery/seared/heater[minecraft:crafting_shaped]: ['tconstruct:seared_brick'] -> ['tconstruct:seared_heater']
-[15:56:48] [INFO ] server_scripts:script.js:307: + create:item_application: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:327: - tconstruct:smeltery/seared/melter[minecraft:crafting_shaped]: [['tconstruct:seared_fuel_gauge', 'tconstruct:seared_ingot_gauge'], 'tconstruct:seared_brick'] -> ['tconstruct:seared_melter']
-[15:56:48] [INFO ] server_scripts:script.js:328: + create:item_application: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:348: - tconstruct:smeltery/seared/basin[minecraft:crafting_shaped]: ['tconstruct:seared_brick'] -> ['tconstruct:seared_basin']
-[15:56:48] [INFO ] server_scripts:script.js:349: + create:item_application: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:369: - tconstruct:smeltery/seared/table[minecraft:crafting_shaped]: ['tconstruct:seared_brick'] -> ['tconstruct:seared_table']
-[15:56:48] [INFO ] server_scripts:script.js:370: + create:item_application: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:390: - tconstruct:smeltery/seared/faucet[minecraft:crafting_shaped]: ['tconstruct:seared_brick'] -> ['3x tconstruct:seared_faucet']
-[15:56:48] [INFO ] server_scripts:script.js:391: + create:item_application: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:411: + kubejs:shaped: ['ceramics:kiln', 'woodenhopper:wooden_hopper', 'ceramics:porcelain_brick', 'minecraft:chest'] -> ['melter:melter']
-[15:56:48] [INFO ] server_scripts:script.js:423: + kubejs:shaped: ['ceramics:kiln', 'ceramics:porcelain_brick', 'ceramics:terracotta_cistern'] -> ['the_ages_of_times:porcelain_heater']
-[15:56:48] [INFO ] server_scripts:script.js:434: - minecraft:lead[minecraft:crafting_shaped]: ['minecraft:string', 'minecraft:slime_ball'] -> ['2x minecraft:lead']
-[15:56:48] [INFO ] server_scripts:script.js:435: - tconstruct:common/slime/lead[minecraft:crafting_shaped]: ['minecraft:string', '#forge:slimeballs'] -> ['2x minecraft:lead']
-[15:56:48] [INFO ] server_scripts:script.js:436: + farmersdelight:cutting: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:457: - create:crafting/materials/andesite_alloy[minecraft:crafting_shaped]: ['minecraft:andesite', '#forge:nuggets/iron'] -> ['create:andesite_alloy']
-[15:56:48] [INFO ] server_scripts:script.js:458: - create:crafting/materials/andesite_alloy_from_zinc[minecraft:crafting_shaped]: ['minecraft:andesite', '#forge:nuggets/zinc'] -> ['create:andesite_alloy']
-[15:56:48] [INFO ] server_scripts:script.js:459: - create:mixing/andesite_alloy[create:mixing]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:460: - create:mixing/andesite_alloy_from_zinc[create:mixing]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:461: - tconstruct:compat/create/andesite_alloy_iron[tconstruct:casting_basin]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:462: - tconstruct:compat/create/andesite_alloy_zinc[tconstruct:casting_basin]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:463: + tconstruct:casting_table: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:478: + tconstruct:casting_table: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:493: + tconstruct:casting_table: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:510: + kubejs:shaped: ['#forge:cobblestone'] -> ['8x create:shaft']
-[15:56:48] [INFO ] server_scripts:script.js:519: + kubejs:shaped: ['minecraft:polished_deepslate_slab', 'minecraft:slime_ball', 'the_ages_of_times:andesite_shaft', 'electrodynamics:gearcopper', 'create:andesite_casing'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:turntable"}')]
-[15:56:48] [INFO ] server_scripts:script.js:532: - create:crafting/kinetics/millstone[minecraft:crafting_shaped]: ['create:cogwheel', 'create:andesite_casing', '#forge:stone'] -> ['create:millstone']
-[15:56:48] [INFO ] server_scripts:script.js:533: + kubejs:shaped: ['atum:quern', 'minecraft:polished_andesite', 'astikorcarts:wheel'] -> ['create:millstone']
-[15:56:48] [INFO ] server_scripts:script.js:544: - minecraft:stonecutter[minecraft:crafting_shaped]: ['#forge:ingots/iron', 'minecraft:stone'] -> ['minecraft:stonecutter']
-[15:56:48] [INFO ] server_scripts:script.js:545: + kubejs:shaped: ['electrodynamics:geariron', 'minecraft:stone'] -> ['minecraft:stonecutter']
-[15:56:48] [INFO ] server_scripts:script.js:553: + kubejs:shaped: ['the_ages_of_times:flint_gear', 'minecraft:stone'] -> ['minecraft:stonecutter']
-[15:56:48] [INFO ] server_scripts:script.js:563: - create:crafting/kinetics/mechanical_saw[minecraft:crafting_shaped]: ['create:andesite_casing', '#forge:plates/iron', '#forge:ingots/iron'] -> ['create:mechanical_saw']
-[15:56:48] [INFO ] server_scripts:script.js:564: + kubejs:shaped: ['minecraft:stonecutter', 'electrodynamics:gearcopper', 'create:andesite_casing', 'electrodynamics:gearbronze', 'the_ages_of_times:leather_belt'] -> ['create:mechanical_saw']
-[15:56:48] [INFO ] server_scripts:script.js:577: - notreepunching:flint_from_gravel[minecraft:crafting_shapeless]: ['minecraft:gravel', 'minecraft:gravel', 'minecraft:gravel'] -> ['2x minecraft:flint']
-[15:56:48] [INFO ] server_scripts:script.js:578: + kubejs:shaped: ['notreepunching:flint_shard', 'electrodynamics:geartin'] -> ['the_ages_of_times:flint_gear']
-[15:56:48] [INFO ] server_scripts:script.js:588: - tconstruct:smeltery/casting/scorched/brick_composite[tconstruct:casting_table]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:589: - tconstruct:smeltery/casting/scorched/polished_from_magma[tconstruct:casting_basin]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:590: - tconstruct:smeltery/casting/scorched/stone_from_magma[tconstruct:casting_basin]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:591: - tconstruct:smeltery/melting/scorched/casting[tconstruct:melting]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:592: - tconstruct:smeltery/scorched/nether_grout[minecraft:crafting_shapeless]: ['minecraft:magma_cream', ['minecraft:soul_sand', 'minecraft:soul_soil'], 'minecraft:gravel'] -> ['2x tconstruct:nether_grout']
-[15:56:48] [INFO ] server_scripts:script.js:595: + kubejs:shapeless: ['atum:papyrus_plant'] -> ['atum:papyrus']
-[15:56:48] [INFO ] server_scripts:script.js:598: + create:pressing: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:616: + lychee:item_inside: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:644: - atum:scroll[minecraft:crafting_shaped]: ['#forge:rods/wooden', 'atum:papyrus_plant'] -> ['atum:scroll']
-[15:56:48] [INFO ] server_scripts:script.js:647: - minecraft:cauldron[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['minecraft:cauldron']
-[15:56:48] [INFO ] server_scripts:script.js:648: - tconstruct:smeltery/melting/metal/iron/cauldron[tconstruct:melting]: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:649: + kubejs:shaped: ['minecraft:oak_log'] -> ['minecraft:cauldron']
-[15:56:48] [INFO ] server_scripts:script.js:658: + kubejs:shaped: ['minecraft:stone', 'minecraft:stone_button'] -> ['the_ages_of_times:stone_platform']
-[15:56:48] [INFO ] server_scripts:script.js:668: - create:crafting/kinetics/large_water_wheel[minecraft:crafting_shaped]: ['#minecraft:planks', 'create:water_wheel'] -> ['create:large_water_wheel']
-[15:56:48] [INFO ] server_scripts:script.js:669: - create:crafting/kinetics/water_wheel[minecraft:crafting_shaped]: ['#minecraft:planks', 'the_ages_of_times:andesite_shaft'] -> ['create:water_wheel']
-[15:56:48] [INFO ] server_scripts:script.js:670: + kubejs:shaped: ['minecraft:spruce_slab', 'electrodynamics:gearcopper'] -> ['create:large_water_wheel']
-[15:56:48] [INFO ] server_scripts:script.js:680: - extendedcrafting:black_iron_ingot[minecraft:crafting_shapeless]: ['#forge:ingots/iron', '#forge:dyes/black'] -> ['extendedcrafting:black_iron_ingot']
-[15:56:48] [INFO ] server_scripts:script.js:681: + immersiveengineering:alloy: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:702: + kubejs:shaped: ['tconstruct:seared_brick', 'functionalstorage:copper_upgrade'] -> ['the_ages_of_times:seared_upgrade']
-[15:56:48] [INFO ] server_scripts:script.js:712: - notreepunching:smelting/string_from_plant_string[minecraft:smelting]: ['notreepunching:plant_string'] -> ['minecraft:string']
-[15:56:48] [INFO ] server_scripts:script.js:713: + atum:spinning_wheel: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:723: + atum:spinning_wheel: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:735: - minecraft:white_wool_from_string[minecraft:crafting_shaped]: ['minecraft:string'] -> ['minecraft:white_wool']
-[15:56:48] [INFO ] server_scripts:script.js:736: + atum:spinning_wheel: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:749: + atum:spinning_wheel: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:762: - minecraft:glass[minecraft:smelting]: ['#minecraft:sand'] -> ['minecraft:glass']
-[15:56:48] [INFO ] server_scripts:script.js:763: - ceramics:glass_kiln[ceramics:kiln]: ['#minecraft:sand'] -> ['minecraft:glass']
-[15:56:48] [INFO ] server_scripts:script.js:764: + minecraft:smelting: ['tconstruct:clear_glass'] -> ['minecraft:glass']
-[15:56:48] [INFO ] server_scripts:script.js:767: - multibeds:embroidery_thread[minecraft:crafting_shaped]: ['#forge:string', '#forge:rods/wooden', '#forge:nuggets/iron'] -> ['multibeds:embroidery_thread']
-[15:56:48] [INFO ] server_scripts:script.js:768: + kubejs:shaped: ['minecraft:black_dye', 'minecraft:feather'] -> ['multibeds:embroidery_thread']
-[15:56:48] [INFO ] server_scripts:script.js:776: + create:item_application: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:796: - minecraft:book[minecraft:crafting_shapeless]: ['minecraft:paper', 'minecraft:paper', 'minecraft:paper', 'minecraft:leather'] -> ['minecraft:book']
-[15:56:48] [INFO ] server_scripts:script.js:797: - atum:book[minecraft:crafting_shapeless]: ['#forge:paper', '#forge:paper', '#forge:paper', '#forge:leather'] -> ['minecraft:book']
-[15:56:48] [INFO ] server_scripts:script.js:800: + kubejs:shaped: ['the_ages_of_times:wooden_sheat', 'minecraft:andesite', 'create:shaft'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:horse_power"}')]
-[15:56:48] [INFO ] server_scripts:script.js:811: - minecraft:map[minecraft:crafting_shaped]: ['minecraft:paper', 'minecraft:compass'] -> ['minecraft:map']
-[15:56:48] [INFO ] server_scripts:script.js:814: + tconstruct:casting_table: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:831: + tconstruct:melting: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:845: + create:pressing: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:862: - minecolonies:blockhutfarmerstone[minecraft:crafting_shaped]: ['#minecraft:planks', 'minecraft:stone_hoe', 'structurize:sceptergold'] -> ['2x minecolonies:blockhutfarmer']
-[15:56:48] [INFO ] server_scripts:script.js:863: + extendedcrafting:shaped_table: ['the_ages_of_times:written_papyrus', 'atum:scroll', 'the_ages_of_times:glue', 'tconstruct:pattern'] -> ['the_ages_of_times:letter_book']
-[15:56:48] [INFO ] server_scripts:script.js:889: - minecolonies:blockhutblacksmith[minecraft:crafting_shaped]: ['#minecraft:planks', 'minecraft:iron_ingot', 'structurize:sceptergold'] -> ['minecolonies:blockhutblacksmith']
-[15:56:48] [INFO ] server_scripts:script.js:890: + extendedcrafting:shaped_table: ['minecraft:stick'] -> ['the_ages_of_times:long_stick']
-[15:56:48] [INFO ] server_scripts:script.js:908: + extendedcrafting:shaped_table: ['beyond_earth:iron_stick'] -> ['the_ages_of_times:pitchfork']
-[15:56:48] [INFO ] server_scripts:script.js:926: + tconstruct:casting_basin: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:941: + tconstruct:casting_table: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:956: + tconstruct:casting_table: [] -> []
-[15:56:48] [INFO ] server_scripts:script.js:971: + kubejs:shaped: ['the_ages_of_times:long_stick', 'the_ages_of_times:pitchfork'] -> [Item.of('magistuarmory:pitchfork', '{Damage:0}')]
-[15:56:48] [INFO ] server_scripts:script.js:980: - minecraft:cake[minecraft:crafting_shaped]: ['minecraft:milk_bucket', 'minecraft:sugar', 'minecraft:wheat', 'minecraft:egg'] -> ['minecraft:cake']
-[15:56:48] [INFO ] server_scripts:script.js:981: - bucketlib:cake[minecraft:crafting_shaped]: [{"type":"bucketlib:milk"}, 'minecraft:sugar', 'minecraft:wheat', '#forge:eggs'] -> ['minecraft:cake']
-[15:56:48] [INFO ] server_scripts:script.js:982: - atum:cake[minecraft:crafting_shaped]: ['minecraft:milk_bucket', 'minecraft:sugar', '#forge:crops/wheat', '#forge:eggs'] -> ['minecraft:cake']
-[15:56:48] [INFO ] server_scripts:script.js:983: - ceramics:cake[minecraft:crafting_shaped]: ['#forge:buckets/milk', 'minecraft:sugar', 'minecraft:wheat', 'minecraft:egg'] -> ['minecraft:cake']
-[15:56:48] [INFO ] server_scripts:script.js:984: - create:crafting/curiosities/cake[minecraft:crafting_shaped]: ['#forge:eggs', 'minecraft:sugar', '#forge:dough', 'minecraft:milk_bucket'] -> ['minecraft:cake']
-[15:56:48] [INFO ] server_scripts:script.js:985: - farmersdelight:cake_from_milk_bottle[minecraft:crafting_shaped]: ['#forge:milk', 'minecraft:sugar', '#forge:eggs', 'minecraft:wheat'] -> ['minecraft:cake']
-[15:56:48] [INFO ] server_scripts:script.js:986: - farmersdelight:honey_cookie[minecraft:crafting_shapeless]: ['minecraft:honey_bottle', 'minecraft:wheat', 'minecraft:wheat'] -> ['8x farmersdelight:honey_cookie']
-[15:56:48] [INFO ] server_scripts:script.js:987: - farmersdelight:sweet_berry_cookie[minecraft:crafting_shapeless]: ['minecraft:sweet_berries', 'minecraft:wheat', 'minecraft:wheat'] -> ['8x farmersdelight:sweet_berry_cookie']
-[15:56:48] [INFO ] server_scripts:script.js:988: - farmersdelight:chocolate_pie[minecraft:crafting_shaped]: ['minecraft:cocoa_beans', '#forge:milk', 'minecraft:sugar', 'farmersdelight:pie_crust'] -> ['farmersdelight:chocolate_pie']
-[15:56:48] [INFO ] server_scripts:script.js:989: - farmersdelight:sweet_berry_cheesecake[minecraft:crafting_shaped]: ['minecraft:sweet_berries', '#forge:milk', 'farmersdelight:pie_crust'] -> ['farmersdelight:sweet_berry_cheesecake']
-[15:56:48] [INFO ] server_scripts:script.js:990: - farmersdelight:apple_pie[minecraft:crafting_shaped]: ['minecraft:wheat', 'minecraft:apple', 'minecraft:sugar', 'farmersdelight:pie_crust'] -> ['farmersdelight:apple_pie']
-[15:56:48] [INFO ] server_scripts:script.js:991: - farmersdelight:bread_from_smelting[minecraft:smelting]: ['farmersdelight:wheat_dough'] -> ['minecraft:bread']
-[15:56:48] [INFO ] server_scripts:script.js:992: - farmersdelight:bread_from_smoking[minecraft:smoking]: ['farmersdelight:wheat_dough'] -> ['minecraft:bread']
-[15:56:48] [INFO ] server_scripts:script.js:993: - farmersdelight:wheat_dough_from_water[minecraft:crafting_shapeless]: ['minecraft:water_bucket', 'minecraft:wheat', 'minecraft:wheat', 'minecraft:wheat'] -> ['3x farmersdelight:wheat_dough']
-[15:56:48] [INFO ] server_scripts:script.js:993: - farmersdelight:wheat_dough_from_eggs[minecraft:crafting_shapeless]: ['#forge:eggs', 'minecraft:wheat', 'minecraft:wheat', 'minecraft:wheat'] -> ['3x farmersdelight:wheat_dough']
-[15:56:48] [INFO ] server_scripts:script.js:993: - bucketlib:farmersdelight/wheat_dough_from_water[minecraft:crafting_shapeless]: [{"type":"bucketlib:fluid","fluid":"minecraft:water"}, 'minecraft:wheat', 'minecraft:wheat', 'minecraft:wheat'] -> ['3x farmersdelight:wheat_dough']
-[15:56:49] [INFO ] server_scripts:script.js:994: - bucketlib:create/dough[minecraft:crafting_shapeless]: ['create:wheat_flour', {"type":"bucketlib:fluid","fluid":"minecraft:water"}] -> ['create:dough']
-[15:56:49] [INFO ] server_scripts:script.js:995: - create:crafting/appliances/dough[minecraft:crafting_shapeless]: ['#forge:flour/wheat', 'minecraft:water_bucket'] -> ['create:dough']
-[15:56:49] [INFO ] server_scripts:script.js:996: - minecolonies:baked_bread_campfire_cooking[minecraft:campfire_cooking]: ['minecolonies:bread_dough'] -> ['minecraft:bread']
-[15:56:49] [INFO ] server_scripts:script.js:997: - minecolonies:baked_bread[minecraft:smelting]: ['minecolonies:bread_dough'] -> ['minecraft:bread']
-[15:56:49] [INFO ] server_scripts:script.js:998: - minecolonies:baked_bread_smoking[minecraft:smoking]: ['minecolonies:bread_dough'] -> ['minecraft:bread']
-[15:56:49] [INFO ] server_scripts:script.js:999: - create:campfire_cooking/bread[minecraft:campfire_cooking]: ['create:dough'] -> ['minecraft:bread']
-[15:56:49] [INFO ] server_scripts:script.js:1000: - create:smelting/bread[minecraft:smelting]: ['create:dough'] -> ['minecraft:bread']
-[15:56:49] [INFO ] server_scripts:script.js:1001: - create:smoking/bread[minecraft:smoking]: ['create:dough'] -> ['minecraft:bread']
-[15:56:49] [INFO ] server_scripts:script.js:1002: - minecraft:bread[minecraft:crafting_shaped]: ['minecraft:wheat'] -> ['minecraft:bread']
-[15:56:49] [INFO ] server_scripts:script.js:1003: - farmersdelight:pie_crust[minecraft:crafting_shaped]: ['minecraft:wheat', '#forge:milk'] -> ['farmersdelight:pie_crust']
-[15:56:49] [INFO ] server_scripts:script.js:1004: - farmersdelight:fruit_salad[minecraft:crafting_shapeless]: ['minecraft:apple', 'minecraft:melon_slice', 'minecraft:melon_slice', '#forge:berries', '#forge:berries', 'farmersdelight:pumpkin_slice', 'minecraft:bowl'] -> ['farmersdelight:fruit_salad']
-[15:56:49] [INFO ] server_scripts:script.js:1005: - farmersdelight:mixed_salad[minecraft:crafting_shapeless]: ['#forge:salad_ingredients', '#forge:crops/tomato', 'minecraft:beetroot', 'minecraft:bowl'] -> ['farmersdelight:mixed_salad']
-[15:56:49] [INFO ] server_scripts:script.js:1006: - farmersdelight:nether_salad[minecraft:crafting_shapeless]: ['minecraft:crimson_fungus', 'minecraft:warped_fungus', 'minecraft:bowl'] -> ['farmersdelight:nether_salad']
-[15:56:49] [INFO ] server_scripts:script.js:1007: - farmersdelight:egg_sandwich[minecraft:crafting_shapeless]: ['#forge:bread', '#forge:cooked_eggs', '#forge:cooked_eggs'] -> ['farmersdelight:egg_sandwich']
-[15:56:49] [INFO ] server_scripts:script.js:1008: - farmersdelight:cod_roll[minecraft:crafting_shapeless]: ['farmersdelight:cod_slice', 'farmersdelight:cod_slice', 'farmersdelight:cooked_rice'] -> ['2x farmersdelight:cod_roll']
-[15:56:49] [INFO ] server_scripts:script.js:1009: - farmersdelight:salmon_roll[minecraft:crafting_shapeless]: ['farmersdelight:salmon_slice', 'farmersdelight:salmon_slice', 'farmersdelight:cooked_rice'] -> ['2x farmersdelight:salmon_roll']
-[15:56:49] [INFO ] server_scripts:script.js:1010: - farmersdelight:kelp_roll[minecraft:crafting_shaped]: ['minecraft:dried_kelp', 'farmersdelight:cooked_rice', 'minecraft:carrot'] -> ['farmersdelight:kelp_roll']
-[15:56:49] [INFO ] server_scripts:script.js:1011: - farmersdelight:bacon_and_eggs[minecraft:crafting_shapeless]: ['farmersdelight:cooked_bacon', 'farmersdelight:cooked_bacon', 'minecraft:bowl', '#forge:cooked_eggs', '#forge:cooked_eggs'] -> ['farmersdelight:bacon_and_eggs']
-[15:56:49] [INFO ] server_scripts:script.js:1012: - farmersdelight:roasted_mutton_chops[minecraft:crafting_shapeless]: ['farmersdelight:cooked_mutton_chops', 'minecraft:beetroot', 'minecraft:bowl', 'farmersdelight:cooked_rice', '#forge:crops/tomato'] -> ['farmersdelight:roasted_mutton_chops']
-[15:56:49] [INFO ] server_scripts:script.js:1013: - farmersdelight:steak_and_potatoes[minecraft:crafting_shapeless]: ['minecraft:baked_potato', 'minecraft:cooked_beef', 'minecraft:bowl', '#forge:crops/onion', 'farmersdelight:cooked_rice'] -> ['farmersdelight:steak_and_potatoes']
-[15:56:49] [INFO ] server_scripts:script.js:1014: - farmersdelight:rice_roll_medley_block[minecraft:crafting_shapeless]: ['farmersdelight:kelp_roll_slice', 'farmersdelight:kelp_roll_slice', 'farmersdelight:kelp_roll_slice', 'farmersdelight:salmon_roll', 'farmersdelight:salmon_roll', 'farmersdelight:salmon_roll', 'farmersdelight:cod_roll', 'minecraft:bowl', 'farmersdelight:cod_roll'] -> ['farmersdelight:rice_roll_medley_block']
-[15:56:49] [INFO ] server_scripts:script.js:1015: - farmersdelight:roast_chicken_block[minecraft:crafting_shapeless]: ['#forge:crops/onion', '#forge:eggs', 'minecraft:bread', 'minecraft:carrot', 'minecraft:cooked_chicken', 'minecraft:baked_potato', 'minecraft:carrot', 'minecraft:bowl', 'minecraft:baked_potato'] -> ['farmersdelight:roast_chicken_block']
-[15:56:49] [INFO ] server_scripts:script.js:1016: - farmersdelight:honey_glazed_ham_block[minecraft:crafting_shapeless]: ['minecraft:sweet_berries', 'minecraft:honey_bottle', 'minecraft:sweet_berries', 'minecraft:sweet_berries', 'farmersdelight:smoked_ham', 'minecraft:sweet_berries', 'farmersdelight:cooked_rice', 'minecraft:bowl', 'farmersdelight:cooked_rice'] -> ['farmersdelight:honey_glazed_ham_block']
-[15:56:49] [INFO ] server_scripts:script.js:1017: - farmersdelight:horse_feed[minecraft:crafting_shapeless]: [['minecraft:hay_block', 'farmersdelight:rice_bale'], 'minecraft:apple', 'minecraft:apple', 'minecraft:golden_carrot'] -> ['farmersdelight:horse_feed']
-[15:56:49] [INFO ] server_scripts:script.js:1018: - farmersdelight:hamburger[minecraft:crafting_shapeless]: ['#forge:bread', 'farmersdelight:beef_patty', '#forge:salad_ingredients', '#forge:crops/tomato', '#forge:crops/onion'] -> ['farmersdelight:hamburger']
-[15:56:49] [INFO ] server_scripts:script.js:1019: - farmersdelight:bacon_sandwich[minecraft:crafting_shapeless]: ['#forge:bread', '#forge:cooked_bacon', '#forge:salad_ingredients', '#forge:crops/tomato'] -> ['farmersdelight:bacon_sandwich']
-[15:56:49] [INFO ] server_scripts:script.js:1020: - farmersdelight:grilled_salmon[minecraft:crafting_shapeless]: ['#forge:cooked_fishes/salmon', 'minecraft:sweet_berries', 'minecraft:bowl', '#forge:crops/cabbage', '#forge:crops/onion'] -> ['farmersdelight:grilled_salmon']
-[15:56:49] [INFO ] server_scripts:script.js:1021: - farmersdelight:chicken_sandwich[minecraft:crafting_shapeless]: ['#forge:bread', '#forge:cooked_chicken', '#forge:salad_ingredients', 'minecraft:carrot'] -> ['farmersdelight:chicken_sandwich']
-[15:56:49] [INFO ] server_scripts:script.js:1022: - farmersdelight:shepherds_pie_block[minecraft:crafting_shapeless]: ['minecraft:baked_potato', '#forge:milk', 'minecraft:baked_potato', '#forge:cooked_mutton', '#forge:cooked_mutton', '#forge:cooked_mutton', '#forge:crops/onion', 'minecraft:bowl', '#forge:crops/onion'] -> ['farmersdelight:shepherds_pie_block']
-[15:56:49] [INFO ] server_scripts:script.js:1023: - farmersdelight:stuffed_potato[minecraft:crafting_shapeless]: ['minecraft:baked_potato', '#forge:cooked_beef', '#forge:milk'] -> ['farmersdelight:stuffed_potato']
-[15:56:49] [INFO ] server_scripts:script.js:1024: - farmersdelight:mutton_wrap[minecraft:crafting_shapeless]: ['#forge:bread', '#forge:cooked_mutton', '#forge:salad_ingredients', '#forge:crops/onion'] -> ['farmersdelight:mutton_wrap']
-[15:56:49] [INFO ] server_scripts:script.js:1025: - farmersdelight:barbecue_stick[minecraft:crafting_shapeless]: ['#forge:crops/tomato', '#forge:crops/onion', ['#forge:cooked_beef', '#forge:cooked_pork', '#forge:cooked_chicken', '#forge:cooked_mutton', '#forge:cooked_fishes', 'minecraft:cooked_rabbit'], 'minecraft:stick'] -> ['farmersdelight:barbecue_stick']
-[15:56:49] [INFO ] server_scripts:tree.js:3: - minecraft:oak_planks[minecraft:crafting_shapeless]: ['#minecraft:oak_logs'] -> ['4x minecraft:oak_planks']
-[15:56:49] [INFO ] server_scripts:tree.js:4: - minecraft:spruce_planks[minecraft:crafting_shapeless]: ['#minecraft:spruce_logs'] -> ['4x minecraft:spruce_planks']
-[15:56:49] [INFO ] server_scripts:tree.js:5: - minecraft:birch_planks[minecraft:crafting_shapeless]: ['#minecraft:birch_logs'] -> ['4x minecraft:birch_planks']
-[15:56:49] [INFO ] server_scripts:tree.js:6: - minecraft:jungle_planks[minecraft:crafting_shapeless]: ['#minecraft:jungle_logs'] -> ['4x minecraft:jungle_planks']
-[15:56:49] [INFO ] server_scripts:tree.js:7: - minecraft:acacia_planks[minecraft:crafting_shapeless]: ['#minecraft:acacia_logs'] -> ['4x minecraft:acacia_planks']
-[15:56:49] [INFO ] server_scripts:tree.js:8: - minecraft:dark_oak_planks[minecraft:crafting_shapeless]: ['#minecraft:dark_oak_logs'] -> ['4x minecraft:dark_oak_planks']
-[15:56:49] [INFO ] server_scripts:tree.js:9: - notreepunching:acacia_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:10: - notreepunching:acacia_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:11: - notreepunching:birch_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:12: - notreepunching:birch_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:13: - notreepunching:dark_oak_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:14: - notreepunching:dark_oak_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:15: - notreepunching:jungle_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:16: - notreepunching:jungle_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:17: - notreepunching:oak_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:18: - notreepunching:oak_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:19: - notreepunching:spruce_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:20: - notreepunching:spruce_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:24: + lychee:block_interacting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:49: + farmersdelight:cutting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:70: + farmersdelight:cutting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:91: + farmersdelight:cutting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:112: + farmersdelight:cutting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:133: + farmersdelight:cutting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:154: + farmersdelight:cutting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
-[15:56:49] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
-[15:56:49] [INFO ] server_scripts:turntable.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntable, time=40, requirements=[custommachinery:block, custommachinery:contraption], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
-[15:56:49] [INFO ] server_scripts:turntable.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntable, time=40, requirements=[custommachinery:block, custommachinery:contraption], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
-[15:56:49] [INFO ] server_scripts:turntable.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntable, time=40, requirements=[custommachinery:block, custommachinery:contraption], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
-[15:56:49] [INFO ] server_scripts:turntable.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntable, time=40, requirements=[custommachinery:block, custommachinery:contraption], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
-[15:56:49] [INFO ] server_scripts:turntable_jei.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntableinjei, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:49] [INFO ] server_scripts:turntable_jei.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntableinjei, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:49] [INFO ] server_scripts:turntable_jei.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntableinjei, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:49] [INFO ] server_scripts:turntable_jei.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntableinjei, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
-[15:56:49] [INFO ] server_scripts:unification.js:3: - tconstruct:common/materials/copper_ingot_from_nuggets[minecraft:crafting_shaped]: ['#forge:nuggets/copper', 'tconstruct:copper_nugget'] -> ['minecraft:copper_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:4: - tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x tconstruct:copper_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:5: - create:crafting/materials/copper_nugget[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x create:copper_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:6: - createaddition:crafting/electrum_ingot[minecraft:crafting_shaped]: ['#forge:nuggets/electrum'] -> ['createaddition:electrum_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:7: - createaddition:crafting/electrum_nugget[minecraft:crafting_shapeless]: ['createaddition:electrum_ingot'] -> ['9x createaddition:electrum_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:8: - beyond_earth:steel_block[minecraft:crafting_shaped]: ['beyond_earth:steel_ingot', '#forge:ingots/steel'] -> ['beyond_earth:steel_block']
-[15:56:49] [INFO ] server_scripts:unification.js:9: - beyond_earth:steel_ingot[minecraft:crafting_shaped]: ['beyond_earth:steel_block'] -> ['9x beyond_earth:steel_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:10: - beyond_earth:steel_ingot_from_nugget[minecraft:crafting_shaped]: ['beyond_earth:steel_nugget', '#forge:nuggets/steel'] -> ['beyond_earth:steel_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:11: - beyond_earth:steel_nugget_from_ingot[minecraft:crafting_shapeless]: ['beyond_earth:steel_ingot'] -> ['9x beyond_earth:steel_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:12: - beyond_earth:steel_ingot_blasting[minecraft:blasting]: ['minecraft:iron_ingot'] -> ['beyond_earth:steel_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:13: - car:iron_stick[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['car:iron_stick']
-[15:56:49] [INFO ] server_scripts:unification.js:14: - immersiveengineering:crafting/nugget_copper_to_copper_ingot[minecraft:crafting_shaped]: ['#forge:nuggets/copper', 'immersiveengineering:nugget_copper'] -> ['minecraft:copper_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:15: - immersiveengineering:crafting/copper_ingot_to_nugget_copper[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x immersiveengineering:nugget_copper']
-[15:56:49] [INFO ] server_scripts:unification.js:16: - immersiveengineering:crafting/ingot_lead_to_storage_lead[minecraft:crafting_shaped]: ['#forge:ingots/lead', 'immersiveengineering:ingot_lead'] -> ['immersiveengineering:storage_lead']
-[15:56:49] [INFO ] server_scripts:unification.js:17: - immersiveengineering:crafting/storage_lead_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_lead'] -> ['immersiveengineering:storage_lead']
-[15:56:49] [INFO ] server_scripts:unification.js:18: - immersiveengineering:crafting/storage_lead_to_ingot_lead[minecraft:crafting_shapeless]: ['immersiveengineering:storage_lead'] -> ['9x immersiveengineering:ingot_lead']
-[15:56:49] [INFO ] server_scripts:unification.js:19: - immersiveengineering:crafting/storage_lead_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_lead'] -> ['6x immersiveengineering:slab_storage_lead']
-[15:56:49] [INFO ] server_scripts:unification.js:20: - immersiveengineering:crafting/raw_block_lead_to_raw_lead[minecraft:crafting_shapeless]: ['immersiveengineering:raw_block_lead'] -> ['9x immersiveengineering:raw_lead']
-[15:56:49] [INFO ] server_scripts:unification.js:21: - immersiveengineering:crafting/raw_lead_to_raw_block_lead[minecraft:crafting_shaped]: ['#forge:raw_materials/lead', 'immersiveengineering:raw_lead'] -> ['immersiveengineering:raw_block_lead']
-[15:56:49] [INFO ] server_scripts:unification.js:22: - immersiveengineering:crafting/nugget_silver_to_ingot_silver[minecraft:crafting_shaped]: ['#forge:nuggets/silver', 'immersiveengineering:nugget_silver'] -> ['immersiveengineering:ingot_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:23: - immersiveengineering:crafting/ingot_silver_to_nugget_silver[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_silver'] -> ['9x immersiveengineering:nugget_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:24: - immersiveengineering:crafting/ingot_silver_to_storage_silver[minecraft:crafting_shaped]: ['#forge:ingots/silver', 'immersiveengineering:ingot_silver'] -> ['immersiveengineering:storage_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:25: - immersiveengineering:crafting/storage_silver_to_ingot_silver[minecraft:crafting_shapeless]: ['immersiveengineering:storage_silver'] -> ['9x immersiveengineering:ingot_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:26: - immersiveengineering:crafting/storage_silver_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_silver'] -> ['6x immersiveengineering:slab_storage_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:27: - immersiveengineering:crafting/storage_silver_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_silver'] -> ['immersiveengineering:storage_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:28: - immersiveengineering:crafting/raw_block_silver_to_raw_silver[minecraft:crafting_shapeless]: ['immersiveengineering:raw_block_silver'] -> ['9x immersiveengineering:raw_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:29: - immersiveengineering:crafting/raw_silver_to_raw_block_silver[minecraft:crafting_shaped]: ['#forge:raw_materials/silver', 'immersiveengineering:raw_silver'] -> ['immersiveengineering:raw_block_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:30: - immersiveengineering:crafting/ingot_aluminum_to_storage_aluminum[minecraft:crafting_shaped]: ['#forge:ingots/aluminum', 'immersiveengineering:ingot_aluminum'] -> ['immersiveengineering:storage_aluminum']
-[15:56:49] [INFO ] server_scripts:unification.js:31: - immersiveengineering:crafting/storage_aluminum_to_ingot_aluminum[minecraft:crafting_shapeless]: ['immersiveengineering:storage_aluminum'] -> ['9x immersiveengineering:ingot_aluminum']
-[15:56:49] [INFO ] server_scripts:unification.js:32: - immersiveengineering:crafting/storage_aluminum_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_aluminum'] -> ['immersiveengineering:storage_aluminum']
-[15:56:49] [INFO ] server_scripts:unification.js:33: - immersiveengineering:crafting/storage_aluminum_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_aluminum'] -> ['6x immersiveengineering:slab_storage_aluminum']
-[15:56:49] [INFO ] server_scripts:unification.js:34: - immersiveengineering:crafting/ingot_steel_to_nugget_steel[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_steel'] -> ['9x immersiveengineering:nugget_steel']
-[15:56:49] [INFO ] server_scripts:unification.js:35: - immersiveengineering:crafting/ingot_steel_to_storage_steel[minecraft:crafting_shaped]: ['#forge:ingots/steel', 'immersiveengineering:ingot_steel'] -> ['immersiveengineering:storage_steel']
-[15:56:49] [INFO ] server_scripts:unification.js:36: - immersiveengineering:crafting/storage_steel_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_steel'] -> ['immersiveengineering:storage_steel']
-[15:56:49] [INFO ] server_scripts:unification.js:37: - immersiveengineering:crafting/storage_steel_to_ingot_steel[minecraft:crafting_shapeless]: ['immersiveengineering:storage_steel'] -> ['9x immersiveengineering:ingot_steel']
-[15:56:49] [INFO ] server_scripts:unification.js:38: - immersiveengineering:crafting/nugget_steel_to_ingot_steel[minecraft:crafting_shaped]: ['#forge:nuggets/steel', 'immersiveengineering:nugget_steel'] -> ['immersiveengineering:ingot_steel']
-[15:56:49] [INFO ] server_scripts:unification.js:39: - immersiveengineering:crafting/stick_iron[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['4x immersiveengineering:stick_iron']
-[15:56:49] [INFO ] server_scripts:unification.js:40: - immersiveengineering:smelting/ingot_lead_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_lead'] -> ['immersiveengineering:ingot_lead']
-[15:56:49] [INFO ] server_scripts:unification.js:41: - immersiveengineering:smelting/ingot_lead_from_dust[minecraft:smelting]: ['immersiveengineering:dust_lead'] -> ['immersiveengineering:ingot_lead']
-[15:56:49] [INFO ] server_scripts:unification.js:42: - immersiveengineering:smelting/copper_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_copper'] -> ['minecraft:copper_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:43: - immersiveengineering:smelting/copper_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_copper'] -> ['minecraft:copper_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:44: - immersiveengineering:smelting/ingot_lead_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_lead'] -> ['immersiveengineering:ingot_lead']
-[15:56:49] [INFO ] server_scripts:unification.js:45: - immersiveengineering:smelting/ingot_lead3[minecraft:smelting]: ['immersiveengineering:raw_lead'] -> ['immersiveengineering:ingot_lead']
-[15:56:49] [INFO ] server_scripts:unification.js:46: - immersiveengineering:smelting/ingot_silver_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_silver'] -> ['immersiveengineering:ingot_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:47: - immersiveengineering:smelting/ingot_silver_from_dust[minecraft:smelting]: ['immersiveengineering:dust_silver'] -> ['immersiveengineering:ingot_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:48: - immersiveengineering:smelting/ingot_silver_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_silver'] -> ['immersiveengineering:ingot_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:49: - immersiveengineering:smelting/ingot_silver3[minecraft:smelting]: ['immersiveengineering:raw_silver'] -> ['immersiveengineering:ingot_silver']
-[15:56:49] [INFO ] server_scripts:unification.js:50: - immersiveengineering:smelting/ingot_aluminum[minecraft:smelting]: ['immersiveengineering:ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[15:56:49] [INFO ] server_scripts:unification.js:51: - immersiveengineering:smelting/ingot_aluminum2[minecraft:smelting]: ['immersiveengineering:deepslate_ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[15:56:49] [INFO ] server_scripts:unification.js:52: - immersiveengineering:smelting/ingot_aluminum3[minecraft:smelting]: ['immersiveengineering:raw_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[15:56:49] [INFO ] server_scripts:unification.js:53: - immersiveengineering:smelting/ingot_aluminum_from_blasting[minecraft:blasting]: ['immersiveengineering:ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[15:56:49] [INFO ] server_scripts:unification.js:54: - immersiveengineering:smelting/ingot_aluminum_from_blasting2[minecraft:blasting]: ['immersiveengineering:deepslate_ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[15:56:49] [INFO ] server_scripts:unification.js:55: - immersiveengineering:smelting/ingot_aluminum_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_aluminum'] -> ['immersiveengineering:ingot_aluminum']
-[15:56:49] [INFO ] server_scripts:unification.js:56: - immersiveengineering:smelting/gold_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_gold'] -> ['minecraft:gold_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:57: - immersiveengineering:smelting/gold_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_gold'] -> ['minecraft:gold_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:58: - immersiveengineering:smelting/iron_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_iron'] -> ['minecraft:iron_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:59: - immersiveengineering:smelting/iron_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_iron'] -> ['minecraft:iron_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:60: - immersiveengineering:smelting/ingot_steel_from_dust[minecraft:smelting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
-[15:56:49] [INFO ] server_scripts:unification.js:61: - immersiveengineering:smelting/ingot_steel_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
-[15:56:49] [INFO ] server_scripts:unification.js:62: - alchemistry:copper_ingot_from_blasting_copper_dust[minecraft:blasting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:63: - alchemistry:copper_ingot_from_smelting_copper_dust[minecraft:smelting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:64: - alchemistry:iron_ingot_from_smelting_iron_dust[minecraft:smelting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:65: - alchemistry:iron_ingot_from_blasting_iron_dust[minecraft:blasting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:66: - alchemistry:gold_ingot_from_smelting_gold_dust[minecraft:smelting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:67: - alchemistry:gold_ingot_from_blasting_gold_dust[minecraft:blasting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:68: - chemlib:tin_ingot_from_blasting_tin_dust[minecraft:blasting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:69: - chemlib:tin_ingot_from_smelting_tin_dust[minecraft:smelting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:70: - chemlib:lead_ingot_from_blasting_lead_dust[minecraft:blasting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:71: - chemlib:lead_ingot_from_smelting_lead_dust[minecraft:smelting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:72: - chemlib:silver_ingot_from_smelting_silver_dust[minecraft:smelting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:73: - chemlib:silver_ingot_from_blasting_silver_dust[minecraft:blasting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:74: - chemlib:aluminum_ingot_from_smelting_aluminum_dust[minecraft:smelting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:75: - chemlib:aluminum_ingot_from_blasting_aluminum_dust[minecraft:blasting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:76: - chemlib:nickel_ingot_from_smelting_nickel_dust[minecraft:smelting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:77: - chemlib:nickel_ingot_from_blasting_nickel_dust[minecraft:blasting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:78: - chemlib:molybdenum_ingot_from_smelting_molybdenum_dust[minecraft:smelting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:79: - chemlib:molybdenum_ingot_from_blasting_molybdenum_dust[minecraft:blasting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:80: - chemlib:lithium_ingot_from_smelting_lithium_dust[minecraft:smelting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:81: - chemlib:lithium_ingot_from_blasting_lithium_dust[minecraft:blasting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:82: - chemlib:vanadium_ingot_from_smelting_vanadium_dust[minecraft:smelting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:83: - chemlib:vanadium_ingot_from_blasting_vanadium_dust[minecraft:blasting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:84: - chemlib:thorium_ingot_from_smelting_thorium_dust[minecraft:smelting]: ['chemlib:thorium_dust'] -> ['chemlib:thorium_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:85: - chemlib:thorium_ingot_from_blasting_thorium_dust[minecraft:blasting]: ['chemlib:thorium_dust'] -> ['chemlib:thorium_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:86: - chemlib:tin_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:tin_ingot'] -> ['9x chemlib:tin_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:87: - chemlib:tin_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:tin_nugget'] -> ['chemlib:tin_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:88: - chemlib:tin_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:tin_metal_block'] -> ['9x chemlib:tin_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:89: - chemlib:tin_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:tin_ingot'] -> ['chemlib:tin_metal_block']
-[15:56:49] [INFO ] server_scripts:unification.js:90: - chemlib:lead_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:lead_ingot'] -> ['chemlib:lead_metal_block']
-[15:56:49] [INFO ] server_scripts:unification.js:91: - chemlib:lead_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:lead_metal_block'] -> ['9x chemlib:lead_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:92: - chemlib:lead_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:lead_ingot'] -> ['9x chemlib:lead_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:93: - chemlib:lead_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:lead_nugget'] -> ['chemlib:lead_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:94: - chemlib:silver_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:silver_ingot'] -> ['chemlib:silver_metal_block']
-[15:56:49] [INFO ] server_scripts:unification.js:95: - chemlib:silver_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:silver_metal_block'] -> ['9x chemlib:silver_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:96: - chemlib:silver_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:silver_nugget'] -> ['chemlib:silver_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:97: - chemlib:silver_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:silver_ingot'] -> ['9x chemlib:silver_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:98: - chemlib:aluminum_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:aluminum_ingot'] -> ['9x chemlib:aluminum_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:99: - chemlib:aluminum_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:aluminum_nugget'] -> ['chemlib:aluminum_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:100: - chemlib:aluminum_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:aluminum_ingot'] -> ['chemlib:aluminum_metal_block']
-[15:56:49] [INFO ] server_scripts:unification.js:101: - chemlib:aluminum_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:aluminum_metal_block'] -> ['9x chemlib:aluminum_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:102: - chemlib:nickel_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:nickel_ingot'] -> ['9x chemlib:nickel_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:103: - chemlib:nickel_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:nickel_nugget'] -> ['chemlib:nickel_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:104: - chemlib:nickel_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:nickel_ingot'] -> ['chemlib:nickel_metal_block']
-[15:56:49] [INFO ] server_scripts:unification.js:105: - chemlib:nickel_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:nickel_metal_block'] -> ['9x chemlib:nickel_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:106: - chemlib:zinc_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:zinc_nugget'] -> ['chemlib:zinc_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:107: - chemlib:zinc_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:zinc_ingot'] -> ['9x chemlib:zinc_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:108: - chemlib:zinc_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:zinc_ingot'] -> ['chemlib:zinc_metal_block']
-[15:56:49] [INFO ] server_scripts:unification.js:109: - chemlib:zinc_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:zinc_metal_block'] -> ['9x chemlib:zinc_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:110: - chemlib:cobalt_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:cobalt_ingot'] -> ['9x chemlib:cobalt_nugget']
-[15:56:49] [INFO ] server_scripts:unification.js:111: - chemlib:cobalt_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:cobalt_nugget'] -> ['chemlib:cobalt_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:112: - chemlib:cobalt_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:cobalt_ingot'] -> ['chemlib:cobalt_metal_block']
-[15:56:49] [INFO ] server_scripts:unification.js:113: - chemlib:cobalt_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:cobalt_metal_block'] -> ['9x chemlib:cobalt_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:114: - chemlib:titanium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:titanium_ingot'] -> ['chemlib:titanium_metal_block']
-[15:56:49] [INFO ] server_scripts:unification.js:115: - chemlib:titanium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:titanium_metal_block'] -> ['9x chemlib:titanium_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:116: - chemlib:chromium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:chromium_ingot'] -> ['chemlib:chromium_metal_block']
-[15:56:49] [INFO ] server_scripts:unification.js:117: - chemlib:chromium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:chromium_metal_block'] -> ['9x chemlib:chromium_ingot']
-[15:56:49] [INFO ] server_scripts:unification.js:118: - butchersdelight:re_saltcipe[minecraft:smoking]: ['minecraft:water_bucket'] -> ['butchersdelight:item_salt']
-[15:56:49] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-121B,16B,96B,64B,2B,-28B,-16B,105B,109B,62B,101B,124B,0B,44B,13B,110B,65B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:aletter']
-[15:56:49] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,7B,25B,48B,48B,-4B,-63B,-32B,51B,32B,1B,-120B,24B,101B,-4B,-63B,101B,31B,0B,-100B,75B,122B,17B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:bletter']
-[15:56:49] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-121B,16B,96B,64B,1B,67B,-113B,-113B,31B,0B,0B,36B,68B,86B,-95B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:cletter']
-[15:56:49] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,7B,25B,48B,48B,-4B,-63B,-32B,51B,32B,1B,-120B,-40B,-48B,-30B,-29B,-9B,31B,0B,-98B,77B,102B,97B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:dletter']
-[15:56:49] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-121B,16B,96B,64B,1B,-108B,-13B,81B,13B,-58B,-28B,-45B,-52B,62B,-84B,0B,0B,36B,59B,104B,89B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:eletter']
-[15:56:49] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-121B,16B,96B,64B,1B,-108B,-13B,81B,-51B,-59B,-28B,83B,-37B,62B,-4B,124B,0B,-128B,-58B,74B,-47B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:fletter']
-[15:56:49] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-121B,16B,96B,64B,1B,84B,-30B,-93B,-101B,-113B,-61B,62B,106B,-16B,-15B,3B,0B,80B,-123B,114B,49B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:gletter']
-[15:56:49] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-25B,-49B,31B,6B,40B,-8B,3B,5B,-44B,-26B,83B,10B,104B,-23B,62B,0B,20B,97B,-99B,-127B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:hletter']
-[15:56:49] [INFO ] server_scripts:writting.js:19: + kubejs:shaped: ['the_ages_of_times:stone_tablet'] -> [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')]
-[15:56:49] [INFO ] server_scripts:writting.js:25: + kubejs:shaped: ['minecraft:stone'] -> [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')]
-[15:56:49] [INFO ] Posted recipe events in 207.5 ms
-[15:56:49] [INFO ] Modified & removed recipes in 154.2 ms
-[15:56:49] [INFO ] Added recipes in 6.347 ms
-[15:56:49] [INFO ] Added 212 recipes, removed 271 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
-[15:56:52] [INFO ] Collecting Custom Machine upgrades from JS scripts.
+[09:16:13] [INFO ] Loaded script server_scripts:alembic.js in 0.008 s
+[09:16:13] [INFO ] Loaded script server_scripts:anvil.js in 0.001 s
+[09:16:13] [INFO ] Loaded script server_scripts:bladderandbarrel.js in 0.001 s
+[09:16:13] [INFO ] Loaded script server_scripts:computer.js in 0.0 s
+[09:16:13] [INFO ] Loaded script server_scripts:customitemcreate.js in 0.001 s
+[09:16:13] [INFO ] Loaded script server_scripts:horse.js in 0.003 s
+[09:16:13] [INFO ] Loaded script server_scripts:leather.js in 0.003 s
+[09:16:13] [INFO ] Loaded script server_scripts:melter.js in 0.001 s
+[09:16:13] [INFO ] Loaded script server_scripts:pottery.js in 0.001 s
+[09:16:13] [INFO ] Loaded script server_scripts:quern.js in 0.0 s
+[09:16:13] [INFO ] Loaded script server_scripts:script.js in 0.01 s
+[09:16:13] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[09:16:13] [INFO ] Loaded script server_scripts:settings.js in 0.001 s
+[09:16:13] [INFO ] Loaded script server_scripts:tree.js in 0.002 s
+[09:16:13] [INFO ] Loaded script server_scripts:turntable.js in 0.001 s
+[09:16:13] [INFO ] Loaded script server_scripts:turntable_jei.js in 0.001 s
+[09:16:13] [INFO ] Loaded script server_scripts:TYRESDFGG.js in 0.004 s
+[09:16:13] [INFO ] Loaded script server_scripts:unification.js in 0.007 s
+[09:16:13] [INFO ] Loaded script server_scripts:writting.js in 0.001 s
+[09:16:13] [INFO ] Loaded 18/18 KubeJS server scripts in 0.055 s
+[09:16:13] [INFO ] Scripts loaded
+[09:16:13] [INFO ] Scanning recipes...
+[09:16:19] [INFO ] [fluids] Found 192 tags, added 41 objects, removed 22 objects
+[09:16:20] [INFO ] [items] Found 1576 tags, added 38 objects, removed 110 objects
+[09:16:37] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/filling_cracked_clay_bucket[tconstruct:table_filling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:cracked_clay_bucket'
+[09:16:37] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/filling_cracked_clay_bucket[tconstruct:table_filling]: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:cracked_clay_bucket'
+[09:16:37] [WARN ] Failed to parse recipe 'mctb:cherry_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[09:16:37] [WARN ] Failed to parse recipe mctb:cherry_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[09:16:37] [WARN ] Failed to parse recipe 'mctb:blossom_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:blossom_planks'
+[09:16:37] [WARN ] Failed to parse recipe mctb:blossom_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:blossom_planks'
+[09:16:37] [WARN ] Failed to parse recipe 'mctb:redwood_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[09:16:37] [WARN ] Failed to parse recipe mctb:redwood_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[09:16:37] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/clay/bricks_3[tconstruct:melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ceramics:clay_bucket'
+[09:16:37] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/clay/bricks_3[tconstruct:melting]: com.google.gson.JsonSyntaxException: Unknown item 'ceramics:clay_bucket'
+[09:16:37] [WARN ] Failed to parse recipe 'mctb:magic_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[09:16:37] [WARN ] Failed to parse recipe mctb:magic_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[09:16:37] [WARN ] Failed to parse recipe 'mctb:willow_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[09:16:37] [WARN ] Failed to parse recipe mctb:willow_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[09:16:37] [WARN ] Failed to parse recipe 'mctb:azalea_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:azalea_planks'
+[09:16:37] [WARN ] Failed to parse recipe mctb:azalea_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:azalea_planks'
+[09:16:37] [WARN ] Failed to parse recipe 'mctb:mahogany_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[09:16:37] [WARN ] Failed to parse recipe mctb:mahogany_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[09:16:37] [WARN ] Failed to parse recipe 'mctb:palm_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[09:16:37] [WARN ] Failed to parse recipe mctb:palm_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[09:16:38] [WARN ] Failed to parse recipe 'mctb:jacaranda_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[09:16:38] [WARN ] Failed to parse recipe mctb:jacaranda_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[09:16:38] [WARN ] Failed to parse recipe 'mctb:umbran_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[09:16:38] [WARN ] Failed to parse recipe mctb:umbran_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[09:16:38] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/porcelain/golden_bricks_slab[tconstruct:melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid minecraft:empty
+[09:16:38] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/porcelain/golden_bricks_slab[tconstruct:melting]: com.google.gson.JsonSyntaxException: Unknown fluid minecraft:empty
+[09:16:38] [WARN ] Failed to parse recipe 'mctb:hellbark_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[09:16:38] [WARN ] Failed to parse recipe mctb:hellbark_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[09:16:38] [WARN ] Failed to parse recipe 'tconstruct:compat/ceramics/filling_clay_bucket[tconstruct:table_filling]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:clay_bucket'
+[09:16:38] [WARN ] Failed to parse recipe tconstruct:compat/ceramics/filling_clay_bucket[tconstruct:table_filling]: com.google.gson.JsonSyntaxException: Expected container to be an item, was unknown string 'ceramics:clay_bucket'
+[09:16:38] [WARN ] Failed to parse recipe 'mctb:fir_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[09:16:38] [WARN ] Failed to parse recipe mctb:fir_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[09:16:38] [WARN ] Failed to parse recipe 'mctb:dead_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[09:16:38] [WARN ] Failed to parse recipe mctb:dead_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[09:16:38] [INFO ] Found 15280 recipes and 0 failed recipes in 598.5 ms
+[09:16:38] [INFO ] server_scripts:alembic.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:415: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:277: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:111: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:56: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:321: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:321: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:321: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:277: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:175: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:111: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:365: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:226: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=80, requirements=[custommachinery:item, custommachinery:item, custommachinery:fluid, custommachinery:item, custommachinery:item, custommachinery:fuel], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:452: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:alembic.js:484: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:alembic, time=10, requirements=[custommachinery:item, custommachinery:fluid, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:3: + lychee:anvil_crafting: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:anvil.js:34: + lychee:block_crushing: [] -> []
+[09:16:38] [INFO ] server_scripts:bladderandbarrel.js:35: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:bladderandbarrel.js:35: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:bladderandbarrel.js:4: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:bladderandbarrel.js:4: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:bladderandbarrel.js:61: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:bladderandbarrel.js:83: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:computer.js:3: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:horse_power, time=1000, requirements=[custommachinery:structure, custommachinery:contraption, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:customitemcreate.js:3: + create:sequenced_assembly: [] -> []
+[09:16:38] [INFO ] server_scripts:horse.js:3: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:horse_power, time=3, requirements=[custommachinery:entity, custommachinery:entity, custommachinery:structure, custommachinery:contraption, custommachinery:command, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
+[09:16:38] [INFO ] server_scripts:horse.js:65: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:horse_power, time=1, requirements=[custommachinery:block, custommachinery:block], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
+[09:16:38] [INFO ] server_scripts:horse.js:93: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:horselol, time=3000, requirements=[custommachinery:command, custommachinery:command], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
+[09:16:38] [INFO ] server_scripts:leather.js:185: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:185: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:185: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:185: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:202: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:202: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:202: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:4: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:40: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:40: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:71: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:71: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:104: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:132: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:160: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:247: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:leather.js:276: + farmersdelight:cutting: [] -> []
+[09:16:38] [INFO ] server_scripts:melter.js:3: + melter:melting: [] -> []
+[09:16:38] [INFO ] server_scripts:melter.js:4: + melter:melting: [] -> []
+[09:16:38] [INFO ] server_scripts:melter.js:5: + melter:melting: [] -> []
+[09:16:38] [INFO ] server_scripts:melter.js:6: + melter:melting: [] -> []
+[09:16:38] [INFO ] server_scripts:pottery.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:pottery, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:pottery.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:pottery, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:pottery.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:pottery, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:pottery.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:pottery, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:quern.js:3: + atum:quern: [] -> []
+[09:16:38] [INFO ] server_scripts:quern.js:17: + atum:quern: [] -> []
+[09:16:38] [INFO ] server_scripts:quern.js:31: + atum:quern: [] -> []
+[09:16:38] [INFO ] server_scripts:quern.js:45: + atum:quern: [] -> []
+[09:16:38] [INFO ] server_scripts:quern.js:57: + atum:quern: [] -> []
+[09:16:38] [INFO ] server_scripts:quern.js:71: + atum:quern: [] -> []
+[09:16:38] [INFO ] server_scripts:quern.js:85: + atum:quern: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:4: + minecraft:stonecutting: ['electrodynamics:resourceblocksteel'] -> ['immersiveengineering:storage_steel']
+[09:16:38] [INFO ] server_scripts:script.js:14: + minecraft:stonecutting: ['immersiveengineering:storage_steel'] -> ['electrodynamics:resourceblocksteel']
+[09:16:38] [INFO ] server_scripts:script.js:26: - minecraft:anvil[minecraft:crafting_shaped]: ['minecraft:iron_block', '#forge:ingots/iron'] -> ['minecraft:anvil']
+[09:16:38] [INFO ] server_scripts:script.js:27: - tconstruct:smeltery/melting/metal/iron/anvil[tconstruct:melting]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:28: - alchemistry:dissolver/anvil[alchemistry:dissolver]: ['minecraft:anvil'] -> []
+[09:16:38] [INFO ] server_scripts:script.js:29: + minecraft:stonecutting: ['minecraft:stone'] -> ['minecraft:anvil']
+[09:16:38] [INFO ] server_scripts:script.js:39: + kubejs:shaped: ['minecraft:stone', 'minecraft:stone_button'] -> ['minecraft:anvil']
+[09:16:38] [INFO ] server_scripts:script.js:49: - minecraft:shears[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> [Item.of('minecraft:shears', '{Damage:0}')]
+[09:16:38] [INFO ] server_scripts:script.js:50: + kubejs:shaped: ['minecraft:iron_ingot'] -> [Item.of('ceramicshears:ceramic_shears', '{Damage:0}')]
+[09:16:38] [INFO ] server_scripts:script.js:59: + kubejs:shaped: ['minecraft:brown_dye', 'minecraft:black_dye', 'notreepunching:plant_string'] -> ['the_ages_of_times:fluidbladderempty']
+[09:16:38] [INFO ] server_scripts:script.js:69: + kubejs:shaped: ['#minecraft:planks', '#minecraft:wooden_slabs'] -> ['the_ages_of_times:barrel']
+[09:16:38] [INFO ] server_scripts:script.js:79: - minecraft:chest[minecraft:crafting_shaped]: ['#minecraft:planks'] -> ['minecraft:chest']
+[09:16:38] [INFO ] server_scripts:script.js:80: + kubejs:shaped: ['#minecraft:planks', '#minecraft:wooden_slabs'] -> ['minecraft:chest']
+[09:16:38] [INFO ] server_scripts:script.js:90: - mctb:spruce_crafting_table[minecraft:crafting_shaped]: ['minecraft:spruce_planks'] -> ['mctb:spruce_crafting_table']
+[09:16:38] [INFO ] server_scripts:script.js:91: - mctb:birch_crafting_table[minecraft:crafting_shaped]: ['minecraft:birch_planks'] -> ['mctb:birch_crafting_table']
+[09:16:38] [INFO ] server_scripts:script.js:92: - mctb:acacia_crafting_table[minecraft:crafting_shaped]: ['minecraft:acacia_planks'] -> ['mctb:acacia_crafting_table']
+[09:16:38] [INFO ] server_scripts:script.js:93: - mctb:jungle_crafting_table[minecraft:crafting_shaped]: ['minecraft:jungle_planks'] -> ['mctb:jungle_crafting_table']
+[09:16:38] [INFO ] server_scripts:script.js:94: - mctb:dark_oak_crafting_table[minecraft:crafting_shaped]: ['minecraft:dark_oak_planks'] -> ['mctb:dark_oak_crafting_table']
+[09:16:38] [INFO ] server_scripts:script.js:95: - mctb:crimson_crafting_table[minecraft:crafting_shaped]: ['minecraft:crimson_planks'] -> ['mctb:crimson_crafting_table']
+[09:16:38] [INFO ] server_scripts:script.js:96: - mctb:warped_crafting_table[minecraft:crafting_shaped]: ['minecraft:warped_planks'] -> ['mctb:warped_crafting_table']
+[09:16:38] [INFO ] server_scripts:script.js:97: + kubejs:shaped: ['#minecraft:planks'] -> ['mctb:spruce_crafting_table']
+[09:16:38] [INFO ] server_scripts:script.js:105: - sleeping_bags:brown_sleeping_bag[minecraft:crafting_shaped]: ['#minecraft:wool', 'minecraft:brown_carpet'] -> ['sleeping_bags:brown_sleeping_bag']
+[09:16:38] [INFO ] server_scripts:script.js:106: + kubejs:shaped: ['multibeds:feather_pile', 'minecraft:leather'] -> ['sleeping_bags:brown_sleeping_bag']
+[09:16:38] [INFO ] server_scripts:script.js:116: + kubejs:shaped: ['#notreepunching:loose_rocks', 'minecraft:string'] -> ['the_ages_of_times:plumb_line']
+[09:16:38] [INFO ] server_scripts:script.js:126: + kubejs:shaped: ['minecraft:hay_block', '#minecraft:leaves'] -> [Item.of('multibeds:slab', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_lime",tag:{pattern:"stripes"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:3250s,rgbsimple:4b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:3250s,rgbsimple:4b}},texture_item:{Count:1b,id:"minecraft:hay_block"}}}')]
+[09:16:38] [INFO ] server_scripts:script.js:136: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:157: - atum:scarab_from_crunchy_scarab[minecraft:crafting_shaped]: ['atum:crunchy_scarab', '#forge:ingots/gold'] -> ['atum:scarab']
+[09:16:38] [INFO ] server_scripts:script.js:157: - atum:scarab_from_crunchy_golden_scarab[minecraft:crafting_shaped]: ['atum:crunchy_golden_scarab'] -> ['atum:scarab']
+[09:16:38] [INFO ] server_scripts:script.js:157: - atum:scarab[minecraft:crafting_shaped]: ['#forge:gems/diamond', '#forge:ingots/gold'] -> ['atum:scarab']
+[09:16:38] [INFO ] server_scripts:script.js:160: - mctb:workbench_revert[minecraft:crafting_shapeless]: ['#mctb:revertable_workbench'] -> ['minecraft:crafting_table']
+[09:16:38] [INFO ] server_scripts:script.js:160: - minecraft:crafting_table[minecraft:crafting_shaped]: ['minecraft:oak_planks'] -> ['minecraft:crafting_table']
+[09:16:38] [INFO ] server_scripts:script.js:161: - tconstruct:tables/crafting_station_from_logs[mantle:crafting_shaped_retextured]: [] -> ['tconstruct:crafting_station']
+[09:16:38] [INFO ] server_scripts:script.js:161: - tconstruct:tables/crafting_station[minecraft:crafting_shaped]: ['tconstruct:pattern', {"type":"forge:difference","base":[{"tag":"forge:workbenches"},{"tag":"tconstruct:tables"}],"subtracted":{"item":"tconstruct:crafting_station"}}] -> ['tconstruct:crafting_station']
+[09:16:38] [INFO ] server_scripts:script.js:162: + create:item_application: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:182: - minecraft:campfire[minecraft:crafting_shaped]: ['#minecraft:logs', 'minecraft:stick', '#minecraft:coals'] -> ['minecraft:campfire']
+[09:16:38] [INFO ] server_scripts:script.js:183: + create:item_application: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:203: - tconstruct:smeltery/seared/seared_brick[minecraft:smelting]: ['tconstruct:grout'] -> ['tconstruct:seared_brick']
+[09:16:38] [INFO ] server_scripts:script.js:204: - tconstruct:smeltery/seared/seared_brick_kiln[ceramics:kiln]: ['tconstruct:grout'] -> ['tconstruct:seared_brick']
+[09:16:38] [INFO ] server_scripts:script.js:205: + create:milling: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:221: + ceramics:kiln: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:232: + minecraft:smelting: ['the_ages_of_times:grout_dust'] -> ['tconstruct:seared_brick']
+[09:16:38] [INFO ] server_scripts:script.js:235: - ceramics:porcelain_brick_smelting[minecraft:smelting]: ['ceramics:unfired_porcelain'] -> ['ceramics:porcelain_brick']
+[09:16:38] [INFO ] server_scripts:script.js:236: - ceramics:porcelain_brick_kiln[ceramics:kiln]: ['ceramics:unfired_porcelain'] -> ['ceramics:porcelain_brick']
+[09:16:38] [INFO ] server_scripts:script.js:237: + kubejs:shapeless: ['minecraft:flint', 'minecraft:clay_ball', 'minecraft:bone_meal'] -> ['ceramics:unfired_porcelain']
+[09:16:38] [INFO ] server_scripts:script.js:238: + create:milling: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:254: + ceramics:kiln: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:265: + minecraft:smelting: ['the_ages_of_times:porcelain_dust'] -> ['ceramics:porcelain_brick']
+[09:16:38] [INFO ] server_scripts:script.js:268: - ceramics:empty_clay_bucket_smelting[minecraft:smelting]: ['ceramics:unfired_clay_bucket'] -> ['ceramics:empty_clay_bucket']
+[09:16:38] [INFO ] server_scripts:script.js:269: - ceramics:empty_clay_bucket_kiln[ceramics:kiln]: ['ceramics:unfired_clay_bucket'] -> ['ceramics:empty_clay_bucket']
+[09:16:38] [INFO ] server_scripts:script.js:272: - minecolonies:blockhutenchanter[minecraft:crafting_shaped]: ['#minecraft:planks', 'minecraft:enchanting_table', 'structurize:sceptergold'] -> ['minecolonies:blockhutenchanter']
+[09:16:38] [INFO ] server_scripts:script.js:275: - electrodynamics:dustbronze[minecraft:crafting_shapeless]: ['#forge:dusts/copper', '#forge:dusts/copper', '#forge:dusts/tin'] -> ['3x electrodynamics:dustbronze']
+[09:16:38] [INFO ] server_scripts:script.js:278: - melter:melting/cobble_melting[melter:melting]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:279: - melter:melting/snow_melting[melter:melting]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:280: - melter:melting/ice_block_melting[melter:melting]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:281: - melter:crafting/melter_block[minecraft:crafting_shaped]: ['minecraft:iron_nugget', '#forge:stone'] -> ['melter:melter']
+[09:16:38] [INFO ] server_scripts:script.js:284: - minecraft:copper_ingot_from_blasting_raw_copper[minecraft:blasting]: ['minecraft:raw_copper'] -> ['minecraft:copper_ingot']
+[09:16:38] [INFO ] server_scripts:script.js:285: - minecraft:copper_ingot_from_smelting_raw_copper[minecraft:smelting]: ['minecraft:raw_copper'] -> ['minecraft:copper_ingot']
+[09:16:38] [INFO ] server_scripts:script.js:286: - minecraft:iron_ingot_from_blasting_raw_iron[minecraft:blasting]: ['minecraft:raw_iron'] -> ['minecraft:iron_ingot']
+[09:16:38] [INFO ] server_scripts:script.js:287: - minecraft:iron_ingot_from_smelting_raw_iron[minecraft:smelting]: ['minecraft:raw_iron'] -> ['minecraft:iron_ingot']
+[09:16:38] [INFO ] server_scripts:script.js:288: - minecraft:gold_ingot_from_blasting_raw_gold[minecraft:blasting]: ['minecraft:raw_gold'] -> ['minecraft:gold_ingot']
+[09:16:38] [INFO ] server_scripts:script.js:289: - minecraft:gold_ingot_from_smelting_raw_gold[minecraft:smelting]: ['minecraft:raw_gold'] -> ['minecraft:gold_ingot']
+[09:16:38] [INFO ] server_scripts:script.js:290: - electrodynamics:ingotsilver_raw_blasting[minecraft:blasting]: ['#forge:raw_materials/silver'] -> ['electrodynamics:ingotsilver']
+[09:16:38] [INFO ] server_scripts:script.js:291: - electrodynamics:ingotsilver_raw_smelting[minecraft:smelting]: ['#forge:raw_materials/silver'] -> ['electrodynamics:ingotsilver']
+[09:16:38] [INFO ] server_scripts:script.js:292: - electrodynamics:ingottin_raw_blasting[minecraft:blasting]: ['#forge:raw_materials/tin'] -> ['electrodynamics:ingottin']
+[09:16:38] [INFO ] server_scripts:script.js:293: - electrodynamics:ingottin_raw_smelting[minecraft:smelting]: ['#forge:raw_materials/tin'] -> ['electrodynamics:ingottin']
+[09:16:38] [INFO ] server_scripts:script.js:294: - electrodynamics:ingotlead_raw_smelting[minecraft:smelting]: ['#forge:raw_materials/lead'] -> ['electrodynamics:ingotlead']
+[09:16:38] [INFO ] server_scripts:script.js:295: - electrodynamics:ingotlead_raw_blasting[minecraft:blasting]: ['#forge:raw_materials/lead'] -> ['electrodynamics:ingotlead']
+[09:16:38] [INFO ] server_scripts:script.js:298: - immersiveengineering:crafting/raw_hammercrushing_copper[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/copper'] -> ['electrodynamics:dustcopper']
+[09:16:38] [INFO ] server_scripts:script.js:299: - immersiveengineering:crafting/raw_hammercrushing_iron[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/iron'] -> ['electrodynamics:dustiron']
+[09:16:38] [INFO ] server_scripts:script.js:300: - immersiveengineering:crafting/raw_hammercrushing_gold[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/gold'] -> ['electrodynamics:dustgold']
+[09:16:38] [INFO ] server_scripts:script.js:301: - immersiveengineering:crafting/raw_hammercrushing_silver[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/silver'] -> ['electrodynamics:dustsilver']
+[09:16:38] [INFO ] server_scripts:script.js:302: - immersiveengineering:crafting/raw_hammercrushing_tin[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/tin'] -> ['electrodynamics:dusttin']
+[09:16:38] [INFO ] server_scripts:script.js:303: - immersiveengineering:crafting/raw_hammercrushing_lead[immersiveengineering:hammer_crushing]: ['#forge:raw_materials/lead'] -> ['electrodynamics:dustlead']
+[09:16:38] [INFO ] server_scripts:script.js:306: - tconstruct:smeltery/seared/heater[minecraft:crafting_shaped]: ['tconstruct:seared_brick'] -> ['tconstruct:seared_heater']
+[09:16:38] [INFO ] server_scripts:script.js:307: + create:item_application: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:327: - tconstruct:smeltery/seared/melter[minecraft:crafting_shaped]: [['tconstruct:seared_fuel_gauge', 'tconstruct:seared_ingot_gauge'], 'tconstruct:seared_brick'] -> ['tconstruct:seared_melter']
+[09:16:38] [INFO ] server_scripts:script.js:328: + create:item_application: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:348: - tconstruct:smeltery/seared/basin[minecraft:crafting_shaped]: ['tconstruct:seared_brick'] -> ['tconstruct:seared_basin']
+[09:16:38] [INFO ] server_scripts:script.js:349: + create:item_application: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:369: - tconstruct:smeltery/seared/table[minecraft:crafting_shaped]: ['tconstruct:seared_brick'] -> ['tconstruct:seared_table']
+[09:16:38] [INFO ] server_scripts:script.js:370: + create:item_application: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:390: - tconstruct:smeltery/seared/faucet[minecraft:crafting_shaped]: ['tconstruct:seared_brick'] -> ['3x tconstruct:seared_faucet']
+[09:16:38] [INFO ] server_scripts:script.js:391: + create:item_application: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:411: + kubejs:shaped: ['ceramics:kiln', 'woodenhopper:wooden_hopper', 'ceramics:porcelain_brick', 'minecraft:chest'] -> ['melter:melter']
+[09:16:38] [INFO ] server_scripts:script.js:423: + kubejs:shaped: ['ceramics:kiln', 'ceramics:porcelain_brick', 'ceramics:terracotta_cistern'] -> ['the_ages_of_times:porcelain_heater']
+[09:16:38] [INFO ] server_scripts:script.js:434: - minecraft:lead[minecraft:crafting_shaped]: ['minecraft:string', 'minecraft:slime_ball'] -> ['2x minecraft:lead']
+[09:16:38] [INFO ] server_scripts:script.js:435: - tconstruct:common/slime/lead[minecraft:crafting_shaped]: ['minecraft:string', '#forge:slimeballs'] -> ['2x minecraft:lead']
+[09:16:38] [INFO ] server_scripts:script.js:436: + farmersdelight:cutting: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:457: - create:crafting/materials/andesite_alloy[minecraft:crafting_shaped]: ['minecraft:andesite', '#forge:nuggets/iron'] -> ['create:andesite_alloy']
+[09:16:38] [INFO ] server_scripts:script.js:458: - create:crafting/materials/andesite_alloy_from_zinc[minecraft:crafting_shaped]: ['minecraft:andesite', '#forge:nuggets/zinc'] -> ['create:andesite_alloy']
+[09:16:38] [INFO ] server_scripts:script.js:459: - create:mixing/andesite_alloy[create:mixing]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:460: - create:mixing/andesite_alloy_from_zinc[create:mixing]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:461: - tconstruct:compat/create/andesite_alloy_iron[tconstruct:casting_basin]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:462: - tconstruct:compat/create/andesite_alloy_zinc[tconstruct:casting_basin]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:463: + tconstruct:casting_table: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:478: + tconstruct:casting_table: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:493: + tconstruct:casting_table: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:510: + kubejs:shaped: ['#forge:cobblestone'] -> ['8x create:shaft']
+[09:16:38] [INFO ] server_scripts:script.js:519: + kubejs:shaped: ['minecraft:polished_deepslate_slab', 'minecraft:slime_ball', 'the_ages_of_times:andesite_shaft', 'electrodynamics:gearcopper', 'create:andesite_casing'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:turntable"}')]
+[09:16:38] [INFO ] server_scripts:script.js:532: - create:crafting/kinetics/millstone[minecraft:crafting_shaped]: ['create:cogwheel', 'create:andesite_casing', '#forge:stone'] -> ['create:millstone']
+[09:16:38] [INFO ] server_scripts:script.js:533: + kubejs:shaped: ['atum:quern', 'minecraft:polished_andesite', 'astikorcarts:wheel'] -> ['create:millstone']
+[09:16:38] [INFO ] server_scripts:script.js:544: - minecraft:stonecutter[minecraft:crafting_shaped]: ['#forge:ingots/iron', 'minecraft:stone'] -> ['minecraft:stonecutter']
+[09:16:38] [INFO ] server_scripts:script.js:545: + kubejs:shaped: ['electrodynamics:geariron', 'minecraft:stone'] -> ['minecraft:stonecutter']
+[09:16:38] [INFO ] server_scripts:script.js:553: + kubejs:shaped: ['the_ages_of_times:flint_gear', 'minecraft:stone'] -> ['minecraft:stonecutter']
+[09:16:38] [INFO ] server_scripts:script.js:563: - create:crafting/kinetics/mechanical_saw[minecraft:crafting_shaped]: ['create:andesite_casing', '#forge:plates/iron', '#forge:ingots/iron'] -> ['create:mechanical_saw']
+[09:16:38] [INFO ] server_scripts:script.js:564: + kubejs:shaped: ['minecraft:stonecutter', 'electrodynamics:gearcopper', 'create:andesite_casing', 'electrodynamics:gearbronze', 'the_ages_of_times:leather_belt'] -> ['create:mechanical_saw']
+[09:16:38] [INFO ] server_scripts:script.js:577: - notreepunching:flint_from_gravel[minecraft:crafting_shapeless]: ['minecraft:gravel', 'minecraft:gravel', 'minecraft:gravel'] -> ['2x minecraft:flint']
+[09:16:38] [INFO ] server_scripts:script.js:578: + kubejs:shaped: ['notreepunching:flint_shard', 'electrodynamics:geartin'] -> ['the_ages_of_times:flint_gear']
+[09:16:38] [INFO ] server_scripts:script.js:588: - tconstruct:smeltery/casting/scorched/brick_composite[tconstruct:casting_table]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:589: - tconstruct:smeltery/casting/scorched/polished_from_magma[tconstruct:casting_basin]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:590: - tconstruct:smeltery/casting/scorched/stone_from_magma[tconstruct:casting_basin]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:591: - tconstruct:smeltery/melting/scorched/casting[tconstruct:melting]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:592: - tconstruct:smeltery/scorched/nether_grout[minecraft:crafting_shapeless]: ['minecraft:magma_cream', ['minecraft:soul_sand', 'minecraft:soul_soil'], 'minecraft:gravel'] -> ['2x tconstruct:nether_grout']
+[09:16:38] [INFO ] server_scripts:script.js:595: + kubejs:shapeless: ['atum:papyrus_plant'] -> ['atum:papyrus']
+[09:16:38] [INFO ] server_scripts:script.js:598: + create:pressing: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:616: + lychee:item_inside: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:644: - atum:scroll[minecraft:crafting_shaped]: ['#forge:rods/wooden', 'atum:papyrus_plant'] -> ['atum:scroll']
+[09:16:38] [INFO ] server_scripts:script.js:647: - minecraft:cauldron[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['minecraft:cauldron']
+[09:16:38] [INFO ] server_scripts:script.js:648: - tconstruct:smeltery/melting/metal/iron/cauldron[tconstruct:melting]: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:649: + kubejs:shaped: ['minecraft:oak_log'] -> ['minecraft:cauldron']
+[09:16:38] [INFO ] server_scripts:script.js:658: + kubejs:shaped: ['minecraft:stone', 'minecraft:stone_button'] -> ['the_ages_of_times:stone_platform']
+[09:16:38] [INFO ] server_scripts:script.js:668: - create:crafting/kinetics/large_water_wheel[minecraft:crafting_shaped]: ['#minecraft:planks', 'create:water_wheel'] -> ['create:large_water_wheel']
+[09:16:38] [INFO ] server_scripts:script.js:669: - create:crafting/kinetics/water_wheel[minecraft:crafting_shaped]: ['#minecraft:planks', 'the_ages_of_times:andesite_shaft'] -> ['create:water_wheel']
+[09:16:38] [INFO ] server_scripts:script.js:670: + kubejs:shaped: ['minecraft:spruce_slab', 'electrodynamics:gearcopper'] -> ['create:large_water_wheel']
+[09:16:38] [INFO ] server_scripts:script.js:680: - extendedcrafting:black_iron_ingot[minecraft:crafting_shapeless]: ['#forge:ingots/iron', '#forge:dyes/black'] -> ['extendedcrafting:black_iron_ingot']
+[09:16:38] [INFO ] server_scripts:script.js:681: + immersiveengineering:alloy: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:702: + kubejs:shaped: ['tconstruct:seared_brick', 'functionalstorage:copper_upgrade'] -> ['the_ages_of_times:seared_upgrade']
+[09:16:38] [INFO ] server_scripts:script.js:712: - notreepunching:smelting/string_from_plant_string[minecraft:smelting]: ['notreepunching:plant_string'] -> ['minecraft:string']
+[09:16:38] [INFO ] server_scripts:script.js:713: + atum:spinning_wheel: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:723: + atum:spinning_wheel: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:735: - minecraft:white_wool_from_string[minecraft:crafting_shaped]: ['minecraft:string'] -> ['minecraft:white_wool']
+[09:16:38] [INFO ] server_scripts:script.js:736: + atum:spinning_wheel: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:749: + atum:spinning_wheel: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:762: - minecraft:glass[minecraft:smelting]: ['#minecraft:sand'] -> ['minecraft:glass']
+[09:16:38] [INFO ] server_scripts:script.js:763: - ceramics:glass_kiln[ceramics:kiln]: ['#minecraft:sand'] -> ['minecraft:glass']
+[09:16:38] [INFO ] server_scripts:script.js:764: + minecraft:smelting: ['tconstruct:clear_glass'] -> ['minecraft:glass']
+[09:16:38] [INFO ] server_scripts:script.js:767: - multibeds:embroidery_thread[minecraft:crafting_shaped]: ['#forge:string', '#forge:rods/wooden', '#forge:nuggets/iron'] -> ['multibeds:embroidery_thread']
+[09:16:38] [INFO ] server_scripts:script.js:768: + kubejs:shaped: ['minecraft:black_dye', 'minecraft:feather'] -> ['multibeds:embroidery_thread']
+[09:16:38] [INFO ] server_scripts:script.js:776: + create:item_application: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:796: - minecraft:book[minecraft:crafting_shapeless]: ['minecraft:paper', 'minecraft:paper', 'minecraft:paper', 'minecraft:leather'] -> ['minecraft:book']
+[09:16:38] [INFO ] server_scripts:script.js:797: - atum:book[minecraft:crafting_shapeless]: ['#forge:paper', '#forge:paper', '#forge:paper', '#forge:leather'] -> ['minecraft:book']
+[09:16:38] [INFO ] server_scripts:script.js:800: + kubejs:shaped: ['the_ages_of_times:wooden_sheat', 'minecraft:andesite', 'create:shaft'] -> [Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:horse_power"}')]
+[09:16:38] [INFO ] server_scripts:script.js:811: - minecraft:map[minecraft:crafting_shaped]: ['minecraft:paper', 'minecraft:compass'] -> ['minecraft:map']
+[09:16:38] [INFO ] server_scripts:script.js:814: + tconstruct:casting_table: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:831: + tconstruct:melting: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:845: + create:pressing: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:862: - minecolonies:blockhutfarmerstone[minecraft:crafting_shaped]: ['#minecraft:planks', 'minecraft:stone_hoe', 'structurize:sceptergold'] -> ['2x minecolonies:blockhutfarmer']
+[09:16:38] [INFO ] server_scripts:script.js:863: + extendedcrafting:shaped_table: ['the_ages_of_times:written_papyrus', 'atum:scroll', 'the_ages_of_times:glue', 'tconstruct:pattern'] -> ['the_ages_of_times:letter_book']
+[09:16:38] [INFO ] server_scripts:script.js:889: - minecolonies:blockhutblacksmith[minecraft:crafting_shaped]: ['#minecraft:planks', 'minecraft:iron_ingot', 'structurize:sceptergold'] -> ['minecolonies:blockhutblacksmith']
+[09:16:38] [INFO ] server_scripts:script.js:890: + extendedcrafting:shaped_table: ['minecraft:stick'] -> ['the_ages_of_times:long_stick']
+[09:16:38] [INFO ] server_scripts:script.js:908: + extendedcrafting:shaped_table: ['beyond_earth:iron_stick'] -> ['the_ages_of_times:pitchfork']
+[09:16:38] [INFO ] server_scripts:script.js:926: + tconstruct:casting_basin: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:941: + tconstruct:casting_table: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:956: + tconstruct:casting_table: [] -> []
+[09:16:38] [INFO ] server_scripts:script.js:971: + kubejs:shaped: ['the_ages_of_times:long_stick', 'the_ages_of_times:pitchfork'] -> [Item.of('magistuarmory:pitchfork', '{Damage:0}')]
+[09:16:38] [INFO ] server_scripts:script.js:980: - minecraft:cake[minecraft:crafting_shaped]: ['minecraft:milk_bucket', 'minecraft:sugar', 'minecraft:wheat', 'minecraft:egg'] -> ['minecraft:cake']
+[09:16:38] [INFO ] server_scripts:script.js:981: - bucketlib:cake[minecraft:crafting_shaped]: [{"type":"bucketlib:milk"}, 'minecraft:sugar', 'minecraft:wheat', '#forge:eggs'] -> ['minecraft:cake']
+[09:16:38] [INFO ] server_scripts:script.js:982: - atum:cake[minecraft:crafting_shaped]: ['minecraft:milk_bucket', 'minecraft:sugar', '#forge:crops/wheat', '#forge:eggs'] -> ['minecraft:cake']
+[09:16:38] [INFO ] server_scripts:script.js:983: - ceramics:cake[minecraft:crafting_shaped]: ['#forge:buckets/milk', 'minecraft:sugar', 'minecraft:wheat', 'minecraft:egg'] -> ['minecraft:cake']
+[09:16:38] [INFO ] server_scripts:script.js:984: - create:crafting/curiosities/cake[minecraft:crafting_shaped]: ['#forge:eggs', 'minecraft:sugar', '#forge:dough', 'minecraft:milk_bucket'] -> ['minecraft:cake']
+[09:16:38] [INFO ] server_scripts:script.js:985: - farmersdelight:cake_from_milk_bottle[minecraft:crafting_shaped]: ['#forge:milk', 'minecraft:sugar', '#forge:eggs', 'minecraft:wheat'] -> ['minecraft:cake']
+[09:16:38] [INFO ] server_scripts:script.js:986: - farmersdelight:honey_cookie[minecraft:crafting_shapeless]: ['minecraft:honey_bottle', 'minecraft:wheat', 'minecraft:wheat'] -> ['8x farmersdelight:honey_cookie']
+[09:16:38] [INFO ] server_scripts:script.js:987: - farmersdelight:sweet_berry_cookie[minecraft:crafting_shapeless]: ['minecraft:sweet_berries', 'minecraft:wheat', 'minecraft:wheat'] -> ['8x farmersdelight:sweet_berry_cookie']
+[09:16:38] [INFO ] server_scripts:script.js:988: - farmersdelight:chocolate_pie[minecraft:crafting_shaped]: ['minecraft:cocoa_beans', '#forge:milk', 'minecraft:sugar', 'farmersdelight:pie_crust'] -> ['farmersdelight:chocolate_pie']
+[09:16:38] [INFO ] server_scripts:script.js:989: - farmersdelight:sweet_berry_cheesecake[minecraft:crafting_shaped]: ['minecraft:sweet_berries', '#forge:milk', 'farmersdelight:pie_crust'] -> ['farmersdelight:sweet_berry_cheesecake']
+[09:16:38] [INFO ] server_scripts:script.js:990: - farmersdelight:apple_pie[minecraft:crafting_shaped]: ['minecraft:wheat', 'minecraft:apple', 'minecraft:sugar', 'farmersdelight:pie_crust'] -> ['farmersdelight:apple_pie']
+[09:16:38] [INFO ] server_scripts:script.js:991: - farmersdelight:bread_from_smelting[minecraft:smelting]: ['farmersdelight:wheat_dough'] -> ['minecraft:bread']
+[09:16:38] [INFO ] server_scripts:script.js:992: - farmersdelight:bread_from_smoking[minecraft:smoking]: ['farmersdelight:wheat_dough'] -> ['minecraft:bread']
+[09:16:38] [INFO ] server_scripts:script.js:993: - farmersdelight:wheat_dough_from_water[minecraft:crafting_shapeless]: ['minecraft:water_bucket', 'minecraft:wheat', 'minecraft:wheat', 'minecraft:wheat'] -> ['3x farmersdelight:wheat_dough']
+[09:16:38] [INFO ] server_scripts:script.js:993: - farmersdelight:wheat_dough_from_eggs[minecraft:crafting_shapeless]: ['#forge:eggs', 'minecraft:wheat', 'minecraft:wheat', 'minecraft:wheat'] -> ['3x farmersdelight:wheat_dough']
+[09:16:38] [INFO ] server_scripts:script.js:993: - bucketlib:farmersdelight/wheat_dough_from_water[minecraft:crafting_shapeless]: [{"type":"bucketlib:fluid","fluid":"minecraft:water"}, 'minecraft:wheat', 'minecraft:wheat', 'minecraft:wheat'] -> ['3x farmersdelight:wheat_dough']
+[09:16:38] [INFO ] server_scripts:script.js:994: - bucketlib:create/dough[minecraft:crafting_shapeless]: ['create:wheat_flour', {"type":"bucketlib:fluid","fluid":"minecraft:water"}] -> ['create:dough']
+[09:16:38] [INFO ] server_scripts:script.js:995: - create:crafting/appliances/dough[minecraft:crafting_shapeless]: ['#forge:flour/wheat', 'minecraft:water_bucket'] -> ['create:dough']
+[09:16:38] [INFO ] server_scripts:script.js:996: - minecolonies:baked_bread_campfire_cooking[minecraft:campfire_cooking]: ['minecolonies:bread_dough'] -> ['minecraft:bread']
+[09:16:38] [INFO ] server_scripts:script.js:997: - minecolonies:baked_bread[minecraft:smelting]: ['minecolonies:bread_dough'] -> ['minecraft:bread']
+[09:16:38] [INFO ] server_scripts:script.js:998: - minecolonies:baked_bread_smoking[minecraft:smoking]: ['minecolonies:bread_dough'] -> ['minecraft:bread']
+[09:16:38] [INFO ] server_scripts:script.js:999: - create:campfire_cooking/bread[minecraft:campfire_cooking]: ['create:dough'] -> ['minecraft:bread']
+[09:16:38] [INFO ] server_scripts:script.js:1000: - create:smelting/bread[minecraft:smelting]: ['create:dough'] -> ['minecraft:bread']
+[09:16:38] [INFO ] server_scripts:script.js:1001: - create:smoking/bread[minecraft:smoking]: ['create:dough'] -> ['minecraft:bread']
+[09:16:38] [INFO ] server_scripts:script.js:1002: - minecraft:bread[minecraft:crafting_shaped]: ['minecraft:wheat'] -> ['minecraft:bread']
+[09:16:38] [INFO ] server_scripts:script.js:1003: - farmersdelight:pie_crust[minecraft:crafting_shaped]: ['minecraft:wheat', '#forge:milk'] -> ['farmersdelight:pie_crust']
+[09:16:38] [INFO ] server_scripts:script.js:1004: - farmersdelight:fruit_salad[minecraft:crafting_shapeless]: ['minecraft:apple', 'minecraft:melon_slice', 'minecraft:melon_slice', '#forge:berries', '#forge:berries', 'farmersdelight:pumpkin_slice', 'minecraft:bowl'] -> ['farmersdelight:fruit_salad']
+[09:16:38] [INFO ] server_scripts:script.js:1005: - farmersdelight:mixed_salad[minecraft:crafting_shapeless]: ['#forge:salad_ingredients', '#forge:crops/tomato', 'minecraft:beetroot', 'minecraft:bowl'] -> ['farmersdelight:mixed_salad']
+[09:16:38] [INFO ] server_scripts:script.js:1006: - farmersdelight:nether_salad[minecraft:crafting_shapeless]: ['minecraft:crimson_fungus', 'minecraft:warped_fungus', 'minecraft:bowl'] -> ['farmersdelight:nether_salad']
+[09:16:38] [INFO ] server_scripts:script.js:1007: - farmersdelight:egg_sandwich[minecraft:crafting_shapeless]: ['#forge:bread', '#forge:cooked_eggs', '#forge:cooked_eggs'] -> ['farmersdelight:egg_sandwich']
+[09:16:38] [INFO ] server_scripts:script.js:1008: - farmersdelight:cod_roll[minecraft:crafting_shapeless]: ['farmersdelight:cod_slice', 'farmersdelight:cod_slice', 'farmersdelight:cooked_rice'] -> ['2x farmersdelight:cod_roll']
+[09:16:38] [INFO ] server_scripts:script.js:1009: - farmersdelight:salmon_roll[minecraft:crafting_shapeless]: ['farmersdelight:salmon_slice', 'farmersdelight:salmon_slice', 'farmersdelight:cooked_rice'] -> ['2x farmersdelight:salmon_roll']
+[09:16:38] [INFO ] server_scripts:script.js:1010: - farmersdelight:kelp_roll[minecraft:crafting_shaped]: ['minecraft:dried_kelp', 'farmersdelight:cooked_rice', 'minecraft:carrot'] -> ['farmersdelight:kelp_roll']
+[09:16:38] [INFO ] server_scripts:script.js:1011: - farmersdelight:bacon_and_eggs[minecraft:crafting_shapeless]: ['farmersdelight:cooked_bacon', 'farmersdelight:cooked_bacon', 'minecraft:bowl', '#forge:cooked_eggs', '#forge:cooked_eggs'] -> ['farmersdelight:bacon_and_eggs']
+[09:16:38] [INFO ] server_scripts:script.js:1012: - farmersdelight:roasted_mutton_chops[minecraft:crafting_shapeless]: ['farmersdelight:cooked_mutton_chops', 'minecraft:beetroot', 'minecraft:bowl', 'farmersdelight:cooked_rice', '#forge:crops/tomato'] -> ['farmersdelight:roasted_mutton_chops']
+[09:16:38] [INFO ] server_scripts:script.js:1013: - farmersdelight:steak_and_potatoes[minecraft:crafting_shapeless]: ['minecraft:baked_potato', 'minecraft:cooked_beef', 'minecraft:bowl', '#forge:crops/onion', 'farmersdelight:cooked_rice'] -> ['farmersdelight:steak_and_potatoes']
+[09:16:38] [INFO ] server_scripts:script.js:1014: - farmersdelight:rice_roll_medley_block[minecraft:crafting_shapeless]: ['farmersdelight:kelp_roll_slice', 'farmersdelight:kelp_roll_slice', 'farmersdelight:kelp_roll_slice', 'farmersdelight:salmon_roll', 'farmersdelight:salmon_roll', 'farmersdelight:salmon_roll', 'farmersdelight:cod_roll', 'minecraft:bowl', 'farmersdelight:cod_roll'] -> ['farmersdelight:rice_roll_medley_block']
+[09:16:38] [INFO ] server_scripts:script.js:1015: - farmersdelight:roast_chicken_block[minecraft:crafting_shapeless]: ['#forge:crops/onion', '#forge:eggs', 'minecraft:bread', 'minecraft:carrot', 'minecraft:cooked_chicken', 'minecraft:baked_potato', 'minecraft:carrot', 'minecraft:bowl', 'minecraft:baked_potato'] -> ['farmersdelight:roast_chicken_block']
+[09:16:38] [INFO ] server_scripts:script.js:1016: - farmersdelight:honey_glazed_ham_block[minecraft:crafting_shapeless]: ['minecraft:sweet_berries', 'minecraft:honey_bottle', 'minecraft:sweet_berries', 'minecraft:sweet_berries', 'farmersdelight:smoked_ham', 'minecraft:sweet_berries', 'farmersdelight:cooked_rice', 'minecraft:bowl', 'farmersdelight:cooked_rice'] -> ['farmersdelight:honey_glazed_ham_block']
+[09:16:38] [INFO ] server_scripts:script.js:1017: - farmersdelight:horse_feed[minecraft:crafting_shapeless]: [['minecraft:hay_block', 'farmersdelight:rice_bale'], 'minecraft:apple', 'minecraft:apple', 'minecraft:golden_carrot'] -> ['farmersdelight:horse_feed']
+[09:16:38] [INFO ] server_scripts:script.js:1018: - farmersdelight:hamburger[minecraft:crafting_shapeless]: ['#forge:bread', 'farmersdelight:beef_patty', '#forge:salad_ingredients', '#forge:crops/tomato', '#forge:crops/onion'] -> ['farmersdelight:hamburger']
+[09:16:38] [INFO ] server_scripts:script.js:1019: - farmersdelight:bacon_sandwich[minecraft:crafting_shapeless]: ['#forge:bread', '#forge:cooked_bacon', '#forge:salad_ingredients', '#forge:crops/tomato'] -> ['farmersdelight:bacon_sandwich']
+[09:16:38] [INFO ] server_scripts:script.js:1020: - farmersdelight:grilled_salmon[minecraft:crafting_shapeless]: ['#forge:cooked_fishes/salmon', 'minecraft:sweet_berries', 'minecraft:bowl', '#forge:crops/cabbage', '#forge:crops/onion'] -> ['farmersdelight:grilled_salmon']
+[09:16:38] [INFO ] server_scripts:script.js:1021: - farmersdelight:chicken_sandwich[minecraft:crafting_shapeless]: ['#forge:bread', '#forge:cooked_chicken', '#forge:salad_ingredients', 'minecraft:carrot'] -> ['farmersdelight:chicken_sandwich']
+[09:16:38] [INFO ] server_scripts:script.js:1022: - farmersdelight:shepherds_pie_block[minecraft:crafting_shapeless]: ['minecraft:baked_potato', '#forge:milk', 'minecraft:baked_potato', '#forge:cooked_mutton', '#forge:cooked_mutton', '#forge:cooked_mutton', '#forge:crops/onion', 'minecraft:bowl', '#forge:crops/onion'] -> ['farmersdelight:shepherds_pie_block']
+[09:16:38] [INFO ] server_scripts:script.js:1023: - farmersdelight:stuffed_potato[minecraft:crafting_shapeless]: ['minecraft:baked_potato', '#forge:cooked_beef', '#forge:milk'] -> ['farmersdelight:stuffed_potato']
+[09:16:38] [INFO ] server_scripts:script.js:1024: - farmersdelight:mutton_wrap[minecraft:crafting_shapeless]: ['#forge:bread', '#forge:cooked_mutton', '#forge:salad_ingredients', '#forge:crops/onion'] -> ['farmersdelight:mutton_wrap']
+[09:16:38] [INFO ] server_scripts:script.js:1025: - farmersdelight:barbecue_stick[minecraft:crafting_shapeless]: ['#forge:crops/tomato', '#forge:crops/onion', ['#forge:cooked_beef', '#forge:cooked_pork', '#forge:cooked_chicken', '#forge:cooked_mutton', '#forge:cooked_fishes', 'minecraft:cooked_rabbit'], 'minecraft:stick'] -> ['farmersdelight:barbecue_stick']
+[09:16:38] [INFO ] server_scripts:tree.js:3: - minecraft:oak_planks[minecraft:crafting_shapeless]: ['#minecraft:oak_logs'] -> ['4x minecraft:oak_planks']
+[09:16:38] [INFO ] server_scripts:tree.js:4: - minecraft:spruce_planks[minecraft:crafting_shapeless]: ['#minecraft:spruce_logs'] -> ['4x minecraft:spruce_planks']
+[09:16:38] [INFO ] server_scripts:tree.js:5: - minecraft:birch_planks[minecraft:crafting_shapeless]: ['#minecraft:birch_logs'] -> ['4x minecraft:birch_planks']
+[09:16:38] [INFO ] server_scripts:tree.js:6: - minecraft:jungle_planks[minecraft:crafting_shapeless]: ['#minecraft:jungle_logs'] -> ['4x minecraft:jungle_planks']
+[09:16:38] [INFO ] server_scripts:tree.js:7: - minecraft:acacia_planks[minecraft:crafting_shapeless]: ['#minecraft:acacia_logs'] -> ['4x minecraft:acacia_planks']
+[09:16:38] [INFO ] server_scripts:tree.js:8: - minecraft:dark_oak_planks[minecraft:crafting_shapeless]: ['#minecraft:dark_oak_logs'] -> ['4x minecraft:dark_oak_planks']
+[09:16:38] [INFO ] server_scripts:tree.js:9: - notreepunching:acacia_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:10: - notreepunching:acacia_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:11: - notreepunching:birch_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:12: - notreepunching:birch_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:13: - notreepunching:dark_oak_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:14: - notreepunching:dark_oak_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:15: - notreepunching:jungle_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:16: - notreepunching:jungle_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:17: - notreepunching:oak_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:18: - notreepunching:oak_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:19: - notreepunching:spruce_planks_with_flint_axe[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:20: - notreepunching:spruce_planks_with_saw[notreepunching:tool_damaging_shaped]: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:24: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:49: + farmersdelight:cutting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:70: + farmersdelight:cutting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:91: + farmersdelight:cutting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:112: + farmersdelight:cutting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:133: + farmersdelight:cutting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:154: + farmersdelight:cutting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:tree.js:177: + lychee:block_interacting: [] -> []
+[09:16:38] [INFO ] server_scripts:turntable.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntable, time=40, requirements=[custommachinery:block, custommachinery:contraption], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
+[09:16:38] [INFO ] server_scripts:turntable.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntable, time=40, requirements=[custommachinery:block, custommachinery:contraption], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
+[09:16:38] [INFO ] server_scripts:turntable.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntable, time=40, requirements=[custommachinery:block, custommachinery:contraption], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
+[09:16:38] [INFO ] server_scripts:turntable.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntable, time=40, requirements=[custommachinery:block, custommachinery:contraption], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=true}
+[09:16:38] [INFO ] server_scripts:turntable_jei.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntableinjei, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:turntable_jei.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntableinjei, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:turntable_jei.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntableinjei, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:turntable_jei.js:4: + custommachinery:custom_machine: CustomMachineRecipe{machine=taotmachinery:turntableinjei, time=0, requirements=[custommachinery:item, custommachinery:item, custommachinery:item], jeiRequirements=[], priority=0, jeiPriority=0, resetOnError=false, hidden=false}
+[09:16:38] [INFO ] server_scripts:unification.js:3: - tconstruct:common/materials/copper_ingot_from_nuggets[minecraft:crafting_shaped]: ['#forge:nuggets/copper', 'tconstruct:copper_nugget'] -> ['minecraft:copper_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:4: - tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x tconstruct:copper_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:5: - create:crafting/materials/copper_nugget[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x create:copper_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:6: - createaddition:crafting/electrum_ingot[minecraft:crafting_shaped]: ['#forge:nuggets/electrum'] -> ['createaddition:electrum_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:7: - createaddition:crafting/electrum_nugget[minecraft:crafting_shapeless]: ['createaddition:electrum_ingot'] -> ['9x createaddition:electrum_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:8: - beyond_earth:steel_block[minecraft:crafting_shaped]: ['beyond_earth:steel_ingot', '#forge:ingots/steel'] -> ['beyond_earth:steel_block']
+[09:16:38] [INFO ] server_scripts:unification.js:9: - beyond_earth:steel_ingot[minecraft:crafting_shaped]: ['beyond_earth:steel_block'] -> ['9x beyond_earth:steel_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:10: - beyond_earth:steel_ingot_from_nugget[minecraft:crafting_shaped]: ['beyond_earth:steel_nugget', '#forge:nuggets/steel'] -> ['beyond_earth:steel_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:11: - beyond_earth:steel_nugget_from_ingot[minecraft:crafting_shapeless]: ['beyond_earth:steel_ingot'] -> ['9x beyond_earth:steel_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:12: - beyond_earth:steel_ingot_blasting[minecraft:blasting]: ['minecraft:iron_ingot'] -> ['beyond_earth:steel_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:13: - car:iron_stick[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['car:iron_stick']
+[09:16:38] [INFO ] server_scripts:unification.js:14: - immersiveengineering:crafting/nugget_copper_to_copper_ingot[minecraft:crafting_shaped]: ['#forge:nuggets/copper', 'immersiveengineering:nugget_copper'] -> ['minecraft:copper_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:15: - immersiveengineering:crafting/copper_ingot_to_nugget_copper[minecraft:crafting_shapeless]: ['minecraft:copper_ingot'] -> ['9x immersiveengineering:nugget_copper']
+[09:16:38] [INFO ] server_scripts:unification.js:16: - immersiveengineering:crafting/ingot_lead_to_storage_lead[minecraft:crafting_shaped]: ['#forge:ingots/lead', 'immersiveengineering:ingot_lead'] -> ['immersiveengineering:storage_lead']
+[09:16:38] [INFO ] server_scripts:unification.js:17: - immersiveengineering:crafting/storage_lead_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_lead'] -> ['immersiveengineering:storage_lead']
+[09:16:38] [INFO ] server_scripts:unification.js:18: - immersiveengineering:crafting/storage_lead_to_ingot_lead[minecraft:crafting_shapeless]: ['immersiveengineering:storage_lead'] -> ['9x immersiveengineering:ingot_lead']
+[09:16:38] [INFO ] server_scripts:unification.js:19: - immersiveengineering:crafting/storage_lead_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_lead'] -> ['6x immersiveengineering:slab_storage_lead']
+[09:16:38] [INFO ] server_scripts:unification.js:20: - immersiveengineering:crafting/raw_block_lead_to_raw_lead[minecraft:crafting_shapeless]: ['immersiveengineering:raw_block_lead'] -> ['9x immersiveengineering:raw_lead']
+[09:16:38] [INFO ] server_scripts:unification.js:21: - immersiveengineering:crafting/raw_lead_to_raw_block_lead[minecraft:crafting_shaped]: ['#forge:raw_materials/lead', 'immersiveengineering:raw_lead'] -> ['immersiveengineering:raw_block_lead']
+[09:16:38] [INFO ] server_scripts:unification.js:22: - immersiveengineering:crafting/nugget_silver_to_ingot_silver[minecraft:crafting_shaped]: ['#forge:nuggets/silver', 'immersiveengineering:nugget_silver'] -> ['immersiveengineering:ingot_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:23: - immersiveengineering:crafting/ingot_silver_to_nugget_silver[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_silver'] -> ['9x immersiveengineering:nugget_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:24: - immersiveengineering:crafting/ingot_silver_to_storage_silver[minecraft:crafting_shaped]: ['#forge:ingots/silver', 'immersiveengineering:ingot_silver'] -> ['immersiveengineering:storage_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:25: - immersiveengineering:crafting/storage_silver_to_ingot_silver[minecraft:crafting_shapeless]: ['immersiveengineering:storage_silver'] -> ['9x immersiveengineering:ingot_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:26: - immersiveengineering:crafting/storage_silver_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_silver'] -> ['6x immersiveengineering:slab_storage_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:27: - immersiveengineering:crafting/storage_silver_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_silver'] -> ['immersiveengineering:storage_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:28: - immersiveengineering:crafting/raw_block_silver_to_raw_silver[minecraft:crafting_shapeless]: ['immersiveengineering:raw_block_silver'] -> ['9x immersiveengineering:raw_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:29: - immersiveengineering:crafting/raw_silver_to_raw_block_silver[minecraft:crafting_shaped]: ['#forge:raw_materials/silver', 'immersiveengineering:raw_silver'] -> ['immersiveengineering:raw_block_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:30: - immersiveengineering:crafting/ingot_aluminum_to_storage_aluminum[minecraft:crafting_shaped]: ['#forge:ingots/aluminum', 'immersiveengineering:ingot_aluminum'] -> ['immersiveengineering:storage_aluminum']
+[09:16:38] [INFO ] server_scripts:unification.js:31: - immersiveengineering:crafting/storage_aluminum_to_ingot_aluminum[minecraft:crafting_shapeless]: ['immersiveengineering:storage_aluminum'] -> ['9x immersiveengineering:ingot_aluminum']
+[09:16:38] [INFO ] server_scripts:unification.js:32: - immersiveengineering:crafting/storage_aluminum_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_aluminum'] -> ['immersiveengineering:storage_aluminum']
+[09:16:38] [INFO ] server_scripts:unification.js:33: - immersiveengineering:crafting/storage_aluminum_to_slab[minecraft:crafting_shaped]: ['immersiveengineering:storage_aluminum'] -> ['6x immersiveengineering:slab_storage_aluminum']
+[09:16:38] [INFO ] server_scripts:unification.js:34: - immersiveengineering:crafting/ingot_steel_to_nugget_steel[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_steel'] -> ['9x immersiveengineering:nugget_steel']
+[09:16:38] [INFO ] server_scripts:unification.js:35: - immersiveengineering:crafting/ingot_steel_to_storage_steel[minecraft:crafting_shaped]: ['#forge:ingots/steel', 'immersiveengineering:ingot_steel'] -> ['immersiveengineering:storage_steel']
+[09:16:38] [INFO ] server_scripts:unification.js:36: - immersiveengineering:crafting/storage_steel_from_slab[minecraft:crafting_shaped]: ['immersiveengineering:slab_storage_steel'] -> ['immersiveengineering:storage_steel']
+[09:16:38] [INFO ] server_scripts:unification.js:37: - immersiveengineering:crafting/storage_steel_to_ingot_steel[minecraft:crafting_shapeless]: ['immersiveengineering:storage_steel'] -> ['9x immersiveengineering:ingot_steel']
+[09:16:38] [INFO ] server_scripts:unification.js:38: - immersiveengineering:crafting/nugget_steel_to_ingot_steel[minecraft:crafting_shaped]: ['#forge:nuggets/steel', 'immersiveengineering:nugget_steel'] -> ['immersiveengineering:ingot_steel']
+[09:16:38] [INFO ] server_scripts:unification.js:39: - immersiveengineering:crafting/stick_iron[minecraft:crafting_shaped]: ['#forge:ingots/iron'] -> ['4x immersiveengineering:stick_iron']
+[09:16:38] [INFO ] server_scripts:unification.js:40: - immersiveengineering:smelting/ingot_lead_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_lead'] -> ['immersiveengineering:ingot_lead']
+[09:16:38] [INFO ] server_scripts:unification.js:41: - immersiveengineering:smelting/ingot_lead_from_dust[minecraft:smelting]: ['immersiveengineering:dust_lead'] -> ['immersiveengineering:ingot_lead']
+[09:16:38] [INFO ] server_scripts:unification.js:42: - immersiveengineering:smelting/copper_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_copper'] -> ['minecraft:copper_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:43: - immersiveengineering:smelting/copper_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_copper'] -> ['minecraft:copper_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:44: - immersiveengineering:smelting/ingot_lead_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_lead'] -> ['immersiveengineering:ingot_lead']
+[09:16:38] [INFO ] server_scripts:unification.js:45: - immersiveengineering:smelting/ingot_lead3[minecraft:smelting]: ['immersiveengineering:raw_lead'] -> ['immersiveengineering:ingot_lead']
+[09:16:38] [INFO ] server_scripts:unification.js:46: - immersiveengineering:smelting/ingot_silver_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_silver'] -> ['immersiveengineering:ingot_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:47: - immersiveengineering:smelting/ingot_silver_from_dust[minecraft:smelting]: ['immersiveengineering:dust_silver'] -> ['immersiveengineering:ingot_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:48: - immersiveengineering:smelting/ingot_silver_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_silver'] -> ['immersiveengineering:ingot_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:49: - immersiveengineering:smelting/ingot_silver3[minecraft:smelting]: ['immersiveengineering:raw_silver'] -> ['immersiveengineering:ingot_silver']
+[09:16:38] [INFO ] server_scripts:unification.js:50: - immersiveengineering:smelting/ingot_aluminum[minecraft:smelting]: ['immersiveengineering:ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[09:16:38] [INFO ] server_scripts:unification.js:51: - immersiveengineering:smelting/ingot_aluminum2[minecraft:smelting]: ['immersiveengineering:deepslate_ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[09:16:38] [INFO ] server_scripts:unification.js:52: - immersiveengineering:smelting/ingot_aluminum3[minecraft:smelting]: ['immersiveengineering:raw_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[09:16:38] [INFO ] server_scripts:unification.js:53: - immersiveengineering:smelting/ingot_aluminum_from_blasting[minecraft:blasting]: ['immersiveengineering:ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[09:16:38] [INFO ] server_scripts:unification.js:54: - immersiveengineering:smelting/ingot_aluminum_from_blasting2[minecraft:blasting]: ['immersiveengineering:deepslate_ore_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[09:16:38] [INFO ] server_scripts:unification.js:55: - immersiveengineering:smelting/ingot_aluminum_from_blasting3[minecraft:blasting]: ['immersiveengineering:raw_aluminum'] -> ['immersiveengineering:ingot_aluminum']
+[09:16:38] [INFO ] server_scripts:unification.js:56: - immersiveengineering:smelting/gold_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_gold'] -> ['minecraft:gold_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:57: - immersiveengineering:smelting/gold_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_gold'] -> ['minecraft:gold_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:58: - immersiveengineering:smelting/iron_ingot_from_dust[minecraft:smelting]: ['immersiveengineering:dust_iron'] -> ['minecraft:iron_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:59: - immersiveengineering:smelting/iron_ingot_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_iron'] -> ['minecraft:iron_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:60: - immersiveengineering:smelting/ingot_steel_from_dust[minecraft:smelting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
+[09:16:38] [INFO ] server_scripts:unification.js:61: - immersiveengineering:smelting/ingot_steel_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
+[09:16:38] [INFO ] server_scripts:unification.js:62: - alchemistry:copper_ingot_from_blasting_copper_dust[minecraft:blasting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:63: - alchemistry:copper_ingot_from_smelting_copper_dust[minecraft:smelting]: ['chemlib:copper_dust'] -> ['minecraft:copper_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:64: - alchemistry:iron_ingot_from_smelting_iron_dust[minecraft:smelting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:65: - alchemistry:iron_ingot_from_blasting_iron_dust[minecraft:blasting]: ['chemlib:iron_dust'] -> ['minecraft:iron_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:66: - alchemistry:gold_ingot_from_smelting_gold_dust[minecraft:smelting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:67: - alchemistry:gold_ingot_from_blasting_gold_dust[minecraft:blasting]: ['chemlib:gold_dust'] -> ['minecraft:gold_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:68: - chemlib:tin_ingot_from_blasting_tin_dust[minecraft:blasting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:69: - chemlib:tin_ingot_from_smelting_tin_dust[minecraft:smelting]: ['chemlib:tin_dust'] -> ['chemlib:tin_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:70: - chemlib:lead_ingot_from_blasting_lead_dust[minecraft:blasting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:71: - chemlib:lead_ingot_from_smelting_lead_dust[minecraft:smelting]: ['chemlib:lead_dust'] -> ['chemlib:lead_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:72: - chemlib:silver_ingot_from_smelting_silver_dust[minecraft:smelting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:73: - chemlib:silver_ingot_from_blasting_silver_dust[minecraft:blasting]: ['chemlib:silver_dust'] -> ['chemlib:silver_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:74: - chemlib:aluminum_ingot_from_smelting_aluminum_dust[minecraft:smelting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:75: - chemlib:aluminum_ingot_from_blasting_aluminum_dust[minecraft:blasting]: ['chemlib:aluminum_dust'] -> ['chemlib:aluminum_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:76: - chemlib:nickel_ingot_from_smelting_nickel_dust[minecraft:smelting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:77: - chemlib:nickel_ingot_from_blasting_nickel_dust[minecraft:blasting]: ['chemlib:nickel_dust'] -> ['chemlib:nickel_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:78: - chemlib:molybdenum_ingot_from_smelting_molybdenum_dust[minecraft:smelting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:79: - chemlib:molybdenum_ingot_from_blasting_molybdenum_dust[minecraft:blasting]: ['chemlib:molybdenum_dust'] -> ['chemlib:molybdenum_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:80: - chemlib:lithium_ingot_from_smelting_lithium_dust[minecraft:smelting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:81: - chemlib:lithium_ingot_from_blasting_lithium_dust[minecraft:blasting]: ['chemlib:lithium_dust'] -> ['chemlib:lithium_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:82: - chemlib:vanadium_ingot_from_smelting_vanadium_dust[minecraft:smelting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:83: - chemlib:vanadium_ingot_from_blasting_vanadium_dust[minecraft:blasting]: ['chemlib:vanadium_dust'] -> ['chemlib:vanadium_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:84: - chemlib:thorium_ingot_from_smelting_thorium_dust[minecraft:smelting]: ['chemlib:thorium_dust'] -> ['chemlib:thorium_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:85: - chemlib:thorium_ingot_from_blasting_thorium_dust[minecraft:blasting]: ['chemlib:thorium_dust'] -> ['chemlib:thorium_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:86: - chemlib:tin_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:tin_ingot'] -> ['9x chemlib:tin_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:87: - chemlib:tin_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:tin_nugget'] -> ['chemlib:tin_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:88: - chemlib:tin_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:tin_metal_block'] -> ['9x chemlib:tin_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:89: - chemlib:tin_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:tin_ingot'] -> ['chemlib:tin_metal_block']
+[09:16:38] [INFO ] server_scripts:unification.js:90: - chemlib:lead_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:lead_ingot'] -> ['chemlib:lead_metal_block']
+[09:16:38] [INFO ] server_scripts:unification.js:91: - chemlib:lead_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:lead_metal_block'] -> ['9x chemlib:lead_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:92: - chemlib:lead_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:lead_ingot'] -> ['9x chemlib:lead_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:93: - chemlib:lead_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:lead_nugget'] -> ['chemlib:lead_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:94: - chemlib:silver_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:silver_ingot'] -> ['chemlib:silver_metal_block']
+[09:16:38] [INFO ] server_scripts:unification.js:95: - chemlib:silver_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:silver_metal_block'] -> ['9x chemlib:silver_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:96: - chemlib:silver_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:silver_nugget'] -> ['chemlib:silver_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:97: - chemlib:silver_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:silver_ingot'] -> ['9x chemlib:silver_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:98: - chemlib:aluminum_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:aluminum_ingot'] -> ['9x chemlib:aluminum_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:99: - chemlib:aluminum_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:aluminum_nugget'] -> ['chemlib:aluminum_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:100: - chemlib:aluminum_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:aluminum_ingot'] -> ['chemlib:aluminum_metal_block']
+[09:16:38] [INFO ] server_scripts:unification.js:101: - chemlib:aluminum_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:aluminum_metal_block'] -> ['9x chemlib:aluminum_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:102: - chemlib:nickel_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:nickel_ingot'] -> ['9x chemlib:nickel_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:103: - chemlib:nickel_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:nickel_nugget'] -> ['chemlib:nickel_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:104: - chemlib:nickel_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:nickel_ingot'] -> ['chemlib:nickel_metal_block']
+[09:16:38] [INFO ] server_scripts:unification.js:105: - chemlib:nickel_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:nickel_metal_block'] -> ['9x chemlib:nickel_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:106: - chemlib:zinc_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:zinc_nugget'] -> ['chemlib:zinc_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:107: - chemlib:zinc_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:zinc_ingot'] -> ['9x chemlib:zinc_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:108: - chemlib:zinc_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:zinc_ingot'] -> ['chemlib:zinc_metal_block']
+[09:16:38] [INFO ] server_scripts:unification.js:109: - chemlib:zinc_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:zinc_metal_block'] -> ['9x chemlib:zinc_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:110: - chemlib:cobalt_ingot_to_nugget[minecraft:crafting_shapeless]: ['chemlib:cobalt_ingot'] -> ['9x chemlib:cobalt_nugget']
+[09:16:38] [INFO ] server_scripts:unification.js:111: - chemlib:cobalt_nugget_to_ingot[minecraft:crafting_shaped]: ['chemlib:cobalt_nugget'] -> ['chemlib:cobalt_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:112: - chemlib:cobalt_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:cobalt_ingot'] -> ['chemlib:cobalt_metal_block']
+[09:16:38] [INFO ] server_scripts:unification.js:113: - chemlib:cobalt_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:cobalt_metal_block'] -> ['9x chemlib:cobalt_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:114: - chemlib:titanium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:titanium_ingot'] -> ['chemlib:titanium_metal_block']
+[09:16:38] [INFO ] server_scripts:unification.js:115: - chemlib:titanium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:titanium_metal_block'] -> ['9x chemlib:titanium_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:116: - chemlib:chromium_ingot_to_block[minecraft:crafting_shaped]: ['chemlib:chromium_ingot'] -> ['chemlib:chromium_metal_block']
+[09:16:38] [INFO ] server_scripts:unification.js:117: - chemlib:chromium_block_to_ingot[minecraft:crafting_shapeless]: ['chemlib:chromium_metal_block'] -> ['9x chemlib:chromium_ingot']
+[09:16:38] [INFO ] server_scripts:unification.js:118: - butchersdelight:re_saltcipe[minecraft:smoking]: ['minecraft:water_bucket'] -> ['butchersdelight:item_salt']
+[09:16:38] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-121B,16B,96B,64B,2B,-28B,-16B,105B,109B,62B,101B,124B,0B,44B,13B,110B,65B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:aletter']
+[09:16:38] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,7B,25B,48B,48B,-4B,-63B,-32B,51B,32B,1B,-120B,24B,101B,-4B,-63B,101B,31B,0B,-100B,75B,122B,17B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:bletter']
+[09:16:38] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-121B,16B,96B,64B,1B,67B,-113B,-113B,31B,0B,0B,36B,68B,86B,-95B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:cletter']
+[09:16:38] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,7B,25B,48B,48B,-4B,-63B,-32B,51B,32B,1B,-120B,-40B,-48B,-30B,-29B,-9B,31B,0B,-98B,77B,102B,97B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:dletter']
+[09:16:38] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-121B,16B,96B,64B,1B,-108B,-13B,81B,13B,-58B,-28B,-45B,-52B,62B,-84B,0B,0B,36B,59B,104B,89B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:eletter']
+[09:16:38] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-121B,16B,96B,64B,1B,-108B,-13B,81B,-51B,-59B,-28B,83B,-37B,62B,-4B,124B,0B,-128B,-58B,74B,-47B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:fletter']
+[09:16:38] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-121B,16B,96B,64B,1B,84B,-30B,-93B,-101B,-113B,-61B,62B,106B,-16B,-15B,3B,0B,80B,-123B,114B,49B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:gletter']
+[09:16:38] [INFO ] server_scripts:writting.js:8: + kubejs:shaped: [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{artwork:"custom",compressed:1b,indices:[B;120B,-38B,-5B,-13B,-25B,-49B,31B,6B,40B,-8B,3B,5B,-44B,-26B,83B,10B,104B,-23B,62B,0B,20B,97B,-99B,-127B],palette:0b,pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')] -> ['the_ages_of_times:hletter']
+[09:16:38] [INFO ] server_scripts:writting.js:19: + kubejs:shaped: ['the_ages_of_times:stone_tablet'] -> [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')]
+[09:16:38] [INFO ] server_scripts:writting.js:25: + kubejs:shaped: ['minecraft:stone'] -> [Item.of('multibeds:custom', '{BlockEntityTag:{blanket_item:{Count:1b,id:"multibeds:blanket_light_gray",tag:{pattern:"grid"}},mirror:0b,pillow_item:{Count:1b,id:"multibeds:pillow",tag:{rgb16:2457s,rgbsimple:8b}},sheet_item:{Count:1b,id:"multibeds:sheet",tag:{rgb16:2457s,rgbsimple:8b}},texture_item:{Count:1b,id:"minecraft:stone"}}}')]
+[09:16:38] [INFO ] Posted recipe events in 433.2 ms
+[09:16:38] [INFO ] Modified & removed recipes in 263.3 ms
+[09:16:38] [INFO ] Added recipes in 21.30 ms
+[09:16:38] [INFO ] Added 212 recipes, removed 271 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[09:16:43] [INFO ] Collecting Custom Machine upgrades from JS scripts.
