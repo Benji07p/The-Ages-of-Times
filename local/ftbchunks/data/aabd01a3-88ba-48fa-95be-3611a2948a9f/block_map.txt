@@ -64,6 +64,7 @@
 #91215B minecolonies:composted_dirt
 #E2D601 minecraft:composter
 #3BEB0B farmersdelight:cooking_pot
+#0D9C42 ironchest:copper_chest
 #6E76AF minecraft:copper_ore
 #CC07F6 minecraft:cornflower
 #306005 minecraft:cracked_stone_bricks
