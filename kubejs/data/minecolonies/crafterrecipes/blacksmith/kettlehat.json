@@ -1,0 +1,23 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 3
+        },
+        {
+            "item": "electrodynamics:plateiron",
+            "count": 2
+        },
+        {
+            "item": "magistuarmory:steel_chainmail",
+            "count": 3
+        }
+    ],
+    "result": "magistuarmory:kettlehat",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

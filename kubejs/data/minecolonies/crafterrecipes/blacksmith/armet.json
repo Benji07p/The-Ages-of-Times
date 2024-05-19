@@ -1,0 +1,23 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:red_wool",
+            "count": 3
+        },
+        {
+            "item": "electrodynamics:plateiron",
+            "count": 3
+        },
+        {
+            "item": "magistuarmory:barbute",
+            "count": 1
+        }
+    ],
+    "result": "magistuarmory:armet",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

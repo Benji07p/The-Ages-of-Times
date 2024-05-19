@@ -1,0 +1,19 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "electrodynamics:plateiron",
+            "count": 5
+        },
+        {
+            "item": "magistuarmory:steel_chainmail",
+            "count": 3
+        }
+    ],
+    "result": "magistuarmory:xivcenturyknight_chestplate",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

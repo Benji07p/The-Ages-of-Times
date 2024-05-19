@@ -1,0 +1,15 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:iron_nugget",
+            "count": 4
+        }
+    ],
+    "result": "magistuarmory:steel_ring",
+    "count": 8,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

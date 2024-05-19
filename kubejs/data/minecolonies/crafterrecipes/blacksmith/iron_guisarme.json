@@ -1,0 +1,23 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 1
+        },
+        {
+            "item": "magistuarmory:iron_shortsword",
+            "count": 1
+        },
+        {
+            "item": "magistuarmory:pole",
+            "count": 1
+        }
+    ],
+    "result": "magistuarmory:iron_guisarme",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

@@ -1,0 +1,15 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:iron_nugget",
+            "count": 6
+        }
+    ],
+    "result": "magistuarmory:small_steel_plate",
+    "count": 8,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

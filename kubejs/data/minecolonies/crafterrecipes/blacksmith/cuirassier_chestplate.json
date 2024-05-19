@@ -1,0 +1,19 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 5
+        },
+        {
+            "item": "electrodynamics:plateiron",
+            "count": 2
+        }
+    ],
+    "result": "magistuarmory:cuirassier_chestplate",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

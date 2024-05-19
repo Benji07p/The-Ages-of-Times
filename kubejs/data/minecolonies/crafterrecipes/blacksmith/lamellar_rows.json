@@ -1,0 +1,19 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "magistuarmory:small_steel_plate",
+            "count": 6
+        },
+        {
+            "item": "magistuarmory:leather_strip",
+            "count": 3
+        }
+    ],
+    "result": "magistuarmory:lamellar_rows",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

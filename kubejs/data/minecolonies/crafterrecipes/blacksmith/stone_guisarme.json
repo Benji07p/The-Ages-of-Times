@@ -1,0 +1,23 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:cobblestone",
+            "count": 1
+        },
+        {
+            "item": "magistuarmory:stone_shortsword",
+            "count": 1
+        },
+        {
+            "item": "magistuarmory:pole",
+            "count": 1
+        }
+    ],
+    "result": "magistuarmory:stone_guisarme",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

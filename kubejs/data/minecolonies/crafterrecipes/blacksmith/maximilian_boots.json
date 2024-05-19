@@ -1,0 +1,19 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:blaze_powder",
+            "count": 2
+        },
+        {
+            "item": "electrodynamics:plateiron",
+            "count": 4
+        }
+    ],
+    "result": "magistuarmory:maximilian_boots",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

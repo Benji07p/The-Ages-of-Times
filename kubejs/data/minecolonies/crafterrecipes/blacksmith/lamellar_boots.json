@@ -1,0 +1,23 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "magistuarmory:lamellar_rows",
+            "count": 2
+        },
+        {
+            "item": "magistuarmory:leather_strip",
+            "count": 2
+        },
+        {
+            "item": "minecraft:leather",
+            "count": 2
+        }
+    ],
+    "result": "magistuarmory:lamellar_boots",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

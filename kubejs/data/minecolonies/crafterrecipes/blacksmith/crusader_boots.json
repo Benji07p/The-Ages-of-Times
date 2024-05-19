@@ -1,0 +1,19 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "magistuarmory:steel_chainmail",
+            "count": 2
+        },
+        {
+            "item": "minecraft:leather",
+            "count": 4
+        }
+    ],
+    "result": "magistuarmory:crusader_boots",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

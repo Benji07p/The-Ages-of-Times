@@ -1,0 +1,23 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:oak_planks",
+            "count": 3
+        },
+        {
+            "item": "magistuarmory:pole",
+            "count": 1
+        },
+        {
+            "item": "magistuarmory:hilt",
+            "count": 1
+        }
+    ],
+    "result": "magistuarmory:wood_chivalrylance",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

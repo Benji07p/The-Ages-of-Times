@@ -1,0 +1,27 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 3
+        },
+        {
+            "item": "minecraft:string",
+            "count": 2
+        },
+        {
+            "item": "minecraft:tripwire_hook",
+            "count": 1
+        },
+        {
+            "item": "magistuarmory:pole",
+            "count": 1
+        }
+    ],
+    "result": "magistuarmory:heavy_crossbow",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}

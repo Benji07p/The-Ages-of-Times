@@ -1,0 +1,15 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "magistuarmory:lamellar_rows",
+            "count": 8
+        }
+    ],
+    "result": "magistuarmory:lamellar_chestplate",
+    "count": 1,
+    "intermediate": "minecraft:air",
+    "min-building-level": 1,
+    "show-tooltip": true
+}
