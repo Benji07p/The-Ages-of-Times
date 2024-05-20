@@ -976,6 +976,9 @@ onEvent('recipes', event => {
 	G: 'the_ages_of_times:pitchfork'
 	})
 
+	//Blacksmith
+	event.remove({mod: 'magistuarmory'})
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
