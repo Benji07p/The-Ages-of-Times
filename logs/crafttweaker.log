@@ -1,151 +1,67 @@
-[13:36:47.508][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[13:36:47.550][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[13:36:47.553][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[13:36:47.598][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
-[13:36:51.786][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[13:36:51.788][INFO]: - 'atum' at version '1.18.2-2.3.0'
-[13:36:51.788][INFO]: - 'crafttweaker' at version '9.1.211'
-[13:36:51.789][INFO]: - 'custommachinery' at version '0.8.7'
-[13:36:51.789][INFO]: - 'custommachinerycreate' at version '1.0.2'
-[13:36:51.789][INFO]: - 'extendedcrafting' at version '4.1.2'
-[13:36:51.789][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
-[13:36:51.789][INFO]: - 'gamestages' at version '8.1.3'
-[13:36:51.789][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
-[13:36:51.789][INFO]: - 'immersivepetroleum' at version '4.2.0-22'
-[13:36:51.789][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[13:36:51.789][INFO]: - 'jmapstages' at version '1.18.2-2.1.0'
-[13:36:51.789][INFO]: - 'recipestages' at version '3.0.0.10'
-[13:37:18.495][INFO]: Started loading scripts for loader 'initialize'
-[13:37:18.982][INFO]: Compiling and executing scripts
-[13:37:19.034][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:37:19.195][INFO]: Execution for loader 'initialize' completed successfully
-[13:48:40.846][INFO]: Started loading scripts for loader 'tags'
-[13:48:40.865][INFO]: Compiling and executing scripts
-[13:48:40.877][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:48:40.886][INFO]: Execution for loader 'tags' completed successfully
-[13:48:46.776][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:48:46.794][INFO]: Compiling and executing scripts
-[13:48:47.103][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:48:47.104][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:48:47.113][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:48:47.114][INFO]: This reload was made possible by embeddedt and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:59:48.789][INFO]: Started loading scripts for loader 'tags'
-[13:59:48.789][INFO]: Undoing previous actions
-[13:59:48.806][INFO]: Compiling and executing scripts
-[13:59:48.808][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:59:48.816][INFO]: Execution for loader 'tags' completed successfully
-[13:59:53.929][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:59:53.929][INFO]: Undoing previous actions
-[13:59:53.943][INFO]: Compiling and executing scripts
-[13:59:54.053][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:59:54.053][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:59:54.061][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:59:54.061][INFO]: This reload was made possible by Jessie Sims and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:08:13.468][INFO]: Started loading scripts for loader 'tags'
-[14:08:13.468][INFO]: Undoing previous actions
-[14:08:13.483][INFO]: Compiling and executing scripts
-[14:08:13.485][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:08:13.493][INFO]: Execution for loader 'tags' completed successfully
-[14:08:18.376][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:08:18.376][INFO]: Undoing previous actions
-[14:08:18.387][INFO]: Compiling and executing scripts
-[14:08:18.483][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:08:18.483][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:08:18.491][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:08:18.491][INFO]: This reload was made possible by Jordan Pineo and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:23:01.796][INFO]: Started loading scripts for loader 'tags'
-[15:23:01.796][INFO]: Undoing previous actions
-[15:23:01.809][INFO]: Compiling and executing scripts
-[15:23:01.811][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:23:01.818][INFO]: Execution for loader 'tags' completed successfully
-[15:23:06.635][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:23:06.635][INFO]: Undoing previous actions
-[15:23:06.646][INFO]: Compiling and executing scripts
-[15:23:06.746][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:23:06.746][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:23:06.754][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:23:06.754][INFO]: This reload was made possible by DreamThorn and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:29:25.666][INFO]: Started loading scripts for loader 'tags'
-[15:29:25.666][INFO]: Undoing previous actions
-[15:29:25.677][INFO]: Compiling and executing scripts
-[15:29:25.679][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:29:25.685][INFO]: Execution for loader 'tags' completed successfully
-[15:29:30.568][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:29:30.568][INFO]: Undoing previous actions
-[15:29:30.578][INFO]: Compiling and executing scripts
-[15:29:30.655][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:29:30.655][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:29:30.662][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:29:30.663][INFO]: This reload was made possible by Jonathan McManus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:45:24.821][INFO]: Started loading scripts for loader 'tags'
-[15:45:24.821][INFO]: Undoing previous actions
-[15:45:24.832][INFO]: Compiling and executing scripts
-[15:45:24.833][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:45:24.839][INFO]: Execution for loader 'tags' completed successfully
-[15:45:29.635][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:45:29.635][INFO]: Undoing previous actions
-[15:45:29.645][INFO]: Compiling and executing scripts
-[15:45:29.729][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:45:29.730][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:45:29.737][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:45:29.737][INFO]: This reload was made possible by DreamThorn and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:48:50.766][INFO]: Started loading scripts for loader 'tags'
-[15:48:50.767][INFO]: Undoing previous actions
-[15:48:50.776][INFO]: Compiling and executing scripts
-[15:48:50.778][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:48:50.784][INFO]: Execution for loader 'tags' completed successfully
-[15:48:55.704][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:48:55.704][INFO]: Undoing previous actions
-[15:48:55.713][INFO]: Compiling and executing scripts
-[15:48:55.787][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:48:55.787][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:48:55.793][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:48:55.794][INFO]: This reload was made possible by NerdyWhiteGuy and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[16:51:15.526][INFO]: Started loading scripts for loader 'tags'
-[16:51:15.526][INFO]: Undoing previous actions
-[16:51:15.537][INFO]: Compiling and executing scripts
-[16:51:15.538][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[16:51:15.544][INFO]: Execution for loader 'tags' completed successfully
-[16:51:20.434][INFO]: Started loading scripts for loader 'crafttweaker'
-[16:51:20.434][INFO]: Undoing previous actions
-[16:51:20.442][INFO]: Compiling and executing scripts
-[16:51:20.511][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[16:51:20.511][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[16:51:20.517][INFO]: Execution for loader 'crafttweaker' completed successfully
-[16:51:20.518][INFO]: This reload was made possible by Jonathan McManus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[16:55:25.989][INFO]: Started loading scripts for loader 'tags'
-[16:55:25.989][INFO]: Undoing previous actions
-[16:55:25.998][INFO]: Compiling and executing scripts
-[16:55:26.000][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[16:55:26.006][INFO]: Execution for loader 'tags' completed successfully
-[16:55:30.923][INFO]: Started loading scripts for loader 'crafttweaker'
-[16:55:30.923][INFO]: Undoing previous actions
-[16:55:30.932][INFO]: Compiling and executing scripts
-[16:55:31.005][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[16:55:31.005][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[16:55:31.011][INFO]: Execution for loader 'crafttweaker' completed successfully
-[16:55:31.012][INFO]: This reload was made possible by Hooley and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[16:59:13.049][INFO]: Started loading scripts for loader 'tags'
-[16:59:13.049][INFO]: Undoing previous actions
-[16:59:13.059][INFO]: Compiling and executing scripts
-[16:59:13.061][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[16:59:13.067][INFO]: Execution for loader 'tags' completed successfully
-[16:59:17.972][INFO]: Started loading scripts for loader 'crafttweaker'
-[16:59:17.972][INFO]: Undoing previous actions
-[16:59:17.980][INFO]: Compiling and executing scripts
-[16:59:18.047][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[16:59:18.047][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[16:59:18.053][INFO]: Execution for loader 'crafttweaker' completed successfully
-[16:59:18.054][INFO]: This reload was made possible by Jessie Sims and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[17:26:08.702][INFO]: Started loading scripts for loader 'tags'
-[17:26:08.702][INFO]: Undoing previous actions
-[17:26:08.712][INFO]: Compiling and executing scripts
-[17:26:08.714][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[17:26:08.719][INFO]: Execution for loader 'tags' completed successfully
-[17:26:13.458][INFO]: Started loading scripts for loader 'crafttweaker'
-[17:26:13.458][INFO]: Undoing previous actions
-[17:26:13.466][INFO]: Compiling and executing scripts
-[17:26:13.540][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[17:26:13.540][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[17:26:13.546][INFO]: Execution for loader 'crafttweaker' completed successfully
-[17:26:13.547][INFO]: This reload was made possible by Jordan Pineo and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[14:51:17.983][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[14:51:18.037][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[14:51:18.044][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[14:51:18.049][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
+[14:51:21.038][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[14:51:21.042][INFO]: - 'atum' at version '1.18.2-2.3.0'
+[14:51:21.042][INFO]: - 'crafttweaker' at version '9.1.211'
+[14:51:21.042][INFO]: - 'custommachinery' at version '0.8.7'
+[14:51:21.042][INFO]: - 'custommachinerycreate' at version '1.0.2'
+[14:51:21.042][INFO]: - 'extendedcrafting' at version '4.1.2'
+[14:51:21.042][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
+[14:51:21.042][INFO]: - 'gamestages' at version '8.1.3'
+[14:51:21.042][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
+[14:51:21.042][INFO]: - 'immersivepetroleum' at version '4.2.0-22'
+[14:51:21.043][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[14:51:21.043][INFO]: - 'jmapstages' at version '1.18.2-2.1.0'
+[14:51:21.043][INFO]: - 'recipestages' at version '3.0.0.10'
+[14:51:45.452][INFO]: Started loading scripts for loader 'initialize'
+[14:51:45.963][INFO]: Compiling and executing scripts
+[14:51:46.017][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[14:51:46.219][INFO]: Execution for loader 'initialize' completed successfully
+[14:53:05.209][INFO]: Started loading scripts for loader 'tags'
+[14:53:05.230][INFO]: Compiling and executing scripts
+[14:53:05.240][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[14:53:05.249][INFO]: Execution for loader 'tags' completed successfully
+[14:53:11.150][INFO]: Started loading scripts for loader 'crafttweaker'
+[14:53:11.167][INFO]: Compiling and executing scripts
+[14:53:11.498][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[14:53:11.499][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[14:53:11.507][INFO]: Execution for loader 'crafttweaker' completed successfully
+[14:53:11.509][INFO]: This reload was made possible by Jordan Pineo and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[15:00:48.105][INFO]: Started loading scripts for loader 'tags'
+[15:00:48.105][INFO]: Undoing previous actions
+[15:00:48.131][INFO]: Compiling and executing scripts
+[15:00:48.134][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[15:00:48.142][INFO]: Execution for loader 'tags' completed successfully
+[15:00:53.505][INFO]: Started loading scripts for loader 'crafttweaker'
+[15:00:53.506][INFO]: Undoing previous actions
+[15:00:53.521][INFO]: Compiling and executing scripts
+[15:00:53.640][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[15:00:53.640][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[15:00:53.647][INFO]: Execution for loader 'crafttweaker' completed successfully
+[15:00:53.648][INFO]: This reload was made possible by NerdyWhiteGuy and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[15:05:35.720][INFO]: Started loading scripts for loader 'tags'
+[15:05:35.721][INFO]: Undoing previous actions
+[15:05:35.736][INFO]: Compiling and executing scripts
+[15:05:35.739][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[15:05:35.745][INFO]: Execution for loader 'tags' completed successfully
+[15:05:40.695][INFO]: Started loading scripts for loader 'crafttweaker'
+[15:05:40.695][INFO]: Undoing previous actions
+[15:05:40.708][INFO]: Compiling and executing scripts
+[15:05:40.802][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[15:05:40.802][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[15:05:40.810][INFO]: Execution for loader 'crafttweaker' completed successfully
+[15:05:40.810][INFO]: This reload was made possible by NerdyWhiteGuy and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[15:07:16.685][INFO]: Started loading scripts for loader 'tags'
+[15:07:16.685][INFO]: Undoing previous actions
+[15:07:16.697][INFO]: Compiling and executing scripts
+[15:07:16.699][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[15:07:16.707][INFO]: Execution for loader 'tags' completed successfully
+[15:07:21.590][INFO]: Started loading scripts for loader 'crafttweaker'
+[15:07:21.590][INFO]: Undoing previous actions
+[15:07:21.601][INFO]: Compiling and executing scripts
+[15:07:21.682][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[15:07:21.682][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[15:07:21.689][INFO]: Execution for loader 'crafttweaker' completed successfully
+[15:07:21.689][INFO]: This reload was made possible by Jellycraft and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
