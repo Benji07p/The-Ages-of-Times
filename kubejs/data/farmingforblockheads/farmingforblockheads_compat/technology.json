@@ -1,0 +1,13 @@
+{
+    "group": {
+      "name": "Technology",
+      "enabledByDefault": true,
+      "defaultPayment": {
+        "item": "atum:coin_gold"
+      },
+      "defaultCategory": "technology"
+    },
+    "customEntries": [
+        {"output": "minecraft:paper"}
+    ]
+}
