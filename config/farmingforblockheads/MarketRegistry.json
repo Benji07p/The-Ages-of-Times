@@ -6,8 +6,8 @@
           "item": "magistuarmory:iron_zweihander"
         }
       },
-      "technologie": {
-        "name": "Technologie",
+      "technology": {
+        "name": "Technology",
         "icon": {
           "item": "minecraft:paper"
         }
