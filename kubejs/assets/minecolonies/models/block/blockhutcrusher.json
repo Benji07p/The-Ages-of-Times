@@ -1,0 +1,151 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "minecolonies:blocks/books/blueprint",
+		"5": "block/cauldron_side",
+		"6": "block/oak_planks",
+		"7": "block/stripped_oak_log",
+		"11": "minecolonies:blocks/books/sketchbook_3",
+		"particle": "block/stripped_oak_log"
+	},
+	"elements": [
+		{
+			"name": "leg1",
+			"from": [13, 0, 1],
+			"to": [15, 14, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 9]},
+			"faces": {
+				"north": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"east": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"south": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"west": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#6"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#6"}
+			}
+		},
+		{
+			"name": "leg2",
+			"from": [1, 0, 1],
+			"to": [3, 14, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-5, 8, 9]},
+			"faces": {
+				"north": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"east": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"south": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"west": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"up": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#7"}
+			}
+		},
+		{
+			"name": "leg3",
+			"from": [1, 0, 13],
+			"to": [3, 14, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-5, 8, 21]},
+			"faces": {
+				"north": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"east": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"south": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"west": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#7"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#7"}
+			}
+		},
+		{
+			"name": "leg4",
+			"from": [13, 0, 13],
+			"to": [15, 14, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 21]},
+			"faces": {
+				"north": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"east": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"south": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"west": {"uv": [0, 7, 14, 12], "rotation": 90, "texture": "#6"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#7"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#7"}
+			}
+		},
+		{
+			"name": "table",
+			"from": [0, 14, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 7, 16, 12], "texture": "#6"},
+				"east": {"uv": [0, 7, 16, 12], "texture": "#6"},
+				"south": {"uv": [0, 7, 16, 12], "texture": "#6"},
+				"west": {"uv": [0, 7, 16, 12], "texture": "#6"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#6"}
+			}
+		},
+		{
+			"name": "drawer",
+			"from": [2, 11, 0.5],
+			"to": [14, 14, 14.5],
+			"faces": {
+				"north": {"uv": [0, 7, 14, 12], "texture": "#6"},
+				"east": {"uv": [1, 1, 4, 14], "rotation": 90, "texture": "#7"},
+				"south": {"uv": [2, 0, 14, 3], "texture": "#7"},
+				"west": {"uv": [12, 1, 15, 14], "rotation": 90, "texture": "#7"},
+				"down": {"uv": [2, 0, 14, 13], "texture": "#7"}
+			}
+		},
+		{
+			"name": "drawer(griff)",
+			"from": [7, 12, 0],
+			"to": [9, 13, 1],
+			"faces": {
+				"north": {"uv": [6, 3, 8, 3.999], "texture": "#5"},
+				"east": {"uv": [0, 3, 1, 4], "texture": "#5"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#5"},
+				"west": {"uv": [0, 3, 1, 4], "texture": "#5"},
+				"up": {"uv": [0, 3, 2, 4], "texture": "#5"},
+				"down": {"uv": [0, 3, 2, 4], "texture": "#5"}
+			}
+		},
+		{
+			"name": "stift",
+			"from": [8, 16, 6],
+			"to": [12, 17, 11],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7, 8, 12]},
+			"faces": {
+				"north": {"uv": [1, 9, 6.999, 9.999], "texture": "#11"},
+				"east": {"uv": [0, 1, 1, 9], "rotation": 90, "texture": "#11"},
+				"south": {"uv": [1, 0, 7, 1], "texture": "#11"},
+				"west": {"uv": [7, 1, 8, 8.999], "rotation": 90, "texture": "#11"},
+				"up": {"uv": [1, 1, 6.998, 8.999], "texture": "#11"}
+			}
+		},
+		{
+			"name": "stift",
+			"from": [0, 16, 5],
+			"to": [4, 17, 10],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [7, 8, 12]},
+			"faces": {
+				"north": {"uv": [1, 0, 7, 1], "texture": "#11"},
+				"east": {"uv": [7, 1, 8, 8.999], "rotation": 90, "texture": "#11"},
+				"south": {"uv": [1, 9, 6.999, 9.999], "texture": "#11"},
+				"west": {"uv": [0, 1, 1, 9], "rotation": 90, "texture": "#11"},
+				"up": {"uv": [1, 1, 6.998, 8.999], "rotation": 180, "texture": "#11"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7,
+		8,
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	]
+}
