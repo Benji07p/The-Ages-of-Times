@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-05-23 12:16:47 +0200"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/baked_cookies_campfire_cooking": {
     "criteria": {
       "has_dough": "2024-01-20 15:47:24 +0100"
@@ -488,9 +494,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-05-20 17:52:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2023-11-20 18:09:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-05-20 17:55:43 +0200"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2024-05-20 17:52:37 +0200"
     },
     "done": true
   },
@@ -1181,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-05-20 17:52:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2023-11-06 18:29:47 +0100"
@@ -1190,6 +1220,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-02-13 13:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-05-20 17:55:43 +0200"
     },
     "done": true
   },
@@ -1616,6 +1652,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2023-11-19 17:42:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-05-20 17:52:37 +0200"
     },
     "done": true
   },
@@ -2519,6 +2561,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cooked_mutton": {
+    "criteria": {
+      "has_the_recipe": "2024-05-20 17:55:43 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2023-11-28 18:52:34 +0100"
@@ -2618,6 +2666,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-05-18 12:35:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-05-20 17:55:43 +0200"
     },
     "done": true
   },
@@ -3523,6 +3577,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/banner_rally_guards": {
+    "criteria": {
+      "has_items": "2024-05-23 11:40:25 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/chain": {
     "criteria": {
       "has_the_recipe": "2024-05-18 12:34:02 +0200"
@@ -4090,6 +4150,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "tavern": "2024-05-23 11:31:29 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/red_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -4480,6 +4546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-05-23 12:16:47 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/light_blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -4690,6 +4762,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_10": "2024-05-23 11:35:48 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2023-12-17 18:01:12 +0100"
@@ -4735,6 +4813,12 @@
   "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2023-11-06 18:24:33 +0100"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_stonemason": {
+    "criteria": {
+      "stonemason": "2024-05-23 12:17:43 +0200"
     },
     "done": true
   },
@@ -5027,9 +5111,21 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2024-05-23 11:35:48 +0200"
+    },
+    "done": true
+  },
   "notreepunching:plant_fiber_from_cactus_with_knife": {
     "criteria": {
       "has_item": "2024-04-14 12:59:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-05-23 12:16:47 +0200"
     },
     "done": true
   },
