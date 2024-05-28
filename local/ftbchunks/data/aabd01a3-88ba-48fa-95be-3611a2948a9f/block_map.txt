@@ -14,8 +14,10 @@
 #18D108 minecraft:basalt
 #33865C domum_ornamentum:beige_bricks
 #7F50F6 minecraft:bell
+#FC3DD5 minecraft:birch_fence
 #3DE8FE minecraft:birch_leaves
 #3BA928 minecraft:birch_log
+#B7985C minecraft:birch_slab
 #0306AC minecraft:birch_stairs
 #6BFB5F minecraft:black_banner
 #22ACFE minecraft:black_carpet
@@ -141,6 +143,7 @@
 #72D77D minecraft:lever
 #7C9C71 minecraft:light_gray_carpet
 #38DD6B minecraft:light_gray_concrete
+#C1E0C7 minecraft:light_gray_glazed_terracotta
 #EC280B minecraft:light_gray_terracotta
 #7482E4 minecraft:lilac
 #DFD691 minecraft:lily_pad
@@ -153,6 +156,7 @@
 #F0D99D minecraft:mossy_stone_brick_stairs
 #311D1D minecraft:mossy_stone_brick_wall
 #483B67 minecraft:mossy_stone_bricks
+#0EFBB2 minecraft:nether_brick_slab
 #1DD5F3 minecraft:note_block
 #308B47 minecraft:oak_door
 #73753E minecraft:oak_fence
@@ -208,6 +212,7 @@
 #62A444 minecraft:potted_oak_sapling
 #3F6C15 minecraft:potted_orange_tulip
 #90BA6D minecraft:potted_oxeye_daisy
+#BD522C minecraft:potted_poppy
 #C5DDD6 minecraft:potted_red_tulip
 #40BB61 minecraft:prismarine
 #E6B35B minecraft:pumpkin
@@ -221,9 +226,13 @@
 #868785 minecraft:rail
 #DEEFC6 minecraft:red_bed
 #E71C2C minecraft:red_carpet
+#025A66 minecraft:red_concrete
 #E5CE2C minecraft:red_glazed_terracotta
+#B6FB84 minecraft:red_nether_brick_slab
+#C856DE minecraft:red_nether_bricks
 #FFA8B9 minecraft:red_sandstone_slab
 #8873C9 minecraft:red_sandstone_stairs
+#4A5246 minecraft:red_terracotta
 #465F37 minecraft:red_tulip
 #D83486 minecraft:red_wall_banner
 #83B596 minecraft:red_wool
@@ -255,6 +264,7 @@
 #13D503 minecraft:smooth_sandstone
 #046DFC minecraft:smooth_sandstone_slab
 #70F44C minecraft:smooth_sandstone_stairs
+#3A9287 minecraft:smooth_stone
 #CB82F8 minecraft:smooth_stone_slab
 #C5C0F6 minecraft:soul_campfire
 #A67F43 minecraft:soul_sand
@@ -276,6 +286,8 @@
 #7D07A9 minecraft:stone_pressure_plate
 #2E9337 minecraft:stonecutter
 #B81C38 farmersdelight:stove
+#B851E0 minecraft:stripped_birch_log
+#D1E517 minecraft:stripped_birch_wood
 #5C6350 minecraft:stripped_dark_oak_log
 #121625 farmersdelight:stuffed_pumpkin_block
 #5CF3F1 minecraft:sugar_cane
