@@ -8,6 +8,9 @@
       "defaultCategory": "technology"
     },
     "customEntries": [
-        {"output": "minecraft:paper"}
+        {"output": "minecraft:paper"},
+        {"output": "minecraft:clock", "payment": {"item": "atum:coin_gold", "count": 10}},
+        {"output": "the_ages_of_times:gunpowder_recipes_book", "payment": {"item": "atum:coin_gold", "count": 10}},
+        {"output": "minecolonies:blockhutcrusher", "payment": {"item": "atum:coin_gold", "count": 64}}
     ]
 }
