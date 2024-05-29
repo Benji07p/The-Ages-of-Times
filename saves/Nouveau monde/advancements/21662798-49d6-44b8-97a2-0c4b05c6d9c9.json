@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_metalbarrel": {
+    "criteria": {
+      "has_minecart": "2024-05-29 16:50:42 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-01-22 18:18:20 +0100"
@@ -377,6 +383,12 @@
   "alchemistry:recipes/dissolver/netherite_block": {
     "criteria": {
       "has_the_recipe": "2023-11-20 18:24:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-29 16:50:42 +0200"
     },
     "done": true
   },
@@ -836,6 +848,12 @@
   "ironchest:recipes/ironchest/chests/trapped_obsidian_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-05-18 12:34:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-05-29 16:57:38 +0200"
     },
     "done": true
   },
@@ -1325,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-29 16:50:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-02-13 14:51:38 +0100"
@@ -1385,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-29 16:50:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-20 20:27:05 +0100"
@@ -1418,6 +1448,12 @@
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2023-12-17 20:27:38 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodenbarrel": {
+    "criteria": {
+      "has_minecart": "2024-05-29 16:50:42 +0200"
     },
     "done": true
   },
@@ -3046,6 +3082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2024-05-29 16:57:38 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_steel": {
     "criteria": {
       "has_steel_ingot": "2024-05-18 18:04:38 +0200"
@@ -3079,6 +3121,12 @@
   "minecolonies:minecolonies/citizen_eat_food_first": {
     "criteria": {
       "citizen_eat_anything": "2023-11-20 18:14:36 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodencrate": {
+    "criteria": {
+      "has_minecart": "2024-05-29 16:50:42 +0200"
     },
     "done": true
   },
@@ -3976,6 +4024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-29 16:50:42 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/ingot_lead_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2023-11-06 18:10:47 +0100"
@@ -4615,6 +4669,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-20 19:53:52 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_reinforcedcrate": {
+    "criteria": {
+      "has_minecart": "2024-05-29 16:50:42 +0200"
     },
     "done": true
   },
@@ -5371,6 +5431,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-20 19:53:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-05-29 16:50:42 +0200"
     },
     "done": true
   },

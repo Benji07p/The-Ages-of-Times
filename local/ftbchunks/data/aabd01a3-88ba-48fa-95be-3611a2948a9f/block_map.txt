@@ -301,6 +301,7 @@
 #2F6B3B multibeds:vintage
 #FB59FD minecraft:water_cauldron
 #B24D94 minecraft:white_carpet
+#F3F27D the_ages_of_times:white_cauldron
 #0D2BC4 minecraft:white_glazed_terracotta
 #1B60CF minecraft:white_tulip
 #DBA41E minecraft:white_wall_banner
