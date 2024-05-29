@@ -1,0 +1,28 @@
+{
+  "type" : "recipe",
+  "crafter": "crusher_custom",
+  "inputs": [
+    {
+        "item" : "atum:scroll",
+        "count": "10"
+    },
+    {
+      "item" : "minecraft:map",
+      "count": "18"
+    },
+    {
+      "item" : "minecraft:compass",
+      "count": "1"
+    },
+    {
+      "item" : "multibeds:embroidery_thread",
+      "count": "1"
+    }
+  ],
+  "result": "antiqueatlas:empty_antique_atlas",
+  "count": "1",
+  "intermediate" : "minecraft:air",
+  "research-id" : "minecolonies:effects/cartographer",
+  "min-building-level": 1,
+  "show-tooltip": true
+}
