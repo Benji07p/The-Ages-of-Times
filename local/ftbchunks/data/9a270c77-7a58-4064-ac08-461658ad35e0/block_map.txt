@@ -62,6 +62,7 @@
 #F19195 beyond_earth:blue_iron_plating_block
 #45C81B minecraft:blue_orchid
 #8AE729 minecraft:brain_coral_block
+#6754E0 create:brass_belt_funnel
 #C54983 create:brass_block
 #CCD23F create:brass_casing
 #02FE08 create:brass_funnel
@@ -226,6 +227,7 @@
 #051C87 tconstruct:iron_platform
 #8E1D90 beyond_earth:iron_plating_block
 #643C84 the_ages_of_times:iron_sulfate
+#20FC50 create:item_drain
 #2B1FD4 minecraft:jigsaw
 #C1E251 minecraft:jungle_leaves
 #6B68B5 minecraft:jungle_log
@@ -263,6 +265,7 @@
 #CA8F8D create:mechanical_piston
 #145137 create:mechanical_press
 #65707C create:mechanical_pump
+#4F44DD create:mechanical_saw
 #FC0886 tconstruct:medium_sky_slime_crystal_bud
 #80CAA6 minecraft:melon
 #4B39A0 melter:melter
@@ -291,6 +294,7 @@
 #E0AC9D chemlib:nitric_oxide
 #C4CCE2 chemlib:nitrogen
 #18AC5F chemlib:nitrogen_dioxide
+#272A33 functionalstorage:oak_1
 #73753E minecraft:oak_fence
 #AD9EB5 minecraft:oak_leaves
 #BBA6D1 minecraft:oak_log
@@ -493,6 +497,7 @@
 #E2C9D0 create:weighted_ejector
 #F3F27D the_ages_of_times:white_cauldron
 #C6D1CE minecraft:white_concrete
+#9678C6 the_ages_of_times:white_water
 #79C917 create:windmill_bearing
 #70BCAC electrodynamics:wirehighlyinsulatedsuperconductive
 #F75977 immersiveengineering:wooden_barrel
