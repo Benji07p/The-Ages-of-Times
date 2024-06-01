@@ -606,7 +606,7 @@ onEvent('recipes', event => {
 			"results": [
 			  {
 				"item": "atum:papyrus_plant",
-				"nbt": '{SequencedAssembly:{Step:1,id:"create:kjs_1diuw7fkgct2c5wwf93ei83zh"}}'
+				"nbt": '{SequencedAssembly:{Step:1,id:"create:kjs_1biqhb1s8dycggyk5s8dep429"}}'
 			  }
 			]
 		}
@@ -624,7 +624,7 @@ onEvent('recipes', event => {
 					"nbt": {
 						"SequencedAssembly":{
 							"Step": 1,
-							"id": "create:kjs_1diuw7fkgct2c5wwf93ei83zh"
+							"id": "create:kjs_1biqhb1s8dycggyk5s8dep429"
 						}
 					}
                 }
@@ -634,7 +634,7 @@ onEvent('recipes', event => {
                 {
                     "type": "drop_item",
                     "item": "atum:papyrus_plant",
-					"nbt": '{SequencedAssembly:{Progress:0.6666667f,Step:2,id:"create:kjs_1diuw7fkgct2c5wwf93ei83zh"}}'
+					"nbt": '{SequencedAssembly:{Progress:0.6666667f,Step:2,id:"create:kjs_1biqhb1s8dycggyk5s8dep429"}}'
                 }
             ]
         }
@@ -1026,6 +1026,72 @@ onEvent('recipes', event => {
 	event.remove({ id: 'farmersdelight:stuffed_potato'})
 	event.remove({ id: 'farmersdelight:mutton_wrap'})
 	event.remove({ id: 'farmersdelight:barbecue_stick'})
+
+	//Paper
+	event.custom(
+		{
+			"type": "create:milling",
+			"ingredients": [
+			  {
+				"tag": "forge:stripped_logs"
+			  }
+			],
+			"results": [
+			  {
+				"item": "minecraft:flower_banner_pattern",
+				"count": 1,
+				"nbt": '{SequencedAssembly:{Step:1,id:"create:kjs_45eywbg20jp29iiwkyomhp6fm"}}'
+			  }
+			],
+			"processingTime": 100
+		  }
+	)
+	event.custom(
+        {
+            "type": "lychee:item_inside",
+			"time": 5,
+            "item_in": [
+                {
+					"type": "forge:nbt",
+                    "item": "minecraft:flower_banner_pattern",
+					"nbt": {
+						
+						"SequencedAssembly":{
+							"Step": 1,
+							"id": "create:kjs_45eywbg20jp29iiwkyomhp6fm"
+						}
+					}
+                }
+            ],
+            "block_in": "the_ages_of_times:white_water",
+            "post": [
+                {
+                    "type": "drop_item",
+                    "item": "minecraft:globe_banner_pattern"
+                }
+            ]
+        }
+    )
+	event.custom(
+		{
+			"type": "create:emptying",
+			"ingredients": [
+			  {
+				"item": "minecraft:globe_banner_pattern"
+			  }
+			],
+			"results": [
+			  {
+				"item": "minecraft:flower_banner_pattern",
+				"nbt": '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_eviuw7vnkazdvtsvev6xo5ahf"}}'
+			  },
+			  {
+				"fluid": "minecraft:water",
+				"amount": 200
+			  }
+			]
+		  }
+	)
 })
 
 onEvent('item.tags', event => {
