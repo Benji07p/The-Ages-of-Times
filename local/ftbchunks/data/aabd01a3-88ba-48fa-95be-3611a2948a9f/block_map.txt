@@ -6,6 +6,7 @@
 #594C00 minecraft:acacia_stairs
 #FBEB73 minecraft:allium
 #FA75A8 minecraft:andesite
+#4515BD notreepunching:andesite_loose_rock
 #DBECBF minecraft:anvil
 #0F359D minecraft:azure_bluet
 #161AE7 minecraft:bamboo
@@ -71,6 +72,7 @@
 #3D8BFC minecraft:cobblestone_stairs
 #74DB3C minecraft:cobblestone_wall
 #8B8A11 minecraft:cobweb
+#B76D44 create:cogwheel
 #FB5E8C minecraft:command_block
 #91215B minecolonies:composted_dirt
 #E2D601 minecraft:composter
@@ -81,6 +83,8 @@
 #306005 minecraft:cracked_stone_bricks
 #8C5E34 tconstruct:crafting_station
 #468304 minecraft:crafting_table
+#6C547F the_ages_of_times:creative_fluid
+#73CA69 create:creative_motor
 #4BF61E create:crimsite
 #E9A8F5 minecraft:crying_obsidian
 #3C3897 minecraft:cut_sandstone
@@ -99,6 +103,7 @@
 #5E9420 minecraft:deepslate
 #60355C minecraft:deepslate_redstone_ore
 #A436C2 electrodynamics:deepslateoresilver
+#FF48B8 create:depot
 #7C145E minecraft:detector_rail
 #BED665 minecraft:diorite
 #80497A minecraft:dirt
@@ -124,6 +129,7 @@
 #2D74D4 minecraft:gray_concrete
 #49417A minecraft:green_carpet
 #CFA1C4 minecraft:grindstone
+#87B5C3 create:hand_crank
 #F67E21 minecraft:hay_block
 #D675BF farmersdelight:honey_glazed_ham_block
 #9D2636 minecraft:horn_coral_block
@@ -131,6 +137,7 @@
 #9B60B8 minecraft:iron_door
 #D7EADE minecraft:iron_ore
 #B611E5 minecraft:iron_trapdoor
+#20FC50 create:item_drain
 #7E0D49 minecraft:jack_o_lantern
 #C1E251 minecraft:jungle_leaves
 #F7CC06 minecraft:jungle_planks
@@ -151,6 +158,10 @@
 #746434 create:limestone
 #DE9468 minecraft:magma_block
 #70A959 farmingforblockheads:market
+#145137 create:mechanical_press
+#65707C create:mechanical_pump
+#4F44DD create:mechanical_saw
+#C4844D create:millstone
 #A4FC4B minecraft:mossy_cobblestone
 #F093B4 minecraft:mossy_cobblestone_slab
 #F0D99D minecraft:mossy_stone_brick_stairs
@@ -185,6 +196,7 @@
 #0F7269 electrodynamics:orehalite
 #1A43F4 electrodynamics:oremolybdenum
 #EE8C3B electrodynamics:oresulfur
+#60E4DD electrodynamics:orethorianite
 #266A57 electrodynamics:oretin
 #D222D1 electrodynamics:orevanadinite
 #2D7F28 farmersdelight:organic_compost
@@ -249,10 +261,13 @@
 #C327D9 atum:sand
 #86FC77 minecraft:sand
 #7E2654 minecraft:sandstone
+#EE8191 notreepunching:sandstone_loose_rock
 #9D474B minecraft:sandstone_slab
 #9EF0DB minecraft:sandstone_wall
 #3C4AE0 create:schematic_table
 #705189 minecraft:sea_lantern
+#A09272 tconstruct:seared_faucet
+#5ED1DC tconstruct:seared_ingot_tank
 #048D1A farmersdelight:shepherds_pie_block
 #3624F5 domum_ornamentum:shingle
 #177682 domum_ornamentum:shingle_slab
@@ -269,6 +284,7 @@
 #C5C0F6 minecraft:soul_campfire
 #A67F43 minecraft:soul_sand
 #A6B33E minecraft:soul_soil
+#D7A655 create:spout
 #DDCD2A mctb:spruce_crafting_table
 #5E33FE minecraft:spruce_door
 #FAE367 minecraft:spruce_fence
@@ -283,6 +299,7 @@
 #43D995 minecraft:stone_brick_stairs
 #B3BB15 minecraft:stone_brick_wall
 #F8955F minecraft:stone_bricks
+#A2490D notreepunching:stone_loose_rock
 #7D07A9 minecraft:stone_pressure_plate
 #2E9337 minecraft:stonecutter
 #B81C38 farmersdelight:stove
@@ -305,6 +322,7 @@
 #0D2BC4 minecraft:white_glazed_terracotta
 #1B60CF minecraft:white_tulip
 #DBA41E minecraft:white_wall_banner
+#9678C6 the_ages_of_times:white_water
 #BC20FE minecraft:white_wool
 #10DAE9 minecraft:yellow_carpet
 #9923E9 minecraft:yellow_wall_banner

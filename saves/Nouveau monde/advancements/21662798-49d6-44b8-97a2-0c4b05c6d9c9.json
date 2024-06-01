@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-05-18 12:34:02 +0200"
@@ -254,6 +260,12 @@
   "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
     "criteria": {
       "has_bacon": "2024-01-22 19:27:43 +0100"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-05-30 22:14:21 +0200"
     },
     "done": true
   },
@@ -314,6 +326,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-20 20:27:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
     },
     "done": true
   },
@@ -1355,6 +1373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
+    },
+    "done": true
+  },
   "ae2:recipes/tools/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2023-12-17 14:22:09 +0100"
@@ -1625,6 +1649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2023-12-17 20:43:59 +0100"
@@ -1652,6 +1682,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cut_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2024-05-30 22:00:09 +0200"
     },
     "done": true
   },
@@ -1706,6 +1742,12 @@
   "create:recipes/create.palettes/crafting/kinetics/orange_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2023-11-06 18:21:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
     },
     "done": true
   },
@@ -1802,6 +1844,12 @@
   "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
       "has_straw": "2024-02-14 17:34:33 +0100"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2024-05-30 18:16:43 +0200"
     },
     "done": true
   },
@@ -2009,6 +2057,13 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_ingot_tank": "2024-05-30 21:47:47 +0200",
+      "seared_faucet": "2024-05-30 21:48:02 +0200"
+    },
+    "done": false
+  },
   "minecolonies:recipes/minecolonies/blockhutlumberjack": {
     "criteria": {
       "has_items": "2024-01-23 20:56:16 +0100"
@@ -2072,6 +2127,12 @@
   "ceramics:recipes/ceramics/kiln": {
     "criteria": {
       "has_brick": "2024-02-13 16:24:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
     },
     "done": true
   },
@@ -2150,6 +2211,12 @@
   "create:recipes/building_blocks/smelting/lead_ingot_compat_thermal": {
     "criteria": {
       "has_item": "2023-11-06 18:10:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-05-30 21:45:54 +0200"
     },
     "done": true
   },
@@ -2327,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-02-14 16:53:29 +0100"
@@ -2375,6 +2448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-01-22 18:07:28 +0100"
@@ -2393,6 +2472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/pink_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
@@ -2402,6 +2487,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2024-05-18 18:04:31 +0200"
+    },
+    "done": true
+  },
+  "create:drain": {
+    "criteria": {
+      "0": "2024-05-30 22:15:07 +0200"
     },
     "done": true
   },
@@ -2456,6 +2547,12 @@
   "minecolonies:recipes/minecolonies/blockhutfletcher": {
     "criteria": {
       "has_items": "2024-05-18 12:35:08 +0200"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/smooth_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2024-05-30 22:00:09 +0200"
     },
     "done": true
   },
@@ -2807,6 +2904,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-05-30 18:21:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-05-29 16:09:55 +0200"
@@ -3139,6 +3242,12 @@
   "create:recipes/building_blocks/blasting/ingot_aluminum_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2023-11-06 18:08:44 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/building_blocks/smooth_sandstone_kiln": {
+    "criteria": {
+      "has_item": "2024-05-30 22:00:09 +0200"
     },
     "done": true
   },
@@ -3745,6 +3854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
+    },
+    "done": true
+  },
   "ceramicshears:recipes/misc/clay_shears_part": {
     "criteria": {
       "has_clay": "2023-11-06 17:24:58 +0100",
@@ -3794,9 +3909,21 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/sandstone_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-05-30 22:00:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2023-11-20 18:09:34 +0100"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2024-05-30 21:49:08 +0200"
     },
     "done": true
   },
@@ -3849,6 +3976,12 @@
   "alchemistry:recipes/dissolver/magenta_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:27:05 +0100"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2024-05-30 21:46:19 +0200"
     },
     "done": true
   },
@@ -4006,6 +4139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-05-30 18:09:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-20 19:53:52 +0100"
@@ -4057,6 +4196,12 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
     "criteria": {
       "has_item": "2024-05-18 18:04:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-05-30 22:00:09 +0200"
     },
     "done": true
   },
