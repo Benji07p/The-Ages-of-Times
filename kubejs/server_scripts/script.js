@@ -1028,6 +1028,10 @@ onEvent('recipes', event => {
 	event.remove({ id: 'farmersdelight:barbecue_stick'})
 
 	//Paper
+	event.remove({ id: 'minecraft:paper'})
+	event.remove({ id: 'immersiveengineering:crafting/paper_from_sawdust'})
+	event.remove({ id: 'farmersdelight:paper_from_tree_bark'})
+	event.remove({ id: 'create:pressing/sugar_cane'})
 	event.custom(
 		{
 			"type": "create:milling",
@@ -1092,6 +1096,24 @@ onEvent('recipes', event => {
 			]
 		  }
 	)
+	event.custom(
+        {
+            "type": "lychee:item_inside",
+			"time": 20,
+            "item_in": {
+				"item": "globe_banner_pattern"
+			},
+            "block_in": "air",
+            "post": [
+                {
+                    "type": "drop_item",
+                    "item": "flower_banner_pattern",
+					"nbt": '{SequencedAssembly:{Progress:0.5f,Step:1,id:"create:kjs_eviuw7vnkazdvtsvev6xo5ahf"}}'
+                }
+            ]
+        }
+    )
+	
 })
 
 onEvent('item.tags', event => {
