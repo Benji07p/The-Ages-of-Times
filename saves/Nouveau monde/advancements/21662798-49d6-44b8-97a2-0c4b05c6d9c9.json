@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:55 +0200"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/place_townhall": {
     "criteria": {
       "build_tool_place_town_hall": "2023-11-19 16:59:23 +0100"
@@ -464,6 +470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_blue_dye": "2024-06-04 20:49:55 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_red_dye": "2023-11-06 18:29:47 +0100"
@@ -578,6 +590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-06-04 20:49:45 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2023-11-20 17:35:21 +0100"
@@ -644,6 +662,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
     "criteria": {
       "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-06-04 20:49:45 +0200"
     },
     "done": true
   },
@@ -1295,6 +1319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-06-04 20:49:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2023-11-20 18:07:42 +0100"
@@ -1463,6 +1493,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_pink": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:49 +0200"
+    },
+    "done": true
+  },
   "woodenhopper:recipes/redstone/wooden_hopper": {
     "criteria": {
       "has_chest": "2023-11-06 18:29:55 +0100"
@@ -1586,6 +1622,12 @@
   "alchemistry:recipes/dissolver/chiseled_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2024-02-13 14:51:38 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:55 +0200"
     },
     "done": true
   },
@@ -1961,6 +2003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-06-04 20:49:52 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2023-11-06 17:24:58 +0100"
@@ -2036,6 +2084,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_components": {
     "criteria": {
       "has_paper": "2024-01-20 16:14:30 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_pink": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:49 +0200"
     },
     "done": true
   },
@@ -2124,6 +2178,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:45 +0200"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/kiln": {
     "criteria": {
       "has_brick": "2024-02-13 16:24:11 +0100"
@@ -2169,6 +2229,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
     "criteria": {
       "has_water_bucket": "2023-12-17 19:05:56 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:45 +0200"
     },
     "done": true
   },
@@ -2574,6 +2640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2024-06-04 20:49:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2023-11-20 20:48:44 +0100"
@@ -2619,6 +2691,12 @@
   "create:recipes/create.palettes/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2023-11-06 17:25:59 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_pink": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:49 +0200"
     },
     "done": true
   },
@@ -2766,6 +2844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2024-06-04 20:49:49 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2023-11-06 17:25:59 +0100"
@@ -2793,6 +2877,12 @@
   "notreepunching:iron_mattock": {
     "criteria": {
       "has_item": "2024-05-18 12:34:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2024-06-04 20:49:49 +0200"
     },
     "done": true
   },
@@ -2919,6 +3009,12 @@
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2023-12-17 18:48:41 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:55 +0200"
     },
     "done": true
   },
@@ -3260,6 +3356,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-01-24 13:39:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2024-06-04 20:49:49 +0200"
     },
     "done": true
   },
@@ -4253,9 +4355,21 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:55 +0200"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2024-05-18 12:34:02 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:45 +0200"
     },
     "done": true
   },
@@ -4805,6 +4919,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-06-04 20:49:40 +0200"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/check_out_guide": {
     "criteria": {
       "click_gui_button_close": "2023-12-17 19:51:58 +0100"
@@ -4892,6 +5012,12 @@
   "alchemistry:recipes/dissolver/stone_slab": {
     "criteria": {
       "has_the_recipe": "2023-11-20 20:44:15 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_pink": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:49 +0200"
     },
     "done": true
   },
@@ -5075,6 +5201,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-04 20:49:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-01-24 13:39:55 +0100"
@@ -5241,6 +5373,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2023-11-20 20:47:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2024-06-04 20:49:55 +0200"
     },
     "done": true
   },
@@ -5570,6 +5708,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/component_steel": {
     "criteria": {
       "has_steel_ingot": "2024-05-18 18:04:38 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-06-04 20:49:45 +0200"
     },
     "done": true
   },
