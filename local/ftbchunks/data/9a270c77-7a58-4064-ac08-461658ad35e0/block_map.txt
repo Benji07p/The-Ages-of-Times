@@ -274,6 +274,7 @@
 #C4844D create:millstone
 #BB8DD9 createaddition:modular_accumulator
 #95218D tconstruct:molten_copper_fluid
+#332C58 tconstruct:molten_glass_fluid
 #EE50FC tconstruct:molten_iron_fluid
 #023C90 tconstruct:molten_lead_fluid
 #C81C81 tconstruct:molten_silver_fluid
