@@ -1114,6 +1114,113 @@ onEvent('recipes', event => {
         }
     )
 	
+	//Verrerie de Laboratoire
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:beaker_gold_cast"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "tconstruct:molten_glass",
+			  "amount": 100
+			},
+			"result": "the_ages_of_times:beaker",
+			"cooling_time": 90
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:erlenmeyer_gold_cast"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "tconstruct:molten_glass",
+			  "amount": 100
+			},
+			"result": "the_ages_of_times:erlenmeyer",
+			"cooling_time": 90
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:gas_test_tube_gold_cast"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "tconstruct:molten_glass",
+			  "amount": 100
+			},
+			"result": "the_ages_of_times:gas_test_tube",
+			"cooling_time": 90
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:glass_ampul_gold_cast"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "tconstruct:molten_glass",
+			  "amount": 100
+			},
+			"result": "the_ages_of_times:glass_ampul",
+			"cooling_time": 90
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:test_tube_gold_cast"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "tconstruct:molten_glass",
+			  "amount": 100
+			},
+			"result": "the_ages_of_times:test_tube",
+			"cooling_time": 90
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:watch_glass_gold_cast"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "tconstruct:molten_glass",
+			  "amount": 100
+			},
+			"result": "the_ages_of_times:watch_glass",
+			"cooling_time": 90
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:balloon_gold_cast"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "tconstruct:molten_glass",
+			  "amount": 100
+			},
+			"result": "the_ages_of_times:balloon",
+			"cooling_time": 90
+		  }
+	)
+	
 })
 
 onEvent('item.tags', event => {
