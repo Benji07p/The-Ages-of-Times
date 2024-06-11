@@ -221,6 +221,8 @@
 #165DA5 the_ages_of_times:hydrogen
 #4CAE57 chemlib:hydrogen_sulfide
 #369260 create:industrial_iron_block
+#60199F the_ages_of_times:ink_press_off
+#9A844C the_ages_of_times:ink_press_test
 #2E2249 minecraft:iron_block
 #EAC0B1 ironchest:iron_chest
 #D7EADE minecraft:iron_ore
