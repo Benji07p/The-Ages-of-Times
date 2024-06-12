@@ -1220,6 +1220,59 @@ onEvent('recipes', event => {
 			"cooling_time": 90
 		  }
 	)
+
+	//Alembic
+	event.custom(
+		  {
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "A    ",
+			  "BCCC ",
+			  "E   D",
+			  "EEEEE",
+			  "EEEEE"
+			],
+			"key": {
+			  "A": {
+				"item": "the_ages_of_times:erlenmeyer"
+			  },
+			  "B": {
+				"item": "minecraft:blast_furnace"
+			  },
+			  "C": {
+				"item": "tconstruct:seared_faucet"
+			  },
+			  "D": {
+				"item": "the_ages_of_times:beaker"
+			  },
+			  "E": {
+				"item": "minecraft:spruce_planks"
+			  }
+			},
+			"result": {
+			  "item": "custommachinery:custom_machine_item",
+			  "nbt": '{machine:"taotmachinery:alembic"}'
+			}
+		  }
+	)
+
+	//Lens
+	event.shaped('the_ages_of_times:lens', [
+		'VVV',
+		'VVV',
+		'VVV'
+	], {
+	V: 'minecraft:glass_pane'
+	})
+
+	//Quadrant
+	event.shaped('the_ages_of_times:quadrant', [
+		'PP ',
+		'PPP',
+		'PPP'
+	], {
+	P: '#minecraft:planks'
+	})
 	
 })
 
