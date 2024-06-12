@@ -1,7 +1,7 @@
 {
 	id: "25A3C8510672787A"
-	group: ""
-	order_index: 1
+	group: "4EADA09B944324F5"
+	order_index: 3
 	filename: "iron_ages"
 	title: "Iron Ages"
 	icon: "minecraft:iron_ingot"
@@ -180,10 +180,47 @@
 					}
 				}
 			}]
+			rewards: [
+				{
+					id: "76AAF80D70CFA9D1"
+					type: "item"
+					item: "the_ages_of_times:balloon_gold_cast"
+				}
+				{
+					id: "2FB464869A383AEB"
+					type: "item"
+					item: "the_ages_of_times:beaker_gold_cast"
+				}
+				{
+					id: "79B4FC5A1FB6C91C"
+					type: "item"
+					item: "the_ages_of_times:erlenmeyer_gold_cast"
+				}
+				{
+					id: "53B0357B82B7BF04"
+					type: "item"
+					item: "the_ages_of_times:gas_test_tube_gold_cast"
+				}
+				{
+					id: "0D99D019A99D3E93"
+					type: "item"
+					item: "the_ages_of_times:glass_ampul_gold_cast"
+				}
+				{
+					id: "351B33C630AEAF68"
+					type: "item"
+					item: "the_ages_of_times:test_tube_gold_cast"
+				}
+				{
+					id: "4362A22A70ECD2F4"
+					type: "item"
+					item: "the_ages_of_times:watch_glass_gold_cast"
+				}
+			]
 		}
 		{
-			x: 13.0d
-			y: -4.0d
+			x: 4.0d
+			y: -4.5d
 			dependencies: ["645F7B0B67596818"]
 			id: "390F1B7456F41F12"
 			tasks: [{
@@ -193,8 +230,9 @@
 			}]
 		}
 		{
-			x: 10.0d
-			y: -4.0d
+			x: 1.0d
+			y: -4.5d
+			dependencies: ["29381B3B9F32189D"]
 			id: "2D957015AA53DEC2"
 			tasks: [
 				{
@@ -210,8 +248,8 @@
 			]
 		}
 		{
-			x: 11.5d
-			y: -4.0d
+			x: 2.5d
+			y: -4.5d
 			dependencies: ["2D957015AA53DEC2"]
 			id: "645F7B0B67596818"
 			tasks: [
@@ -288,16 +326,6 @@
 			}]
 		}
 		{
-			x: 9.5d
-			y: -6.0d
-			id: "0A583359D127FAB6"
-			tasks: [{
-				id: "0B9E1B98E3621C81"
-				type: "item"
-				item: "minecraft:gunpowder"
-			}]
-		}
-		{
 			title: "Born of the civilisation !"
 			x: -1.0d
 			y: -7.0d
@@ -359,8 +387,9 @@
 			}]
 		}
 		{
-			x: 9.5d
-			y: -8.0d
+			x: 5.0d
+			y: 1.5d
+			dependencies: ["0E6B918DB6514642"]
 			id: "7ED4DAB4041E7B45"
 			tasks: [{
 				id: "744120F9A63E8E93"
@@ -400,6 +429,117 @@
 				id: "6B3D5E9CD095B12A"
 				type: "item"
 				item: "the_ages_of_times:written_papyrus"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -8.0d
+			dependencies: ["5DB12F910A6A6655"]
+			id: "3EBB7C854BA28AF3"
+			tasks: [{
+				id: "0C835B05C97D8A00"
+				type: "item"
+				item: "minecolonies:blockhutblacksmith"
+			}]
+		}
+		{
+			x: 2.5d
+			y: -7.0d
+			hide_dependency_lines: true
+			dependencies: ["194124D1A0F34DEE"]
+			id: "5DB12F910A6A6655"
+			tasks: [{
+				id: "7D637B4C1C48D572"
+				type: "item"
+				item: "minecolonies:blockhutuniversity"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -6.0d
+			dependencies: ["390F1B7456F41F12"]
+			id: "434ABE8FC40474A1"
+			tasks: [{
+				id: "63E58DA98EDB9F0D"
+				type: "item"
+				item: "farmingforblockheads:market"
+			}]
+		}
+		{
+			x: 5.5d
+			y: -7.0d
+			dependencies: [
+				"3EBB7C854BA28AF3"
+				"434ABE8FC40474A1"
+			]
+			id: "3E86231BAFB3A380"
+			tasks: [{
+				id: "4AA9F52303CA6910"
+				type: "item"
+				item: "minecolonies:blockhutcrusher"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 1.5d
+			dependencies: ["7ED4DAB4041E7B45"]
+			id: "03D77E193AFA72A3"
+			tasks: [{
+				id: "62F745E78329B4EF"
+				type: "item"
+				item: "the_ages_of_times:quadrant"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.5d
+			dependencies: ["1D894134AA0916B8"]
+			id: "70F4C0B5CAB3C73F"
+			tasks: [{
+				id: "0711B2D5812E27D5"
+				type: "item"
+				item: "the_ages_of_times:lens"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 1.5d
+			dependencies: ["42835DBD75C59F46"]
+			id: "1D894134AA0916B8"
+			tasks: [{
+				id: "7C075857CB65409F"
+				type: "item"
+				title: "Any #forge:glass"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:glass"
+					}
+				}
+			}]
+		}
+		{
+			x: 11.0d
+			y: -7.0d
+			dependencies: ["2152F084F846502E"]
+			size: 2.0d
+			id: "3BFAE6B239586E64"
+			tasks: [{
+				id: "6E046B624B21AA14"
+				type: "item"
+				item: "antiqueatlas:empty_antique_atlas"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -7.0d
+			dependencies: ["3E86231BAFB3A380"]
+			id: "2152F084F846502E"
+			tasks: [{
+				id: "5D114F5CCBA5A3F1"
+				type: "item"
+				item: "minecraft:compass"
 			}]
 		}
 	]
