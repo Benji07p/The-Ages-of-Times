@@ -4,6 +4,7 @@
 #0592B9 chemlib:acetic_acid
 #1A1803 create:adjustable_chain_gearshift
 #E8223C immersiveengineering:advanced_blast_furnace
+#C2FED6 extendedcrafting:advanced_table
 #52B53D minecraft:air
 #FBEB73 minecraft:allium
 #384494 immersiveengineering:alloy_smelter
@@ -31,6 +32,7 @@
 #7266EB the_ages_of_times:barrel
 #75DFAA minecraft:barrier
 #18D108 minecraft:basalt
+#B831E2 extendedcrafting:basic_table
 #E152BD create:basin
 #85547E electrodynamics:batterybox
 #840F59 minecraft:bedrock
