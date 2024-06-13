@@ -9,7 +9,8 @@
 	quests: [
 		{
 			x: -3.0d
-			y: 2.0d
+			y: 3.5d
+			dependencies: ["255A1616D52E27C8"]
 			id: "2A8065725D8ACA76"
 			tasks: [{
 				id: "6C1FF0D135EEBC54"
@@ -79,7 +80,8 @@
 		}
 		{
 			x: -3.0d
-			y: -1.0d
+			y: -2.5d
+			dependencies: ["10248AD351C973BE"]
 			id: "3A0CEEAEBF9BCEDA"
 			tasks: [{
 				id: "4B9B461B634D9198"
@@ -89,7 +91,7 @@
 		}
 		{
 			x: -3.0d
-			y: -2.5d
+			y: -4.0d
 			dependencies: ["3A0CEEAEBF9BCEDA"]
 			id: "6ED623D6D2BD7D88"
 			tasks: [{
@@ -99,13 +101,56 @@
 			}]
 		}
 		{
-			x: -4.5d
+			x: -6.0d
 			y: 0.5d
+			dependencies: ["6443702EAD4A709A"]
 			id: "0A583359D127FAB6"
 			tasks: [{
 				id: "0B9E1B98E3621C81"
 				type: "item"
 				item: "minecraft:gunpowder"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 2.0d
+			dependencies: ["464CBA2509DC3C07"]
+			id: "255A1616D52E27C8"
+			tasks: [{
+				id: "6182F75A0AE53627"
+				type: "item"
+				item: "the_ages_of_times:compasss_16"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -1.0d
+			dependencies: ["464CBA2509DC3C07"]
+			id: "10248AD351C973BE"
+			tasks: [{
+				id: "104F653DDC3806BD"
+				type: "item"
+				item: {
+					id: "the_ages_of_times:paper_recipe_book"
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Size: 0
+							Items: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 0.5d
+			dependencies: ["464CBA2509DC3C07"]
+			id: "6443702EAD4A709A"
+			tasks: [{
+				id: "1AA4D0E3FA713838"
+				type: "item"
+				item: "the_ages_of_times:gunpowder_recipes_book"
 			}]
 		}
 	]
