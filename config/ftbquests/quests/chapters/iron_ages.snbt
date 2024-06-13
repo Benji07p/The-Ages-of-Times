@@ -520,7 +520,7 @@
 			}]
 		}
 		{
-			x: 11.0d
+			x: 10.0d
 			y: -7.0d
 			dependencies: ["2152F084F846502E"]
 			size: 2.0d
@@ -534,12 +534,34 @@
 		{
 			x: 8.5d
 			y: -7.0d
-			dependencies: ["3E86231BAFB3A380"]
+			dependencies: ["444BD851E8B1CEBF"]
 			id: "2152F084F846502E"
 			tasks: [{
 				id: "5D114F5CCBA5A3F1"
 				type: "item"
 				item: "minecraft:compass"
+			}]
+		}
+		{
+			x: 8.0d
+			y: 1.5d
+			dependencies: ["03D77E193AFA72A3"]
+			id: "5695C955E2AF6DAB"
+			tasks: [{
+				id: "4F8957956A6DDD75"
+				type: "item"
+				item: "quark:abacus"
+			}]
+		}
+		{
+			x: 7.0d
+			y: -7.0d
+			dependencies: ["3E86231BAFB3A380"]
+			id: "444BD851E8B1CEBF"
+			tasks: [{
+				id: "0103DFA4B953F1A2"
+				type: "item"
+				item: "the_ages_of_times:compasss_16"
 			}]
 		}
 	]
