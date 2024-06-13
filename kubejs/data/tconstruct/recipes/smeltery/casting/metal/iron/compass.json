@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "forge:compasss"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:molten_iron",
+    "amount": 810
+  },
+  "result": "minecraft:compass",
+  "cooling_time": 120
+}

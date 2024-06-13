@@ -1273,6 +1273,17 @@ onEvent('recipes', event => {
 	], {
 	P: '#minecraft:planks'
 	})
+
+	//Compass
+	event.remove({ id: 'minecraft:compass'})
+	event.shaped('minecraft:compass', [
+		'PPP',
+		'PCP',
+		'PPP'
+	], {
+	C: '#forge:compasss',
+	P: 'electrodynamics:plateiron'
+	})
 	
 })
 
@@ -1300,4 +1311,7 @@ onEvent('item.tags', event => {
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	event.get('forge:dough').remove('farmersdelight:wheat_dough')
 	event.get('forge:dough/wheat').remove('farmersdelight:wheat_dough')
+
+	//Compass Craft Tags
+	event.add('forge:compasss', ['the_ages_of_times:compasss_16', 'the_ages_of_times:compasss_8', 'the_ages_of_times:compasss_0', 'the_ages_of_times:compasss_24'])
 })
