@@ -1284,6 +1284,33 @@ onEvent('recipes', event => {
 	C: '#forge:compasss',
 	P: 'electrodynamics:plateiron'
 	})
+
+	//Printer
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "ABA",
+			  "ACA",
+			  "AAA"
+			],
+			"key": {
+			  "A": {
+				"item": "minecraft:iron_block"
+			  },
+			  "B": {
+				"item": "create:mechanical_press"
+			  },
+			  "C": {
+				"item": "the_ages_of_times:press_plate"
+			  }
+			},
+			"result": {
+			  "item": "custommachinery:custom_machine_item",
+			  "nbt" : '{machine:"taotmachinery:printer"}'
+			}
+		  }
+	)
 	
 })
 
