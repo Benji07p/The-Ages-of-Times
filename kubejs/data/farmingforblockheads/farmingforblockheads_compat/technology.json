@@ -12,6 +12,7 @@
         {"output": "the_ages_of_times:gunpowder_recipes_book", "payment": {"item": "atum:coin_gold", "count": 10}},
         {"output": "minecolonies:blockhutcrusher", "payment": {"item": "atum:coin_gold", "count": 64}},
         {"output": "the_ages_of_times:paper_recipe_book", "payment": {"item": "atum:coin_gold", "count": 10}},
-        {"output": "the_ages_of_times:compasss_16", "payment": {"item": "atum:coin_gold", "count": 10}}
+        {"output": "the_ages_of_times:compasss_16", "payment": {"item": "atum:coin_gold", "count": 10}},
+        {"output": "the_ages_of_times:press_plate", "payment": {"item": "atum:coin_gold", "count": 10}}
     ]
 }
