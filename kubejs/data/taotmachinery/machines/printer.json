@@ -1,0 +1,87 @@
+{
+    "name": "Printer",
+    "appearance":{
+           "block": "the_ages_of_times:ink_press_off"
+    },
+    "components": [
+        {
+            "type": "custommachinery:item",
+            "id": "input1",
+            "filter": ["minecraft:paper"],
+            "whitelist": true
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input2",
+            "filter": ["minecraft:black_dye"],
+            "whitelist": true
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input3",
+            "filter": ["tconstruct:pattern"],
+            "whitelist": true
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input4"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "output"
+        }
+    ],
+    "gui": [
+        {
+            "texture": "custommachinery:textures/gui/base_background.png",
+            "x": 0,
+            "y": 0,
+            "type": "custommachinery:texture",
+            "height": 166,
+            "width": 176
+        },
+        {
+            "x": 6,
+            "y": 82,
+            "type": "custommachinery:player_inventory"
+        },
+        {
+            "id": "input1",
+            "x": 24,
+            "y": 10,
+            "type": "custommachinery:slot",
+            "ghost": "minecraft:paper"
+        },
+        {
+            "id": "input2",
+            "x": 24,
+            "y": 50,
+            "type": "custommachinery:slot",
+            "ghost": "minecraft:black_dye"
+        },
+        {
+            "id": "input3",
+            "x": 24,
+            "y": 30,
+            "type": "custommachinery:slot",
+            "ghost": "tconstruct:pattern"
+        },
+        {
+            "id": "input4",
+            "x": 61,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "output",
+            "x": 139,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "x": 89,
+            "y": 30,
+            "type": "custommachinery:progress"
+        }
+    ]
+}
