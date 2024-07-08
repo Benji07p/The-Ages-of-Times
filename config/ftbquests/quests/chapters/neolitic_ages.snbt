@@ -199,16 +199,14 @@
 			}]
 		}
 		{
-			title: "Cutting Board Automatisation"
 			x: 12.0d
 			y: 0.5d
-			description: ["Cutting Board Automatisation"]
 			dependencies: ["5F542950BC9C4E0C"]
 			id: "2FD863C6549671FC"
 			tasks: [{
 				id: "7008A43F79B143E2"
 				type: "item"
-				item: "create:deployer"
+				item: "sliceanddice:slicer"
 			}]
 		}
 		{
