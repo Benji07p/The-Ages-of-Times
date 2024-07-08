@@ -289,7 +289,7 @@ onEvent('recipes', event => {
                 "item": "the_ages_of_times:hide_clean"
               },
               {
-                "item": "tconstruct:blood_bottle"
+                "item": "tconstruct:blood_slime_ball"
               }
             ]
           }
