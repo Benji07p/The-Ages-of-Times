@@ -658,7 +658,8 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "earth": "2024-01-15 18:12:21 +0100"
+      "earth": "2024-01-15 18:12:21 +0100",
+      "blood": "2024-06-30 17:41:43 +0200"
     },
     "done": false
   },
@@ -2836,6 +2837,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/slime/blood/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2024-06-30 17:37:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2023-12-12 21:01:54 +0100"
@@ -3658,6 +3665,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/blood/slimeblock": {
+    "criteria": {
+      "has_item": "2024-06-30 17:41:43 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_copper_ingot": "2023-12-11 20:57:12 +0100"
@@ -3673,6 +3686,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/slime/blood/slimeball_from_block": {
+    "criteria": {
+      "has_item": "2024-06-30 17:37:34 +0200"
     },
     "done": true
   },
@@ -5894,6 +5913,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/blood/congealed": {
+    "criteria": {
+      "has_item": "2024-06-30 17:41:43 +0200"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2024-01-01 19:13:40 +0100"
@@ -6215,6 +6240,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2023-12-12 21:01:54 +0100"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/tools/slicer": {
+    "criteria": {
+      "has_tool": "2024-06-30 17:32:38 +0200"
     },
     "done": true
   },
