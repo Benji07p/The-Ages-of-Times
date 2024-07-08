@@ -431,6 +431,7 @@
 #C2CF94 ae2:sky_stone_tank
 #D4DCCF multibeds:slab
 #7552C1 immersiveengineering:slab_sheetmetal_steel
+#F87E74 sliceanddice:slicer
 #975FAF create:smart_chute
 #8638B9 minecraft:smooth_basalt
 #13D503 minecraft:smooth_sandstone
