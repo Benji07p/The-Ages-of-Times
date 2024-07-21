@@ -1,6 +1,7 @@
 onEvent('recipes', event => {
 
-	//Steel Unification
+	//Steel
+	event.remove({ id: 'electrodynamics:ingotsteel_ingot_smelting'})
 	event.custom(
 		{
 			"type": "minecraft:stonecutting",
@@ -74,6 +75,8 @@ onEvent('recipes', event => {
 	B: '#minecraft:planks',
 	S: '#minecraft:wooden_slabs'
 	})
+
+	//Slicer
 
 	//Chest
 	event.remove({ id: 'minecraft:chest' })
@@ -1312,6 +1315,228 @@ onEvent('recipes', event => {
 		  }
 	)
 	
+
+	//Light Enginneer Block
+	event.remove({ id: 'immersiveengineering:crafting/component_iron'})
+	event.remove({ id: 'immersiveengineering:crafting/light_engineering'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AABAA",
+			  "AABAA",
+			  "BBCBB",
+			  "AABAA",
+			  "AABAA"
+			],
+			"key": {
+			  "A": {
+				"item": "immersiveengineering:sheetmetal_iron"
+			  },
+			  "B": {
+				"item": "immersiveengineering:component_iron"
+			  },
+			  "C": {
+				"item": "minecraft:copper_ingot"
+			  }
+			},
+			"result": {
+			  "item": "immersiveengineering:light_engineering"
+			}
+		  }
+	)
+
+	//Heavy Enginneer Block
+	event.remove({ id: 'immersiveengineering:crafting/component_steel'})
+	event.remove({ id: 'immersiveengineering:crafting/heavy_engineering'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AABAA",
+			  "AABAA",
+			  "BBCBB",
+			  "AABAA",
+			  "AABAA"
+			],
+			"key": {
+			  "A": {
+				"item": "immersiveengineering:sheetmetal_steel"
+			  },
+			  "B": {
+				"item": "immersiveengineering:component_steel"
+			  },
+			  "C": {
+				"item": "immersiveengineering:ingot_electrum"
+			  }
+			},
+			"result": {
+			  "item": "immersiveengineering:heavy_engineering"
+			}
+		  }
+	)
+
+	//Redstone Engineer Block
+	event.remove({ id: 'immersiveengineering:crafting/rs_engineering'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AABAA",
+			  "AABAA",
+			  "BBCBB",
+			  "AABAA",
+			  "AABAA"
+			],
+			"key": {
+			  "A": {
+				"item": "immersiveengineering:sheetmetal_iron"
+			  },
+			  "B": {
+				"item": "minecraft:redstone"
+			  },
+			  "C": {
+				"item": "minecraft:copper_ingot"
+			  }
+			},
+			"result": {
+			  "item": "immersiveengineering:rs_engineering"
+			}
+		  }
+	)
+
+	//Steel Scafolding
+	event.remove({ id: 'immersiveengineering:crafting/steel_scaffolding_standard'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AABAA",
+			  "AB BA",
+			  "B   B",
+			  "AB BA",
+			  "AABAA"
+			],
+			"key": {
+			  "A": {
+				"item": "electrodynamics:platesteel"
+			  },
+			  "B": {
+				"item": "electrodynamics:rodsteel"
+			  }
+			},
+			"result": {
+			  "item": "immersiveengineering:steel_scaffolding_standard",
+			  "count": 16
+			}
+		}
+	)
+
+	//Radiator
+	event.remove({ id: 'immersiveengineering:crafting/radiator'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AABAA",
+			  "AABAA",
+			  "BBCBB",
+			  "AABAA",
+			  "AABAA"
+			],
+			"key": {
+			  "A": {
+				"item": "immersiveengineering:sheetmetal_steel"
+			  },
+			  "B": {
+				"tag": "forge:plates/copper"
+			  },
+			  "C": {
+				"item": "electrodynamics:titaniumheatcoil"
+			  }
+			},
+			"result": {
+			  "item": "immersiveengineering:radiator"
+			}
+		}
+	)
+
+	//Generator
+	event.remove({ id: 'immersiveengineering:crafting/generator'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAAAA",
+			  "AABAA",
+			  "ABCBA",
+			  "AABAA",
+			  "AAAAA"
+			],
+			"key": {
+			  "A": {
+				"item": "immersiveengineering:sheetmetal_steel"
+			  },
+			  "B": {
+				"item": "immersiveengineering:coil_mv"
+			  },
+			  "C": {
+				"item": "immersiveengineering:component_iron"
+			  }
+			},
+			"result": {
+			  "item": "immersiveengineering:generator"
+			}
+		}
+	)
+
+	//Steel Sheetmetal
+	event.remove({ id: 'immersiveengineering:crafting/sheetmetal_steel'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAAAA",
+			  "A   A",
+			  "A   A",
+			  "A   A",
+			  "AAAAA"
+			],
+			"key": {
+			  "A": {
+				"item": "electrodynamics:platesteel"
+			  }
+			},
+			"result": {
+			  "item": "immersiveengineering:sheetmetal_steel",
+			  "count": 16
+			}
+		  }
+	)
+
+	//Iron Sheetmetal
+	event.remove({ id: 'immersiveengineering:crafting/sheetmetal_iron'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAAAA",
+			  "A   A",
+			  "A   A",
+			  "A   A",
+			  "AAAAA"
+			],
+			"key": {
+			  "A": {
+				"tag": "forge:plates/iron"
+			  }
+			},
+			"result": {
+			  "item": "immersiveengineering:sheetmetal_iron",
+			  "count": 16
+			}
+		  }
+	)
 })
 
 onEvent('item.tags', event => {
