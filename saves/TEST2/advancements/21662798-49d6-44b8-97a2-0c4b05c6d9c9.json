@@ -590,6 +590,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_revolver_magazine": {
+    "criteria": {
+      "has_revolver": "2024-07-21 17:09:27 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/fluid_pump": {
     "criteria": {
       "has_fluid_pipe": "2024-01-24 16:52:25 +0100"
@@ -3857,6 +3863,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_barrel": {
+    "criteria": {
+      "has_stick_steel": "2024-07-21 16:15:42 +0200"
+    },
+    "done": true
+  },
   "notreepunching:plant_fiber_from_sugarcane_with_knife": {
     "criteria": {
       "has_item": "2024-01-17 14:22:16 +0100"
@@ -3932,6 +3944,12 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_shield": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/buzzsaw": {
+    "criteria": {
+      "has_component_steel": "2024-07-21 15:50:16 +0200"
     },
     "done": true
   },
@@ -4362,6 +4380,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_railgun_scope": {
+    "criteria": {
+      "has_revolver": "2024-07-21 17:09:27 +0200"
+    },
+    "done": true
+  },
   "atum:core/powerwasher": {
     "criteria": {
       "gold_brooch": "2023-12-04 17:35:07 +0100",
@@ -4400,6 +4424,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_slab": {
     "criteria": {
       "has_item": "2024-01-19 17:20:14 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/turret_gun": {
+    "criteria": {
+      "has_revolver": "2024-07-21 17:09:27 +0200"
     },
     "done": true
   },
@@ -4460,6 +4490,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_revolver": {
+    "criteria": {
+      "has_item": "2024-07-21 17:09:27 +0200"
     },
     "done": true
   },
@@ -4874,6 +4910,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_revolver_electro": {
+    "criteria": {
+      "has_revolver": "2024-07-21 17:09:27 +0200"
     },
     "done": true
   },
@@ -5580,6 +5622,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_revolver_bayonet": {
+    "criteria": {
+      "has_revolver": "2024-07-21 17:09:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2024-01-17 13:42:16 +0100"
@@ -6186,6 +6234,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-02-06 15:43:58 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2024-07-21 16:41:24 +0200"
     },
     "done": true
   },
