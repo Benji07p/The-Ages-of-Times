@@ -1,0 +1,22 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "lll",
+        "iri"
+    ],
+    "key":{
+        "l":{
+            "item":"create:belt_connector"
+        },
+        "i":{
+            "tag":"forge:ingots/iron"
+        },
+        "r":{
+            "tag":"forge:dusts/redstone"
+        }
+    },
+    "result":{
+        "item":"immersiveengineering:conveyor_basic",
+        "count": 2
+    }
+}
