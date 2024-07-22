@@ -1,0 +1,13 @@
+{
+  "type": "alchemistry:compactor",
+  "group": "alchemistry:compactor",
+  "input": {
+    "ingredient": {
+      "item": "chemlib:silicon"
+    },
+    "count": 16
+  },
+  "result": {
+    "item": "ae2:silicon"
+  }
+}
