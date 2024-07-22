@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"sts",
+		"sfs",
+		"sms"
+	],
+	"key": {
+		"s": {
+			"tag": "forge:plates/bronze"
+		},
+		"f": {
+			"item": "car:engine_3_cylinder"
+		},
+		"m": {
+			"item": "electrodynamics:motor"
+		},
+		"t": {
+			"item": "createaddition:alternator"
+		}
+	},
+	"result": {
+		"item": "electrodynamics:coalgenerator",
+		"count": 1
+	}
+}
