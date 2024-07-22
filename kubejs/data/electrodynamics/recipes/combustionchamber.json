@@ -19,7 +19,7 @@
 			"item": "electrodynamics:tanksteel"
 		},
 		"g": {
-			"tag": "forge:gears/iron"
+			"item": "car:engine_3_cylinder"
 		}
 	},
 	"result": {
