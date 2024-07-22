@@ -1537,6 +1537,116 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+
+	//Piston
+	event.remove({ id: 'minecraft:piston'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAA",
+			  "BCB",
+			  "BDB"
+			],
+			"key": {
+			  "A": {
+				"tag": "minecraft:wooden_slabs"
+			  },
+			  "B": {
+				"tag": "forge:cobblestone"
+			  },
+			  "C": {
+				"item": "create:piston_extension_pole"
+			  },
+			  "D": {
+				"tag": "forge:plates/iron"
+			  }
+			},
+			"result": {
+			  "item": "minecraft:piston"
+			}
+		  }
+	)
+
+	//Alternator
+	event.remove({ id: 'createaddition:mechanical_crafting/alternator'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AABAA",
+			  "ACDCA",
+			  "CDEDC",
+			  "ACFCA",
+			  "AAGAA"
+			],
+			"key": {
+			  "A": {
+				"item": "electrodynamics:platesteel"
+			  },
+			  "B": {
+				"item": "create:andesite_alloy"
+			  },
+			  "C": {
+				"item": "beyond_earth:iron_plate"
+			  },
+			  "D": {
+				"item": "createaddition:copper_spool"
+			  },
+			  "E": {
+				"item": "beyond_earth:iron_stick"
+			  },
+			  "F": {
+				"item": "createaddition:capacitor"
+			  },
+			  "G": {
+				"item": "electrodynamics:motor"
+			  }
+			},
+			"result": {
+			  "item": "createaddition:alternator"
+			}
+		  }
+	)
+
+	//Electric Motor
+	event.remove({ id: 'createaddition:mechanical_crafting/electric_motor'})
+	event.custom({
+		"type": "extendedcrafting:shaped_table",
+		"pattern": [
+		  "AABAA",
+		  "ACDCA",
+		  "CDEDC",
+		  "ACFCA",
+		  "AAGAA"
+		],
+		"key": {
+		  "A": {
+			"item": "create:golden_sheet"
+		  },
+		  "B": {
+			"item": "create:andesite_alloy"
+		  },
+		  "C": {
+			"item": "create:brass_sheet"
+		  },
+		  "D": {
+			"item": "createaddition:copper_spool"
+		  },
+		  "E": {
+			"item": "beyond_earth:iron_stick"
+		  },
+		  "F": {
+			"item": "createaddition:capacitor"
+		  },
+		  "G": {
+			"item": "electrodynamics:motor"
+		  }
+		},
+		"result": {
+		  "item": "createaddition:electric_motor"
+		}
+	})
 })
 
 onEvent('item.tags', event => {
