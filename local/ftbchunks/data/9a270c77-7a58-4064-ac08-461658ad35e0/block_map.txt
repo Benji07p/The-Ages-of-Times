@@ -29,6 +29,7 @@
 #0D47EE minecraft:azalea_leaves
 #0F359D minecraft:azure_bluet
 #161AE7 minecraft:bamboo
+#C6AD9E createaddition:barbed_wire
 #7266EB the_ages_of_times:barrel
 #75DFAA minecraft:barrier
 #18D108 minecraft:basalt
@@ -43,6 +44,7 @@
 #73D2B3 minecraft:birch_planks
 #C9CBB9 minecraft:blackstone
 #64CB99 immersiveengineering:blast_furnace
+#7F8A04 minecraft:blast_furnace
 #7DCED1 immersiveengineering:blastbrick
 #C5E5AF immersiveengineering:blastbrick_reinforced
 #63D15D create:blaze_burner
@@ -81,6 +83,7 @@
 #54A3DE the_ages_of_times:carbyne_sulfate
 #6A23D5 minecraft:cauldron
 #E9A18E minecraft:chain_command_block
+#7C0317 electrodynamics:chemicalmixer
 #F522F4 minecraft:chest
 #743AC3 minecraft:chipped_anvil
 #C3DAEA minecraft:chiseled_sandstone
@@ -96,6 +99,7 @@
 #04A219 notreepunching:clay_small_vessel
 #5E7F9B notreepunching:clay_worked
 #EA5C1A create:clipboard
+#4C2342 immersiveengineering:cloche
 #D8FA12 create:clockwork_bearing
 #8B43D8 minecraft:coal_block
 #DE242D minecraft:coal_ore
@@ -276,6 +280,8 @@
 #FE827B chemlib:mercury
 #1CABB4 chemlib:methane
 #C4844D create:millstone
+#DBCA5E electrodynamics:mineralcrusher
+#C94877 electrodynamics:mineralgrinder
 #BB8DD9 createaddition:modular_accumulator
 #95218D tconstruct:molten_copper_fluid
 #332C58 tconstruct:molten_glass_fluid

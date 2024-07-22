@@ -6393,6 +6393,12 @@
     },
     "done": true
   },
+  "electrodynamics:mineralcrusher": {
+    "criteria": {
+      "HasCrusher": "2024-07-22 14:45:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -6522,6 +6528,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-03-30 19:07:46 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-07-22 16:05:57 +0200"
     },
     "done": true
   },
@@ -7493,6 +7505,12 @@
   "chemlib:recipes/chemlib.metals/potassium_ingot_to_nugget": {
     "criteria": {
       "has_potassium": "2024-03-06 16:30:34 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:mineralgrinder": {
+    "criteria": {
+      "HasGrinder": "2024-07-22 14:45:57 +0200"
     },
     "done": true
   },
