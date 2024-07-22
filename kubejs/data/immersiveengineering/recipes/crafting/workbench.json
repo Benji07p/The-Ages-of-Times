@@ -1,0 +1,22 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "i  ",
+        "sss",
+        "c f"
+    ],
+    "key":{
+        "i":{
+            "item":"create:wrench"
+        },"s":{
+            "tag":"forge:treated_wood_slab"
+        },"c":{
+            "item":"immersiveengineering:craftingtable"
+        },"f":{
+            "item":"immersiveengineering:treated_fence"
+        }
+    },
+    "result":{
+        "item":"immersiveengineering:workbench"
+    }
+}
