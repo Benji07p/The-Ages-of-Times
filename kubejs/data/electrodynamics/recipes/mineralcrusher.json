@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"scs",
+		"gag",
+		"sps"
+	],
+	"key": {
+		"s": {
+			"tag": "forge:ingots/steel"
+		},
+		"a": {
+			"tag": "forge:circuits/advanced"
+		},
+		"g": {
+			"tag": "forge:gears/steel"
+		},
+		"p": {
+			"item": "create:mechanical_press"
+		},
+		"c": {
+			"item": "electrodynamics:wirecopper"
+		}
+	},
+	"result": {
+		"item": "electrodynamics:mineralcrusher",
+		"count": 1
+	}
+}
