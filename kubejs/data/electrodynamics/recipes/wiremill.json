@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"sbs",
+		"mfm",
+		"sfs"
+	],
+	"key": {
+		"s": {
+			"tag": "forge:plates/steel"
+		},
+		"b": {
+			"tag": "forge:circuits/basic"
+		},
+		"m": {
+			"item": "electrodynamics:motor"
+		},
+		"f": {
+			"tag": "forge:ingots/steel"
+		}
+	},
+	"result": {
+		"item": "electrodynamics:wiremill",
+		"count": 1
+	}
+}
