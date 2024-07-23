@@ -127,6 +127,7 @@
 #8C5E34 tconstruct:crafting_station
 #468304 minecraft:crafting_table
 #8700D4 immersiveengineering:craftingtable
+#CE7A30 pneumaticcraft:creative_compressed_iron_block
 #E7F5B7 create:creative_crate
 #95EC20 createaddition:creative_energy
 #BF5353 create:creative_fluid_tank
