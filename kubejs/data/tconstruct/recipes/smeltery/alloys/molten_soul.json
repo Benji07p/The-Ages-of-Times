@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_dirt",
+      "amount": 4000
+    },
+    {
+      "tag": "tconstruct:molten_glass",
+      "amount": 4000
+    },
+    {
+      "tag": "forge:magma",
+      "amount": 1000
+    },
+    {
+      "tag": "minecraft:lava",
+      "amount": 1000
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:liquid_soul",
+    "amount": 1000
+  },
+  "temperature": 1000
+}
