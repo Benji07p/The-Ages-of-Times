@@ -1647,6 +1647,31 @@ onEvent('recipes', event => {
 		  "item": "createaddition:electric_motor"
 		}
 	})
+
+	//Liquid Dirt
+	event.custom({
+		"type": "tconstruct:melting",
+		"ingredient": {
+		  "item": "minecraft:dirt"
+		},
+		"result": {
+		  "fluid": "the_ages_of_times:molten_dirt",
+		  "amount": 1000
+		},
+		"temperature": 100,
+		"time": 90
+	})
+	event.custom(
+		{
+			"type": "tconstruct:casting_basin",
+			"fluid": {
+			  "tag": "forge:molten_dirt",
+			  "amount": 1000
+			},
+			"result": "minecraft:dirt",
+			"cooling_time": 90
+		}
+	)
 })
 
 onEvent('item.tags', event => {

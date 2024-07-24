@@ -338,4 +338,7 @@ onEvent('fluid.tags', event => {
 
 	//Wax
 	event.get('forge:wax').add('the_ages_of_times:wax')
+
+	//Molten Dirt
+	event.get('forge:molten_dirt').add('the_ages_of_times:molten_dirt')
 })
