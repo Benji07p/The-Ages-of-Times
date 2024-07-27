@@ -1672,6 +1672,73 @@ onEvent('recipes', event => {
 			"cooling_time": 90
 		}
 	)
+
+	//Plastic
+	event.remove({ id: 'pneumaticcraft:heat_frame_cooling/plastic'})
+	event.remove({ id: 'pneumaticcraft:thermo_plant/plastic_from_biodiesel'})
+	event.remove({ id: 'pneumaticcraft:thermo_plant/plastic_from_lpg'})
+	event.custom(
+		{
+			"type": "alchemistry:atomizer",
+			"group": "alchemistry:atomizer",
+			"input": {
+			  "fluid": "pneumaticcraft:plastic",
+			  "amount": "1000"
+			},
+			"result": {
+			  "item": "pneumaticcraft:plastic",
+			  "count": 1
+			}
+		  }
+	)
+	event.custom(
+		{
+			"type": "alchemistry:liquifier",
+			"group": "alchemistry:liquifier",
+			"input": {
+			  "ingredient": {
+				"item": "pneumaticcraft:plastic"
+			  },
+			  "count": 1
+			},
+			"result": {
+			  "fluid": "pneumaticcraft:plastic",
+			  "amount": "1000"
+			}
+		  }
+	)
+
+	//Polyethylene
+	event.custom(
+		{
+			"type": "alchemistry:atomizer",
+			"group": "alchemistry:atomizer",
+			"input": {
+			  "fluid": "the_ages_of_times:polyethylene",
+			  "amount": "1000"
+			},
+			"result": {
+			  "item": "electrodynamics:sheetplastic",
+			  "count": 1
+			}
+		  }
+	)
+	event.custom(
+		{
+			"type": "alchemistry:liquifier",
+			"group": "alchemistry:liquifier",
+			"input": {
+			  "ingredient": {
+				"item": "electrodynamics:sheetplastic"
+			  },
+			  "count": 1
+			},
+			"result": {
+			  "fluid": "the_ages_of_times:polyethylene",
+			  "amount": "500"
+			}
+		  }
+	)
 })
 
 onEvent('item.tags', event => {
