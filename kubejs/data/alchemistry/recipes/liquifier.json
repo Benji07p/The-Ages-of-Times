@@ -8,13 +8,13 @@
   ],
   "key": {
     "I": {
-      "item": "minecraft:iron_ingot"
+      "item": "electrodynamics:platesteel"
     },
     "P": {
       "item": "minecraft:piston"
     },
     "R": {
-      "item": "minecraft:redstone"
+      "item": "createaddition:capacitor"
     },
     "S": {
       "item": "minecraft:stone_pressure_plate"
