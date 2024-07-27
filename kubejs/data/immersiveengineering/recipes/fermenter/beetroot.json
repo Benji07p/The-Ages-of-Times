@@ -1,0 +1,11 @@
+{
+    "type":"immersiveengineering:fermenter",
+    "fluid":{
+        "fluid":"chemlib:ethanol_fluid",
+        "amount":40
+    },
+    "input":{
+        "tag":"forge:crops/beetroot"
+    },
+    "energy":6400
+}
