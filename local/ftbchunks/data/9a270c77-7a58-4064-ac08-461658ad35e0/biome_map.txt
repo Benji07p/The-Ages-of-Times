@@ -5,7 +5,9 @@
 #34D minecraft:deep_lukewarm_ocean
 #008 minecraft:desert
 #4CA minecraft:dripstone_caves
+#674 minecraft:flower_forest
 #010 minecraft:forest
+#508 minecraft:frozen_peaks
 #286 minecraft:grove
 #51E minecraft:jagged_peaks
 #4B0 minecraft:jungle
@@ -20,8 +22,11 @@
 #5FF minecraft:river
 #67B minecraft:savanna
 #706 minecraft:savanna_plateau
+#524 minecraft:snowy_slopes
 #3AF minecraft:sparse_jungle
+#421 minecraft:stony_peaks
 #51A minecraft:stony_shore
+#774 minecraft:sunflower_plains
 #4D3 minecraft:swamp
 #147 tardim:tardis_biome
 #2B7 minecraft:warm_ocean

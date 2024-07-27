@@ -1,25 +1,25 @@
-[14:03:50.741][INFO]: Parsing all .json files in machines folder.
-[14:03:50.746][INFO]: Parsing all .json files in upgrades folder.
-[14:03:51.293][INFO]: Finished, 7 .json files successfully parsed in machines folder.
-[14:03:51.342][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
-[14:04:05.565][INFO]: Reading Custom Machinery Machines...
-[14:04:05.566][INFO]: Parsing machine json: taotmachinery:horselol in datapack: KubeJS Resource Pack [data]
-[14:04:05.574][INFO]: Successfully parsed machine json: taotmachinery:horselol
-[14:04:05.574][INFO]: Parsing machine json: taotmachinery:pottery in datapack: KubeJS Resource Pack [data]
-[14:04:05.575][INFO]: Successfully parsed machine json: taotmachinery:pottery
-[14:04:05.576][INFO]: Parsing machine json: taotmachinery:printer in datapack: KubeJS Resource Pack [data]
-[14:04:05.577][INFO]: Successfully parsed machine json: taotmachinery:printer
-[14:04:05.577][INFO]: Parsing machine json: taotmachinery:turntableinjei in datapack: KubeJS Resource Pack [data]
-[14:04:05.578][INFO]: Successfully parsed machine json: taotmachinery:turntableinjei
-[14:04:05.578][INFO]: Parsing machine json: taotmachinery:turntable in datapack: KubeJS Resource Pack [data]
-[14:04:05.579][INFO]: Successfully parsed machine json: taotmachinery:turntable
-[14:04:05.579][INFO]: Parsing machine json: taotmachinery:alembic in datapack: KubeJS Resource Pack [data]
-[14:04:05.581][INFO]: Successfully parsed machine json: taotmachinery:alembic
-[14:04:05.581][INFO]: Parsing machine json: taotmachinery:horse_power in datapack: KubeJS Resource Pack [data]
-[14:04:05.582][INFO]: Successfully parsed machine json: taotmachinery:horse_power
-[14:04:05.582][INFO]: Finished creating custom machines.
-[14:04:05.582][INFO]: Reading Custom Machinery Upgrades json
-[14:04:05.582][INFO]: No machine upgrade json found.
-[14:04:05.582][INFO]: Collecting machine upgrades with kubeJS.
-[14:04:05.584][INFO]: No machine upgrades found with kubejs
-[14:04:05.584][INFO]: Finished creating custom machine upgrades.
+[19:03:57.467][INFO]: Parsing all .json files in machines folder.
+[19:03:57.508][INFO]: Parsing all .json files in upgrades folder.
+[19:03:57.819][INFO]: Finished, 7 .json files successfully parsed in machines folder.
+[19:03:57.881][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
+[19:04:09.971][INFO]: Reading Custom Machinery Machines...
+[19:04:09.972][INFO]: Parsing machine json: taotmachinery:horselol in datapack: KubeJS Resource Pack [data]
+[19:04:09.972][INFO]: Successfully parsed machine json: taotmachinery:horselol
+[19:04:09.972][INFO]: Parsing machine json: taotmachinery:pottery in datapack: KubeJS Resource Pack [data]
+[19:04:09.973][INFO]: Successfully parsed machine json: taotmachinery:pottery
+[19:04:09.973][INFO]: Parsing machine json: taotmachinery:printer in datapack: KubeJS Resource Pack [data]
+[19:04:09.973][INFO]: Successfully parsed machine json: taotmachinery:printer
+[19:04:09.974][INFO]: Parsing machine json: taotmachinery:turntableinjei in datapack: KubeJS Resource Pack [data]
+[19:04:09.974][INFO]: Successfully parsed machine json: taotmachinery:turntableinjei
+[19:04:09.974][INFO]: Parsing machine json: taotmachinery:turntable in datapack: KubeJS Resource Pack [data]
+[19:04:09.975][INFO]: Successfully parsed machine json: taotmachinery:turntable
+[19:04:09.975][INFO]: Parsing machine json: taotmachinery:alembic in datapack: KubeJS Resource Pack [data]
+[19:04:09.976][INFO]: Successfully parsed machine json: taotmachinery:alembic
+[19:04:09.976][INFO]: Parsing machine json: taotmachinery:horse_power in datapack: KubeJS Resource Pack [data]
+[19:04:09.976][INFO]: Successfully parsed machine json: taotmachinery:horse_power
+[19:04:09.976][INFO]: Finished creating custom machines.
+[19:04:09.976][INFO]: Reading Custom Machinery Upgrades json
+[19:04:09.976][INFO]: No machine upgrade json found.
+[19:04:09.976][INFO]: Collecting machine upgrades with kubeJS.
+[19:04:09.976][INFO]: No machine upgrades found with kubejs
+[19:04:09.976][INFO]: Finished creating custom machine upgrades.
