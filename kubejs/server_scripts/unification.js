@@ -257,7 +257,7 @@ onEvent('item.tags', event => {
 
 onEvent('fluid.tags', event => {
 	// Ethanol
-	event.get('forge:ethanol').remove(['electrodynamics:fluidethanol', 'immersiveengineering:ethanol', 'createaddition:flowing_bioethanol', 'createaddition:bioethanol'])
+	event.get('forge:ethanol').remove(['electrodynamics:fluidethanol', 'immersiveengineering:ethanol', 'createaddition:flowing_bioethanol', 'pneumaticcraft:ethanol', 'pneumaticcraft:ethanol_flowing', 'createaddition:bioethanol'])
 	event.get('forge:ethanol').add(['chemlib:ethanol_fluid', 'chemlib:ethanol_flowing'])
 
 	// Oxygen
@@ -341,4 +341,7 @@ onEvent('fluid.tags', event => {
 
 	//Molten Dirt
 	event.get('forge:molten_dirt').add('the_ages_of_times:molten_dirt')
+
+	//Chlorine Fluid
+	event.get('forge:chlorine_fluid').add('chemlib:chlorine_fluid')
 })
