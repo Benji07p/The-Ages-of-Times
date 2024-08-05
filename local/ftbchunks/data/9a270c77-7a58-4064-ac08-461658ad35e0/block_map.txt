@@ -434,6 +434,7 @@
 #A6ED9E atum:palm_leaves
 #C5B40C atum:palm_log
 #306BEB atum:papyrus
+#8719D7 the_ages_of_times:papyrus_spawn
 #AB1C58 minecraft:peony
 #36285C minecraft:pink_tulip
 #3088BD electrodynamics:pipesteel

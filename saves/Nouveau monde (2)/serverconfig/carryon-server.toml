@@ -43,8 +43,10 @@
 	dropCarriedWhenHit = false
 	#Use custom Pickup Scripts. Having this set to false, will not allow you to run scripts, but will increase your performance
 	useScripts = true
-	#Whether entities' size matters when stacking or not
+	#Allows entities to be stacked using Carry On
 	stackableEntities = true
+	#Whether entities' size matters when stacking or not
+	entitySizeMattersStacking = true
 
 [blacklist]
 	#Blocks that cannot be picked up

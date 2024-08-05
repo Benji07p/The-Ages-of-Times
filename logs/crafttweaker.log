@@ -1,241 +1,33 @@
-[15:44:35.881][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[15:44:35.919][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[15:44:35.922][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[15:44:35.927][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
-[15:44:39.544][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[15:44:39.547][INFO]: - 'atum' at version '1.18.2-2.3.0'
-[15:44:39.548][INFO]: - 'crafttweaker' at version '9.1.211'
-[15:44:39.548][INFO]: - 'custommachinery' at version '0.8.9'
-[15:44:39.548][INFO]: - 'custommachinerycreate' at version '1.0.2'
-[15:44:39.548][INFO]: - 'extendedcrafting' at version '4.1.2'
-[15:44:39.548][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
-[15:44:39.548][INFO]: - 'gamestages' at version '8.1.3'
-[15:44:39.548][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
-[15:44:39.548][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
-[15:44:39.548][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[15:44:39.548][INFO]: - 'jmapstages' at version '1.18.2-2.1.0'
-[15:44:39.548][INFO]: - 'pneumaticcraft' at version '1.18.2-3.6.4-45'
-[15:44:39.548][INFO]: - 'recipestages' at version '3.0.0.10'
-[15:45:08.410][INFO]: Started loading scripts for loader 'initialize'
-[15:45:09.460][INFO]: Compiling and executing scripts
-[15:45:09.562][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:45:09.728][INFO]: Execution for loader 'initialize' completed successfully
-[16:34:20.103][INFO]: Started loading scripts for loader 'tags'
-[16:34:20.124][INFO]: Compiling and executing scripts
-[16:34:20.135][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[16:34:20.146][INFO]: Execution for loader 'tags' completed successfully
-[16:34:26.637][INFO]: Started loading scripts for loader 'crafttweaker'
-[16:34:26.657][INFO]: Compiling and executing scripts
-[16:34:26.983][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[16:34:26.983][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[16:34:26.998][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[16:34:27.004][INFO]: Execution for loader 'crafttweaker' completed successfully
-[16:34:27.006][INFO]: This reload was made possible by embeddedt and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[16:45:18.116][INFO]: Started loading scripts for loader 'tags'
-[16:45:18.117][INFO]: Undoing previous actions
-[16:45:18.133][INFO]: Compiling and executing scripts
-[16:45:18.136][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[16:45:18.143][INFO]: Execution for loader 'tags' completed successfully
-[16:45:23.488][INFO]: Started loading scripts for loader 'crafttweaker'
-[16:45:23.489][INFO]: Undoing previous actions
-[16:45:23.503][INFO]: Compiling and executing scripts
-[16:45:23.665][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[16:45:23.665][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[16:45:23.677][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[16:45:23.682][INFO]: Execution for loader 'crafttweaker' completed successfully
-[16:45:23.683][INFO]: This reload was made possible by Jellycraft and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[17:29:02.583][INFO]: Started loading scripts for loader 'tags'
-[17:29:02.583][INFO]: Undoing previous actions
-[17:29:02.596][INFO]: Compiling and executing scripts
-[17:29:02.599][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[17:29:02.606][INFO]: Execution for loader 'tags' completed successfully
-[17:29:07.869][INFO]: Started loading scripts for loader 'crafttweaker'
-[17:29:07.870][INFO]: Undoing previous actions
-[17:29:07.881][INFO]: Compiling and executing scripts
-[17:29:07.973][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[17:29:07.973][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[17:29:07.981][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[17:29:07.986][INFO]: Execution for loader 'crafttweaker' completed successfully
-[17:29:07.986][INFO]: This reload was made possible by Ivy_ and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[17:42:02.536][INFO]: Started loading scripts for loader 'tags'
-[17:42:02.536][INFO]: Undoing previous actions
-[17:42:02.548][INFO]: Compiling and executing scripts
-[17:42:02.550][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[17:42:02.557][INFO]: Execution for loader 'tags' completed successfully
-[17:42:07.934][INFO]: Started loading scripts for loader 'crafttweaker'
-[17:42:07.934][INFO]: Undoing previous actions
-[17:42:07.945][INFO]: Compiling and executing scripts
-[17:42:08.035][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[17:42:08.035][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[17:42:08.043][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[17:42:08.046][INFO]: Execution for loader 'crafttweaker' completed successfully
-[17:42:08.047][INFO]: This reload was made possible by Ncc1702 and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[17:44:41.178][INFO]: Started loading scripts for loader 'tags'
-[17:44:41.179][INFO]: Undoing previous actions
-[17:44:41.189][INFO]: Compiling and executing scripts
-[17:44:41.191][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[17:44:41.198][INFO]: Execution for loader 'tags' completed successfully
-[17:44:46.435][INFO]: Started loading scripts for loader 'crafttweaker'
-[17:44:46.435][INFO]: Undoing previous actions
-[17:44:46.445][INFO]: Compiling and executing scripts
-[17:44:46.524][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[17:44:46.524][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[17:44:46.532][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[17:44:46.535][INFO]: Execution for loader 'crafttweaker' completed successfully
-[17:44:46.535][INFO]: This reload was made possible by Pongo Sapiens and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[17:46:01.510][INFO]: Started loading scripts for loader 'tags'
-[17:46:01.510][INFO]: Undoing previous actions
-[17:46:01.521][INFO]: Compiling and executing scripts
-[17:46:01.523][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[17:46:01.528][INFO]: Execution for loader 'tags' completed successfully
-[17:46:06.797][INFO]: Started loading scripts for loader 'crafttweaker'
-[17:46:06.797][INFO]: Undoing previous actions
-[17:46:06.807][INFO]: Compiling and executing scripts
-[17:46:06.881][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[17:46:06.881][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[17:46:06.888][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[17:46:06.892][INFO]: Execution for loader 'crafttweaker' completed successfully
-[17:46:06.892][INFO]: This reload was made possible by Zuniroa and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[17:55:08.126][INFO]: Started loading scripts for loader 'tags'
-[17:55:08.126][INFO]: Undoing previous actions
-[17:55:08.136][INFO]: Compiling and executing scripts
-[17:55:08.138][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[17:55:08.144][INFO]: Execution for loader 'tags' completed successfully
-[17:55:13.301][INFO]: Started loading scripts for loader 'crafttweaker'
-[17:55:13.301][INFO]: Undoing previous actions
-[17:55:13.311][INFO]: Compiling and executing scripts
-[17:55:13.388][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[17:55:13.388][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[17:55:13.395][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[17:55:13.398][INFO]: Execution for loader 'crafttweaker' completed successfully
-[17:55:13.399][INFO]: This reload was made possible by Hooley and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[17:57:11.932][INFO]: Started loading scripts for loader 'tags'
-[17:57:11.932][INFO]: Undoing previous actions
-[17:57:11.970][INFO]: Compiling and executing scripts
-[17:57:11.972][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[17:57:11.977][INFO]: Execution for loader 'tags' completed successfully
-[17:57:17.243][INFO]: Started loading scripts for loader 'crafttweaker'
-[17:57:17.243][INFO]: Undoing previous actions
-[17:57:17.252][INFO]: Compiling and executing scripts
-[17:57:17.323][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[17:57:17.323][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[17:57:17.330][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[17:57:17.333][INFO]: Execution for loader 'crafttweaker' completed successfully
-[17:57:17.334][INFO]: This reload was made possible by Lucas and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[18:01:23.184][INFO]: Started loading scripts for loader 'tags'
-[18:01:23.184][INFO]: Undoing previous actions
-[18:01:23.194][INFO]: Compiling and executing scripts
-[18:01:23.196][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:01:23.202][INFO]: Execution for loader 'tags' completed successfully
-[18:01:28.356][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:01:28.356][INFO]: Undoing previous actions
-[18:01:28.365][INFO]: Compiling and executing scripts
-[18:01:28.436][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:01:28.436][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[18:01:28.443][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[18:01:28.447][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:01:28.447][INFO]: This reload was made possible by Jonathan McManus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[18:05:43.807][INFO]: Started loading scripts for loader 'tags'
-[18:05:43.807][INFO]: Undoing previous actions
-[18:05:43.819][INFO]: Compiling and executing scripts
-[18:05:43.821][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:05:43.827][INFO]: Execution for loader 'tags' completed successfully
-[18:05:49.042][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:05:49.042][INFO]: Undoing previous actions
-[18:05:49.051][INFO]: Compiling and executing scripts
-[18:05:49.119][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:05:49.119][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[18:05:49.126][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[18:05:49.128][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:05:49.129][INFO]: This reload was made possible by NerdyWhiteGuy and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[18:12:10.227][INFO]: Started loading scripts for loader 'tags'
-[18:12:10.227][INFO]: Undoing previous actions
-[18:12:10.236][INFO]: Compiling and executing scripts
-[18:12:10.238][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:12:10.244][INFO]: Execution for loader 'tags' completed successfully
-[18:12:15.435][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:12:15.435][INFO]: Undoing previous actions
-[18:12:15.443][INFO]: Compiling and executing scripts
-[18:12:15.505][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:12:15.506][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[18:12:15.512][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[18:12:15.514][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:12:15.515][INFO]: This reload was made possible by Quaternary and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[18:16:20.661][INFO]: Started loading scripts for loader 'tags'
-[18:16:20.662][INFO]: Undoing previous actions
-[18:16:20.672][INFO]: Compiling and executing scripts
-[18:16:20.673][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:16:20.679][INFO]: Execution for loader 'tags' completed successfully
-[18:16:26.031][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:16:26.031][INFO]: Undoing previous actions
-[18:16:26.039][INFO]: Compiling and executing scripts
-[18:16:26.102][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:16:26.102][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[18:16:26.108][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[18:16:26.112][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:16:26.112][INFO]: This reload was made possible by Ivy_ and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[18:17:04.065][INFO]: Started loading scripts for loader 'tags'
-[18:17:04.066][INFO]: Undoing previous actions
-[18:17:04.075][INFO]: Compiling and executing scripts
-[18:17:04.077][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:17:04.082][INFO]: Execution for loader 'tags' completed successfully
-[18:17:09.327][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:17:09.327][INFO]: Undoing previous actions
-[18:17:09.335][INFO]: Compiling and executing scripts
-[18:17:09.396][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:17:09.396][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[18:17:09.402][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[18:17:09.405][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:17:09.405][INFO]: This reload was made possible by Jessie Sims and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[18:23:59.929][INFO]: Started loading scripts for loader 'tags'
-[18:23:59.929][INFO]: Undoing previous actions
-[18:23:59.939][INFO]: Compiling and executing scripts
-[18:23:59.941][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:23:59.946][INFO]: Execution for loader 'tags' completed successfully
-[18:24:05.164][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:24:05.164][INFO]: Undoing previous actions
-[18:24:05.171][INFO]: Compiling and executing scripts
-[18:24:05.232][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:24:05.233][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[18:24:05.239][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[18:24:05.241][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:24:05.242][INFO]: This reload was made possible by Zuniroa and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[18:49:17.933][INFO]: Started loading scripts for loader 'tags'
-[18:49:17.933][INFO]: Undoing previous actions
-[18:49:17.943][INFO]: Compiling and executing scripts
-[18:49:17.944][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:49:17.950][INFO]: Execution for loader 'tags' completed successfully
-[18:49:23.092][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:49:23.092][INFO]: Undoing previous actions
-[18:49:23.101][INFO]: Compiling and executing scripts
-[18:49:23.168][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:49:23.168][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[18:49:23.175][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[18:49:23.177][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:49:23.178][INFO]: This reload was made possible by Lucas and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[18:53:24.563][INFO]: Started loading scripts for loader 'tags'
-[18:53:24.563][INFO]: Undoing previous actions
-[18:53:24.572][INFO]: Compiling and executing scripts
-[18:53:24.574][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[18:53:24.579][INFO]: Execution for loader 'tags' completed successfully
-[18:53:29.946][INFO]: Started loading scripts for loader 'crafttweaker'
-[18:53:29.946][INFO]: Undoing previous actions
-[18:53:29.953][INFO]: Compiling and executing scripts
-[18:53:30.020][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:53:30.020][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[18:53:30.026][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[18:53:30.029][INFO]: Execution for loader 'crafttweaker' completed successfully
-[18:53:30.029][INFO]: This reload was made possible by Genryu and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[19:04:05.549][INFO]: Started loading scripts for loader 'tags'
-[19:04:05.549][INFO]: Undoing previous actions
-[19:04:05.558][INFO]: Compiling and executing scripts
-[19:04:05.560][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[19:04:05.565][INFO]: Execution for loader 'tags' completed successfully
-[19:04:10.725][INFO]: Started loading scripts for loader 'crafttweaker'
-[19:04:10.725][INFO]: Undoing previous actions
-[19:04:10.732][INFO]: Compiling and executing scripts
-[19:04:10.790][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[19:04:10.790][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[19:04:10.795][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@103baf9b" to "Gunpowder"
-[19:04:10.798][INFO]: Execution for loader 'crafttweaker' completed successfully
-[19:04:10.799][INFO]: This reload was made possible by Quaternary and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[11:27:42.427][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[11:27:42.451][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[11:27:42.453][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[11:27:42.456][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
+[11:27:47.059][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[11:27:47.158][INFO]: - 'atum' at version '1.18.2-2.3.0'
+[11:27:47.158][INFO]: - 'crafttweaker' at version '9.1.211'
+[11:27:47.158][INFO]: - 'custommachinery' at version '0.8.9'
+[11:27:47.158][INFO]: - 'custommachinerycreate' at version '1.0.2'
+[11:27:47.158][INFO]: - 'extendedcrafting' at version '4.1.2'
+[11:27:47.158][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
+[11:27:47.159][INFO]: - 'gamestages' at version '8.1.3'
+[11:27:47.159][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
+[11:27:47.159][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
+[11:27:47.159][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[11:27:47.159][INFO]: - 'jmapstages' at version '1.18.2-2.1.0'
+[11:27:47.159][INFO]: - 'pneumaticcraft' at version '1.18.2-3.6.4-45'
+[11:27:47.159][INFO]: - 'recipestages' at version '3.0.0.10'
+[11:28:16.595][INFO]: Started loading scripts for loader 'initialize'
+[11:28:17.272][INFO]: Compiling and executing scripts
+[11:28:17.316][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[11:28:17.417][INFO]: Execution for loader 'initialize' completed successfully
+[11:31:25.038][INFO]: Started loading scripts for loader 'tags'
+[11:31:25.058][INFO]: Compiling and executing scripts
+[11:31:25.069][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[11:31:25.078][INFO]: Execution for loader 'tags' completed successfully
+[11:31:30.555][INFO]: Started loading scripts for loader 'crafttweaker'
+[11:31:30.572][INFO]: Compiling and executing scripts
+[11:31:30.896][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[11:31:30.897][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[11:31:30.911][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@c21b6d3a" to "Gunpowder"
+[11:31:30.917][INFO]: Execution for loader 'crafttweaker' completed successfully
+[11:31:30.919][INFO]: This reload was made possible by Pongo Sapiens and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
