@@ -1,6 +1,6 @@
 
-#Toutes les configurations liées à la base du jeu
+#All configuration items related to the core gameplay
 [gameplay]
-	#Générer ou non des navires et des camps de ravitaillement dans des coffres. [Defaut: true]
+	#Whether to generate supply ships and camps in loot chests. [Default: true]
 	generatesupplyloot = true
 
