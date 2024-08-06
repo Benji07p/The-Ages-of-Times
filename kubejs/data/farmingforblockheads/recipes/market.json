@@ -1,22 +1,34 @@
 {
   "result": {
-    "item": "farmingforblockheads:market"
+    "item": "the_ages_of_times:market"
   },
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "PCP",
-    "W W",
-    "WWW"
+    "BQB",
+    "PRP",
+    "CWL"
   ],
   "key": {
-    "C": {
+    "R": {
       "item": "minecraft:red_wool"
     },
     "P": {
-      "tag": "minecraft:planks"
+      "item": "minecraft:spruce_log"
     },
     "W": {
-      "tag": "minecraft:logs"
+      "item": "minecraft:spruce_planks"
+    },
+    "Q": {
+      "item": "minecraft:iron_helmet"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "immersiveengineering:ingot_constantan"
+    },
+    "L": {
+      "item": "create:brass_ingot"
     }
   }
 }
