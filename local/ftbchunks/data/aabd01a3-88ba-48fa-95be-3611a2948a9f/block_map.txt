@@ -317,6 +317,7 @@
 #6DB687 create:veridium
 #88779D minecraft:vine
 #2F6B3B multibeds:vintage
+#AD7D0E the_ages_of_times:wandering_traders_block
 #FB59FD minecraft:water_cauldron
 #B24D94 minecraft:white_carpet
 #F3F27D the_ages_of_times:white_cauldron

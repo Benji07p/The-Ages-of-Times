@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_constantan_hammering": {
+    "criteria": {
+      "has_constantan_ingot": "2024-08-06 19:30:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2023-12-12 20:55:00 +0100"
@@ -1698,6 +1704,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/misc/clay_uncrafting_3": {
+    "criteria": {
+      "has_unfired": "2024-08-05 12:15:31 +0200"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -3281,6 +3293,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_constantan_to_storage_constantan": {
+    "criteria": {
+      "has_ingot_constantan": "2024-08-06 19:30:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2023-12-12 21:01:54 +0100"
@@ -4662,6 +4680,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/cracked_empty_clay_bucket_smelting": {
+    "criteria": {
+      "has_item": "2024-08-05 12:15:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:55 +0100"
@@ -5960,6 +5984,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/ceramics/cracked_empty_clay_bucket_kiln": {
+    "criteria": {
+      "has_item": "2024-08-05 12:15:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -6349,6 +6379,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_splitter": {
     "criteria": {
       "has_conveyor": "2024-01-16 16:34:48 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_constantan_to_ingot_constantan": {
+    "criteria": {
+      "has_storage_constantan": "2024-08-06 19:30:03 +0200"
     },
     "done": true
   },
@@ -6766,6 +6802,12 @@
     },
     "done": true
   },
+  "notreepunching:story/fire_pottery": {
+    "criteria": {
+      "has_ceramics": "2024-08-05 12:15:13 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_lead_hammering": {
     "criteria": {
       "has_lead_ingot": "2024-01-01 19:09:46 +0100"
@@ -7153,6 +7195,12 @@
   "ceramics:recipes/ceramics/lava_bricks_wall_lava": {
     "criteria": {
       "has_lava": "2023-12-12 21:11:09 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/empty_clay_bucket_kiln": {
+    "criteria": {
+      "has_item": "2024-08-05 12:15:31 +0200"
     },
     "done": true
   },
@@ -7999,6 +8047,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2024-01-01 19:08:06 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/empty_clay_bucket_smelting": {
+    "criteria": {
+      "has_item": "2024-08-05 12:15:31 +0200"
     },
     "done": true
   },
