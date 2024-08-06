@@ -67,6 +67,7 @@ onEvent('recipes', event => {
 	})
 
 	//Wooden Barrel
+	event.remove({ id: 'woodenbucket:wooden_bucket' })
 	event.shaped('the_ages_of_times:barrel', [
 		'B B',
 		'B B',
@@ -813,6 +814,39 @@ onEvent('recipes', event => {
 	//Map
 	event.remove({ id: 'minecraft:map'})
 
+	//Iron Bucket
+	event.remove({ id: 'minecraft:bucket'})
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "the_ages_of_times:bucket_cast"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "forge:molten_iron",
+			  "amount": 270
+			},
+			"result": "minecraft:bucket",
+			"cooling_time": 25
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "tag": "forge:bucket_cast"
+			},
+			"cast_consumed": true,
+			"fluid": {
+			  "tag": "forge:molten_gold",
+			  "amount": 90
+			},
+			"result": "the_ages_of_times:bucket_cast",
+			"cooling_time": 25
+		  }
+	)
+
 	//Wax Tablet
 	event.custom(
 		{
@@ -982,6 +1016,9 @@ onEvent('recipes', event => {
 	//Blacksmith
 	event.remove({mod: 'magistuarmory'})
 
+	//Cartographer
+	event.remove({ id: 'minecolonies:blockhutcrusher'})
+
 	//Baker
 	event.remove({ id: 'minecraft:cake'})
 	event.remove({ id: 'bucketlib:cake'})
@@ -1029,6 +1066,10 @@ onEvent('recipes', event => {
 	event.remove({ id: 'farmersdelight:stuffed_potato'})
 	event.remove({ id: 'farmersdelight:mutton_wrap'})
 	event.remove({ id: 'farmersdelight:barbecue_stick'})
+
+	//Antique Atlas
+	event.remove({ id: 'antiqueatlas:empty_atlas'})
+	event.remove({ id: 'antiqueatlas:empty_atlas_new'})
 
 	//Paper
 	event.remove({ id: 'minecraft:paper'})
@@ -1768,4 +1809,7 @@ onEvent('item.tags', event => {
 
 	//Compass Craft Tags
 	event.add('forge:compasss', ['the_ages_of_times:compasss_16', 'the_ages_of_times:compasss_8', 'the_ages_of_times:compasss_0', 'the_ages_of_times:compasss_24'])
+
+	//Bucket Cast
+	event.add('forge:bucket_cast', ['the_ages_of_times:barrel', 'ceramics:unfired_clay_bucket', 'ceramics:empty_clay_bucket', 'minecraft:bucket'])
 })
