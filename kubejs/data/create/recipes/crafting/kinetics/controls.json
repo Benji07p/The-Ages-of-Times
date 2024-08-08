@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB",
+    "C "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:lever"
+    },
+    "C": {
+      "item": "create:railway_casing"
+    }
+  },
+  "result": {
+    "item": "create:controls"
+  }
+}
