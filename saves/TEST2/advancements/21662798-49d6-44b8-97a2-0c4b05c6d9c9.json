@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2024-03-16 11:58:12 +0100"
@@ -644,6 +650,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2024-08-08 16:12:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2023-12-13 20:42:34 +0100"
@@ -746,6 +758,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworevanadinite": {
+    "criteria": {
+      "HasRawOre": "2024-08-08 19:05:31 +0200"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
@@ -798,6 +816,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/smooth_plastic_brick_blue": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2024-08-08 16:12:13 +0200"
     },
     "done": true
   },
@@ -900,6 +924,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2024-03-17 19:40:50 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2024-08-08 16:12:13 +0200"
     },
     "done": true
   },
@@ -1380,9 +1410,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/compactor": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2024-08-08 16:20:02 +0200"
     },
     "done": true
   },
@@ -1515,6 +1557,12 @@
   "pneumaticcraft:yeast_culture": {
     "criteria": {
       "0": "2024-07-27 15:38:03 +0200"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-08-08 16:12:12 +0200"
     },
     "done": true
   },
@@ -1674,6 +1722,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2024-08-08 16:12:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-01-15 18:12:21 +0100"
@@ -1743,6 +1797,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2024-08-08 16:12:13 +0200"
     },
     "done": true
   },
@@ -1941,6 +2001,12 @@
   "notreepunching:acacia_planks_with_saw": {
     "criteria": {
       "has_item": "2024-01-17 14:59:20 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
     },
     "done": true
   },
@@ -2286,6 +2352,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2023-12-13 15:03:55 +0100"
@@ -2446,6 +2518,12 @@
   "ae2:recipes/ae2.main/network/cables/glass_black": {
     "criteria": {
       "has_dyes/black": "2024-01-17 13:42:16 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
     },
     "done": true
   },
@@ -3293,6 +3371,12 @@
     },
     "done": true
   },
+  "sliceanddice:recipes/tools/sprinkler": {
+    "criteria": {
+      "has_pipe": "2024-08-08 15:39:35 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_constantan_to_storage_constantan": {
     "criteria": {
       "has_ingot_constantan": "2024-08-06 19:30:03 +0200"
@@ -4016,6 +4100,12 @@
   "create:recipes/create.palettes/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
     },
     "done": true
   },
@@ -4836,6 +4926,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
   "notreepunching:jungle_planks_with_saw": {
     "criteria": {
       "has_item": "2024-01-30 20:31:58 +0100"
@@ -4881,6 +4977,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_pillar_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2024-07-23 15:21:16 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
+    "criteria": {
+      "has_paper": "2024-08-07 14:13:30 +0200"
     },
     "done": true
   },
@@ -5267,6 +5369,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2023-12-04 18:07:36 +0100"
@@ -5531,6 +5639,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2023-12-14 12:09:16 +0100"
@@ -5558,6 +5672,12 @@
   "electrodynamics:batterybox": {
     "criteria": {
       "HasBox": "2024-03-21 18:12:51 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:raworelepidolite": {
+    "criteria": {
+      "HasRawOre": "2024-08-08 18:25:00 +0200"
     },
     "done": true
   },
@@ -5711,6 +5831,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2024-08-08 16:20:02 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/reactor_output": {
     "criteria": {
       "has_item": "2024-07-27 19:02:49 +0200"
@@ -5807,6 +5933,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-01-30 20:31:55 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
     },
     "done": true
   },
@@ -6586,6 +6718,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2024-02-10 17:57:07 +0100"
@@ -6712,6 +6850,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
     "criteria": {
       "has_coppper_ingot": "2023-12-11 20:57:12 +0100"
@@ -6733,6 +6877,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/windmill_sail": {
     "criteria": {
       "has_hemp_fabric": "2024-02-01 20:45:35 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
     },
     "done": true
   },
@@ -6886,6 +7042,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-07-23 20:08:57 +0200"
@@ -6943,6 +7105,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/chiseled_scorched_bricks_crafting": {
     "criteria": {
       "has_item": "2024-01-19 17:20:33 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
     },
     "done": true
   },
@@ -7108,9 +7276,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
   "create:burner": {
     "criteria": {
       "0": "2023-12-12 20:53:48 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
     },
     "done": true
   },
@@ -7504,6 +7684,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2024-08-08 16:12:13 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
@@ -7573,6 +7759,12 @@
   "farmersdelight:recipes/misc/book_from_canvas": {
     "criteria": {
       "has_canvas": "2024-01-20 11:38:35 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
     },
     "done": true
   },
@@ -8736,6 +8928,12 @@
   "pneumaticcraft:pneumatic_wrench": {
     "criteria": {
       "0": "2024-07-24 15:18:55 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2024-08-08 16:12:13 +0200"
     },
     "done": true
   },

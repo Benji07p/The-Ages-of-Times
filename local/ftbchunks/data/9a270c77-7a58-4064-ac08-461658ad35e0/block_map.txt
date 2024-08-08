@@ -120,6 +120,7 @@
 #06B1AD tconstruct:chiseled_scorched_bricks
 #61FE3E chemlib:chlorine
 #F2A1A5 create:chute
+#8FB320 the_ages_of_times:cinnabar_ore
 #9EC980 immersiveengineering:circuit_table
 #802D27 multibeds:classic
 #7FDE54 minecraft:clay
@@ -179,6 +180,7 @@
 #4BF61E create:crimsite
 #7DF6E7 create:crushing_wheel
 #E9A8F5 minecraft:crying_obsidian
+#14C49F ironchest:crystal_chest
 #C0ADCD create:cuckoo_clock
 #358006 multibeds:custom
 #FDCD6A custommachinery:custom_machine_block
@@ -343,6 +345,7 @@
 #03FE2C the_ages_of_times:lithium_sulfate
 #470B4D immersiveengineering:logic_unit
 #DE9468 minecraft:magma_block
+#5E18E2 the_ages_of_times:manganese_dioxide_ore
 #70A959 farmingforblockheads:market
 #4F0350 create:mechanical_arm
 #EB48A2 create:mechanical_bearing
@@ -401,6 +404,7 @@
 #72BC63 minecraft:oak_stairs
 #855CF4 minecraft:oak_trapdoor
 #4A5E4E minecraft:obsidian
+#B0B404 ironchest:obsidian_chest
 #5C837A create:ochrum
 #E41AF8 beyond_earth:oil
 #2D6ABE pneumaticcraft:oil
@@ -463,6 +467,7 @@
 #ACE775 minecraft:potted_dead_bush
 #C5DDD6 minecraft:potted_red_tulip
 #CB1F3C minecraft:powder_snow
+#D1BD63 create:powered_shaft
 #652575 immersivepetroleum:pumpjack
 #E6B35B minecraft:pumpkin
 #8DE070 ae2:quartz_ore
@@ -585,8 +590,10 @@
 #D9135A minecraft:spruce_stairs
 #B1D22B minecraft:spruce_trapdoor
 #5DB983 immersiveengineering:stairs_treated_wood_horizontal
+#8C8A95 create:steam_engine
 #1ADE45 immersiveengineering:steel_fence
 #F428EC immersiveengineering:steel_scaffolding_standard
+#A6EAD6 the_ages_of_times:stibarsen
 #4762B7 create:sticky_mechanical_piston
 #A6348F create:stockpile_switch
 #DC3458 minecraft:stone
