@@ -1,0 +1,21 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[
+        {
+            "chance":0.05,
+            "output":{
+                "item":"minecraft:cobblestone"
+            }
+        }
+    ],
+    "result":{
+        "count":1,
+        "base_ingredient":{
+            "item":"electrodynamics:dustvanadium"
+        }
+    },
+    "input":{
+        "item":"electrodynamics:raworevanadinite"
+    },
+    "energy":6000
+}
