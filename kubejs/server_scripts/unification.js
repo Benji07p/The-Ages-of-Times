@@ -253,6 +253,9 @@ onEvent('item.tags', event => {
 
 	//Thorium
 	event.get('forge:dusts/thorium').remove('chemlib:thorium_dust')
+
+	//Obsidian Powder
+	event.get('forge:dusts/obsidian').remove('create:powdered_obsidian')
 })
 
 onEvent('fluid.tags', event => {

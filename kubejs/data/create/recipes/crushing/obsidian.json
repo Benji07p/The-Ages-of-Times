@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "electrodynamics:dustobsidian"
+    },
+    {
+      "item": "minecraft:obsidian",
+      "chance": 0.75
+    }
+  ],
+  "processingTime": 500
+}
