@@ -241,6 +241,26 @@
 				item: "chemlib:periodic_table"
 			}]
 		}
+		{
+			x: 7.0d
+			y: -5.0d
+			id: "4D1451F9C596982B"
+			tasks: [{
+				id: "003AB961B00D7B83"
+				type: "item"
+				item: "electrodynamics:chemicalmixer"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -3.5d
+			id: "00A7FA411265C9A6"
+			tasks: [{
+				id: "7DEEFE5B840A4093"
+				type: "item"
+				item: "electrodynamics:combustionchamber"
+			}]
+		}
 	]
 	quest_links: [ ]
 }
