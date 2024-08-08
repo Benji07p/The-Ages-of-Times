@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "A",
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "A": {
+      "item": "the_ages_of_times:andesite_shaft"
+    }
+  },
+  "result": {
+    "item": "create:steam_engine"
+  }
+}
