@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "H"
+  ],
+  "key": {
+    "T": {
+      "item": "electrodynamics:tanksteel"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:liquid_hopper"
+  }
+}
