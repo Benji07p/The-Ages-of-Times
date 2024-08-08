@@ -22,13 +22,24 @@
 			}]
 		}
 		{
+			title: "Lithium"
+			icon: "chemlib:lithium"
 			x: -8.0d
 			y: -6.0d
 			shape: "square"
+			dependencies: [
+				"3D6866C829E081CF"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "59E211F449AFFE6F"
 			tasks: [{
 				id: "1966C6DE74441447"
+				type: "item"
+				item: "electrodynamics:ingotlithium"
+			}]
+			rewards: [{
+				id: "59AAAA4D89B811AD"
 				type: "item"
 				item: "chemlib:lithium"
 			}]
@@ -130,13 +141,24 @@
 			}]
 		}
 		{
+			title: "Vanadium"
+			icon: "chemlib:vanadium"
 			x: -4.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: [
+				"0FFA4C7A1712D8AA"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "434F7077FAF6A0AB"
 			tasks: [{
 				id: "4DB92F8E462ED283"
+				type: "item"
+				item: "electrodynamics:ingotvanadium"
+			}]
+			rewards: [{
+				id: "33A4F6F0BBDD1F54"
 				type: "item"
 				item: "chemlib:vanadium"
 			}]
@@ -323,6 +345,11 @@
 				type: "item"
 				item: "the_ages_of_times:nitrogen"
 			}]
+			rewards: [{
+				id: "08B3D182F062ABA9"
+				type: "item"
+				item: "chemlib:nitrogen"
+			}]
 		}
 		{
 			title: "Oxygen"
@@ -337,6 +364,11 @@
 				id: "06CEAF0EC66FF311"
 				type: "item"
 				item: "the_ages_of_times:oxygen_ballon"
+			}]
+			rewards: [{
+				id: "39E0447153DFFF30"
+				type: "item"
+				item: "chemlib:oxygen"
 			}]
 		}
 		{
@@ -653,13 +685,24 @@
 			}]
 		}
 		{
+			title: "Molybdenum"
+			icon: "chemlib:molybdenum"
 			x: -3.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: [
+				"641842081AE05DD2"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "0154C3056A538344"
 			tasks: [{
 				id: "6BFFF9677A846C81"
+				type: "item"
+				item: "electrodynamics:ingotmolybdenum"
+			}]
+			rewards: [{
+				id: "58AAB69EB747A939"
 				type: "item"
 				item: "chemlib:molybdenum"
 			}]
@@ -1232,13 +1275,24 @@
 			}]
 		}
 		{
+			title: "Uranium"
+			icon: "chemlib:uranium"
 			x: -2.0d
 			y: 2.0d
 			shape: "square"
+			dependencies: [
+				"12D3B2ABDF3819CD"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "190BD477B38E69E5"
 			tasks: [{
 				id: "0DA802E91C4D3CCD"
+				type: "item"
+				item: "electrodynamics:raworeuranium"
+			}]
+			rewards: [{
+				id: "08D38F559F615DBE"
 				type: "item"
 				item: "chemlib:uranium"
 			}]
