@@ -19,18 +19,9 @@
 			}]
 		}
 		{
-			x: -1.5d
+			x: -3.0d
 			y: 0.5d
-			dependencies: [
-				"641842081AE05DD2"
-				"12D3B2ABDF3819CD"
-				"4EB8188126568EA2"
-				"1A69423A691AD390"
-				"2560A108648DD73A"
-				"0FFA4C7A1712D8AA"
-				"3D6866C829E081CF"
-				"2F7821D1BE4C7624"
-			]
+			dependencies: ["18EA38D90681BB12"]
 			id: "48563C080D3BDAB0"
 			tasks: [
 				{
@@ -48,9 +39,9 @@
 			]
 		}
 		{
-			x: 0.0d
+			x: 7.5d
 			y: 0.5d
-			dependencies: ["48563C080D3BDAB0"]
+			dependencies: ["19855724DF45B5ED"]
 			id: "45C1BD6E20CE8952"
 			tasks: [{
 				id: "4895DEF9A973E432"
@@ -59,9 +50,9 @@
 			}]
 		}
 		{
-			x: 13.5d
-			y: 0.5d
-			dependencies: ["19855724DF45B5ED"]
+			x: 9.0d
+			y: 3.0d
+			dependencies: ["3EC9AAFBF9601BCE"]
 			id: "7972F4ACEF90C1A9"
 			tasks: [{
 				id: "1FF634B22CFEFA7C"
@@ -71,9 +62,9 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: -1.5d
 			y: 0.5d
-			dependencies: ["45C1BD6E20CE8952"]
+			dependencies: ["48563C080D3BDAB0"]
 			id: "21D2911E1594B1D1"
 			tasks: [{
 				id: "575B8BABE0022B71"
@@ -82,8 +73,8 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: 0.5d
+			x: 0.0d
+			y: 2.0d
 			dependencies: ["21D2911E1594B1D1"]
 			id: "0F2B50B765A90FB4"
 			tasks: [{
@@ -94,9 +85,9 @@
 			}]
 		}
 		{
-			x: 24.0d
-			y: 0.5d
-			dependencies: ["205A5FD1A7C1FA4B"]
+			x: 10.5d
+			y: -1.0d
+			dependencies: ["3EC9AAFBF9601BCE"]
 			id: "63DAC533983E3E08"
 			tasks: [{
 				id: "0F60E8E0E678B816"
@@ -106,9 +97,9 @@
 			}]
 		}
 		{
-			x: 16.5d
-			y: 0.5d
-			dependencies: ["1219204770E8FB62"]
+			x: 9.0d
+			y: -2.0d
+			dependencies: ["3EC9AAFBF9601BCE"]
 			id: "550018636E9B78DA"
 			tasks: [{
 				id: "3DBADB417BEA65C7"
@@ -118,7 +109,7 @@
 			}]
 		}
 		{
-			x: 10.5d
+			x: 4.5d
 			y: 0.5d
 			dependencies: ["523DB3D66DA9771D"]
 			id: "687F6CAF5E9168F5"
@@ -138,7 +129,7 @@
 			]
 		}
 		{
-			x: 12.0d
+			x: 6.0d
 			y: 0.5d
 			dependencies: ["687F6CAF5E9168F5"]
 			id: "19855724DF45B5ED"
@@ -155,8 +146,8 @@
 			}]
 		}
 		{
-			x: 9.0d
-			y: 2.0d
+			x: 3.0d
+			y: 0.5d
 			dependencies: ["6978ABC38098850E"]
 			id: "523DB3D66DA9771D"
 			tasks: [{
@@ -166,7 +157,7 @@
 			}]
 		}
 		{
-			x: 7.5d
+			x: 1.5d
 			y: 0.5d
 			dependencies: ["00E6C6A68B073813"]
 			id: "6978ABC38098850E"
@@ -177,9 +168,9 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 0.0d
 			y: 0.5d
-			dependencies: ["024ABE294FCFB37E"]
+			dependencies: ["21D2911E1594B1D1"]
 			id: "00E6C6A68B073813"
 			tasks: [{
 				id: "10D9B5FDB956DFC7"
@@ -188,9 +179,9 @@
 			}]
 		}
 		{
-			x: 4.5d
-			y: 0.5d
-			dependencies: ["0F2B50B765A90FB4"]
+			x: 0.0d
+			y: -1.0d
+			dependencies: ["21D2911E1594B1D1"]
 			id: "024ABE294FCFB37E"
 			tasks: [
 				{
@@ -206,7 +197,7 @@
 			]
 		}
 		{
-			x: 9.0d
+			x: 3.0d
 			y: -1.0d
 			dependencies: ["6978ABC38098850E"]
 			id: "37074D9F78ABFB0C"
@@ -217,7 +208,7 @@
 			}]
 		}
 		{
-			x: -3.0d
+			x: -6.0d
 			y: -3.0d
 			dependencies: ["18EA38D90681BB12"]
 			id: "641842081AE05DD2"
@@ -235,7 +226,7 @@
 			]
 		}
 		{
-			x: -3.0d
+			x: -6.0d
 			y: -2.0d
 			dependencies: ["18EA38D90681BB12"]
 			id: "12D3B2ABDF3819CD"
@@ -246,7 +237,7 @@
 			}]
 		}
 		{
-			x: -3.0d
+			x: -6.0d
 			y: -1.0d
 			dependencies: ["18EA38D90681BB12"]
 			id: "4EB8188126568EA2"
@@ -264,7 +255,7 @@
 			]
 		}
 		{
-			x: -3.0d
+			x: -6.0d
 			y: 1.0d
 			dependencies: ["18EA38D90681BB12"]
 			id: "2560A108648DD73A"
@@ -282,7 +273,7 @@
 			]
 		}
 		{
-			x: -3.0d
+			x: -6.0d
 			y: 2.0d
 			dependencies: ["18EA38D90681BB12"]
 			id: "0FFA4C7A1712D8AA"
@@ -300,7 +291,7 @@
 			]
 		}
 		{
-			x: -3.0d
+			x: -6.0d
 			y: 3.0d
 			dependencies: ["18EA38D90681BB12"]
 			id: "3D6866C829E081CF"
@@ -318,7 +309,7 @@
 			]
 		}
 		{
-			x: -3.0d
+			x: -6.0d
 			y: 4.0d
 			dependencies: ["18EA38D90681BB12"]
 			id: "2F7821D1BE4C7624"
@@ -336,7 +327,7 @@
 			]
 		}
 		{
-			x: -3.0d
+			x: -6.0d
 			y: 0.0d
 			dependencies: ["18EA38D90681BB12"]
 			id: "1A69423A691AD390"
@@ -347,9 +338,9 @@
 			}]
 		}
 		{
-			x: 15.0d
-			y: 0.5d
-			dependencies: ["7972F4ACEF90C1A9"]
+			x: -1.5d
+			y: 3.0d
+			dependencies: ["21D2911E1594B1D1"]
 			id: "1219204770E8FB62"
 			tasks: [{
 				id: "666BE41B3821194B"
@@ -358,9 +349,9 @@
 			}]
 		}
 		{
-			x: 18.0d
+			x: 9.0d
 			y: 0.5d
-			dependencies: ["550018636E9B78DA"]
+			dependencies: ["45C1BD6E20CE8952"]
 			id: "3EC9AAFBF9601BCE"
 			tasks: [{
 				id: "095F3CF261998A43"
@@ -369,8 +360,9 @@
 			}]
 		}
 		{
-			x: 21.0d
+			x: 10.5d
 			y: 0.5d
+			dependencies: ["3EC9AAFBF9601BCE"]
 			id: "191E7A2A02A766DE"
 			tasks: [{
 				id: "13D5BC4DE82EEF43"
@@ -380,9 +372,9 @@
 			}]
 		}
 		{
-			x: 22.5d
-			y: 0.5d
-			dependencies: ["191E7A2A02A766DE"]
+			x: -1.5d
+			y: -2.0d
+			dependencies: ["21D2911E1594B1D1"]
 			id: "205A5FD1A7C1FA4B"
 			tasks: [{
 				id: "5B274CC93F24DBE3"
@@ -392,9 +384,9 @@
 			}]
 		}
 		{
-			x: 25.5d
-			y: 0.5d
-			dependencies: ["63DAC533983E3E08"]
+			x: 10.5d
+			y: 2.0d
+			dependencies: ["3EC9AAFBF9601BCE"]
 			id: "0768A610817496D7"
 			tasks: [{
 				id: "640D94E6DFAB1526"
@@ -404,9 +396,12 @@
 			}]
 		}
 		{
-			x: 27.0d
+			x: 12.0d
 			y: 0.5d
-			dependencies: ["0768A610817496D7"]
+			dependencies: [
+				"0768A610817496D7"
+				"63DAC533983E3E08"
+			]
 			id: "0C9B346B8006CF57"
 			tasks: [{
 				id: "138F91FF4EA03D43"
@@ -416,7 +411,7 @@
 			}]
 		}
 		{
-			x: 28.5d
+			x: 13.5d
 			y: 0.5d
 			dependencies: ["0C9B346B8006CF57"]
 			id: "72F470175BB6350D"
@@ -428,19 +423,9 @@
 			}]
 		}
 		{
-			x: 31.5d
+			x: 16.5d
 			y: 0.5d
-			id: "00A7FA411265C9A6"
-			tasks: [{
-				id: "7DEEFE5B840A4093"
-				type: "item"
-				item: "electrodynamics:combustionchamber"
-			}]
-		}
-		{
-			x: 33.0d
-			y: 0.5d
-			dependencies: ["00A7FA411265C9A6"]
+			dependencies: ["04447C765C346DE5"]
 			id: "11CCBA4525553EC9"
 			tasks: [{
 				id: "7105C2E39894B1B5"
@@ -450,7 +435,7 @@
 			}]
 		}
 		{
-			x: 34.5d
+			x: 18.0d
 			y: 0.5d
 			dependencies: ["11CCBA4525553EC9"]
 			id: "09B728E1966D6B1E"
@@ -462,8 +447,9 @@
 			}]
 		}
 		{
-			x: 36.0d
-			y: 0.5d
+			x: 19.5d
+			y: -1.0d
+			dependencies: ["09B728E1966D6B1E"]
 			id: "74987F85F7DDFC77"
 			tasks: [{
 				id: "4FC1D1F0C3456B12"
@@ -472,13 +458,65 @@
 			}]
 		}
 		{
-			x: 37.5d
-			y: 0.5d
-			id: "4D1451F9C596982B"
+			x: 3.0d
+			y: 2.0d
+			dependencies: ["6978ABC38098850E"]
+			id: "3E0E6F75C4E783EE"
 			tasks: [{
-				id: "003AB961B00D7B83"
+				id: "69B00DB51DD1146A"
 				type: "item"
-				item: "electrodynamics:chemicalmixer"
+				item: "minecraft:soul_sand"
+			}]
+		}
+		{
+			x: 15.0d
+			y: 0.5d
+			dependencies: ["72F470175BB6350D"]
+			id: "04447C765C346DE5"
+			tasks: [{
+				id: "3D5932732D4B521E"
+				type: "advancement"
+				advancement: "immersivepetroleum:main/mb_derrick"
+				criterion: ""
+			}]
+		}
+		{
+			x: 19.5d
+			y: 2.0d
+			dependencies: ["09B728E1966D6B1E"]
+			id: "16FAD18015DB303E"
+			tasks: [{
+				id: "455C3A6118020F58"
+				type: "item"
+				item: "alchemistry:atomizer"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 0.5d
+			dependencies: ["09B728E1966D6B1E"]
+			id: "11EF1801BD5487B9"
+			tasks: [{
+				id: "413F71C00A676EB1"
+				type: "advancement"
+				advancement: "immersivepetroleum:main/mb_hydrotreater"
+				criterion: ""
+			}]
+		}
+		{
+			x: 22.0d
+			y: 0.5d
+			dependencies: [
+				"16FAD18015DB303E"
+				"74987F85F7DDFC77"
+				"11EF1801BD5487B9"
+			]
+			size: 2.0d
+			id: "3153C6C8B223AED9"
+			tasks: [{
+				id: "37CDF0B28B261A99"
+				type: "item"
+				item: "pneumaticcraft:plastic"
 			}]
 		}
 	]
