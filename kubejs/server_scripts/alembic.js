@@ -561,4 +561,7 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     melting("the_ages_of_times:glass_ampul", 2, "the_ages_of_times:mercury_oxide", 3, "chemlib:oxygen_fluid", 76, "the_ages_of_times:beaker", 3, 1, "chemlib:mercury", 2, 1)
     fill("the_ages_of_times:balloon", "chemlib:oxygen_fluid", 126, "the_ages_of_times:oxygen_ballon")
     unfill("the_ages_of_times:oxygen_ballon", "chemlib:oxygen_fluid", 126, "the_ages_of_times:balloon")
+
+    //Lithium
+    meltingfluid("electrodynamics:raworelepidolite", 1, "chemlib:sulfuric_acid_fluid", 1000, "the_ages_of_times:lithium_sulfate", 1000, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01)
 })

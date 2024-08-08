@@ -1,0 +1,21 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[
+        {
+            "chance":0.17,
+            "output":{
+                "tag":"forge:oxide/trisulfur"
+            }
+        }
+    ],
+    "result":{
+        "count":1,
+        "base_ingredient":{
+            "item":"electrodynamics:impuredustlithium"
+        }
+    },
+    "input":{
+        "item":"electrodynamics:crystallithium"
+    },
+    "energy":6000
+}

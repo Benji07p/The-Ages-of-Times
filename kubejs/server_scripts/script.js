@@ -1780,6 +1780,38 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+
+	//Lithium
+	event.custom(
+		{
+			"type": "alchemistry:atomizer",
+			"group": "alchemistry:atomizer",
+			"input": {
+			  "fluid": "the_ages_of_times:lithium_sulfate",
+			  "amount": "1000"
+			},
+			"result": {
+			  "item": "electrodynamics:crystallithium",
+			  "count": 1
+			}
+		  }
+	)
+	event.custom(
+		{
+			"type": "alchemistry:liquifier",
+			"group": "alchemistry:liquifier",
+			"input": {
+			  "ingredient": {
+				"item": "electrodynamics:crystallithium"
+			  },
+			  "count": 1
+			},
+			"result": {
+			  "fluid": "the_ages_of_times:lithium_sulfate",
+			  "amount": "200"
+			}
+		  }
+	)
 })
 
 onEvent('item.tags', event => {

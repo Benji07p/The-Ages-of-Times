@@ -1,0 +1,14 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[],
+    "result":{
+        "count":1,
+        "base_ingredient":{
+            "item":"electrodynamics:dustlithium"
+        }
+    },
+    "input":{
+        "item":"electrodynamics:impuredustlithium"
+    },
+    "energy":6000
+}
