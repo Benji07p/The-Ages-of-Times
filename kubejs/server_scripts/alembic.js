@@ -564,4 +564,8 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
 
     //Lithium
     meltingfluid("electrodynamics:raworelepidolite", 1, "chemlib:sulfuric_acid_fluid", 1000, "the_ages_of_times:lithium_sulfate", 1000, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01)
+    
+    //Aluminium
+    oxydoreduction("electrodynamics:oxidesodiumcarbonate", 1, "minecraft:coal", 2, "immersiveengineering:dust_aluminum", 1, "the_ages_of_times:liquid_sodium_hydroxide", 250, 1.0, "tconstruct:molten_iron", 20, "the_ages_of_times:sodium_aluminate", 1, 1, "electrodynamics:dustsilica", 1, 1)
+    oxydoreduction("electrodynamics:oxidesodiumcarbonate", 1, "immersiveengineering:coal_coke", 1, "immersiveengineering:dust_aluminum", 1, "the_ages_of_times:liquid_sodium_hydroxide", 250, 1.0, "tconstruct:molten_iron", 30, "the_ages_of_times:sodium_aluminate", 2, 1, "electrodynamics:dustsilica", 2, 1)
 })
