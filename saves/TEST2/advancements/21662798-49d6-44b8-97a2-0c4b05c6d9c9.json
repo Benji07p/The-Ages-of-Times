@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coal_coke_to_coke": {
+    "criteria": {
+      "has_coal_coke": "2024-08-09 17:37:16 +0200"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/blue_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
@@ -1641,6 +1647,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-02-06 15:43:58 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_aluminum": {
+    "criteria": {
+      "has_ore_aluminum": "2024-08-09 17:18:29 +0200"
     },
     "done": true
   },
@@ -6218,6 +6230,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_aluminum_from_blasting": {
+    "criteria": {
+      "has_ore_aluminum": "2024-08-09 17:18:29 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/sand_cast": {
     "criteria": {
       "has_casting": "2023-12-09 14:46:14 +0100"
@@ -7042,6 +7060,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_aluminum_from_dust": {
+    "criteria": {
+      "has_dust_aluminum": "2024-08-09 17:26:32 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
@@ -7534,6 +7558,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_aluminum_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_aluminum": "2024-08-09 17:26:32 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2024-02-01 20:44:03 +0100"
@@ -7573,6 +7603,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/gps_area_tool": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
+    "criteria": {
+      "has_petcoke_item": "2024-08-09 17:36:57 +0200"
     },
     "done": true
   },
@@ -8038,6 +8074,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:main/petcoke": {
+    "criteria": {
+      "petcoke": "2024-08-09 17:36:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:46 +0100"
@@ -8071,6 +8113,12 @@
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:46 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coke_to_coal_coke": {
+    "criteria": {
+      "has_coke": "2024-08-09 17:37:16 +0200"
     },
     "done": true
   },
