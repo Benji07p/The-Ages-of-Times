@@ -1,0 +1,14 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[],
+    "result":{
+        "count":1,
+        "base_ingredient":{
+            "item":"electrodynamics:dustsalt"
+        }
+    },
+    "input":{
+        "item":"electrodynamics:crystalhalite"
+    },
+    "energy":6000
+}
