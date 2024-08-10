@@ -1,9 +1,10 @@
 {
 	id: "578BBF063FED2F12"
-	group: ""
-	order_index: 2
+	group: "4EADA09B944324F5"
+	order_index: 4
 	filename: "industrial_ages"
 	title: "Industrial Ages"
+	icon: "car:engine_3_cylinder"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
