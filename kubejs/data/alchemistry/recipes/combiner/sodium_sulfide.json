@@ -1,0 +1,21 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:sodium"
+      },
+      "count": 2
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:sulfur"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:sodium_sulfide"
+  }
+}
