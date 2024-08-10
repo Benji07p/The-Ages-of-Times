@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/calcium_block_to_ingot": {
+    "criteria": {
+      "has_calcium": "2024-08-10 16:24:53 +0200"
+    },
+    "done": true
+  },
   "antiqueatlas:recipes/atlas_new": {
     "criteria": {
       "has_compass": "2023-12-04 17:35:07 +0100"
@@ -1422,6 +1428,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/compactor": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
@@ -1599,6 +1611,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
     },
     "done": true
   },
@@ -1806,6 +1824,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
@@ -1920,6 +1944,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2024-01-01 19:08:06 +0100"
@@ -1941,6 +1971,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-07-24 17:54:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
     },
     "done": true
   },
@@ -2208,6 +2244,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
@@ -2430,6 +2472,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/smooth_plastic_brick_purple": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
@@ -2457,6 +2505,12 @@
   "notreepunching:gold_saw": {
     "criteria": {
       "has_item": "2024-01-01 19:13:41 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
     },
     "done": true
   },
@@ -2680,6 +2734,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-02-01 20:48:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
     },
     "done": true
   },
@@ -3359,6 +3419,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/iron_platform": {
     "criteria": {
       "has_bars": "2024-01-01 19:13:40 +0100"
@@ -3536,6 +3602,12 @@
   "tardim:tardim/root": {
     "criteria": {
       "get_iron": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
     },
     "done": true
   },
@@ -4139,6 +4211,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2023-12-11 20:57:12 +0100"
@@ -4202,6 +4280,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/elevator_base_2": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/calcium_nugget_to_ingot": {
+    "criteria": {
+      "has_calcium": "2024-08-10 16:24:53 +0200"
     },
     "done": true
   },
@@ -4400,6 +4484,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green": {
     "criteria": {
       "has_sheetmetal": "2024-01-24 16:41:46 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
     },
     "done": true
   },
@@ -4944,6 +5034,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
   "notreepunching:jungle_planks_with_saw": {
     "criteria": {
       "has_item": "2024-01-30 20:31:58 +0100"
@@ -5294,6 +5390,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/drain_retextured": {
     "criteria": {
       "has_item": "2024-01-19 17:20:14 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
     },
     "done": true
   },
@@ -6068,6 +6170,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/calcium_ingot_from_smelting_calcium_dust": {
+    "criteria": {
+      "has_calcium": "2024-08-10 16:24:53 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_hammer": {
     "criteria": {
       "has_ingot_steel": "2023-12-09 15:03:33 +0100"
@@ -6508,6 +6616,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/calcium_ingot_from_blasting_calcium_dust": {
+    "criteria": {
+      "has_calcium": "2024-08-10 16:24:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2023-12-12 20:55:32 +0100"
@@ -6721,6 +6835,12 @@
   "atum:core/goldendatebridge": {
     "criteria": {
       "golden_date": "2024-03-30 19:07:46 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
     },
     "done": true
   },
@@ -6982,6 +7102,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_lead_hammering": {
     "criteria": {
       "has_lead_ingot": "2024-01-01 19:09:46 +0100"
@@ -7159,6 +7285,12 @@
   "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
     "criteria": {
       "has_item": "2023-12-13 15:03:54 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/calcium_ingot_to_block": {
+    "criteria": {
+      "has_calcium": "2024-08-10 16:24:53 +0200"
     },
     "done": true
   },
@@ -7600,6 +7732,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/calcium_ingot_to_nugget": {
+    "criteria": {
+      "has_calcium": "2024-08-10 16:24:53 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/gps_area_tool": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
@@ -7609,6 +7747,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
     "criteria": {
       "has_petcoke_item": "2024-08-09 17:36:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
     },
     "done": true
   },
@@ -8197,6 +8341,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
     },
     "done": true
   },
