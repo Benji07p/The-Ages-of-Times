@@ -81,13 +81,24 @@
 			}]
 		}
 		{
+			title: "Aluminum"
+			icon: "chemlib:aluminum"
 			x: 4.0d
 			y: -5.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"2F7821D1BE4C7624"
+			]
 			invisible: true
 			id: "1FA69FF5824594C9"
 			tasks: [{
 				id: "62FBDAD54F141930"
+				type: "item"
+				item: "electrodynamics:ingotaluminum"
+			}]
+			rewards: [{
+				id: "48E5BB8F5612CCE4"
 				type: "item"
 				item: "chemlib:aluminum"
 			}]
