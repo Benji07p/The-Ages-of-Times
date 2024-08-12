@@ -4235,6 +4235,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworechromium": {
+    "criteria": {
+      "HasRawOre": "2024-08-12 19:23:50 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "has_item": "2023-12-09 14:30:08 +0100"
@@ -5306,6 +5312,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:14 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_aluminum_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-08-12 18:41:00 +0200"
     },
     "done": true
   },
@@ -7921,6 +7933,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-06-12 12:19:01 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_aluminum_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-08-12 18:41:00 +0200"
     },
     "done": true
   },
