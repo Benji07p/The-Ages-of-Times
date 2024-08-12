@@ -713,5 +713,15 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     distil2("chemlib:sodium_carbonate", 1, "chemlib:calcium_hydroxide", 1, "the_ages_of_times:beaker", 1, "chemlib:sodium_hydroxide", 2, 1, "chemlib:calcium_carbonate", 1, 1)
     oxydoreduction("chemlib:sodium_carbonate", 1, "minecraft:coal", 2, "immersiveengineering:dust_aluminum", 1, "the_ages_of_times:liquid_sodium_hydroxide", 250, 1.0, "tconstruct:molten_iron", 20, "the_ages_of_times:sodium_aluminate", 1, 1, "electrodynamics:dustsilica", 1, 1)
     oxydoreduction("chemlib:sodium_carbonate", 1, "immersiveengineering:coal_coke", 1, "immersiveengineering:dust_aluminum", 1, "the_ages_of_times:liquid_sodium_hydroxide", 250, 1.0, "tconstruct:molten_iron", 30, "the_ages_of_times:sodium_aluminate", 1, 1, "electrodynamics:dustsilica", 2, 1)
+    oxydoreduction("chemlib:sodium_carbonate", 1, "minecraft:coal", 2, "create:crushed_raw_aluminum", 1, "the_ages_of_times:liquid_sodium_hydroxide", 250, 1.0, "tconstruct:molten_iron", 20, "the_ages_of_times:sodium_aluminate", 1, 1, "electrodynamics:dustsilica", 1, 1)
+    oxydoreduction("chemlib:sodium_carbonate", 1, "immersiveengineering:coal_coke", 1, "create:crushed_raw_aluminum", 1, "the_ages_of_times:liquid_sodium_hydroxide", 250, 1.0, "tconstruct:molten_iron", 30, "the_ages_of_times:sodium_aluminate", 1, 1, "electrodynamics:dustsilica", 2, 1)
     fluidreaction("the_ages_of_times:sodium_aluminate", 2, "chemlib:carbon_dioxide_fluid", 90, "tconstruct:molten_aluminum", 90, "electrodynamics:oxidesodiumcarbonate", 1, 1, "the_ages_of_times:beaker", 2, 1)
+
+    //Chromium
+    oxydoreduction("electrodynamics:oxidesodiumcarbonate", 8, "the_ages_of_times:beaker", 10, "electrodynamics:raworechromium", 4, "chemlib:oxygen_fluid", 1400, 1.0, "chemlib:carbon_dioxide_fluid", 800, "the_ages_of_times:sodium_chromate", 8, 1, "chemlib:iron_oxide", 2, 1)
+    meltingfluid("the_ages_of_times:sodium_chromate", 2, "chemlib:sulfuric_acid_fluid", 100, "minecraft:water", 100, "the_ages_of_times:sodium_dichromate", 1, 1, "chemlib:sodium_sulfate", 1, 1)
+    melting("minecraft:coal", 2, "the_ages_of_times:sodium_dichromate", 1, "chemlib:carbon_monoxide_fluid", 100, "chemlib:chromium_oxide", 1, 1, "electrodynamics:oxidesodiumcarbonate", 4, 1)
+    fill("the_ages_of_times:balloon", "chemlib:carbon_monoxide_fluid", 63, "chemlib:carbon_monoxide")
+    unfill("chemlib:carbon_monoxide", "chemlib:carbon_monoxide_fluid", 63, "the_ages_of_times:balloon")
+    melting("electrodynamics:ingotaluminum", 2, "chemlib:chromium_oxide", 1, "tconstruct:molten_aluminum", 180, "electrodynamics:ingotchromium", 2, 1, "the_ages_of_times:beaker", 1, 1)
 })
