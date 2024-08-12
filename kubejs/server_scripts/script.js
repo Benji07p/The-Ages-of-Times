@@ -1812,6 +1812,17 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+
+	//Aluminium
+	event.remove({ id: 'tconstruct:smeltery/melting/metal/aluminum/ore_singular'})
+	event.remove({ id: 'tconstruct:smeltery/melting/metal/aluminum/raw'})
+	event.remove({ id: 'tconstruct:smeltery/melting/metal/aluminum/raw_block'})
+	event.remove({ id: 'tconstruct:smeltery/melting/metal/aluminum/dust'})
+	event.remove({ id: 'create:splashing/immersiveengineering/crushed_raw_aluminum'})
+	event.remove({ id: 'immersiveengineering:arcfurnace/dust_aluminum'})
+	event.remove({ id: 'immersiveengineering:arcfurnace/ore_aluminum'})
+	event.remove({ id: 'immersiveengineering:arcfurnace/raw_ore_aluminum'})
+	event.remove({ id: 'immersiveengineering:arcfurnace/raw_block_aluminum'})
 })
 
 onEvent('item.tags', event => {

@@ -1,9 +1,0 @@
-{
-    "type":"minecraft:smelting",
-    "ingredient":{
-        "item":"immersiveengineering:dust_aluminum"
-    },
-    "result":"electrodynamics:ingotaluminum",
-    "experience":0.0,
-    "cookingtime":200
-}
