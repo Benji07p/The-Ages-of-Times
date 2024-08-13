@@ -60,6 +60,10 @@
 			x: -8.0d
 			y: -5.0d
 			shape: "square"
+			dependencies: [
+				"191E7A2A02A766DE"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "465B347CA49BB4A1"
 			tasks: [{
@@ -140,13 +144,24 @@
 			}]
 		}
 		{
+			title: "Titanium"
+			icon: "chemlib:titanium"
 			x: -5.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: [
+				"4EB8188126568EA2"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "5EC01078F742E7F5"
 			tasks: [{
 				id: "2A93994AF611E2F8"
+				type: "item"
+				item: "electrodynamics:ingottitanium"
+			}]
+			rewards: [{
+				id: "60EA9D0F519DA18F"
 				type: "item"
 				item: "chemlib:titanium"
 			}]
@@ -175,13 +190,24 @@
 			}]
 		}
 		{
+			title: "Chromium"
+			icon: "chemlib:chromium"
 			x: -3.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: [
+				"2560A108648DD73A"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "187FC7F93359946E"
 			tasks: [{
 				id: "4EE9F20BFF135540"
+				type: "item"
+				item: "electrodynamics:ingotchromium"
+			}]
+			rewards: [{
+				id: "232CEA6726BFE446"
 				type: "item"
 				item: "chemlib:chromium"
 			}]
@@ -1070,13 +1096,24 @@
 			}]
 		}
 		{
+			title: "Tungsten"
+			icon: "chemlib:tungsten"
 			x: -3.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"18EA38D90681BB12"
+			]
 			invisible: true
 			id: "7579FABD40B73959"
 			tasks: [{
 				id: "146CF88BCC5F205C"
+				type: "item"
+				item: "chemlib:tungsten_ingot"
+			}]
+			rewards: [{
+				id: "28D731D5C7439A79"
 				type: "item"
 				item: "chemlib:tungsten"
 			}]
