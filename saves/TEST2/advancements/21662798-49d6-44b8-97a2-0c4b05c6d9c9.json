@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/titanium_nugget_to_ingot": {
+    "criteria": {
+      "has_titanium": "2024-08-13 19:37:17 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/brown_clear_stained_glass": {
     "criteria": {
       "has_clear_glass": "2024-02-01 21:20:43 +0100"
@@ -611,6 +617,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/tungsten_block_to_ingot": {
+    "criteria": {
+      "has_tungsten": "2024-08-13 18:45:38 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/firewood/lavawood_slab": {
     "criteria": {
       "has_item": "2023-12-12 20:55:38 +0100"
@@ -1026,6 +1038,12 @@
   "atum:core/root": {
     "criteria": {
       "scarab": "2023-12-04 17:35:07 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/tungsten_ingot_to_nugget": {
+    "criteria": {
+      "has_tungsten": "2024-08-13 18:45:38 +0200"
     },
     "done": true
   },
@@ -2713,6 +2731,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/titanium_ingot_from_smelting_titanium_dust": {
+    "criteria": {
+      "has_titanium": "2024-08-13 19:37:17 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_fence": {
     "criteria": {
       "has_alu_ingot": "2024-07-23 15:31:53 +0200"
@@ -3088,6 +3112,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-01-01 19:13:41 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:circuitbreaker": {
+    "criteria": {
+      "HasBreaker": "2024-08-13 20:14:11 +0200"
     },
     "done": true
   },
@@ -3485,6 +3515,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/tungsten_ingot_from_blasting_tungsten_dust": {
+    "criteria": {
+      "has_tungsten": "2024-08-13 18:45:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-01-01 19:13:41 +0100"
@@ -3584,6 +3620,12 @@
   "create:recipes/create.palettes/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-07-23 20:08:57 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/tungsten_ingot_from_smelting_tungsten_dust": {
+    "criteria": {
+      "has_tungsten": "2024-08-13 18:45:38 +0200"
     },
     "done": true
   },
@@ -4421,6 +4463,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworetitanium": {
+    "criteria": {
+      "HasRawOre": "2024-08-13 22:36:24 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2024-01-20 11:22:59 +0100"
@@ -4544,6 +4592,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/tungsten_nugget_to_ingot": {
+    "criteria": {
+      "has_tungsten": "2024-08-13 18:45:38 +0200"
     },
     "done": true
   },
@@ -5019,6 +5073,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/titanium_ingot_to_nugget": {
+    "criteria": {
+      "has_titanium": "2024-08-13 19:37:17 +0200"
     },
     "done": true
   },
@@ -6242,6 +6302,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/titanium_ingot_to_block": {
+    "criteria": {
+      "has_titanium": "2024-08-13 19:37:17 +0200"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/glass_white": {
     "criteria": {
       "has_dyes/black": "2024-03-16 11:58:12 +0100"
@@ -7228,6 +7294,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/tungsten_ingot_to_block": {
+    "criteria": {
+      "has_tungsten": "2024-08-13 18:45:38 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/scorched_forge": {
     "criteria": {
       "has_item": "2023-12-22 18:13:09 +0100"
@@ -8158,6 +8230,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/titanium_ingot_from_blasting_titanium_dust": {
+    "criteria": {
+      "has_titanium": "2024-08-13 19:37:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-01-15 19:25:50 +0100"
@@ -8209,6 +8287,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-02-01 20:48:47 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/titanium_block_to_ingot": {
+    "criteria": {
+      "has_titanium": "2024-08-13 19:37:17 +0200"
     },
     "done": true
   },

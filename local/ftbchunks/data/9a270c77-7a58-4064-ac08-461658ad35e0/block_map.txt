@@ -122,6 +122,7 @@
 #F2A1A5 create:chute
 #8FB320 the_ages_of_times:cinnabar_ore
 #9EC980 immersiveengineering:circuit_table
+#6875C3 electrodynamics:circuitbreaker
 #802D27 multibeds:classic
 #7FDE54 minecraft:clay
 #D67615 notreepunching:clay_bucket
@@ -374,6 +375,7 @@
 #023C90 tconstruct:molten_lead_fluid
 #C81C81 tconstruct:molten_silver_fluid
 #5370B5 tconstruct:molten_tin_fluid
+#22D2F8 tconstruct:molten_tungsten_fluid
 #A13458 tconstruct:molten_zinc_fluid
 #98296E the_ages_of_times:molybdenum_sulfate
 #55AC9E beyond_earth:moon_cheese_ore
@@ -416,6 +418,7 @@
 #262421 immersiveengineering:ore_lead
 #7A00CF immersiveengineering:ore_nickel
 #067C92 immersiveengineering:ore_silver
+#BFB150 the_ages_of_times:ore_wolframite
 #6F71C2 electrodynamics:orealuminum
 #984231 electrodynamics:orechromite
 #F5858A electrodynamics:orefluorite
@@ -637,6 +640,7 @@
 #70F033 immersiveengineering:treated_fence
 #2035B7 minecraft:tube_coral_block
 #87BAF4 minecraft:tuff
+#1A5357 the_ages_of_times:tungstic_acid_fluid
 #05FFF5 create:turntable
 #EDFEF9 immersiveengineering:turntable
 #B945D4 the_ages_of_times:turntest
