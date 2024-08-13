@@ -68,6 +68,14 @@ onEvent('item.tooltip', tooltip => {
 		text.add(1, Text.of('§3Na₂S'))
 	})
 
+	tooltip.addAdvanced(['the_ages_of_times:sodium_chromate'], (item, advanced, text) => {
+		text.add(1, Text.of('§3Na₂CrO₄'))
+	})
+
+	tooltip.addAdvanced(['the_ages_of_times:sodium_dichromate'], (item, advanced, text) => {
+		text.add(1, Text.of('§3Na₂Cr₂O₇'))
+	})
+
 	tooltip.addAdvanced(['the_ages_of_times:mercury_oxide'], (item, advanced, text) => {
 		text.add(1, Text.of('§3HgO'))
 	})
