@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworethorium": {
+    "criteria": {
+      "HasOre": "2024-08-14 16:03:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -1161,6 +1167,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
     "criteria": {
       "has_item": "2023-12-13 15:03:55 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/cobalt_ingot_to_nugget": {
+    "criteria": {
+      "has_cobalt": "2024-08-14 16:15:12 +0200"
     },
     "done": true
   },
@@ -3581,6 +3593,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/cobalt_ingot_from_blasting_cobalt_dust": {
+    "criteria": {
+      "has_cobalt": "2024-08-14 16:15:12 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-02-01 20:44:03 +0100"
@@ -4256,6 +4274,12 @@
   "create:recipes/create.palettes/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/cobalt_ingot_to_block": {
+    "criteria": {
+      "has_cobalt": "2024-08-14 16:15:12 +0200"
     },
     "done": true
   },
@@ -6458,6 +6482,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/cobalt_block_to_ingot": {
+    "criteria": {
+      "has_cobalt": "2024-08-14 16:15:12 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_light_gray": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
@@ -6627,6 +6657,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2024-01-17 13:42:16 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/cobalt_ingot_from_smelting_cobalt_dust": {
+    "criteria": {
+      "has_cobalt": "2024-08-14 16:15:12 +0200"
     },
     "done": true
   },
@@ -8455,6 +8491,12 @@
   "create:recipes/create.base/crafting/schematics/schematic_table": {
     "criteria": {
       "has_item": "2024-01-24 16:59:45 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/cobalt_nugget_to_ingot": {
+    "criteria": {
+      "has_cobalt": "2024-08-14 16:15:12 +0200"
     },
     "done": true
   },

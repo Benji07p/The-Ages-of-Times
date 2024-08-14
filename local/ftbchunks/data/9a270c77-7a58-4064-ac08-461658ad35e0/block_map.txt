@@ -137,6 +137,7 @@
 #8B43D8 minecraft:coal_block
 #DE242D minecraft:coal_ore
 #FE4F0A minecraft:coarse_dirt
+#AE7F93 tconstruct:cobalt_ore
 #B3053C tconstruct:cobalt_platform
 #058353 minecraft:cobblestone
 #7331AC minecraft:cobblestone_slab
