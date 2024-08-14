@@ -1,0 +1,27 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:sodium"
+      },
+      "count": 2
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:chromium"
+      },
+      "count": 1
+    },  
+    {
+      "ingredient": {
+        "item": "chemlib:oxygen"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:sodium_chromate"
+  }
+}

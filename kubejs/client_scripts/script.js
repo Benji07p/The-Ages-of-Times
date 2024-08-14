@@ -76,6 +76,18 @@ onEvent('item.tooltip', tooltip => {
 		text.add(1, Text.of('§3Na₂Cr₂O₇'))
 	})
 
+	tooltip.addAdvanced(['the_ages_of_times:titanium_tetrachloride'], (item, advanced, text) => {
+		text.add(1, Text.of('§3TiCl₄'))
+	})
+
+	tooltip.addAdvanced(['the_ages_of_times:tungstic_acid'], (item, advanced, text) => {
+		text.add(1, Text.of('§3H₂WO₄'))
+	})
+
+	tooltip.addAdvanced(['the_ages_of_times:iron_chloride'], (item, advanced, text) => {
+		text.add(1, Text.of('§3FeCl₂'))
+	})
+
 	tooltip.addAdvanced(['the_ages_of_times:mercury_oxide'], (item, advanced, text) => {
 		text.add(1, Text.of('§3HgO'))
 	})

@@ -1,0 +1,21 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:chlorine"
+      },
+      "count": 2
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:iron"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:iron_chloride"
+  }
+}

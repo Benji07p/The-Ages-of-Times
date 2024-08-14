@@ -1,0 +1,33 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "ingredient": {
+      "item": "the_ages_of_times:sodium_dichromate"
+    },
+    "count": 1
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": false,
+    "groups": [
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "item": "chemlib:sodium",
+            "count": 2
+          },
+          {
+            "item": "chemlib:chromium",
+            "count": 2
+          },
+          {
+            "item": "chemlib:oxygen",
+            "count": 7
+          }
+        ]
+      }
+    ]
+  }
+}

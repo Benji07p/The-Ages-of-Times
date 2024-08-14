@@ -1,0 +1,12 @@
+{
+  "type": "alchemistry:atomizer",
+  "group": "alchemistry:atomizer",
+  "input": {
+    "fluid": "the_ages_of_times:liquid_sodium_hydroxide",
+    "amount": "500"
+  },
+  "result": {
+    "item": "chemlib:sodium_hydroxide",
+    "count": 8
+  }
+}

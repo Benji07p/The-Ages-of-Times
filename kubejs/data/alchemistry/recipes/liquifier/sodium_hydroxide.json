@@ -1,0 +1,14 @@
+{
+  "type": "alchemistry:liquifier",
+  "group": "alchemistry:liquifier",
+  "input": {
+    "ingredient": {
+      "item": "chemlib:sodium_hydroxide"
+    },
+    "count": 8
+  },
+  "result": {
+    "fluid": "the_ages_of_times:liquid_sodium_hydroxide",
+    "amount": "500"
+  }
+}

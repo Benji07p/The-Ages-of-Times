@@ -1,0 +1,12 @@
+{
+  "type": "alchemistry:atomizer",
+  "group": "alchemistry:atomizer",
+  "input": {
+    "fluid": "the_ages_of_times:tungstic_acid_fluid",
+    "amount": "500"
+  },
+  "result": {
+    "item": "the_ages_of_times:tungstic_acid",
+    "count": 8
+  }
+}
