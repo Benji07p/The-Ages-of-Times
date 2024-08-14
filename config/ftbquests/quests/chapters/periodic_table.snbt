@@ -253,13 +253,21 @@
 			}]
 		}
 		{
+			title: "Cobalt"
+			icon: "chemlib:cobalt"
 			x: 0.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: ["7984C5618B3F5B9D"]
 			invisible: true
 			id: "178A5D75BFD00293"
 			tasks: [{
 				id: "386330D6ABE7178D"
+				type: "item"
+				item: "tconstruct:raw_cobalt"
+			}]
+			rewards: [{
+				id: "40FE003F8DD6E5D4"
 				type: "item"
 				item: "chemlib:cobalt"
 			}]
@@ -1526,13 +1534,24 @@
 			}]
 		}
 		{
+			title: "Thorium"
+			icon: "chemlib:thorium"
 			x: -4.0d
 			y: 2.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"18EA38D90681BB12"
+			]
 			invisible: true
 			id: "0E6380EB2A578FB1"
 			tasks: [{
 				id: "36F27D14C1CDCA86"
+				type: "item"
+				item: "electrodynamics:raworethorium"
+			}]
+			rewards: [{
+				id: "570CF547CC4E1A5A"
 				type: "item"
 				item: "chemlib:thorium"
 			}]
