@@ -228,6 +228,7 @@
 #10BF9E immersivepetroleum:derrick
 #001A41 ftbquests:detector
 #16D43D ironchest:diamond_chest
+#CB716A minecraft:diamond_ore
 #BED665 minecraft:diorite
 #2BCCE0 notreepunching:diorite_loose_rock
 #C600AA minecraft:diorite_stairs
@@ -416,9 +417,14 @@
 #6146E3 minecraft:orange_bed
 #8F6314 minecraft:orange_tulip
 #BF0745 immersiveengineering:ore_aluminum
+#AEFCD8 the_ages_of_times:ore_argyrodite
+#218738 the_ages_of_times:ore_columbite
 #262421 immersiveengineering:ore_lead
 #7A00CF immersiveengineering:ore_nickel
 #067C92 immersiveengineering:ore_silver
+#D2A881 the_ages_of_times:ore_sperrylite
+#59C7AA the_ages_of_times:ore_strontianite
+#CF81A4 the_ages_of_times:ore_tantalite
 #BFB150 the_ages_of_times:ore_wolframite
 #6F71C2 electrodynamics:orealuminum
 #984231 electrodynamics:orechromite

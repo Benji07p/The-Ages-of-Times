@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-08-15 17:10:12 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/amadron_tablet": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
@@ -972,6 +978,12 @@
   "create:recipes/create.palettes/brass_scaffolding_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2024-01-24 17:34:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-08-15 17:10:12 +0200"
     },
     "done": true
   },
@@ -1722,6 +1734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-08-15 16:40:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -2049,6 +2067,12 @@
   "create:recipes/create.palettes/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2024-01-24 17:34:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-08-15 16:40:55 +0200"
     },
     "done": true
   },
@@ -2641,6 +2665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-08-15 16:40:55 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/glider": {
     "criteria": {
       "has_hemp_fabric": "2024-02-01 20:45:35 +0100"
@@ -3205,6 +3235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-08-15 17:07:37 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_road_stairs_stonecutter": {
     "criteria": {
       "has_item": "2024-01-19 17:21:00 +0100"
@@ -3578,6 +3614,12 @@
   "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-08-15 16:40:56 +0200"
     },
     "done": true
   },
@@ -5897,6 +5939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-08-15 17:22:59 +0200"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/trapped_crystal_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
@@ -6050,6 +6098,12 @@
   "alchemistry:recipes/alchemistry/reactor_output": {
     "criteria": {
       "has_item": "2024-07-27 19:02:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-08-15 17:07:37 +0200"
     },
     "done": true
   },
@@ -8329,6 +8383,12 @@
   "chemlib:recipes/chemlib.metals/titanium_block_to_ingot": {
     "criteria": {
       "has_titanium": "2024-08-13 19:37:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-08-15 17:22:59 +0200"
     },
     "done": true
   },
