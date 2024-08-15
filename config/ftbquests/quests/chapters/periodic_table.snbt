@@ -530,13 +530,24 @@
 			}]
 		}
 		{
+			title: "Germanium"
+			icon: "chemlib:germanium"
 			x: 5.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"18EA38D90681BB12"
+			]
 			invisible: true
 			id: "53504CC7E85D4A9A"
 			tasks: [{
 				id: "11BF6167794F5113"
+				type: "item"
+				item: "the_ages_of_times:raw_ore_argyrodite"
+			}]
+			rewards: [{
+				id: "3651A397B162C714"
 				type: "item"
 				item: "chemlib:germanium"
 			}]
@@ -658,13 +669,24 @@
 			}]
 		}
 		{
+			title: "Strontium"
+			icon: "chemlib:strontium"
 			x: -7.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "6A1F10A9C094FF95"
 			tasks: [{
 				id: "253D936D028C996B"
+				type: "item"
+				item: "the_ages_of_times:raw_ore_strontianite"
+			}]
+			rewards: [{
+				id: "2D2FBA01D9457AC7"
 				type: "item"
 				item: "chemlib:strontium"
 			}]
@@ -694,13 +716,24 @@
 			}]
 		}
 		{
+			title: "Niobium"
+			icon: "chemlib:niobium"
 			x: -4.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "7F6F1DBC856C45F2"
 			tasks: [{
 				id: "7E0E81FABFEFA6F5"
+				type: "item"
+				item: "the_ages_of_times:raw_ore_columbite"
+			}]
+			rewards: [{
+				id: "0EE0AE7EDFC4285C"
 				type: "item"
 				item: "chemlib:niobium"
 			}]
@@ -869,13 +902,24 @@
 			}]
 		}
 		{
+			title: "Platinum"
+			icon: "chemlib:platinum"
 			x: 1.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"18EA38D90681BB12"
+			]
 			invisible: true
 			id: "0CF1564890F952CD"
 			tasks: [{
 				id: "75BF075DF719F146"
+				type: "item"
+				item: "the_ages_of_times:raw_ore_sperrylite"
+			}]
+			rewards: [{
+				id: "5B442C55D153BF05"
 				type: "item"
 				item: "chemlib:platinum"
 			}]
@@ -1139,13 +1183,24 @@
 			}]
 		}
 		{
+			title: "Tantalum"
+			icon: "chemlib:tantalum"
 			x: -4.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "7B8734CB495A46CD"
 			tasks: [{
 				id: "15BA2C68D7B50754"
+				type: "item"
+				item: "the_ages_of_times:raw_ore_tantalite"
+			}]
+			rewards: [{
+				id: "4196A10560669E46"
 				type: "item"
 				item: "chemlib:tantalum"
 			}]
