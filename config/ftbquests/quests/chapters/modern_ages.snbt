@@ -261,6 +261,28 @@
 				item: "electrodynamics:combustionchamber"
 			}]
 		}
+		{
+			x: -9.0d
+			y: 0.0d
+			dependencies: ["578BBF063FED2F12"]
+			id: "650934E5007F6440"
+			tasks: [{
+				id: "0ED94484DF003E43"
+				type: "item"
+				item: "pneumaticcraft:plastic"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 0.0d
+			dependencies: ["650934E5007F6440"]
+			id: "634D4F4B91AD29D0"
+			tasks: [{
+				id: "30F58EEAE2746F61"
+				type: "item"
+				item: "extendedcrafting:elite_table"
+			}]
+		}
 	]
 	quest_links: [ ]
 }
