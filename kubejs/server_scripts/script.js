@@ -1823,6 +1823,38 @@ onEvent('recipes', event => {
 	event.remove({ id: 'immersiveengineering:arcfurnace/ore_aluminum'})
 	event.remove({ id: 'immersiveengineering:arcfurnace/raw_ore_aluminum'})
 	event.remove({ id: 'immersiveengineering:arcfurnace/raw_block_aluminum'})
+
+	//Elite Crafting Table
+	event.remove({ id: 'extendedcrafting:elite_table'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAAAA",
+			  "BBBBB",
+			  "CBBBC",
+			  "DBBBD",
+			  " BBB "
+			],
+			"key": {
+			  "A": {
+				"item": "chemlib:osmium_ingot"
+			  },
+			  "B": {
+				"item": "pneumaticcraft:plastic"
+			  },
+			  "C": {
+				"item": "extendedcrafting:advanced_table"
+			  },
+			  "D": {
+				"item": "electrodynamics:sheetplastic"
+			  }
+			},
+			"result": {
+			  "item": "extendedcrafting:elite_table"
+			}
+		  }
+	)
 })
 
 onEvent('item.tags', event => {
