@@ -347,4 +347,7 @@ onEvent('fluid.tags', event => {
 
 	//Chlorine Fluid
 	event.get('forge:chlorine_fluid').add('chemlib:chlorine_fluid')
+
+	//Diesel
+	event.get('forge:biodiesel').add('car:bio_diesel')
 })
