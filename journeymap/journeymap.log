@@ -1,10 +1,10 @@
-[17:54:00] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[17:54:00] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[17:54:00] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
-[17:54:00] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[17:54:00] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
-[17:54:00] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: frankv.jmi.JMIJourneyMapPlugin
-[17:54:00] [Render thread/INFO] [?] Version: JourneyMap 1.18.2-5.9.8, built with forge 1.18.2-40.1.86
+[18:08:27] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[18:08:27] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[18:08:27] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[18:08:27] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[18:08:27] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
+[18:08:27] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: frankv.jmi.JMIJourneyMapPlugin
+[18:08:28] [Render thread/INFO] [?] Version: JourneyMap 1.18.2-5.9.8, built with forge 1.18.2-40.1.86
 forge: 40.2.4
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=fr_fr, locale=en_us
 Features: 
@@ -22,13 +22,17 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.9.8, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.9.8, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.8, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=5.9.7, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.9.7, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[17:54:00] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 277.66ms
-[17:54:28] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
-[17:54:28] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[17:54:28] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 293.44ms
-[17:58:22] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[17:58:45] [Render thread/INFO] [ChatLog] 
-[17:58:45] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
-[17:58:45] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\sp\TEST2\waypoints
-[17:58:45] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\sp\TEST2\overworld. Memory: 6800MB total, 2468MB free 
-[18:13:06] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\mp\offline\minecraft:overworld
+[18:08:28] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 1579.66ms
+[18:09:08] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[18:09:09] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[18:09:09] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 514.3ms
+[18:11:31] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[18:12:38] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[18:12:39] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\sp\TEST2\waypoints
+[18:12:39] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\sp\TEST2\overworld. Memory: 5080MB total, 1484MB free 
+[18:14:19] [Render thread/INFO] [ChatLog] 
+[19:05:55] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\mp\offline\minecraft:overworld
+[19:06:43] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[19:06:58] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\sp\TEST2\waypoints
+[19:06:58] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\sp\TEST2\overworld. Memory: 7472MB total, 1446MB free 
+[19:47:24] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Benji\curseforge\minecraft\Instances\The-Ages-of-Times\journeymap\data\mp\offline\minecraft:overworld
