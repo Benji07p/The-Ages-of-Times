@@ -8,7 +8,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -2.0d
+			x: 3.0d
 			y: 0.0d
 			dependencies: ["4788F95FAC34C88B"]
 			id: "7764FF2D89BB0DD1"
@@ -19,7 +19,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 7.5d
 			y: 0.0d
 			dependencies: ["6684320381546044"]
 			id: "35E9DE3ED5A63769"
@@ -42,8 +42,8 @@
 			]
 		}
 		{
-			x: 4.0d
-			y: 0.0d
+			x: 9.0d
+			y: -1.5d
 			dependencies: ["35E9DE3ED5A63769"]
 			id: "42B0E6BF8D0A9369"
 			tasks: [{
@@ -53,8 +53,9 @@
 			}]
 		}
 		{
-			x: -3.5d
+			x: 1.5d
 			y: 0.0d
+			dependencies: ["70F7EF4EEF437156"]
 			id: "4788F95FAC34C88B"
 			tasks: [{
 				id: "2598D5636F7FFF69"
@@ -63,7 +64,7 @@
 			}]
 		}
 		{
-			x: -0.5d
+			x: 4.5d
 			y: 0.0d
 			dependencies: ["7764FF2D89BB0DD1"]
 			id: "4B58567C90F50712"
@@ -74,7 +75,7 @@
 			}]
 		}
 		{
-			x: 1.0d
+			x: 6.0d
 			y: 0.0d
 			dependencies: ["4B58567C90F50712"]
 			id: "6684320381546044"
@@ -85,8 +86,9 @@
 			}]
 		}
 		{
-			x: 9.0d
-			y: 0.0d
+			x: 1.5d
+			y: 1.5d
+			dependencies: ["70F7EF4EEF437156"]
 			id: "300D01D49B9401D8"
 			tasks: [{
 				id: "5A2AB7122CD91F1B"
@@ -95,25 +97,9 @@
 			}]
 		}
 		{
-			x: 10.5d
-			y: 0.0d
-			id: "4BF1115CCE8EC27C"
-			tasks: [
-				{
-					id: "111EFC2AABB1E764"
-					type: "item"
-					item: "chemlib:hydrogen"
-				}
-				{
-					id: "775894F534919DF2"
-					type: "item"
-					item: "chemlib:oxygen"
-				}
-			]
-		}
-		{
-			x: 5.5d
-			y: 0.0d
+			x: 9.0d
+			y: 1.5d
+			dependencies: ["35E9DE3ED5A63769"]
 			id: "22237F13368E34A5"
 			tasks: [{
 				id: "202A782C440BC3FB"
@@ -122,8 +108,8 @@
 			}]
 		}
 		{
-			x: 12.0d
-			y: 0.0d
+			x: 10.5d
+			y: -1.5d
 			id: "5C5084D7C71E0DBB"
 			tasks: [
 				{
@@ -144,7 +130,7 @@
 			]
 		}
 		{
-			x: 13.5d
+			x: 10.5d
 			y: 0.0d
 			id: "6DAB073F37B98187"
 			tasks: [{
@@ -154,7 +140,7 @@
 			}]
 		}
 		{
-			x: 15.0d
+			x: 12.0d
 			y: 0.0d
 			id: "3C0B831CD98D20E5"
 			tasks: [{
@@ -168,7 +154,7 @@
 			}]
 		}
 		{
-			x: 19.5d
+			x: 16.5d
 			y: 0.0d
 			dependencies: ["06284B5DA2E60867"]
 			id: "4424CD0D54828AE5"
@@ -188,7 +174,7 @@
 					Icon: "kubejs:textures/item/space_station_icon.png"
 				}
 			}
-			x: 16.5d
+			x: 13.5d
 			y: 0.0d
 			id: "421D5925F0B51C8A"
 			tasks: [{
@@ -209,8 +195,9 @@
 			}]
 		}
 		{
-			x: 18.0d
-			y: 0.0d
+			x: 3.0d
+			y: 1.5d
+			dependencies: ["300D01D49B9401D8"]
 			id: "5DBF728626B8AA0D"
 			tasks: [
 				{
@@ -242,8 +229,9 @@
 			}]
 		}
 		{
-			x: 7.0d
-			y: -5.0d
+			x: 1.5d
+			y: -1.5d
+			dependencies: ["70F7EF4EEF437156"]
 			id: "4D1451F9C596982B"
 			tasks: [{
 				id: "003AB961B00D7B83"
@@ -252,8 +240,9 @@
 			}]
 		}
 		{
-			x: 10.5d
-			y: -3.5d
+			x: 4.5d
+			y: 1.5d
+			dependencies: ["5DBF728626B8AA0D"]
 			id: "00A7FA411265C9A6"
 			tasks: [{
 				id: "7DEEFE5B840A4093"
@@ -281,6 +270,144 @@
 				id: "30F58EEAE2746F61"
 				type: "item"
 				item: "extendedcrafting:elite_table"
+			}]
+			rewards: [{
+				id: "0B80D89C6330912F"
+				type: "item"
+				item: "the_ages_of_times:thermodynamics_laws_book"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -1.5d
+			dependencies: ["34931D148F566BD6"]
+			id: "2FA0AA906DA3D086"
+			tasks: [{
+				id: "20C9C0488A97AA17"
+				type: "item"
+				item: "electrodynamics:mineralgrinder"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -1.5d
+			dependencies: ["34931D148F566BD6"]
+			id: "4E4E034D1652EB87"
+			tasks: [{
+				id: "1AE06FA763CD7B57"
+				type: "item"
+				item: "electrodynamics:mineralcrusher"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 1.5d
+			dependencies: ["34931D148F566BD6"]
+			id: "4C4E5C2E42581D5B"
+			tasks: [{
+				id: "20C0833FDB059827"
+				type: "item"
+				item: "electrodynamics:wiremill"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 0.0d
+			dependencies: ["634D4F4B91AD29D0"]
+			id: "34931D148F566BD6"
+			tasks: [{
+				id: "3DE73188F596A2F3"
+				type: "item"
+				item: "electrodynamics:circuitbasic"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 1.5d
+			dependencies: ["34931D148F566BD6"]
+			id: "231EACD4096E09EB"
+			tasks: [{
+				id: "63B631E9CB908CD1"
+				type: "item"
+				item: "electrodynamics:solarpanel"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 0.0d
+			dependencies: ["34931D148F566BD6"]
+			id: "1471ED08E537732C"
+			tasks: [{
+				id: "0A1C22B9340D6B39"
+				type: "item"
+				item: "immersiveengineering:component_electronic"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 0.0d
+			dependencies: ["1471ED08E537732C"]
+			id: "237C1A21D9DBEA1A"
+			tasks: [{
+				id: "66CB34A2689ADF10"
+				type: "item"
+				item: "immersiveengineering:electron_tube"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			dependencies: ["237C1A21D9DBEA1A"]
+			id: "37052FDE79729AAF"
+			tasks: [{
+				id: "6505D00F6DF95BD8"
+				type: "item"
+				item: "immersiveengineering:component_electronic_adv"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.0d
+			dependencies: ["37052FDE79729AAF"]
+			id: "70F7EF4EEF437156"
+			tasks: [{
+				id: "5E4074647C3A9329"
+				type: "item"
+				item: "electrodynamics:circuitadvanced"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 1.5d
+			id: "043BACAEC5CF4AF1"
+			tasks: [{
+				id: "35882E3C343AE317"
+				type: "item"
+				item: "ballistix:missilemediumrange"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 0.0d
+			id: "67D7F6C426DC183B"
+			tasks: [{
+				id: "1E57B7CE0DD30C88"
+				type: "item"
+				item: "ballistix:missilesilo"
+			}]
+		}
+		{
+			x: 15.0d
+			y: 0.0d
+			id: "3640A4B06B9ABE39"
+			tasks: [{
+				id: "3CAFD0E17BAAA111"
+				type: "item"
+				item: {
+					id: "beyond_earth:rocket_t2"
+					Count: 1b
+					tag: { }
+				}
 			}]
 		}
 	]
