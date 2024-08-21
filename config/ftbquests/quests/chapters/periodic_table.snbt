@@ -704,13 +704,24 @@
 			}]
 		}
 		{
+			title: "Zirconium"
+			icon: "chemlib:zirconium"
 			x: -5.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"18EA38D90681BB12"
+			]
 			invisible: true
 			id: "7ECA15E71F46DB9E"
 			tasks: [{
 				id: "574F6555CEC1D834"
+				type: "item"
+				item: "the_ages_of_times:raw_ore_zircon"
+			}]
+			rewards: [{
+				id: "4ACE5DF7B9A1173F"
 				type: "item"
 				item: "chemlib:zirconium"
 			}]
