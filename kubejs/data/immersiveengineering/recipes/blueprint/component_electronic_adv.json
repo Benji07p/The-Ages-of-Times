@@ -1,0 +1,29 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "inputs":[
+        {
+            "tag":"forge:plates/plastic"
+        },
+        {
+            "count":2,
+            "base_ingredient":
+            {
+                "item":"immersiveengineering:electron_tube"   
+            }
+        },
+        {
+            "tag":"forge:wires/aluminum"
+        },
+        {
+            "count":1,
+            "base_ingredient":
+            {
+                "item":"immersiveengineering:component_electronic"   
+            }
+        }
+    ],
+    "category":"components",
+    "result":{
+        "item":"immersiveengineering:component_electronic_adv"
+    }
+}
