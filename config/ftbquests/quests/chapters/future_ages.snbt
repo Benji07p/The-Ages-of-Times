@@ -32,20 +32,6 @@
 		{
 			x: -1.5d
 			y: 0.5d
-			id: "3640A4B06B9ABE39"
-			tasks: [{
-				id: "3CAFD0E17BAAA111"
-				type: "item"
-				item: {
-					id: "beyond_earth:rocket_t2"
-					Count: 1b
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: 1.5d
-			y: 0.5d
 			id: "51E06258A7E0BC5F"
 			tasks: [{
 				id: "200A38571142F19A"
