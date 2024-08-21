@@ -1,0 +1,102 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "electrodynamics:platesteel"
+  },
+  "transitionalItem": {
+    "item": "the_ages_of_times:incomplete_basic_circuit"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "the_ages_of_times:incomplete_basic_circuit"
+        },
+        [
+          {
+            "item": "electrodynamics:wirecopper"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "the_ages_of_times:incomplete_basic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "the_ages_of_times:incomplete_basic_circuit"
+        },
+        [
+          {
+            "item": "electrodynamics:wirecopper"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "the_ages_of_times:incomplete_basic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "the_ages_of_times:incomplete_basic_circuit"
+        },
+        [
+          {
+            "item": "electrodynamics:wirecopper"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "the_ages_of_times:incomplete_basic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "the_ages_of_times:incomplete_basic_circuit"
+        },
+        [
+          {
+            "item": "electrodynamics:wirecopper"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "the_ages_of_times:incomplete_basic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "the_ages_of_times:incomplete_basic_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "the_ages_of_times:incomplete_basic_circuit"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "electrodynamics:circuitbasic"
+    }
+  ],
+  "loops": 2
+}
