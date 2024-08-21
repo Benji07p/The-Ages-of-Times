@@ -1,0 +1,102 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "immersiveengineering:circuit_board"
+  },
+  "transitionalItem": {
+    "item": "immersiveengineering:logic_circuit"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "immersiveengineering:logic_circuit"
+        },
+        [
+          {
+            "item": "immersiveengineering:component_electronic_adv"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "immersiveengineering:logic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "immersiveengineering:logic_circuit"
+        },
+        [
+          {
+            "item": "immersiveengineering:component_electronic_adv"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "immersiveengineering:logic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "immersiveengineering:logic_circuit"
+        },
+        [
+          {
+            "item": "immersiveengineering:component_electronic_adv"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "immersiveengineering:logic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "immersiveengineering:logic_circuit"
+        },
+        [
+          {
+            "item": "immersiveengineering:component_electronic_adv"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "immersiveengineering:logic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "immersiveengineering:logic_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "immersiveengineering:logic_circuit"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "electrodynamics:circuitadvanced"
+    }
+  ],
+  "loops": 2
+}
