@@ -31,7 +31,7 @@
 			}]
 		}
 		{
-			x: 3.5d
+			x: 2.0d
 			y: 0.5d
 			id: "32FF322D016DC443"
 			tasks: [{
@@ -41,8 +41,8 @@
 			}]
 		}
 		{
-			x: 3.5d
-			y: 4.0d
+			x: 4.0d
+			y: 0.5d
 			dependencies: ["32FF322D016DC443"]
 			size: 2.0d
 			id: "5DF7D6BCE47FAD94"
@@ -53,8 +53,8 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: 0.5d
+			x: -1.5d
+			y: -1.0d
 			dependencies: ["464CBA2509DC3C07"]
 			id: "2A00F2C8D1F747CD"
 			tasks: [{
@@ -64,8 +64,8 @@
 			}]
 		}
 		{
-			x: 6.5d
-			y: 0.5d
+			x: 2.0d
+			y: -1.0d
 			dependencies: ["32FF322D016DC443"]
 			id: "7984C5618B3F5B9D"
 			tasks: [{
@@ -156,7 +156,7 @@
 			}]
 		}
 		{
-			x: 2.0d
+			x: -1.0d
 			y: 0.5d
 			id: "14B18B7AA8D73173"
 			tasks: [{
@@ -199,6 +199,28 @@
 						machine: "taotmachinery:printer"
 					}
 				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: -1.0d
+			dependencies: ["464CBA2509DC3C07"]
+			id: "58E64856E32679B6"
+			tasks: [{
+				id: "5DD85F4144C48CDD"
+				type: "item"
+				item: "minecraft:lightning_rod"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 2.0d
+			dependencies: ["464CBA2509DC3C07"]
+			id: "7E1638CC6ED35113"
+			tasks: [{
+				id: "48A4B4A465DCE698"
+				type: "item"
+				item: "pneumaticcraft:air_compressor"
 			}]
 		}
 	]
