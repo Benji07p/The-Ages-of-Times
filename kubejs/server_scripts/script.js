@@ -1855,6 +1855,70 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+
+	//Duroplast Sheet
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "item": "tconstruct:plate_cast"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "forge:phenolic_resin",
+			  "amount": 250
+			},
+			"result": "immersiveengineering:plate_duroplast",
+			"cooling_time": 100
+		  }
+	)
+
+	//Circuit
+	event.remove({ id: 'electrodynamics:circuitbasic'})
+	event.remove({ id: 'electrodynamics:circuitadvanced'})
+
+	//Nuke
+	event.remove({ id: 'ballistix:nuclear'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AABCBAA",
+			  "ABBDBBA",
+			  "BBEFEBB",
+			  "CDFGFDC",
+			  "BBEFEBB",
+			  "ABBDBBA",
+			  "AABCBAA"
+			],
+			"key": {
+			  "A": {
+				"item": "ballistix:obsidian"
+			  },
+			  "B": {
+				"item": "ballistix:landmine"
+			  },
+			  "C": {
+				"item": "ballistix:emp"
+			  },
+			  "D": {
+				"item": "nuclearscience:fuelheuo2",
+			  },
+			  "E": {
+				"item": "nuclearscience:fuelleuo2",
+			  },
+			  "F": {
+				"item": "nuclearscience:fuelplutonium",
+			  },
+			  "G": {
+				"item": "ballistix:thermobaric"
+			  }
+			},
+			"result": {
+			  "item": "ballistix:nuclear"
+			}
+		  }
+	)
 })
 
 onEvent('item.tags', event => {
