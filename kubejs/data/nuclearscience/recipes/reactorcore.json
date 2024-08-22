@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"sus",
+		"mcm",
+		"ses"
+	],
+	"key": {
+		"s": {
+			"tag": "forge:plates/steel"
+		},
+		"e": {
+			"tag": "forge:circuits/advanced"
+		},
+		"u": {
+			"tag": "forge:circuits/basic"
+		},
+		"c": {
+			"item": "nuclearscience:cellempty"
+		},
+		"m": {
+			"item": "electrodynamics:motor"
+		}
+	},
+	"result": {
+		"item": "nuclearscience:reactorcore",
+		"count": 1
+	}
+}
