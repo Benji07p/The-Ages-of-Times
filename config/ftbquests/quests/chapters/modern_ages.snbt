@@ -8,9 +8,9 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: 3.0d
+			x: 4.5d
 			y: 0.0d
-			dependencies: ["4788F95FAC34C88B"]
+			dependencies: ["67F33C29689173A8"]
 			id: "7764FF2D89BB0DD1"
 			tasks: [{
 				id: "0151BB094F8BA45B"
@@ -19,7 +19,7 @@
 			}]
 		}
 		{
-			x: 7.5d
+			x: 9.0d
 			y: 0.0d
 			dependencies: ["6684320381546044"]
 			id: "35E9DE3ED5A63769"
@@ -42,7 +42,7 @@
 			]
 		}
 		{
-			x: 9.0d
+			x: 10.5d
 			y: -1.5d
 			dependencies: ["35E9DE3ED5A63769"]
 			id: "42B0E6BF8D0A9369"
@@ -51,11 +51,19 @@
 				type: "item"
 				item: "nuclearscience:reactorcore"
 			}]
+			rewards: [{
+				id: "659E430926753DA0"
+				type: "item"
+				item: "the_ages_of_times:quantum_physics_book"
+			}]
 		}
 		{
 			x: 1.5d
 			y: 0.0d
-			dependencies: ["70F7EF4EEF437156"]
+			dependencies: [
+				"70F7EF4EEF437156"
+				"4AC944A19982D978"
+			]
 			id: "4788F95FAC34C88B"
 			tasks: [{
 				id: "2598D5636F7FFF69"
@@ -64,7 +72,7 @@
 			}]
 		}
 		{
-			x: 4.5d
+			x: 6.0d
 			y: 0.0d
 			dependencies: ["7764FF2D89BB0DD1"]
 			id: "4B58567C90F50712"
@@ -75,7 +83,7 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 7.5d
 			y: 0.0d
 			dependencies: ["4B58567C90F50712"]
 			id: "6684320381546044"
@@ -88,7 +96,10 @@
 		{
 			x: 1.5d
 			y: 1.5d
-			dependencies: ["70F7EF4EEF437156"]
+			dependencies: [
+				"70F7EF4EEF437156"
+				"4AC944A19982D978"
+			]
 			id: "300D01D49B9401D8"
 			tasks: [{
 				id: "5A2AB7122CD91F1B"
@@ -97,7 +108,7 @@
 			}]
 		}
 		{
-			x: 9.0d
+			x: 10.5d
 			y: 1.5d
 			dependencies: ["35E9DE3ED5A63769"]
 			id: "22237F13368E34A5"
@@ -108,7 +119,7 @@
 			}]
 		}
 		{
-			x: 10.5d
+			x: 12.0d
 			y: -1.5d
 			id: "5C5084D7C71E0DBB"
 			tasks: [
@@ -130,7 +141,7 @@
 			]
 		}
 		{
-			x: 10.5d
+			x: 12.0d
 			y: 0.0d
 			id: "6DAB073F37B98187"
 			tasks: [{
@@ -140,7 +151,7 @@
 			}]
 		}
 		{
-			x: 12.0d
+			x: 13.5d
 			y: 0.0d
 			id: "3C0B831CD98D20E5"
 			tasks: [{
@@ -154,7 +165,7 @@
 			}]
 		}
 		{
-			x: 16.5d
+			x: 18.0d
 			y: 0.0d
 			dependencies: ["06284B5DA2E60867"]
 			id: "4424CD0D54828AE5"
@@ -174,7 +185,7 @@
 					Icon: "kubejs:textures/item/space_station_icon.png"
 				}
 			}
-			x: 13.5d
+			x: 15.0d
 			y: 0.0d
 			id: "421D5925F0B51C8A"
 			tasks: [{
@@ -185,7 +196,7 @@
 			}]
 		}
 		{
-			x: 24.5d
+			x: 23.0d
 			y: 0.0d
 			id: "43454D7C85743790"
 			tasks: [{
@@ -231,7 +242,10 @@
 		{
 			x: 1.5d
 			y: -1.5d
-			dependencies: ["70F7EF4EEF437156"]
+			dependencies: [
+				"70F7EF4EEF437156"
+				"4AC944A19982D978"
+			]
 			id: "4D1451F9C596982B"
 			tasks: [{
 				id: "003AB961B00D7B83"
@@ -251,7 +265,7 @@
 			}]
 		}
 		{
-			x: -9.0d
+			x: -10.5d
 			y: 0.0d
 			dependencies: ["578BBF063FED2F12"]
 			id: "650934E5007F6440"
@@ -262,7 +276,7 @@
 			}]
 		}
 		{
-			x: -7.5d
+			x: -9.0d
 			y: 0.0d
 			dependencies: ["650934E5007F6440"]
 			id: "634D4F4B91AD29D0"
@@ -278,7 +292,7 @@
 			}]
 		}
 		{
-			x: -4.5d
+			x: -6.0d
 			y: -1.5d
 			dependencies: ["34931D148F566BD6"]
 			id: "2FA0AA906DA3D086"
@@ -289,7 +303,7 @@
 			}]
 		}
 		{
-			x: -6.0d
+			x: -7.5d
 			y: -1.5d
 			dependencies: ["34931D148F566BD6"]
 			id: "4E4E034D1652EB87"
@@ -300,7 +314,7 @@
 			}]
 		}
 		{
-			x: -4.5d
+			x: -6.0d
 			y: 1.5d
 			dependencies: ["34931D148F566BD6"]
 			id: "4C4E5C2E42581D5B"
@@ -311,7 +325,7 @@
 			}]
 		}
 		{
-			x: -6.0d
+			x: -7.5d
 			y: 0.0d
 			dependencies: ["634D4F4B91AD29D0"]
 			id: "34931D148F566BD6"
@@ -322,7 +336,7 @@
 			}]
 		}
 		{
-			x: -6.0d
+			x: -7.5d
 			y: 1.5d
 			dependencies: ["34931D148F566BD6"]
 			id: "231EACD4096E09EB"
@@ -333,7 +347,7 @@
 			}]
 		}
 		{
-			x: -4.5d
+			x: -6.0d
 			y: 0.0d
 			dependencies: ["34931D148F566BD6"]
 			id: "1471ED08E537732C"
@@ -344,7 +358,7 @@
 			}]
 		}
 		{
-			x: -3.0d
+			x: -4.5d
 			y: 0.0d
 			dependencies: ["1471ED08E537732C"]
 			id: "237C1A21D9DBEA1A"
@@ -355,7 +369,7 @@
 			}]
 		}
 		{
-			x: -1.5d
+			x: -3.0d
 			y: 0.0d
 			dependencies: ["237C1A21D9DBEA1A"]
 			id: "37052FDE79729AAF"
@@ -366,7 +380,7 @@
 			}]
 		}
 		{
-			x: 0.0d
+			x: -1.5d
 			y: 0.0d
 			dependencies: ["37052FDE79729AAF"]
 			id: "70F7EF4EEF437156"
@@ -377,7 +391,7 @@
 			}]
 		}
 		{
-			x: 10.5d
+			x: 12.0d
 			y: 1.5d
 			id: "043BACAEC5CF4AF1"
 			tasks: [{
@@ -387,7 +401,7 @@
 			}]
 		}
 		{
-			x: 9.0d
+			x: 10.5d
 			y: 0.0d
 			id: "67D7F6C426DC183B"
 			tasks: [{
@@ -397,7 +411,7 @@
 			}]
 		}
 		{
-			x: 15.0d
+			x: 16.5d
 			y: 0.0d
 			id: "3640A4B06B9ABE39"
 			tasks: [{
@@ -407,6 +421,138 @@
 					id: "beyond_earth:rocket_t2"
 					Count: 1b
 					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.0d
+			dependencies: ["70F7EF4EEF437156"]
+			id: "4AC944A19982D978"
+			tasks: [{
+				id: "140F837AC21F5828"
+				type: "item"
+				item: "electrodynamics:upgradetransformer"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			dependencies: ["4788F95FAC34C88B"]
+			id: "67F33C29689173A8"
+			tasks: [
+				{
+					id: "7F35BB5720E81BAF"
+					type: "item"
+					item: {
+						id: "nuclearscience:hazmathelmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "56667286B29B1633"
+					type: "item"
+					item: {
+						id: "nuclearscience:hazmatplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0C9851878EB4F012"
+					type: "item"
+					item: {
+						id: "nuclearscience:hazmatlegs"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "337A9CFABC89EEBD"
+					type: "item"
+					item: {
+						id: "nuclearscience:hazmatboots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 4.5d
+			y: -1.5d
+			dependencies: ["67F33C29689173A8"]
+			id: "550E3A9E5F9D2401"
+			tasks: [
+				{
+					id: "5AF22418C6C357FA"
+					type: "item"
+					item: {
+						id: "nuclearscience:reinforcedhazmathelmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6ACB4349F8F029ED"
+					type: "item"
+					item: {
+						id: "nuclearscience:reinforcedhazmatplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4B13D8B113B92D08"
+					type: "item"
+					item: {
+						id: "nuclearscience:reinforcedhazmatlegs"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2066076A7D7DE378"
+					type: "item"
+					item: {
+						id: "nuclearscience:reinforcedhazmatboots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -1.5d
+			dependencies: ["4788F95FAC34C88B"]
+			id: "524DECF70842E8DE"
+			tasks: [{
+				id: "6521812A68C17C26"
+				type: "item"
+				item: {
+					id: "nuclearscience:geigercounter"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
 				}
 			}]
 		}
