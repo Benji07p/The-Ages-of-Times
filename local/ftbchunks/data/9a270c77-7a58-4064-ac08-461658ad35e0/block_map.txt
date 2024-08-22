@@ -148,6 +148,7 @@
 #EA5C1A create:clipboard
 #4C2342 immersiveengineering:cloche
 #D8FA12 create:clockwork_bearing
+#671DB1 create:clutch
 #8B43D8 minecraft:coal_block
 #DE242D minecraft:coal_ore
 #FE4F0A minecraft:coarse_dirt
@@ -265,6 +266,7 @@
 #62139B tconstruct:earth_slime_fluid
 #314645 tconstruct:earth_slime_leaves
 #91A5DB createaddition:electric_motor
+#CBF06E nuclearscience:electromagneticglass
 #5B3487 extendedcrafting:elite_table
 #4C963A minecraft:emerald_ore
 #A952FC create:encased_chain_drive
@@ -288,7 +290,9 @@
 #8A9C1E ae2:fluix_block
 #DA0ACF tconstruct:foundry_controller
 #128EDC beyond_earth:fuel
+#E6F14B nuclearscience:fuelreprocessor
 #2DC94B minecraft:furnace
+#F554BF nuclearscience:fusionreactorcore
 #AF9170 create:gantry_carriage
 #BA5926 create:gantry_shaft
 #6B6C1B immersivepetroleum:gas_generator
@@ -376,6 +380,7 @@
 #A775DE tconstruct:liquid_soul_fluid
 #0DB31F alchemistry:liquifier
 #03FE2C the_ages_of_times:lithium_sulfate
+#D766EE electrodynamics:lithiumbatterybox
 #470B4D immersiveengineering:logic_unit
 #DE9468 minecraft:magma_block
 #5E18E2 the_ages_of_times:manganese_dioxide_ore
@@ -391,6 +396,7 @@
 #4F44DD create:mechanical_saw
 #FC0886 tconstruct:medium_sky_slime_crystal_bud
 #80CAA6 minecraft:melon
+#E71E05 nuclearscience:meltedreactor
 #4B39A0 melter:melter
 #FE827B chemlib:mercury
 #1CABB4 chemlib:methane
@@ -490,6 +496,7 @@
 #3088BD electrodynamics:pipesteel
 #6DAD6C minecraft:piston
 #B32B19 domum_ornamentum:plain
+#281E44 nuclearscience:plasma
 #BDFB8C pneumaticcraft:plastic
 #A075A0 pneumaticcraft:plastic_brick_red
 #507529 pneumaticcraft:pneumatic_dynamo
@@ -528,6 +535,7 @@
 #1E9339 chemlib:radon_lamp_block
 #213091 minecraft:raw_copper_block
 #F6E05E immersiveengineering:razor_wire
+#EF2B43 nuclearscience:reactorcore
 #78AF47 minecraft:red_mushroom_block
 #31987F notreepunching:red_sandstone_loose_rock
 #4A5246 minecraft:red_terracotta
@@ -536,6 +544,8 @@
 #6A5D69 create:redstone_link
 #62B28A minecraft:redstone_ore
 #80100E createaddition:redstone_relay
+#24BE64 minecraft:redstone_torch
+#5D17E5 minecraft:redstone_wall_torch
 #721B63 minecraft:redstone_wire
 #31B0B4 minecraft:repeating_command_block
 #A69CFB electrodynamics:resourceblocklead
@@ -694,6 +704,7 @@
 #2035B7 minecraft:tube_coral_block
 #87BAF4 minecraft:tuff
 #1A5357 the_ages_of_times:tungstic_acid_fluid
+#580ED1 nuclearscience:turbine
 #05FFF5 create:turntable
 #EDFEF9 immersiveengineering:turntable
 #B945D4 the_ages_of_times:turntest
@@ -717,6 +728,7 @@
 #B7775E minecraft:white_bed
 #F3F27D the_ages_of_times:white_cauldron
 #C6D1CE minecraft:white_concrete
+#0D2BC4 minecraft:white_glazed_terracotta
 #49E28F minecraft:white_stained_glass_pane
 #CE8FAE minecraft:white_terracotta
 #1B60CF minecraft:white_tulip
@@ -724,6 +736,7 @@
 #BC20FE minecraft:white_wool
 #79C917 create:windmill_bearing
 #70BCAC electrodynamics:wirehighlyinsulatedsuperconductive
+#D066AA minecraft:wither_skeleton_skull
 #F75977 immersiveengineering:wooden_barrel
 #9C81F3 woodenhopper:wooden_hopper
 #5A0B47 immersiveengineering:workbench
