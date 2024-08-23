@@ -57,6 +57,7 @@
 #173B65 minecraft:big_dripleaf
 #6BD369 minecraft:big_dripleaf_stem
 #0BA99D car:bio_diesel
+#293BCE pneumaticcraft:biodiesel
 #DF7983 immersiveengineering:biodiesel_fluid_block
 #FC3DD5 minecraft:birch_fence
 #3DE8FE minecraft:birch_leaves
@@ -249,6 +250,7 @@
 #16D43D ironchest:diamond_chest
 #CB716A minecraft:diamond_ore
 #E82B08 immersivepetroleum:diesel
+#C7A4C6 pneumaticcraft:diesel
 #797236 immersiveengineering:diesel_generator
 #BED665 minecraft:diorite
 #2BCCE0 notreepunching:diorite_loose_rock
@@ -298,6 +300,7 @@
 #6B6C1B immersivepetroleum:gas_generator
 #552210 car:gas_station_top
 #A814E7 nuclearscience:gascentrifuge
+#8D6E96 pneumaticcraft:gasoline
 #D60460 create:gearbox
 #51185B immersiveengineering:generator
 #1E33BF minecraft:gilded_blackstone
@@ -350,6 +353,8 @@
 #6B68B5 minecraft:jungle_log
 #F7CC06 minecraft:jungle_planks
 #972990 minecraft:jungle_trapdoor
+#19DC4E immersivepetroleum:kerosene
+#F9560C pneumaticcraft:kerosene
 #BFA2B5 atum:kiln
 #BD9263 ceramics:kiln
 #C3D829 atum:kiln_fake
@@ -382,6 +387,7 @@
 #03FE2C the_ages_of_times:lithium_sulfate
 #D766EE electrodynamics:lithiumbatterybox
 #470B4D immersiveengineering:logic_unit
+#955780 pneumaticcraft:lubricant
 #DE9468 minecraft:magma_block
 #5E18E2 the_ages_of_times:manganese_dioxide_ore
 #70A959 farmingforblockheads:market
@@ -712,6 +718,7 @@
 #73259E pneumaticcraft:vacuum_pump
 #74EA63 pneumaticcraft:vacuum_trap
 #A79137 the_ages_of_times:vanadium_sulfate
+#2309A0 pneumaticcraft:vegetable_oil
 #6DB687 create:veridium
 #88779D minecraft:vine
 #2F6B3B multibeds:vintage

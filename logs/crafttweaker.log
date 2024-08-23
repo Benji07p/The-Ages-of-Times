@@ -1,1004 +1,150 @@
-[12:45:24.851][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[12:45:24.949][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[12:45:24.952][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[12:45:24.955][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
-[12:45:29.009][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[12:45:29.013][INFO]: - 'atum' at version '1.18.2-2.3.0'
-[12:45:29.013][INFO]: - 'crafttweaker' at version '9.1.211'
-[12:45:29.013][INFO]: - 'custommachinery' at version '0.8.9'
-[12:45:29.013][INFO]: - 'custommachinerycreate' at version '1.0.2'
-[12:45:29.013][INFO]: - 'extendedcrafting' at version '4.1.2'
-[12:45:29.013][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
-[12:45:29.013][INFO]: - 'gamestages' at version '8.1.3'
-[12:45:29.014][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
-[12:45:29.014][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
-[12:45:29.014][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[12:45:29.014][INFO]: - 'jmapstages' at version '1.18.2-2.1.0'
-[12:45:29.014][INFO]: - 'pneumaticcraft' at version '1.18.2-3.6.4-45'
-[12:45:29.014][INFO]: - 'recipestages' at version '3.0.0.10'
-[12:46:00.903][INFO]: Started loading scripts for loader 'initialize'
-[12:46:01.412][INFO]: Compiling and executing scripts
-[12:46:01.481][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[12:46:01.672][INFO]: Execution for loader 'initialize' completed successfully
-[12:50:29.249][INFO]: Started loading scripts for loader 'tags'
-[12:50:29.272][INFO]: Compiling and executing scripts
-[12:50:29.284][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[12:50:29.293][INFO]: Execution for loader 'tags' completed successfully
-[12:50:35.450][INFO]: Started loading scripts for loader 'crafttweaker'
-[12:50:35.468][INFO]: Compiling and executing scripts
-[12:50:35.775][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[12:50:35.775][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[12:50:35.790][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[12:50:35.795][INFO]: Execution for loader 'crafttweaker' completed successfully
-[12:50:35.797][INFO]: This reload was made possible by DreamThorn and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:42:18.006][INFO]: Started loading scripts for loader 'tags'
-[13:42:18.006][INFO]: Undoing previous actions
-[13:42:18.024][INFO]: Compiling and executing scripts
-[13:42:18.027][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:42:18.035][INFO]: Execution for loader 'tags' completed successfully
-[13:42:23.721][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:42:23.721][INFO]: Undoing previous actions
-[13:42:23.735][INFO]: Compiling and executing scripts
-[13:42:23.837][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:42:23.837][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:42:23.846][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[13:42:23.850][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:42:23.851][INFO]: This reload was made possible by Jonathan McManus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:44:44.567][INFO]: Started loading scripts for loader 'tags'
-[13:44:44.567][INFO]: Undoing previous actions
-[13:44:44.581][INFO]: Compiling and executing scripts
-[13:44:44.583][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:44:44.591][INFO]: Execution for loader 'tags' completed successfully
-[13:44:49.974][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:44:49.974][INFO]: Undoing previous actions
-[13:44:49.985][INFO]: Compiling and executing scripts
-[13:44:50.074][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:44:50.074][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:44:50.085][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[13:44:50.088][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:44:50.088][INFO]: This reload was made possible by Ivy_ and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:47:17.629][INFO]: Started loading scripts for loader 'tags'
-[13:47:17.629][INFO]: Undoing previous actions
-[13:47:17.643][INFO]: Compiling and executing scripts
-[13:47:17.645][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:47:17.653][INFO]: Execution for loader 'tags' completed successfully
-[13:47:22.991][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:47:22.991][INFO]: Undoing previous actions
-[13:47:23.002][INFO]: Compiling and executing scripts
-[13:47:23.081][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:47:23.081][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:47:23.090][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[13:47:23.093][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:47:23.093][INFO]: This reload was made possible by Jellycraft and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:49:07.289][INFO]: Started loading scripts for loader 'tags'
-[13:49:07.289][INFO]: Undoing previous actions
-[13:49:07.303][INFO]: Compiling and executing scripts
-[13:49:07.304][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:49:07.311][INFO]: Execution for loader 'tags' completed successfully
-[13:49:12.727][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:49:12.727][INFO]: Undoing previous actions
-[13:49:12.739][INFO]: Compiling and executing scripts
-[13:49:12.820][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:49:12.820][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:49:12.828][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[13:49:12.831][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:49:12.831][INFO]: This reload was made possible by Belathus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:50:38.290][INFO]: Started loading scripts for loader 'tags'
-[13:50:38.290][INFO]: Undoing previous actions
-[13:50:38.306][INFO]: Compiling and executing scripts
-[13:50:38.309][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:50:38.317][INFO]: Execution for loader 'tags' completed successfully
-[13:50:43.687][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:50:43.687][INFO]: Undoing previous actions
-[13:50:43.697][INFO]: Compiling and executing scripts
-[13:50:43.767][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:50:43.767][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:50:43.774][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[13:50:43.777][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:50:43.778][INFO]: This reload was made possible by Jellycraft and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:51:45.248][INFO]: Started loading scripts for loader 'tags'
-[13:51:45.248][INFO]: Undoing previous actions
-[13:51:45.259][INFO]: Compiling and executing scripts
-[13:51:45.261][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:51:45.267][INFO]: Execution for loader 'tags' completed successfully
-[13:51:50.707][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:51:50.707][INFO]: Undoing previous actions
-[13:51:50.717][INFO]: Compiling and executing scripts
-[13:51:50.787][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:51:50.787][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:51:50.794][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[13:51:50.797][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:51:50.797][INFO]: This reload was made possible by Zuniroa and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:53:15.847][INFO]: Started loading scripts for loader 'tags'
-[13:53:15.847][INFO]: Undoing previous actions
-[13:53:15.858][INFO]: Compiling and executing scripts
-[13:53:15.859][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:53:15.866][INFO]: Execution for loader 'tags' completed successfully
-[13:53:21.448][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:53:21.448][INFO]: Undoing previous actions
-[13:53:21.457][INFO]: Compiling and executing scripts
-[13:53:21.524][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:53:21.524][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:53:21.531][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[13:53:21.534][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:53:21.534][INFO]: This reload was made possible by Ncc1702 and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:57:58.821][INFO]: Started loading scripts for loader 'tags'
-[13:57:58.821][INFO]: Undoing previous actions
-[13:57:58.831][INFO]: Compiling and executing scripts
-[13:57:58.833][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:57:58.839][INFO]: Execution for loader 'tags' completed successfully
-[13:58:04.360][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:58:04.360][INFO]: Undoing previous actions
-[13:58:04.369][INFO]: Compiling and executing scripts
-[13:58:04.439][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:58:04.439][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:58:04.445][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[13:58:04.446][ERROR]: Unable to run action due to an error
-java.lang.RuntimeException: Empty array?
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.lambda$getPreferredStackbyMod$3(IEApi.java:110)
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.getPreferredStackbyMod(IEApi.java:110)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.crafting.IERecipeSerializer.lambda$readOutput$1(IERecipeSerializer.java:53)
-	at TRANSFORMER/forge@40.2.4/net.minecraftforge.common.util.Lazy$Fast.get(Lazy.java:55)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.common.crafting.LazyShapelessRecipe.m_8043_(LazyShapelessRecipe.java:40)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.actions.ActionSetStageByOutput.apply(ActionSetStageByOutput.java:32)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyActionInRun(ScriptRunManager.java:190)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyAction(ScriptRunManager.java:112)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.api.CraftTweakerAPI.apply(CraftTweakerAPI.java:104)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.Recipes.setRecipeStage(Recipes.java:83)
-	at scripts.gated_recipes.run(gated_recipes.zs:6)
-	at Scripts.run(Unknown Source)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zenscript.javabytecode.JavaBytecodeRunUnit.run(JavaBytecodeRunUnit.java:127)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zencode.java.ScriptingEngine.run(ScriptingEngine.java:184)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ExecutingScriptRunner.executeRunAction(ExecutingScriptRunner.java:22)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.runScripts(ScriptRunner.java:93)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.run(ScriptRunner.java:69)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.DecoratedRunKind$DecoratedScriptRunner.run(DecoratedRunKind.java:27)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.executeRun(ScriptRun.java:88)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.execute(ScriptRun.java:54)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.apply(ScriptReloadListener.java:78)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.m_5787_(ScriptReloadListener.java:37)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
-	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1340)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138228_(ReloadCommand.java:53)
-	at MC-BOOTSTRAP/brigadier@1.0.18/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.commands.Commands.m_82117_(Commands.java:234)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9957_(ServerGamePacketListenerImpl.java:1150)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_143628_(ServerGamePacketListenerImpl.java:1129)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerGamePacketListenerImpl.java:1115)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:30)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:7)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[13:58:04.448][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:58:04.448][INFO]: This reload was made possible by Quaternary and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:59:14.683][INFO]: Started loading scripts for loader 'tags'
-[13:59:14.683][INFO]: Undoing previous actions
-[13:59:14.693][INFO]: Compiling and executing scripts
-[13:59:14.694][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:59:14.700][INFO]: Execution for loader 'tags' completed successfully
-[13:59:20.065][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:59:20.065][INFO]: Undoing previous actions
-[13:59:20.073][INFO]: Compiling and executing scripts
-[13:59:20.138][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:59:20.138][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:59:20.145][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[13:59:20.146][ERROR]: Unable to run action due to an error
-java.lang.RuntimeException: Empty array?
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.lambda$getPreferredStackbyMod$3(IEApi.java:110)
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.getPreferredStackbyMod(IEApi.java:110)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.crafting.IERecipeSerializer.lambda$readOutput$1(IERecipeSerializer.java:53)
-	at TRANSFORMER/forge@40.2.4/net.minecraftforge.common.util.Lazy$Fast.get(Lazy.java:55)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.common.crafting.LazyShapelessRecipe.m_8043_(LazyShapelessRecipe.java:40)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.actions.ActionSetStageByOutput.apply(ActionSetStageByOutput.java:32)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyActionInRun(ScriptRunManager.java:190)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyAction(ScriptRunManager.java:112)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.api.CraftTweakerAPI.apply(CraftTweakerAPI.java:104)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.Recipes.setRecipeStage(Recipes.java:83)
-	at scripts.gated_recipes.run(gated_recipes.zs:6)
-	at Scripts.run(Unknown Source)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zenscript.javabytecode.JavaBytecodeRunUnit.run(JavaBytecodeRunUnit.java:127)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zencode.java.ScriptingEngine.run(ScriptingEngine.java:184)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ExecutingScriptRunner.executeRunAction(ExecutingScriptRunner.java:22)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.runScripts(ScriptRunner.java:93)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.run(ScriptRunner.java:69)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.DecoratedRunKind$DecoratedScriptRunner.run(DecoratedRunKind.java:27)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.executeRun(ScriptRun.java:88)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.execute(ScriptRun.java:54)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.apply(ScriptReloadListener.java:78)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.m_5787_(ScriptReloadListener.java:37)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
-	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1340)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138228_(ReloadCommand.java:53)
-	at MC-BOOTSTRAP/brigadier@1.0.18/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.commands.Commands.m_82117_(Commands.java:234)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9957_(ServerGamePacketListenerImpl.java:1150)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_143628_(ServerGamePacketListenerImpl.java:1129)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerGamePacketListenerImpl.java:1115)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:30)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:7)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[13:59:20.146][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:59:20.147][INFO]: This reload was made possible by Ncc1702 and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:01:43.664][INFO]: Started loading scripts for loader 'tags'
-[14:01:43.664][INFO]: Undoing previous actions
-[14:01:43.674][INFO]: Compiling and executing scripts
-[14:01:43.676][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:01:43.682][INFO]: Execution for loader 'tags' completed successfully
-[14:01:48.977][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:01:48.977][INFO]: Undoing previous actions
-[14:01:48.985][INFO]: Compiling and executing scripts
-[14:01:49.048][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:01:49.048][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:01:49.055][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:01:49.056][ERROR]: Unable to run action due to an error
-java.lang.RuntimeException: Empty array?
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.lambda$getPreferredStackbyMod$3(IEApi.java:110)
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.getPreferredStackbyMod(IEApi.java:110)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.crafting.IERecipeSerializer.lambda$readOutput$1(IERecipeSerializer.java:53)
-	at TRANSFORMER/forge@40.2.4/net.minecraftforge.common.util.Lazy$Fast.get(Lazy.java:55)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.common.crafting.LazyShapelessRecipe.m_8043_(LazyShapelessRecipe.java:40)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.actions.ActionSetStageByOutput.apply(ActionSetStageByOutput.java:32)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyActionInRun(ScriptRunManager.java:190)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyAction(ScriptRunManager.java:112)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.api.CraftTweakerAPI.apply(CraftTweakerAPI.java:104)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.Recipes.setRecipeStage(Recipes.java:83)
-	at scripts.gated_recipes.run(gated_recipes.zs:6)
-	at Scripts.run(Unknown Source)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zenscript.javabytecode.JavaBytecodeRunUnit.run(JavaBytecodeRunUnit.java:127)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zencode.java.ScriptingEngine.run(ScriptingEngine.java:184)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ExecutingScriptRunner.executeRunAction(ExecutingScriptRunner.java:22)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.runScripts(ScriptRunner.java:93)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.run(ScriptRunner.java:69)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.DecoratedRunKind$DecoratedScriptRunner.run(DecoratedRunKind.java:27)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.executeRun(ScriptRun.java:88)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.execute(ScriptRun.java:54)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.apply(ScriptReloadListener.java:78)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.m_5787_(ScriptReloadListener.java:37)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
-	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1340)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138228_(ReloadCommand.java:53)
-	at MC-BOOTSTRAP/brigadier@1.0.18/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.commands.Commands.m_82117_(Commands.java:234)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9957_(ServerGamePacketListenerImpl.java:1150)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_143628_(ServerGamePacketListenerImpl.java:1129)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerGamePacketListenerImpl.java:1115)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:30)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:7)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[14:01:49.056][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:01:49.057][INFO]: This reload was made possible by Jordan Pineo and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:03:41.309][INFO]: Started loading scripts for loader 'tags'
-[14:03:41.309][INFO]: Undoing previous actions
-[14:03:41.319][INFO]: Compiling and executing scripts
-[14:03:41.320][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:03:41.326][INFO]: Execution for loader 'tags' completed successfully
-[14:03:46.559][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:03:46.559][INFO]: Undoing previous actions
-[14:03:46.567][INFO]: Compiling and executing scripts
-[14:03:46.627][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:03:46.627][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:03:46.633][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:03:46.634][ERROR]: Unable to run action due to an error
-java.lang.RuntimeException: Empty array?
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.lambda$getPreferredStackbyMod$3(IEApi.java:110)
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.getPreferredStackbyMod(IEApi.java:110)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.crafting.IERecipeSerializer.lambda$readOutput$1(IERecipeSerializer.java:53)
-	at TRANSFORMER/forge@40.2.4/net.minecraftforge.common.util.Lazy$Fast.get(Lazy.java:55)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.common.crafting.LazyShapelessRecipe.m_8043_(LazyShapelessRecipe.java:40)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.actions.ActionSetStageByOutput.apply(ActionSetStageByOutput.java:32)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyActionInRun(ScriptRunManager.java:190)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyAction(ScriptRunManager.java:112)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.api.CraftTweakerAPI.apply(CraftTweakerAPI.java:104)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.Recipes.setRecipeStage(Recipes.java:83)
-	at scripts.gated_recipes.run(gated_recipes.zs:6)
-	at Scripts.run(Unknown Source)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zenscript.javabytecode.JavaBytecodeRunUnit.run(JavaBytecodeRunUnit.java:127)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zencode.java.ScriptingEngine.run(ScriptingEngine.java:184)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ExecutingScriptRunner.executeRunAction(ExecutingScriptRunner.java:22)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.runScripts(ScriptRunner.java:93)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.run(ScriptRunner.java:69)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.DecoratedRunKind$DecoratedScriptRunner.run(DecoratedRunKind.java:27)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.executeRun(ScriptRun.java:88)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.execute(ScriptRun.java:54)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.apply(ScriptReloadListener.java:78)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.m_5787_(ScriptReloadListener.java:37)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
-	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1340)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138228_(ReloadCommand.java:53)
-	at MC-BOOTSTRAP/brigadier@1.0.18/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.commands.Commands.m_82117_(Commands.java:234)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9957_(ServerGamePacketListenerImpl.java:1150)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_143628_(ServerGamePacketListenerImpl.java:1129)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerGamePacketListenerImpl.java:1115)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:30)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:7)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[14:03:46.634][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:03:46.635][INFO]: This reload was made possible by Lucas and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:08:34.852][INFO]: Started loading scripts for loader 'tags'
-[14:08:34.852][INFO]: Undoing previous actions
-[14:08:34.863][INFO]: Compiling and executing scripts
-[14:08:34.865][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:08:34.870][INFO]: Execution for loader 'tags' completed successfully
-[14:08:40.010][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:08:40.010][INFO]: Undoing previous actions
-[14:08:40.018][INFO]: Compiling and executing scripts
-[14:08:40.077][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:08:40.077][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:08:40.084][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:08:40.084][ERROR]: Unable to run action due to an error
-java.lang.RuntimeException: Empty array?
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.lambda$getPreferredStackbyMod$3(IEApi.java:110)
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.getPreferredStackbyMod(IEApi.java:110)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.crafting.IERecipeSerializer.lambda$readOutput$1(IERecipeSerializer.java:53)
-	at TRANSFORMER/forge@40.2.4/net.minecraftforge.common.util.Lazy$Fast.get(Lazy.java:55)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.common.crafting.LazyShapelessRecipe.m_8043_(LazyShapelessRecipe.java:40)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.actions.ActionSetStageByOutput.apply(ActionSetStageByOutput.java:32)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyActionInRun(ScriptRunManager.java:190)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyAction(ScriptRunManager.java:112)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.api.CraftTweakerAPI.apply(CraftTweakerAPI.java:104)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.Recipes.setRecipeStage(Recipes.java:83)
-	at scripts.gated_recipes.run(gated_recipes.zs:6)
-	at Scripts.run(Unknown Source)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zenscript.javabytecode.JavaBytecodeRunUnit.run(JavaBytecodeRunUnit.java:127)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zencode.java.ScriptingEngine.run(ScriptingEngine.java:184)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ExecutingScriptRunner.executeRunAction(ExecutingScriptRunner.java:22)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.runScripts(ScriptRunner.java:93)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.run(ScriptRunner.java:69)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.DecoratedRunKind$DecoratedScriptRunner.run(DecoratedRunKind.java:27)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.executeRun(ScriptRun.java:88)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.execute(ScriptRun.java:54)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.apply(ScriptReloadListener.java:78)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.m_5787_(ScriptReloadListener.java:37)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
-	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1340)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138228_(ReloadCommand.java:53)
-	at MC-BOOTSTRAP/brigadier@1.0.18/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.commands.Commands.m_82117_(Commands.java:234)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9957_(ServerGamePacketListenerImpl.java:1150)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_143628_(ServerGamePacketListenerImpl.java:1129)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerGamePacketListenerImpl.java:1115)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:30)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:7)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:761)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[14:08:40.085][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:08:40.085][INFO]: This reload was made possible by Ivy_ and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:09:49.458][INFO]: Started loading scripts for loader 'tags'
-[14:09:49.459][INFO]: Undoing previous actions
-[14:09:49.471][INFO]: Compiling and executing scripts
-[14:09:49.472][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:09:49.479][INFO]: Execution for loader 'tags' completed successfully
-[14:09:54.972][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:09:54.972][INFO]: Undoing previous actions
-[14:09:54.980][INFO]: Compiling and executing scripts
-[14:09:55.043][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:09:55.044][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:09:55.050][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:09:55.050][ERROR]: Unable to run action due to an error
-java.lang.RuntimeException: Empty array?
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.lambda$getPreferredStackbyMod$3(IEApi.java:110)
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.getPreferredStackbyMod(IEApi.java:110)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.crafting.IERecipeSerializer.lambda$readOutput$1(IERecipeSerializer.java:53)
-	at TRANSFORMER/forge@40.2.4/net.minecraftforge.common.util.Lazy$Fast.get(Lazy.java:55)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.common.crafting.LazyShapelessRecipe.m_8043_(LazyShapelessRecipe.java:40)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.actions.ActionSetStageByOutput.apply(ActionSetStageByOutput.java:32)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyActionInRun(ScriptRunManager.java:190)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyAction(ScriptRunManager.java:112)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.api.CraftTweakerAPI.apply(CraftTweakerAPI.java:104)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.Recipes.setRecipeStage(Recipes.java:83)
-	at scripts.gated_recipes.run(gated_recipes.zs:6)
-	at Scripts.run(Unknown Source)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zenscript.javabytecode.JavaBytecodeRunUnit.run(JavaBytecodeRunUnit.java:127)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zencode.java.ScriptingEngine.run(ScriptingEngine.java:184)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ExecutingScriptRunner.executeRunAction(ExecutingScriptRunner.java:22)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.runScripts(ScriptRunner.java:93)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.run(ScriptRunner.java:69)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.DecoratedRunKind$DecoratedScriptRunner.run(DecoratedRunKind.java:27)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.executeRun(ScriptRun.java:88)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.execute(ScriptRun.java:54)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.apply(ScriptReloadListener.java:78)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.m_5787_(ScriptReloadListener.java:37)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
-	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1340)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138228_(ReloadCommand.java:53)
-	at MC-BOOTSTRAP/brigadier@1.0.18/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.commands.Commands.m_82117_(Commands.java:234)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9957_(ServerGamePacketListenerImpl.java:1150)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_143628_(ServerGamePacketListenerImpl.java:1129)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerGamePacketListenerImpl.java:1115)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:30)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:7)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[14:09:55.051][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:09:55.051][INFO]: This reload was made possible by Spencer Gilbert and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:11:13.620][INFO]: Started loading scripts for loader 'tags'
-[14:11:13.620][INFO]: Undoing previous actions
-[14:11:13.632][INFO]: Compiling and executing scripts
-[14:11:13.634][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:11:13.643][INFO]: Execution for loader 'tags' completed successfully
-[14:11:18.751][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:11:18.751][INFO]: Undoing previous actions
-[14:11:18.759][INFO]: Compiling and executing scripts
-[14:11:18.815][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:11:18.815][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:11:18.821][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:11:18.822][ERROR]: Unable to run action due to an error
-java.lang.RuntimeException: Empty array?
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.lambda$getPreferredStackbyMod$3(IEApi.java:110)
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.getPreferredStackbyMod(IEApi.java:110)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.crafting.IERecipeSerializer.lambda$readOutput$1(IERecipeSerializer.java:53)
-	at TRANSFORMER/forge@40.2.4/net.minecraftforge.common.util.Lazy$Fast.get(Lazy.java:55)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.common.crafting.LazyShapelessRecipe.m_8043_(LazyShapelessRecipe.java:40)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.actions.ActionSetStageByOutput.apply(ActionSetStageByOutput.java:32)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyActionInRun(ScriptRunManager.java:190)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyAction(ScriptRunManager.java:112)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.api.CraftTweakerAPI.apply(CraftTweakerAPI.java:104)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.Recipes.setRecipeStage(Recipes.java:83)
-	at scripts.gated_recipes.run(gated_recipes.zs:6)
-	at Scripts.run(Unknown Source)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zenscript.javabytecode.JavaBytecodeRunUnit.run(JavaBytecodeRunUnit.java:127)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zencode.java.ScriptingEngine.run(ScriptingEngine.java:184)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ExecutingScriptRunner.executeRunAction(ExecutingScriptRunner.java:22)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.runScripts(ScriptRunner.java:93)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.run(ScriptRunner.java:69)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.DecoratedRunKind$DecoratedScriptRunner.run(DecoratedRunKind.java:27)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.executeRun(ScriptRun.java:88)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.execute(ScriptRun.java:54)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.apply(ScriptReloadListener.java:78)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.m_5787_(ScriptReloadListener.java:37)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
-	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1340)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138228_(ReloadCommand.java:53)
-	at MC-BOOTSTRAP/brigadier@1.0.18/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.commands.Commands.m_82117_(Commands.java:234)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9957_(ServerGamePacketListenerImpl.java:1150)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_143628_(ServerGamePacketListenerImpl.java:1129)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerGamePacketListenerImpl.java:1115)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:30)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:7)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[14:11:18.822][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:11:18.823][INFO]: This reload was made possible by Jonathan McManus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:12:47.917][INFO]: Started loading scripts for loader 'tags'
-[14:12:47.917][INFO]: Undoing previous actions
-[14:12:47.926][INFO]: Compiling and executing scripts
-[14:12:47.928][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:12:47.933][INFO]: Execution for loader 'tags' completed successfully
-[14:12:53.075][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:12:53.075][INFO]: Undoing previous actions
-[14:12:53.082][INFO]: Compiling and executing scripts
-[14:12:53.140][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:12:53.140][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:12:53.146][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:12:53.146][ERROR]: Unable to run action due to an error
-java.lang.RuntimeException: Empty array?
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.lambda$getPreferredStackbyMod$3(IEApi.java:110)
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.getPreferredStackbyMod(IEApi.java:110)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.crafting.IERecipeSerializer.lambda$readOutput$1(IERecipeSerializer.java:53)
-	at TRANSFORMER/forge@40.2.4/net.minecraftforge.common.util.Lazy$Fast.get(Lazy.java:55)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.common.crafting.LazyShapelessRecipe.m_8043_(LazyShapelessRecipe.java:40)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.actions.ActionSetStageByOutput.apply(ActionSetStageByOutput.java:32)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyActionInRun(ScriptRunManager.java:190)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyAction(ScriptRunManager.java:112)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.api.CraftTweakerAPI.apply(CraftTweakerAPI.java:104)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.Recipes.setRecipeStage(Recipes.java:83)
-	at scripts.gated_recipes.run(gated_recipes.zs:6)
-	at Scripts.run(Unknown Source)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zenscript.javabytecode.JavaBytecodeRunUnit.run(JavaBytecodeRunUnit.java:127)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zencode.java.ScriptingEngine.run(ScriptingEngine.java:184)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ExecutingScriptRunner.executeRunAction(ExecutingScriptRunner.java:22)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.runScripts(ScriptRunner.java:93)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.run(ScriptRunner.java:69)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.DecoratedRunKind$DecoratedScriptRunner.run(DecoratedRunKind.java:27)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.executeRun(ScriptRun.java:88)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.execute(ScriptRun.java:54)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.apply(ScriptReloadListener.java:78)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.m_5787_(ScriptReloadListener.java:37)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
-	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1340)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138228_(ReloadCommand.java:53)
-	at MC-BOOTSTRAP/brigadier@1.0.18/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.commands.Commands.m_82117_(Commands.java:234)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9957_(ServerGamePacketListenerImpl.java:1150)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_143628_(ServerGamePacketListenerImpl.java:1129)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerGamePacketListenerImpl.java:1115)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:30)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:7)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[14:12:53.147][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:12:53.147][INFO]: This reload was made possible by acg_goofy and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:14:19.864][INFO]: Started loading scripts for loader 'tags'
-[14:14:19.864][INFO]: Undoing previous actions
-[14:14:19.873][INFO]: Compiling and executing scripts
-[14:14:19.875][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:14:19.879][INFO]: Execution for loader 'tags' completed successfully
-[14:14:25.024][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:14:25.024][INFO]: Undoing previous actions
-[14:14:25.032][INFO]: Compiling and executing scripts
-[14:14:25.092][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:14:25.092][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:14:25.098][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:14:25.099][ERROR]: Unable to run action due to an error
-java.lang.RuntimeException: Empty array?
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.lambda$getPreferredStackbyMod$3(IEApi.java:110)
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.IEApi.getPreferredStackbyMod(IEApi.java:110)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.api.crafting.IERecipeSerializer.lambda$readOutput$1(IERecipeSerializer.java:53)
-	at TRANSFORMER/forge@40.2.4/net.minecraftforge.common.util.Lazy$Fast.get(Lazy.java:55)
-	at TRANSFORMER/immersiveengineering@1.18.2-8.4.0-161/blusunrize.immersiveengineering.common.crafting.LazyShapelessRecipe.m_8043_(LazyShapelessRecipe.java:40)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.actions.ActionSetStageByOutput.apply(ActionSetStageByOutput.java:32)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyActionInRun(ScriptRunManager.java:190)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRunManager.applyAction(ScriptRunManager.java:112)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.api.CraftTweakerAPI.apply(CraftTweakerAPI.java:104)
-	at TRANSFORMER/recipestages@3.0.0.10/com.blamejared.recipestages.handlers.Recipes.setRecipeStage(Recipes.java:83)
-	at scripts.gated_recipes.run(gated_recipes.zs:6)
-	at Scripts.run(Unknown Source)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zenscript.javabytecode.JavaBytecodeRunUnit.run(JavaBytecodeRunUnit.java:127)
-	at TRANSFORMER/crafttweaker@9.1.211/org.openzen.zencode.java.ScriptingEngine.run(ScriptingEngine.java:184)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ExecutingScriptRunner.executeRunAction(ExecutingScriptRunner.java:22)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.runScripts(ScriptRunner.java:93)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.runner.ScriptRunner.run(ScriptRunner.java:69)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.DecoratedRunKind$DecoratedScriptRunner.run(DecoratedRunKind.java:27)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.executeRun(ScriptRun.java:88)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.scriptrun.ScriptRun.execute(ScriptRun.java:54)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.apply(ScriptReloadListener.java:78)
-	at TRANSFORMER/crafttweaker@9.1.211/com.blamejared.crafttweaker.impl.script.ScriptReloadListener.m_5787_(ScriptReloadListener.java:37)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
-	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1340)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.commands.ReloadCommand.m_138228_(ReloadCommand.java:53)
-	at MC-BOOTSTRAP/brigadier@1.0.18/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.commands.Commands.m_82117_(Commands.java:234)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9957_(ServerGamePacketListenerImpl.java:1150)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_143628_(ServerGamePacketListenerImpl.java:1129)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_7388_(ServerGamePacketListenerImpl.java:1115)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:30)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.game.ServerboundChatPacket.m_5797_(ServerboundChatPacket.java:7)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689)
-	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-[14:14:25.099][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:14:25.100][INFO]: This reload was made possible by Genryu and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:15:40.366][INFO]: Started loading scripts for loader 'tags'
-[14:15:40.366][INFO]: Undoing previous actions
-[14:15:40.375][INFO]: Compiling and executing scripts
-[14:15:40.376][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:15:40.381][INFO]: Execution for loader 'tags' completed successfully
-[14:15:45.462][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:15:45.462][INFO]: Undoing previous actions
-[14:15:45.469][INFO]: Compiling and executing scripts
-[14:15:45.526][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:15:45.526][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:15:45.531][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:15:45.534][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:15:45.535][INFO]: This reload was made possible by Spencer Gilbert and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:19:43.089][INFO]: Started loading scripts for loader 'tags'
-[14:19:43.089][INFO]: Undoing previous actions
-[14:19:43.098][INFO]: Compiling and executing scripts
-[14:19:43.099][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:19:43.104][INFO]: Execution for loader 'tags' completed successfully
-[14:19:48.394][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:19:48.394][INFO]: Undoing previous actions
-[14:19:48.402][INFO]: Compiling and executing scripts
-[14:19:48.461][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:19:48.461][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:19:48.466][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:19:48.469][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:19:48.469][INFO]: This reload was made possible by Spencer Gilbert and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:23:16.365][INFO]: Started loading scripts for loader 'tags'
-[14:23:16.365][INFO]: Undoing previous actions
-[14:23:16.374][INFO]: Compiling and executing scripts
-[14:23:16.375][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:23:16.380][INFO]: Execution for loader 'tags' completed successfully
-[14:23:21.556][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:23:21.556][INFO]: Undoing previous actions
-[14:23:21.563][INFO]: Compiling and executing scripts
-[14:23:21.620][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:23:21.621][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:23:21.627][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:23:21.630][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:23:21.630][INFO]: This reload was made possible by Zuniroa and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:27:10.402][INFO]: Started loading scripts for loader 'tags'
-[14:27:10.403][INFO]: Undoing previous actions
-[14:27:10.412][INFO]: Compiling and executing scripts
-[14:27:10.413][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:27:10.418][INFO]: Execution for loader 'tags' completed successfully
-[14:27:15.504][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:27:15.505][INFO]: Undoing previous actions
-[14:27:15.512][INFO]: Compiling and executing scripts
-[14:27:15.568][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:27:15.568][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:27:15.575][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:27:15.578][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:27:15.579][INFO]: This reload was made possible by Hooley and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:30:22.134][INFO]: Started loading scripts for loader 'tags'
-[14:30:22.134][INFO]: Undoing previous actions
-[14:30:22.143][INFO]: Compiling and executing scripts
-[14:30:22.144][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:30:22.149][INFO]: Execution for loader 'tags' completed successfully
-[14:30:27.259][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:30:27.259][INFO]: Undoing previous actions
-[14:30:27.266][INFO]: Compiling and executing scripts
-[14:30:27.323][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:30:27.324][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:30:27.329][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:30:27.332][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:30:27.332][INFO]: This reload was made possible by Hooley and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:31:51.727][INFO]: Started loading scripts for loader 'tags'
-[14:31:51.727][INFO]: Undoing previous actions
-[14:31:51.736][INFO]: Compiling and executing scripts
-[14:31:51.737][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:31:51.743][INFO]: Execution for loader 'tags' completed successfully
-[14:31:56.954][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:31:56.955][INFO]: Undoing previous actions
-[14:31:56.961][INFO]: Compiling and executing scripts
-[14:31:57.018][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:31:57.018][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:31:57.023][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:31:57.026][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:31:57.027][INFO]: This reload was made possible by Lucas and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:33:06.360][INFO]: Started loading scripts for loader 'tags'
-[14:33:06.360][INFO]: Undoing previous actions
-[14:33:06.369][INFO]: Compiling and executing scripts
-[14:33:06.370][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:33:06.374][INFO]: Execution for loader 'tags' completed successfully
-[14:33:11.564][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:33:11.564][INFO]: Undoing previous actions
-[14:33:11.570][INFO]: Compiling and executing scripts
-[14:33:11.626][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:33:11.626][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:33:11.631][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:33:11.633][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:33:11.634][INFO]: This reload was made possible by embeddedt and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:34:33.533][INFO]: Started loading scripts for loader 'tags'
-[14:34:33.533][INFO]: Undoing previous actions
-[14:34:33.541][INFO]: Compiling and executing scripts
-[14:34:33.542][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:34:33.547][INFO]: Execution for loader 'tags' completed successfully
-[14:34:38.763][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:34:38.763][INFO]: Undoing previous actions
-[14:34:38.769][INFO]: Compiling and executing scripts
-[14:34:38.824][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:34:38.824][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:34:38.829][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:34:38.832][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:34:38.832][INFO]: This reload was made possible by Genryu and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:37:23.438][INFO]: Started loading scripts for loader 'tags'
-[14:37:23.438][INFO]: Undoing previous actions
-[14:37:23.447][INFO]: Compiling and executing scripts
-[14:37:23.448][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:37:23.453][INFO]: Execution for loader 'tags' completed successfully
-[14:37:28.697][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:37:28.697][INFO]: Undoing previous actions
-[14:37:28.704][INFO]: Compiling and executing scripts
-[14:37:28.758][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:37:28.758][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:37:28.763][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:37:28.766][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:37:28.766][INFO]: This reload was made possible by Pongo Sapiens and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:39:59.607][INFO]: Started loading scripts for loader 'tags'
-[14:39:59.608][INFO]: Undoing previous actions
-[14:39:59.616][INFO]: Compiling and executing scripts
-[14:39:59.617][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:39:59.621][INFO]: Execution for loader 'tags' completed successfully
-[14:40:04.915][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:40:04.915][INFO]: Undoing previous actions
-[14:40:04.921][INFO]: Compiling and executing scripts
-[14:40:04.976][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:40:04.977][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:40:04.981][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:40:04.984][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:40:04.985][INFO]: This reload was made possible by Quaternary and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:41:39.687][INFO]: Started loading scripts for loader 'tags'
-[14:41:39.687][INFO]: Undoing previous actions
-[14:41:39.696][INFO]: Compiling and executing scripts
-[14:41:39.697][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:41:39.701][INFO]: Execution for loader 'tags' completed successfully
-[14:41:44.904][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:41:44.904][INFO]: Undoing previous actions
-[14:41:44.911][INFO]: Compiling and executing scripts
-[14:41:44.966][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:41:44.967][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:41:44.971][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:41:44.974][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:41:44.975][INFO]: This reload was made possible by Spencer Gilbert and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:42:47.934][INFO]: Started loading scripts for loader 'tags'
-[14:42:47.934][INFO]: Undoing previous actions
-[14:42:47.942][INFO]: Compiling and executing scripts
-[14:42:47.944][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:42:47.948][INFO]: Execution for loader 'tags' completed successfully
-[14:42:53.202][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:42:53.202][INFO]: Undoing previous actions
-[14:42:53.208][INFO]: Compiling and executing scripts
-[14:42:53.264][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:42:53.264][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:42:53.269][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:42:53.272][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:42:53.272][INFO]: This reload was made possible by Jessie Sims and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:46:25.723][INFO]: Started loading scripts for loader 'tags'
-[14:46:25.723][INFO]: Undoing previous actions
-[14:46:25.732][INFO]: Compiling and executing scripts
-[14:46:25.733][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:46:25.738][INFO]: Execution for loader 'tags' completed successfully
-[14:46:30.835][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:46:30.835][INFO]: Undoing previous actions
-[14:46:30.841][INFO]: Compiling and executing scripts
-[14:46:30.897][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:46:30.897][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:46:30.929][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@b47fbbd9" to "Gunpowder"
-[14:46:30.931][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:46:30.932][INFO]: This reload was made possible by Jordan Pineo and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[13:20:39.133][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[13:20:39.200][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[13:20:39.203][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[13:20:39.205][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
+[13:20:42.581][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[13:20:42.583][INFO]: - 'atum' at version '1.18.2-2.3.0'
+[13:20:42.583][INFO]: - 'crafttweaker' at version '9.1.211'
+[13:20:42.583][INFO]: - 'custommachinery' at version '0.8.9'
+[13:20:42.584][INFO]: - 'custommachinerycreate' at version '1.0.2'
+[13:20:42.584][INFO]: - 'extendedcrafting' at version '4.1.2'
+[13:20:42.584][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
+[13:20:42.584][INFO]: - 'gamestages' at version '8.1.3'
+[13:20:42.584][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
+[13:20:42.584][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
+[13:20:42.584][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[13:20:42.584][INFO]: - 'jmapstages' at version '1.18.2-2.1.0'
+[13:20:42.584][INFO]: - 'pneumaticcraft' at version '1.18.2-3.6.4-45'
+[13:20:42.584][INFO]: - 'recipestages' at version '3.0.0.10'
+[13:21:09.116][INFO]: Started loading scripts for loader 'initialize'
+[13:21:10.028][INFO]: Compiling and executing scripts
+[13:21:10.269][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[13:21:10.585][INFO]: Execution for loader 'initialize' completed successfully
+[13:25:37.234][INFO]: Started loading scripts for loader 'tags'
+[13:25:37.267][INFO]: Compiling and executing scripts
+[13:25:37.284][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[13:25:37.299][INFO]: Execution for loader 'tags' completed successfully
+[13:25:44.103][INFO]: Started loading scripts for loader 'crafttweaker'
+[13:25:44.122][INFO]: Compiling and executing scripts
+[13:25:44.501][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[13:25:44.502][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[13:25:44.518][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@f33242b" to "Gunpowder"
+[13:25:44.524][INFO]: Execution for loader 'crafttweaker' completed successfully
+[13:25:44.526][INFO]: This reload was made possible by Lucas and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[16:04:07.655][INFO]: Started loading scripts for loader 'tags'
+[16:04:07.655][INFO]: Undoing previous actions
+[16:04:07.674][INFO]: Compiling and executing scripts
+[16:04:07.677][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[16:04:07.686][INFO]: Execution for loader 'tags' completed successfully
+[16:04:13.580][INFO]: Started loading scripts for loader 'crafttweaker'
+[16:04:13.581][INFO]: Undoing previous actions
+[16:04:13.596][INFO]: Compiling and executing scripts
+[16:04:13.717][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[16:04:13.717][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[16:04:13.726][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@f33242b" to "Gunpowder"
+[16:04:13.729][INFO]: Execution for loader 'crafttweaker' completed successfully
+[16:04:13.730][INFO]: This reload was made possible by DreamThorn and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[16:26:58.195][INFO]: Started loading scripts for loader 'tags'
+[16:26:58.195][INFO]: Undoing previous actions
+[16:26:58.210][INFO]: Compiling and executing scripts
+[16:26:58.213][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[16:26:58.220][INFO]: Execution for loader 'tags' completed successfully
+[16:27:03.694][INFO]: Started loading scripts for loader 'crafttweaker'
+[16:27:03.694][INFO]: Undoing previous actions
+[16:27:03.706][INFO]: Compiling and executing scripts
+[16:27:03.806][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[16:27:03.807][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[16:27:03.815][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@f33242b" to "Gunpowder"
+[16:27:03.817][INFO]: Execution for loader 'crafttweaker' completed successfully
+[16:27:03.818][INFO]: This reload was made possible by Jonathan McManus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[16:36:46.597][INFO]: Started loading scripts for loader 'tags'
+[16:36:46.598][INFO]: Undoing previous actions
+[16:36:46.612][INFO]: Compiling and executing scripts
+[16:36:46.615][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[16:36:46.624][INFO]: Execution for loader 'tags' completed successfully
+[16:36:52.158][INFO]: Started loading scripts for loader 'crafttweaker'
+[16:36:52.158][INFO]: Undoing previous actions
+[16:36:52.169][INFO]: Compiling and executing scripts
+[16:36:52.265][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[16:36:52.265][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[16:36:52.274][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@f33242b" to "Gunpowder"
+[16:36:52.277][INFO]: Execution for loader 'crafttweaker' completed successfully
+[16:36:52.277][INFO]: This reload was made possible by embeddedt and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[16:44:20.000][INFO]: Started loading scripts for loader 'tags'
+[16:44:20.000][INFO]: Undoing previous actions
+[16:44:20.012][INFO]: Compiling and executing scripts
+[16:44:20.015][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[16:44:20.022][INFO]: Execution for loader 'tags' completed successfully
+[16:44:25.514][INFO]: Started loading scripts for loader 'crafttweaker'
+[16:44:25.514][INFO]: Undoing previous actions
+[16:44:25.525][INFO]: Compiling and executing scripts
+[16:44:25.616][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[16:44:25.616][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[16:44:25.625][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@f33242b" to "Gunpowder"
+[16:44:25.627][INFO]: Execution for loader 'crafttweaker' completed successfully
+[16:44:25.628][INFO]: This reload was made possible by Ivy_ and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[17:03:30.032][INFO]: Started loading scripts for loader 'tags'
+[17:03:30.032][INFO]: Undoing previous actions
+[17:03:30.044][INFO]: Compiling and executing scripts
+[17:03:30.046][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[17:03:30.051][INFO]: Execution for loader 'tags' completed successfully
+[17:03:35.854][INFO]: Started loading scripts for loader 'crafttweaker'
+[17:03:35.854][INFO]: Undoing previous actions
+[17:03:35.866][INFO]: Compiling and executing scripts
+[17:03:35.942][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[17:03:35.943][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[17:03:35.950][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@f33242b" to "Gunpowder"
+[17:03:35.953][INFO]: Execution for loader 'crafttweaker' completed successfully
+[17:03:35.953][INFO]: This reload was made possible by embeddedt and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[18:37:27.530][INFO]: Started loading scripts for loader 'tags'
+[18:37:27.530][INFO]: Undoing previous actions
+[18:37:27.542][INFO]: Compiling and executing scripts
+[18:37:27.547][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[18:37:27.553][INFO]: Execution for loader 'tags' completed successfully
+[18:37:33.324][INFO]: Started loading scripts for loader 'crafttweaker'
+[18:37:33.324][INFO]: Undoing previous actions
+[18:37:33.334][INFO]: Compiling and executing scripts
+[18:37:33.536][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:37:33.536][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[18:37:33.544][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@f33242b" to "Gunpowder"
+[18:37:33.547][INFO]: Execution for loader 'crafttweaker' completed successfully
+[18:37:33.548][INFO]: This reload was made possible by Phillip Swearingain and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[18:46:28.237][INFO]: Started loading scripts for loader 'tags'
+[18:46:28.237][INFO]: Undoing previous actions
+[18:46:28.248][INFO]: Compiling and executing scripts
+[18:46:28.249][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[18:46:28.255][INFO]: Execution for loader 'tags' completed successfully
+[18:46:33.588][INFO]: Started loading scripts for loader 'crafttweaker'
+[18:46:33.588][INFO]: Undoing previous actions
+[18:46:33.598][INFO]: Compiling and executing scripts
+[18:46:33.666][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:46:33.666][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[18:46:33.673][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@f33242b" to "Gunpowder"
+[18:46:33.676][INFO]: Execution for loader 'crafttweaker' completed successfully
+[18:46:33.676][INFO]: This reload was made possible by Phillip Swearingain and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[19:05:05.207][INFO]: Started loading scripts for loader 'tags'
+[19:05:05.207][INFO]: Undoing previous actions
+[19:05:05.218][INFO]: Compiling and executing scripts
+[19:05:05.220][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[19:05:05.226][INFO]: Execution for loader 'tags' completed successfully
+[19:05:10.501][INFO]: Started loading scripts for loader 'crafttweaker'
+[19:05:10.501][INFO]: Undoing previous actions
+[19:05:10.510][INFO]: Compiling and executing scripts
+[19:05:10.580][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[19:05:10.580][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[19:05:10.586][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@f33242b" to "Gunpowder"
+[19:05:10.589][INFO]: Execution for loader 'crafttweaker' completed successfully
+[19:05:10.590][INFO]: This reload was made possible by Peregrinus11 and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[19:25:41.218][INFO]: Started loading scripts for loader 'tags'
+[19:25:41.218][INFO]: Undoing previous actions
+[19:25:41.229][INFO]: Compiling and executing scripts
+[19:25:41.231][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[19:25:41.236][INFO]: Execution for loader 'tags' completed successfully
+[19:25:46.509][INFO]: Started loading scripts for loader 'crafttweaker'
+[19:25:46.509][INFO]: Undoing previous actions
+[19:25:46.517][INFO]: Compiling and executing scripts
+[19:25:46.583][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[19:25:46.584][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[19:25:46.590][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@f33242b" to "Gunpowder"
+[19:25:46.593][INFO]: Execution for loader 'crafttweaker' completed successfully
+[19:25:46.593][INFO]: This reload was made possible by Quaternary and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
