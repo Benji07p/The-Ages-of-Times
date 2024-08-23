@@ -51,11 +51,6 @@
 				type: "item"
 				item: "nuclearscience:reactorcore"
 			}]
-			rewards: [{
-				id: "659E430926753DA0"
-				type: "item"
-				item: "the_ages_of_times:quantum_physics_book"
-			}]
 		}
 		{
 			x: 1.5d
@@ -109,7 +104,7 @@
 		}
 		{
 			x: 10.5d
-			y: 1.5d
+			y: 0.0d
 			dependencies: ["35E9DE3ED5A63769"]
 			id: "22237F13368E34A5"
 			tasks: [{
@@ -119,29 +114,18 @@
 			}]
 		}
 		{
-			x: 12.0d
-			y: -1.5d
+			x: 4.5d
+			y: 3.0d
+			dependencies: ["5DBF728626B8AA0D"]
 			id: "5C5084D7C71E0DBB"
-			tasks: [
-				{
-					id: "201BBEBEC6B1E907"
-					type: "item"
-					item: "beyond_earth:compressor"
-				}
-				{
-					id: "00A88A2FA765B465"
-					type: "item"
-					item: "beyond_earth:fuel_refinery"
-				}
-				{
-					id: "77B01B51720CC82D"
-					type: "item"
-					item: "beyond_earth:oxygen_loader"
-				}
-			]
+			tasks: [{
+				id: "77B01B51720CC82D"
+				type: "item"
+				item: "beyond_earth:oxygen_loader"
+			}]
 		}
 		{
-			x: 12.0d
+			x: 15.0d
 			y: 0.0d
 			id: "6DAB073F37B98187"
 			tasks: [{
@@ -151,7 +135,7 @@
 			}]
 		}
 		{
-			x: 13.5d
+			x: 16.5d
 			y: 0.0d
 			id: "3C0B831CD98D20E5"
 			tasks: [{
@@ -165,7 +149,7 @@
 			}]
 		}
 		{
-			x: 18.0d
+			x: 21.0d
 			y: 0.0d
 			dependencies: ["06284B5DA2E60867"]
 			id: "4424CD0D54828AE5"
@@ -185,7 +169,7 @@
 					Icon: "kubejs:textures/item/space_station_icon.png"
 				}
 			}
-			x: 15.0d
+			x: 18.0d
 			y: 0.0d
 			id: "421D5925F0B51C8A"
 			tasks: [{
@@ -193,16 +177,6 @@
 				type: "advancement"
 				advancement: "beyond_earth:space_station"
 				criterion: ""
-			}]
-		}
-		{
-			x: 23.0d
-			y: 0.0d
-			id: "43454D7C85743790"
-			tasks: [{
-				id: "06C8142342F83DB8"
-				type: "item"
-				item: "extendedcrafting:ultimate_table"
 			}]
 		}
 		{
@@ -391,8 +365,9 @@
 			}]
 		}
 		{
-			x: 12.0d
-			y: 1.5d
+			x: 13.5d
+			y: 0.0d
+			dependencies: ["67D7F6C426DC183B"]
 			id: "043BACAEC5CF4AF1"
 			tasks: [{
 				id: "35882E3C343AE317"
@@ -401,8 +376,9 @@
 			}]
 		}
 		{
-			x: 10.5d
+			x: 12.0d
 			y: 0.0d
+			dependencies: ["22237F13368E34A5"]
 			id: "67D7F6C426DC183B"
 			tasks: [{
 				id: "1E57B7CE0DD30C88"
@@ -411,7 +387,7 @@
 			}]
 		}
 		{
-			x: 16.5d
+			x: 19.5d
 			y: 0.0d
 			id: "3640A4B06B9ABE39"
 			tasks: [{
@@ -554,6 +530,22 @@
 						Damage: 0
 					}
 				}
+			}]
+		}
+		{
+			x: 10.5d
+			y: 1.5d
+			dependencies: ["35E9DE3ED5A63769"]
+			id: "264C5FD706EF74B4"
+			tasks: [{
+				id: "1144CEF35A0861B5"
+				type: "item"
+				item: "nuclearscience:particleinjector"
+			}]
+			rewards: [{
+				id: "4A399DF14322573A"
+				type: "item"
+				item: "the_ages_of_times:quantum_physics_book"
 			}]
 		}
 	]
