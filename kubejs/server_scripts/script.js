@@ -1919,6 +1919,51 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+
+	//Particle Injector
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AABBBAA",
+			  "AABBBAA",
+			  "CDCECDC",
+			  "FCFGFCF",
+			  "CDCECDC",
+			  "AABBBAA",
+			  "AABBBAA"
+			],
+			"key": {
+			  "A": {
+				"item": "nuclearscience:electromagnet"
+			  },
+			  "B": {
+				"item": "electrodynamics:platelead"
+			  },
+			  "C": {
+				"item": "electrodynamics:dustobsidian"
+			  },
+			  "D": {
+				"item": "electrodynamics:platesteel"
+			  },
+			  "E": {
+				"item": "chemlib:osmium_ingot"
+			  },
+			  "F": {
+				"item": "electrodynamics:circuitadvanced"
+			  },
+			  "G": {
+				"item": "minecraft:dispenser"
+			  }
+			},
+			"result": {
+			  "item": "nuclearscience:particleinjector"
+			}
+		  }
+	)
+
+	//Fuel
+	event.remove({ id: 'beyond_earth:fuel_refining/fuel_from_curde_oil'})
 })
 
 onEvent('item.tags', event => {
