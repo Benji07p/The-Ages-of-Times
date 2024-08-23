@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "electrodynamics:dustlead"
+    },
+    {
+      "item": "chemlib:arsenic_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "ballistix:dustpoison"
+    }
+  ]
+}

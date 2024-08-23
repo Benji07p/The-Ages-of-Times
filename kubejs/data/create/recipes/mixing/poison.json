@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "ballistix:dustpoison"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ]
+}
