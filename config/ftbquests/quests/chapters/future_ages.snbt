@@ -117,6 +117,26 @@
 				item: "minecraft:bedrock"
 			}]
 		}
+		{
+			x: 11.5d
+			y: 0.5d
+			id: "157EAF9FE74C60C6"
+			tasks: [{
+				id: "66A01CD4A8A27B62"
+				type: "item"
+				item: "nuclearscience:plasma"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 0.5d
+			id: "43454D7C85743790"
+			tasks: [{
+				id: "06C8142342F83DB8"
+				type: "item"
+				item: "extendedcrafting:ultimate_table"
+			}]
+		}
 	]
 	quest_links: [ ]
 }
