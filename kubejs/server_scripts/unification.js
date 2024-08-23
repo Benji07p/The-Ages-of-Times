@@ -24,6 +24,14 @@ onEvent('recipes', event => {
 	event.remove({ id: 'beyond_earth:steel_nugget_from_ingot' })
 	event.remove({ id: 'beyond_earth:steel_ingot_blasting' })
 	event.remove({ id: 'car:iron_stick'})
+	event.remove({ id: 'pneumaticcraft:amadron/kerosene_to_emerald'})
+	event.remove({ id: 'pneumaticcraft:amadron/lubricant_to_emerald'})
+	event.remove({ id: 'pneumaticcraft:amadron/gasoline_to_emerald'})
+	event.remove({ id: 'pneumaticcraft:amadron/oil_to_emerald'})
+	event.remove({ id: 'pneumaticcraft:amadron/diesel_to_emerald'})
+	event.remove({ id: 'pneumaticcraft:amadron/lpg_to_emerald'})
+	event.remove({ id: 'pneumaticcraft:amadron/emerald_to_lubricant'})
+	event.remove({ id: 'pneumaticcraft:amadron/emerald_to_oil'})
 	event.remove({ id: 'immersiveengineering:arcfurnace/dust_uranium' })
 	event.remove({ id: 'immersiveengineering:arcfurnace/raw_block_uranium' })
 	event.remove({ id: 'immersiveengineering:arcfurnace/ore_uranium' })
@@ -306,6 +314,8 @@ onEvent('item.tags', event => {
 	event.get('forge:plates/uranium').remove(['chemlib:uranium_plate', 'immersiveengineering:plate_uranium'])
 	event.get('forge:dusts/uranium').remove('chemlib:uranium_dust')
 	event.get('forge:raw_materials/uranium').remove('immersiveengineering:raw_uranium')
+	event.get('forge:storage_blocks/raw_uranium').remove('immersiveengineering:raw_block_uranium')
+	event.get('forge:storage_blocks/raw_uranium').add('electrodynamics:raworeblockuranium')
 
 	//Obsidian Powder
 	event.get('forge:dusts/obsidian').remove('create:powdered_obsidian')
@@ -401,6 +411,16 @@ onEvent('fluid.tags', event => {
 	//Chlorine Fluid
 	event.get('forge:chlorine_fluid').add('chemlib:chlorine_fluid')
 
-	//Diesel
+	//Fuel
 	event.get('forge:biodiesel').add('car:bio_diesel')
+	event.get('forge:crude_oil').remove(['pneumaticcraft:oil'])
+	event.get('forge:biodiesel').remove(['pneumaticcraft:biodiesel'])
+	event.get('forge:diesel').remove('pneumaticcraft:diesel')
+	event.get('forge:kerosene').remove('pneumaticcraft:kerosene')
+	event.get('forge:gasoline').remove('pneumaticcraft:gasoline')
+	event.get('forge:lubricant').remove('pneumaticcraft:lubricant')
+	event.get('forge:plantoil').remove(['pneumaticcraft:vegetable_oil'])
+
+	//Nitric Acid
+	event.get('forge:nitric_acid').add('chemlib:nitric_acid_fluid')
 })
