@@ -149,7 +149,7 @@
 			}]
 		}
 		{
-			x: 21.0d
+			x: 22.5d
 			y: 0.0d
 			dependencies: ["06284B5DA2E60867"]
 			id: "4424CD0D54828AE5"
@@ -387,7 +387,7 @@
 			}]
 		}
 		{
-			x: 19.5d
+			x: 21.0d
 			y: 0.0d
 			id: "3640A4B06B9ABE39"
 			tasks: [{
@@ -546,6 +546,16 @@
 				id: "4A399DF14322573A"
 				type: "item"
 				item: "the_ages_of_times:quantum_physics_book"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 0.0d
+			id: "05DD697E854555B1"
+			tasks: [{
+				id: "7F527308BAB39F33"
+				type: "item"
+				item: "the_ages_of_times:hydrogen_oxygen_mix_bucket"
 			}]
 		}
 	]
