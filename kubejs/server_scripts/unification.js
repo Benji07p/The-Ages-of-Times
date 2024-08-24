@@ -414,12 +414,12 @@ onEvent('fluid.tags', event => {
 	//Fuel
 	event.get('forge:biodiesel').add('car:bio_diesel')
 	event.get('forge:crude_oil').remove(['pneumaticcraft:oil'])
-	event.get('forge:biodiesel').remove(['pneumaticcraft:biodiesel'])
+	event.get('forge:biodiesel').remove('pneumaticcraft:biodiesel')
 	event.get('forge:diesel').remove('pneumaticcraft:diesel')
 	event.get('forge:kerosene').remove('pneumaticcraft:kerosene')
 	event.get('forge:gasoline').remove('pneumaticcraft:gasoline')
 	event.get('forge:lubricant').remove('pneumaticcraft:lubricant')
-	event.get('forge:plantoil').remove(['pneumaticcraft:vegetable_oil'])
+	event.get('forge:plantoil').remove(['pneumaticcraft:vegetable_oil', 'createaddition:seed_oil'])
 
 	//Nitric Acid
 	event.get('forge:nitric_acid').add('chemlib:nitric_acid_fluid')

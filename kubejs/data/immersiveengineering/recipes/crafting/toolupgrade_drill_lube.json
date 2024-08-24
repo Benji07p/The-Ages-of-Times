@@ -1,0 +1,22 @@
+{
+    "type":"immersiveengineering:shaped_fluid",
+    "pattern":[
+        " i ",
+        "ioi",
+        " ip"
+    ],
+    "key":{
+        "o":{
+            "item":"immersiveengineering:plantoil_bucket"
+        },
+        "i":{
+            "tag":"forge:plates/iron"
+        },
+        "p":{
+            "item":"immersiveengineering:fluid_pipe"
+        }
+    },
+    "result":{
+        "item":"immersiveengineering:toolupgrade_drill_lube"
+    }
+}

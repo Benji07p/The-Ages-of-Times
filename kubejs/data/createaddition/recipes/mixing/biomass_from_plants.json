@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+	{
+      "tag": "createaddition:plants"
+    },
+    {
+      "tag": "createaddition:plants"
+    },
+    {
+      "tag": "createaddition:plants"
+    },
+    {
+      "fluid": "immersiveengineering:plantoil",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "createaddition:biomass",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}
