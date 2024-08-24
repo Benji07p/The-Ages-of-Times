@@ -82,7 +82,7 @@
 			}]
 		}
 		{
-			x: 6.5d
+			x: 7.5d
 			y: 0.5d
 			id: "4F6020CC271C542A"
 			tasks: [{
@@ -96,7 +96,7 @@
 			}]
 		}
 		{
-			x: 8.0d
+			x: 9.5d
 			y: 0.5d
 			id: "75B595274BD461E1"
 			tasks: [{
@@ -108,7 +108,7 @@
 			}]
 		}
 		{
-			x: 10.0d
+			x: 11.0d
 			y: 0.5d
 			id: "4D8784C898432E37"
 			tasks: [{
@@ -118,7 +118,7 @@
 			}]
 		}
 		{
-			x: 11.5d
+			x: 12.5d
 			y: 0.5d
 			id: "157EAF9FE74C60C6"
 			tasks: [{
@@ -135,6 +135,26 @@
 				id: "06C8142342F83DB8"
 				type: "item"
 				item: "extendedcrafting:ultimate_table"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 0.5d
+			id: "0918CDC933D0BA51"
+			tasks: [{
+				id: "7FCED9AD379DA639"
+				type: "item"
+				item: "the_ages_of_times:antimatter_bucket"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 0.5d
+			id: "32746DDF978CCD06"
+			tasks: [{
+				id: "03FCBE305C9A8A90"
+				type: "item"
+				item: "the_ages_of_times:darkmatter_bucket"
 			}]
 		}
 	]
