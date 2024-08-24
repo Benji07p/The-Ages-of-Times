@@ -1,0 +1,9 @@
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#010 minecraft:forest
+#2D6 minecraft:meadow
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#5FF minecraft:river
+#51A minecraft:stony_shore
+#169 minecraft:taiga

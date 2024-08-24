@@ -4714,6 +4714,12 @@
     },
     "done": true
   },
+  "beyond_earth:rocket_tier_3_advancement": {
+    "criteria": {
+      "rocket_tier_3_advancement": "2024-08-24 19:45:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
@@ -5364,6 +5370,12 @@
     },
     "done": true
   },
+  "beyond_earth:rocket_tier_2_advancement": {
+    "criteria": {
+      "rocket_tier_2_advancement": "2024-08-24 19:45:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
@@ -5488,6 +5500,12 @@
   "create:recipes/create.base/crafting/kinetics/speedometerfrom_conversion": {
     "criteria": {
       "has_item": "2024-01-01 13:28:49 +0100"
+    },
+    "done": true
+  },
+  "beyond_earth:rocket_tier_4_advancement": {
+    "criteria": {
+      "rocket_tier_4_advancement": "2024-08-24 19:45:36 +0200"
     },
     "done": true
   },
