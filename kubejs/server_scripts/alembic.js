@@ -794,4 +794,7 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     unfill("chemlib:chlorine", "chemlib:chlorine_fluid", 63, "the_ages_of_times:gas_test_tube")
     oxydoreduction("the_ages_of_times:beaker", 1, "minecraft:coal", 2, "electrodynamics:raworetitanium", 1, "chemlib:chlorine_fluid", 400, 1.0, "chemlib:carbon_monoxide_fluid", 200, "the_ages_of_times:titanium_tetrachloride", 1, 1, "minecraft:air", 1, 0.01)
     melting84272724("chemlib:sodium", 4, "the_ages_of_times:beaker", 3, "the_ages_of_times:titanium_tetrachloride", 1, "tconstruct:molten_glass", 400, "electrodynamics:ingottitanium", 1, 1, "chemlib:sodium_chloride", 4, 1)
+
+    //Nitric Acid
+    distil("chemlib:sulfuric_acid", 1, "chemlib:potassium_nitrate", 1, "chemlib:nitric_acid", 1, 1, "the_ages_of_times:potassium_bisulfate", 1, 1)
 })
