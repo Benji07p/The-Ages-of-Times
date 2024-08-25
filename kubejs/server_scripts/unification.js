@@ -413,7 +413,7 @@ onEvent('fluid.tags', event => {
 
 	//Fuel
 	event.get('forge:biodiesel').add('car:bio_diesel')
-	event.get('forge:crude_oil').remove(['pneumaticcraft:oil'])
+	event.get('forge:crude_oil').remove(['pneumaticcraft:oil', 'beyond_earth:oil'])
 	event.get('forge:biodiesel').remove('pneumaticcraft:biodiesel')
 	event.get('forge:diesel').remove('pneumaticcraft:diesel')
 	event.get('forge:kerosene').remove('pneumaticcraft:kerosene')
