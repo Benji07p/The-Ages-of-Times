@@ -1,0 +1,36 @@
+{
+  "type": "alchemistry:dissolver",
+  "group": "alchemistry:dissolver",
+  "input": {
+    "ingredient": {
+      "item": "the_ages_of_times:potassium_bisulfate"
+    },
+    "count": 1
+  },
+  "output": {
+    "rolls": 1,
+    "weighted": false,
+    "groups": [
+      {
+        "probability": 100.0,
+        "results": [
+          {
+            "item": "chemlib:potassium",
+            "count": 1
+          },
+          {
+            "item": "chemlib:sulfur"
+          },
+          {
+            "item": "chemlib:oxygen",
+            "count": 4
+          },
+          {
+            "item": "chemlib:hydrogen",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  }
+}

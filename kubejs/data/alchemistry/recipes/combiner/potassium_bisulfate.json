@@ -1,0 +1,33 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:oxygen"
+      },
+      "count": 4
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:potassium"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:sulfur"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:hydrogen"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:potassium_bisulfate"
+  }
+}

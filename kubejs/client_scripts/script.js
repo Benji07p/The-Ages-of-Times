@@ -92,6 +92,10 @@ onEvent('item.tooltip', tooltip => {
 		text.add(1, Text.of('§3HgO'))
 	})
 
+	tooltip.addAdvanced(['the_ages_of_times:potassium_bisulfate'], (item, advanced, text) => {
+		text.add(1, Text.of('§3KHSO₄'))
+	})
+
 	tooltip.addAdvanced(['the_ages_of_times:vivianite_dust'], (item, advanced, text) => {
 		text.add(1, Text.of('§3Fe₃(PO₄)₂•8(H₂O)'))
 	})
