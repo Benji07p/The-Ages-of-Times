@@ -118,6 +118,7 @@
 #BA9FBF minecraft:bubble_coral_block
 #424F4E tconstruct:budding_sky_slime_crystal
 #CF26E9 car:cable
+#3B0CF8 computercraft:cable
 #C6AC20 minecraft:cactus
 #00BE18 minecraft:calcite
 #FC842A minecraft:campfire
@@ -171,6 +172,7 @@
 #3799E2 pneumaticcraft:compressed_brick_slab
 #2518F2 pneumaticcraft:compressed_brick_stairs
 #8F803E pneumaticcraft:compressed_stone_slab
+#AA7746 computercraft:computer_normal
 #1030A6 immersiveengineering:concrete_fluid_block
 #E727DA immersiveengineering:concrete_sprayed
 #2C7BC8 immersiveengineering:connector_hv
@@ -260,6 +262,7 @@
 #4EA36A minecraft:diorite_wall
 #80497A minecraft:dirt
 #4FA7D0 minecraft:dirt_path
+#910123 computercraft:disk_drive
 #A47868 alchemistry:dissolver
 #5B644A immersivepetroleum:distillation_tower
 #3B0AD1 minecraft:dripstone_block
@@ -749,7 +752,9 @@
 #9678C6 the_ages_of_times:white_water
 #BC20FE minecraft:white_wool
 #79C917 create:windmill_bearing
+#46AAFF computercraft:wired_modem_full
 #70BCAC electrodynamics:wirehighlyinsulatedsuperconductive
+#5ECF58 computercraft:wireless_modem_normal
 #D066AA minecraft:wither_skeleton_skull
 #F75977 immersiveengineering:wooden_barrel
 #9C81F3 woodenhopper:wooden_hopper

@@ -1217,6 +1217,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/turtle_normal": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
+    },
+    "done": true
+  },
   "notreepunching:andesite_cobblestone_from_rocks": {
     "criteria": {
       "has_item": "2023-12-16 22:27:57 +0100"
@@ -1464,6 +1470,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/speaker": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2024-06-13 17:31:41 +0200"
@@ -1536,15 +1548,57 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/disk_16": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/raw_block_lead_to_raw_lead": {
     "criteria": {
       "has_raw_block_lead": "2024-02-02 18:15:46 +0100"
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/disk_14": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_15": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/smooth_plastic_brick_gray": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_12": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_13": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_10": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_11": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
     },
     "done": true
   },
@@ -1722,6 +1776,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/wireless_modem_normal": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
@@ -1846,6 +1906,18 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/disk_1": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_2": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
@@ -1918,6 +1990,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_normal": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
@@ -1954,6 +2032,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/disk_7": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
   "woodenbucket:recipes/misc/wooden_bucket": {
     "criteria": {
       "has_log": "2023-12-22 22:40:22 +0100"
@@ -1966,9 +2050,39 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/disk_8": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_9": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_3": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
   "chemlib:recipes/chemlib.metals/thorium_ingot_to_nugget": {
     "criteria": {
       "has_thorium": "2023-12-27 17:06:52 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_4": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_5": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
     },
     "done": true
   },
@@ -1981,6 +2095,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-01-17 13:37:20 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_6": {
+    "criteria": {
+      "has_drive": "2024-08-25 15:05:44 +0200"
     },
     "done": true
   },
@@ -2597,6 +2717,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_advanced": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2023-12-13 20:42:34 +0100"
@@ -3025,6 +3151,12 @@
   "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2024-01-14 20:18:03 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wired_modem": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
     },
     "done": true
   },
@@ -5608,6 +5740,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/monitor_advanced": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-02-06 15:43:58 +0100"
@@ -5797,6 +5935,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_gasoline_bottle": "2024-08-17 18:50:53 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wired_modem_full_to": {
+    "criteria": {
+      "has_modem": "2024-08-25 15:05:08 +0200"
     },
     "done": true
   },
@@ -6037,6 +6181,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wired_modem_full_from": {
+    "criteria": {
+      "has_modem": "2024-08-25 15:05:08 +0200"
     },
     "done": true
   },
@@ -7174,6 +7324,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/cable": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-04-13 17:53:16 +0200"
@@ -7573,6 +7729,12 @@
   "ironchest:recipes/ironchest/chests/trapped_gold_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_drive": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
     },
     "done": true
   },
@@ -8233,6 +8395,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/turtle_advanced": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard": {
     "criteria": {
       "has_alu_ingot": "2024-07-23 15:31:53 +0200"
@@ -8308,6 +8476,12 @@
   "ceramicshears:recipes/misc/clay_shears_part": {
     "criteria": {
       "has_clay": "2023-12-04 17:35:07 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/monitor_normal": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
     },
     "done": true
   },
@@ -8586,6 +8760,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wireless_modem_advanced": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
     },
     "done": true
   },
@@ -9234,6 +9414,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/printer": {
+    "criteria": {
+      "has_computer": "2024-08-25 15:03:10 +0200"
     },
     "done": true
   },
