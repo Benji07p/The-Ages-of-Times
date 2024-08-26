@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "beyond_earth:space_station": {
+    "criteria": {
+      "player_create_space_station": "2024-08-26 18:32:30 +0200"
+    },
+    "done": true
+  },
   "notreepunching:clay_tool": {
     "criteria": {
       "has_item": "2023-12-04 18:07:36 +0100"
@@ -170,6 +176,12 @@
   "ceramics:recipes/ceramics/blue_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/search_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/security_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:55 +0100"
@@ -437,6 +455,12 @@
     },
     "done": true
   },
+  "functionalstorage:recipes/functionalstorage/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -521,6 +545,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/charging_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_skillet": {
     "criteria": {
       "skillet": "2024-01-14 20:17:21 +0100"
@@ -578,6 +608,12 @@
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -671,6 +707,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/empty_pcb": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
@@ -683,9 +725,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/assembly_program_drill_laser": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:14 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/drone": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
     },
     "done": true
   },
@@ -779,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "notreepunching:diamond_saw": {
     "criteria": {
       "has_item": "2024-02-02 22:13:07 +0100"
@@ -857,6 +917,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/network_data_storage": {
+    "criteria": {
+      "has_capacitor": "2024-08-26 14:48:16 +0200"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/pink_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
@@ -878,6 +944,12 @@
   "notreepunching:flint_pickaxe": {
     "criteria": {
       "has_item": "2024-01-16 20:42:28 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/packed_ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -953,6 +1025,12 @@
     },
     "done": true
   },
+  "notreepunching:netherite_mattock": {
+    "criteria": {
+      "has_item": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2023-12-11 20:57:12 +0100"
@@ -995,6 +1073,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/block_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/track_observer": {
     "criteria": {
       "has_item": "2024-08-08 16:12:13 +0200"
@@ -1004,6 +1088,12 @@
   "tconstruct:world/earth_island": {
     "criteria": {
       "found_island": "2024-01-20 11:23:49 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -1091,6 +1181,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/black_clear_stained_glass": {
     "criteria": {
       "has_clear_glass": "2024-02-01 21:20:43 +0100"
@@ -1136,6 +1238,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_white": {
     "criteria": {
       "has_sheetmetal": "2024-01-24 16:41:46 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/solar_wafer": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -1211,6 +1319,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/pneumatic_boots": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_wallmount": {
     "criteria": {
       "has_aluminum_ingot": "2024-07-23 15:31:53 +0200"
@@ -1280,6 +1394,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pcb_blueprint": {
+    "criteria": {
+      "0": "2024-08-26 12:27:10 +0200"
     },
     "done": true
   },
@@ -1602,6 +1722,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/assembly_controller": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/axe_steel": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
@@ -1713,6 +1839,12 @@
   "ceramics:recipes/ceramics/golden_bricks_gold": {
     "criteria": {
       "has_gold": "2024-01-01 19:13:41 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/spawner_core_shell": {
+    "criteria": {
+      "has_pressure_chamber_glass": "2024-08-26 14:55:58 +0200"
     },
     "done": true
   },
@@ -1837,6 +1969,12 @@
   "create:recipes/create.palettes/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-08-26 14:59:57 +0200"
     },
     "done": true
   },
@@ -1990,9 +2128,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:uv_light_box": {
+    "criteria": {
+      "0": "2024-08-26 13:25:55 +0200"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_normal": {
     "criteria": {
       "has_computer": "2024-08-25 15:03:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
     },
     "done": true
   },
@@ -2230,6 +2380,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/assembly_io_unit_import": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-01-04 18:21:24 +0100"
@@ -2452,6 +2608,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/programming_puzzle": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "chemlib:recipes/chemlib.metals/calcium_nugget_to_ingot": {
     "criteria": {
       "has_calcium": "2024-08-10 16:24:53 +0200"
@@ -2572,6 +2734,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/dispenser_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/white_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
@@ -2647,6 +2815,12 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/assembly_io_unit_import_from_export": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
     },
     "done": true
   },
@@ -2789,6 +2963,12 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2024-08-26 15:08:35 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_blue": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
@@ -2807,6 +2987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/brass_door": {
     "criteria": {
       "has_item": "2023-12-13 15:03:54 +0100"
@@ -2822,6 +3008,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/survey_tools": {
     "criteria": {
       "has_hammer": "2023-12-09 14:30:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-08-26 14:59:57 +0200"
     },
     "done": true
   },
@@ -2938,6 +3130,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/ender_visor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/lava_bricks_wall_crafting": {
     "criteria": {
       "has_item": "2023-12-12 20:55:19 +0100"
@@ -2986,6 +3184,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/wheat_flour": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2024-03-16 11:58:12 +0100"
@@ -3022,9 +3226,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/item_life_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/inventory_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -3043,6 +3259,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/air_cannon": {
     "criteria": {
       "has_pressure_tube": "2024-08-20 19:13:48 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/pneumatic_helmet": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
     },
     "done": true
   },
@@ -3288,6 +3510,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/micromissiles": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/charging_station": {
     "criteria": {
       "has_pressure_tube": "2024-08-20 19:13:48 +0200"
@@ -3309,6 +3537,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/range_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -3378,9 +3612,27 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/flippers_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/schedule": {
     "criteria": {
       "has_item": "2024-08-08 16:20:02 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_powerpack": {
+    "criteria": {
+      "has_item": "2024-08-26 17:07:36 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_chamber": {
+    "criteria": {
+      "0": "2024-08-26 14:57:50 +0200"
     },
     "done": true
   },
@@ -3411,6 +3663,12 @@
   "create:recipes/create.base/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2024-08-26 14:59:57 +0200"
     },
     "done": true
   },
@@ -3558,6 +3816,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/minigun_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-01-04 18:21:24 +0100"
@@ -3667,6 +3931,12 @@
       "ras_fury": "2023-12-04 17:35:07 +0100",
       "gebs_might": "2023-12-04 17:35:07 +0100",
       "isis_healing": "2023-12-04 17:35:07 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_powerpack_induction": {
+    "criteria": {
+      "has_powerpack": "2024-08-26 17:07:36 +0200"
     },
     "done": true
   },
@@ -3898,6 +4168,12 @@
     },
     "done": true
   },
+  "immersiveengineering:tools/secret_bttf": {
+    "criteria": {
+      "code_trigger": "2024-08-26 17:10:27 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/canvas_rug": {
     "criteria": {
       "has_canvas": "2024-01-20 11:38:35 +0100"
@@ -3940,6 +4216,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/porcelain_bricks_wall_crafting": {
     "criteria": {
       "has_item": "2023-12-13 15:26:15 +0100"
@@ -3949,6 +4231,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-02-21 17:06:26 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/gilded_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -4564,6 +4852,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_powerpack_tesla": {
+    "criteria": {
+      "has_powerpack": "2024-08-26 17:07:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:46 +0100"
@@ -4726,6 +5020,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/network_node": {
+    "criteria": {
+      "has_capacitor": "2024-08-26 14:48:16 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/plate_leggings": {
     "criteria": {
       "has_item": "2024-08-17 16:11:13 +0200"
@@ -4777,6 +5077,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_shield_magnet": {
     "criteria": {
       "has_shield": "2024-08-17 18:54:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
     },
     "done": true
   },
@@ -4837,6 +5143,12 @@
   "chemlib:recipes/chemlib.metals/bismuth_ingot_from_blasting_bismuth_dust": {
     "criteria": {
       "has_bismuth": "2024-02-02 18:25:58 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/standby_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -4918,6 +5230,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/network_api": {
+    "criteria": {
+      "has_capacitor": "2024-08-26 14:48:16 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-02-01 20:44:03 +0100"
@@ -4956,6 +5274,12 @@
       "gold_bracelet": "2023-12-04 17:35:07 +0100",
       "emerald_necklace": "2023-12-04 17:35:07 +0100",
       "silver_brooch": "2023-12-04 17:35:07 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/module_expansion_card": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
     },
     "done": true
   },
@@ -5067,6 +5391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:46 +0100"
@@ -5124,6 +5454,12 @@
   "antiqueatlas:recipes/atlas": {
     "criteria": {
       "has_compass": "2023-12-04 17:35:07 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/coal_to_diamond": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -5235,6 +5571,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/decorations/skull_cloudy": {
+    "criteria": {
+      "has_monitor": "2024-08-26 17:31:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
@@ -5337,6 +5679,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/assembly_platform": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -5373,9 +5721,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/pneumatic_chestplate": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-03-17 19:40:50 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_stone": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -5418,6 +5778,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_tile_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2024-07-23 15:21:16 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/programmer": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
     },
     "done": true
   },
@@ -5532,6 +5898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
@@ -5557,6 +5929,12 @@
     },
     "done": false
   },
+  "pneumaticcraft:programmable_controller": {
+    "criteria": {
+      "0": "2024-08-26 13:36:55 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/string": {
     "criteria": {
       "has_hemp_fiber": "2024-02-01 20:45:57 +0100"
@@ -5572,6 +5950,18 @@
   "create:recipes/create.base/crafting/materials/brass_ingot_from_decompacting": {
     "criteria": {
       "has_item": "2023-12-22 18:13:09 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_powerpack_antenna": {
+    "criteria": {
+      "has_powerpack": "2024-08-26 17:07:36 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:printed_circuit_board": {
+    "criteria": {
+      "0": "2024-08-26 12:27:11 +0200"
     },
     "done": true
   },
@@ -5665,6 +6055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/polished_scorched_stone_stonecutting": {
     "criteria": {
       "has_block": "2024-01-19 17:20:14 +0100"
@@ -5674,6 +6070,12 @@
   "chemlib:recipes/chemlib.metals/tungsten_ingot_to_nugget": {
     "criteria": {
       "has_tungsten": "2024-08-13 18:45:38 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/speed_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -5767,6 +6169,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-03-30 20:20:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
     },
     "done": true
   },
@@ -5878,6 +6286,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:empty_pcb": {
+    "criteria": {
+      "0": "2024-08-26 12:27:21 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/compactor": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
@@ -5947,6 +6361,12 @@
   "ceramics:recipes/ceramics/cyan_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/assembly_io_unit_export": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
     },
     "done": true
   },
@@ -6091,6 +6511,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/electrum_mix": {
     "criteria": {
       "has_gold_dust": "2024-01-02 12:26:54 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/volume_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -6280,6 +6706,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/programmable_controller": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
     "criteria": {
       "has_bitumen": "2024-07-24 15:13:03 +0200"
@@ -6361,6 +6793,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/armor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -6508,9 +6946,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_iron_ingot": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_slope": {
     "criteria": {
       "has_steel_scaffolding_standard": "2024-01-24 16:45:26 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
     },
     "done": true
   },
@@ -6544,6 +6994,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/assembly_laser": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
@@ -6553,6 +7009,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-01-04 18:21:24 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_iron_block": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -6730,6 +7192,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/pneumatic_dynamo": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "notreepunching:plant_fiber_from_tall_flowers_with_knife": {
     "criteria": {
       "has_item": "2024-01-20 11:22:27 +0100"
@@ -6793,6 +7261,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/gps_tool_from_gps_area_tool": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/entity_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -7150,6 +7624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
@@ -7165,6 +7645,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:10 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/network_registry": {
+    "criteria": {
+      "has_capacitor": "2024-08-26 14:48:16 +0200"
     },
     "done": true
   },
@@ -7210,9 +7696,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/magnet_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_structural": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/flux_compressor": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
     },
     "done": true
   },
@@ -7249,6 +7747,12 @@
   "create:recipes/create.palettes/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2024-01-24 17:34:50 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/pneumatic_leggings": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
     },
     "done": true
   },
@@ -7870,6 +8374,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/assembly_drill": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hoe_steel": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
@@ -7954,6 +8464,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/uv_light_box": {
+    "criteria": {
+      "has_pcb_blueprint": "2024-08-26 12:27:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2023-12-04 18:07:24 +0100"
@@ -7999,6 +8515,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:unassembled_pcb": {
+    "criteria": {
+      "0": "2024-08-26 12:27:17 +0200"
     },
     "done": true
   },
@@ -8080,9 +8602,21 @@
     },
     "done": true
   },
+  "notreepunching:netherite_knife": {
+    "criteria": {
+      "has_item": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/current_transformer": {
     "criteria": {
       "has_voltmeter": "2024-03-22 18:37:46 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/etching_acid": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -8134,6 +8668,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/wireless_booster": {
+    "criteria": {
+      "has_dusts/ender": "2024-08-26 13:11:38 +0200"
+    },
+    "done": true
+  },
   "electrodynamics:raworelepidolite": {
     "criteria": {
       "HasRawOre": "2024-08-08 18:25:00 +0200"
@@ -8179,6 +8719,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/chute_retextured": {
     "criteria": {
       "has_item": "2024-01-19 17:20:14 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:netherite_saw": {
+    "criteria": {
+      "has_item": "2024-08-26 18:11:42 +0200"
     },
     "done": true
   },
@@ -8245,6 +8791,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
     "criteria": {
       "has_copper_ingot": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/milk_to_slime_balls": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -8335,6 +8887,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/blue_ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/elevator_pulley": {
     "criteria": {
       "has_item": "2024-01-24 17:34:50 +0100"
@@ -8386,6 +8944,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-08-26 18:54:18 +0200"
     },
     "done": true
   },
@@ -8646,6 +9210,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_shield_shock": {
     "criteria": {
       "has_shield": "2024-08-17 18:54:00 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/network_io_port": {
+    "criteria": {
+      "has_capacitor": "2024-08-26 14:48:16 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/remote": {
+    "criteria": {
+      "has_transistor": "2024-08-26 14:47:55 +0200"
     },
     "done": true
   },
@@ -9039,6 +9615,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/assembly_io_unit_export_from_import": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
     "criteria": {
       "has_item": "2023-12-13 15:03:54 +0100"
@@ -9048,6 +9630,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2024-08-22 14:59:49 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/stomp_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -9084,6 +9672,18 @@
   "alchemistry:recipes/alchemistry/fission_core": {
     "criteria": {
       "has_item": "2024-07-27 19:02:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/transistor": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -9231,9 +9831,21 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/computer_normal": {
+    "criteria": {
+      "has_redstone": "2024-08-26 14:59:41 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2023-12-13 15:03:55 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/coordinate_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -9282,6 +9894,12 @@
   "atum:core/itsadate": {
     "criteria": {
       "date": "2024-03-30 19:07:46 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/capacitor": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -9378,6 +9996,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-02-06 15:43:58 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/turbine_blade": {
+    "criteria": {
+      "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
     },
     "done": true
   },
@@ -9555,6 +10179,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/security_station": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
@@ -9603,9 +10233,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/solar_compressor": {
+    "criteria": {
+      "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2024-01-24 17:34:50 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/speed_upgrade_from_glycerol": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
     },
     "done": true
   },
@@ -9868,6 +10510,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/elytra_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-01-01 19:13:41 +0100"
@@ -9907,6 +10555,12 @@
   "tardim:recipes/panel_rotation_switch": {
     "criteria": {
       "has_stone": "2023-12-13 15:25:49 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/diagnostic_subroutine": {
+    "criteria": {
+      "has_capacitor": "2024-08-26 14:48:16 +0200"
     },
     "done": true
   },

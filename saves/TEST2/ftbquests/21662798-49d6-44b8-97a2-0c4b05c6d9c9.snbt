@@ -10,8 +10,13 @@
 	task_progress: { }
 	started: {
 		0000000000000001: 1699299853796L
+		02A464471ABBDD70: 1724684771985L
+		4CDE81A523F5DE0D: 1724684771985L
 	}
-	completed: { }
+	completed: {
+		02A464471ABBDD70: 1724684771985L
+		4CDE81A523F5DE0D: 1724684771985L
+	}
 	claimed_rewards: { }
 	pinned_quests: [ ]
 }

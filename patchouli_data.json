@@ -1,5 +1,15 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "pneumaticcraft:book": {
+      "viewedEntries": [
+        "pneumaticcraft:tools/drone",
+        "pneumaticcraft:components/transistor",
+        "pneumaticcraft:manufacturing/pressure_chamber"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

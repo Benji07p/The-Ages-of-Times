@@ -68,6 +68,7 @@
 #0306AC minecraft:birch_stairs
 #2C38FD minecraft:birch_trapdoor
 #7BA036 minecraft:birch_wall_sign
+#6472F9 minecraft:black_stained_glass_pane
 #C9CBB9 minecraft:blackstone
 #64CB99 immersiveengineering:blast_furnace
 #7F8A04 minecraft:blast_furnace
@@ -278,6 +279,7 @@
 #4C963A minecraft:emerald_ore
 #A952FC create:encased_chain_drive
 #622CB1 minecraft:end_portal_frame
+#89C856 minecraft:end_rod
 #3A8323 chemlib:epinephrine
 #157107 chemlib:ethane
 #D76B4B chemlib:ethanol
@@ -349,6 +351,7 @@
 #9A844C the_ages_of_times:ink_press_test
 #2E2249 minecraft:iron_block
 #EAC0B1 ironchest:iron_chest
+#102198 beyond_earth:iron_mark_block
 #D7EADE minecraft:iron_ore
 #051C87 tconstruct:iron_platform
 #8E1D90 beyond_earth:iron_plating_block
@@ -427,6 +430,7 @@
 #22D2F8 tconstruct:molten_tungsten_fluid
 #A13458 tconstruct:molten_zinc_fluid
 #98296E the_ages_of_times:molybdenum_sulfate
+#AB8427 computercraft:monitor_normal
 #55AC9E beyond_earth:moon_cheese_ore
 #A16428 beyond_earth:moon_sand
 #0AFECD beyond_earth:moon_stone
@@ -463,9 +467,11 @@
 #5C837A create:ochrum
 #E41AF8 beyond_earth:oil
 #2D6ABE pneumaticcraft:oil
+#C122EE pneumaticcraft:omnidirectional_hopper
 #ACD9AE domum_ornamentum:one_crossed_lr
 #ACDA62 domum_ornamentum:one_crossed_rl
 #6146E3 minecraft:orange_bed
+#79BDC3 minecraft:orange_stained_glass
 #8F6314 minecraft:orange_tulip
 #BF0745 immersiveengineering:ore_aluminum
 #AEFCD8 the_ages_of_times:ore_argyrodite
@@ -518,6 +524,7 @@
 #522933 minecraft:pointed_dripstone
 #6A5197 minecraft:polished_andesite
 #5CDCB7 minecraft:polished_basalt
+#FCAD85 minecraft:polished_blackstone_brick_wall
 #EA3611 minecraft:polished_deepslate
 #E685AE minecraft:polished_deepslate_slab
 #437566 minecraft:polished_granite
@@ -536,7 +543,11 @@
 #C5DDD6 minecraft:potted_red_tulip
 #CB1F3C minecraft:powder_snow
 #D1BD63 create:powered_shaft
+#E16B4A pneumaticcraft:pressure_chamber_interface
+#48EA21 pneumaticcraft:pressure_chamber_valve
+#4E2A71 pneumaticcraft:pressure_chamber_wall
 #CB012A pneumaticcraft:pressure_tube
+#B4F304 pneumaticcraft:programmable_controller
 #652575 immersivepetroleum:pumpjack
 #E6B35B minecraft:pumpkin
 #8DE070 ae2:quartz_ore
@@ -624,6 +635,7 @@
 #079D5C immersiveengineering:sheetmetal_steel
 #3624F5 domum_ornamentum:shingle
 #177682 domum_ornamentum:shingle_slab
+#F68259 minecraft:shroomlight
 #9E85C9 the_ages_of_times:silver_sulfate
 #2AA99B farmersdelight:skillet
 #615192 tconstruct:sky_congealed_slime
@@ -645,6 +657,8 @@
 #975FAF create:smart_chute
 #C2A0D6 minecraft:smoker
 #8638B9 minecraft:smooth_basalt
+#E05640 minecraft:smooth_quartz_slab
+#F3DB90 minecraft:smooth_quartz_stairs
 #13D503 minecraft:smooth_sandstone
 #046DFC minecraft:smooth_sandstone_slab
 #70F44C minecraft:smooth_sandstone_stairs
@@ -671,6 +685,7 @@
 #5DB983 immersiveengineering:stairs_treated_wood_horizontal
 #8C8A95 create:steam_engine
 #1ADE45 immersiveengineering:steel_fence
+#9D641C immersiveengineering:steel_post
 #F428EC immersiveengineering:steel_scaffolding_standard
 #A6EAD6 the_ages_of_times:stibarsen
 #4762B7 create:sticky_mechanical_piston
@@ -714,6 +729,7 @@
 #4C0FBF createaddition:tesla_coil
 #A3B970 ballistix:thermobaric
 #982755 the_ages_of_times:tin_sulfate
+#2F5CAD ae2:tiny_tnt
 #0BBF37 minecraft:trapped_chest
 #70F033 immersiveengineering:treated_fence
 #2035B7 minecraft:tube_coral_block
@@ -725,6 +741,7 @@
 #B945D4 the_ages_of_times:turntest
 #36CBC5 extendedcrafting:ultimate_table
 #81B30B the_ages_of_times:uranium_hexafluoride
+#EB17F0 pneumaticcraft:uv_light_box
 #73259E pneumaticcraft:vacuum_pump
 #74EA63 pneumaticcraft:vacuum_trap
 #A79137 the_ages_of_times:vanadium_sulfate
