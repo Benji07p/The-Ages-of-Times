@@ -1,0 +1,13 @@
+{
+  "type": "pneumaticcraft:assembly_laser",
+  "input": {
+    "type": "forge:nbt",
+    "item": "pneumaticcraft:empty_pcb",
+    "count": 1,
+    "nbt": "{\"pneumaticcraft:uv_exposure\":100}"
+  },
+  "result": {
+    "item": "pneumaticcraft:unassembled_pcb"
+  },
+  "program": "laser"
+}
