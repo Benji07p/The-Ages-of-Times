@@ -1964,6 +1964,67 @@ onEvent('recipes', event => {
 
 	//Fuel
 	event.remove({ id: 'beyond_earth:fuel_refining/fuel_from_curde_oil'})
+
+	//Computer Circuit
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "ABCCCBA",
+			  "BDEFEDB",
+			  "CEGHGEC",
+			  "CFHIHFC",
+			  "CEGHGEC",
+			  "BDEFEDB",
+			  "ABCCCBA"
+			],
+			"key": {
+			  "A": {
+				"item": "immersiveengineering:logic_circuit"
+			  },
+			  "B": {
+				"item": "electrodynamics:circuitbasic"
+			  },
+			  "C": {
+				"item": "createaddition:capacitor"
+			  },
+			  "D": {
+				"item": "electrodynamics:wirecopper"
+			  },
+			  "E": {
+				"item": "pneumaticcraft:capacitor"
+			  },
+			  "F": {
+				"item": "pneumaticcraft:transistor"
+			  },
+			  "G": {
+				"item": "pneumaticcraft:printed_circuit_board"
+			  },
+			  "H": {
+				"item": "electrodynamics:circuitadvanced"
+			  },
+			  "I": {
+				"item": "immersiveengineering:circuit_board"
+			  }
+			},
+			"result": {
+			  "item": "the_ages_of_times:computer_circuit"
+			}
+		  }
+	)
+
+	//Computer
+	event.remove({ id: 'computercraft:computer_normal'})
+	event.shaped('computercraft:computer_normal', [
+		'SHS',
+		'HGH',
+		'SCS'
+	], {
+	S: 'pneumaticcraft:printed_circuit_board',
+	G: 'computercraft:monitor_normal',
+	H: 'pneumaticcraft:module_expansion_card',
+	C: 'the_ages_of_times:computer_circuit'
+	})
 })
 
 onEvent('item.tags', event => {
