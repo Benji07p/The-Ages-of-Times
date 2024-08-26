@@ -1,0 +1,25 @@
+{
+  "type": "pneumaticcraft:crafting_shaped_no_mirror",
+  "pattern": [
+    "HCC",
+    "  C",
+    "IBI"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "C": {
+      "item": "pneumaticcraft:pneumatic_cylinder"
+    },
+    "B": {
+      "item": "electrodynamics:circuitadvanced"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:assembly_io_unit_import"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "TBB",
+    "III"
+  ],
+  "key": {
+    "B": {
+      "item": "electrodynamics:circuitadvanced"
+    },
+    "T": {
+      "item": "pneumaticcraft:pressure_tube"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:assembly_controller"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DCC",
+    "  C",
+    "IBI"
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:gems/diamond"
+    },
+    "C": {
+      "item": "pneumaticcraft:pneumatic_cylinder"
+    },
+    "B": {
+      "item": "electrodynamics:circuitadvanced"
+    },
+    "I": {
+      "tag": "forge:ingots/compressed_iron"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:assembly_drill"
+  }
+}
