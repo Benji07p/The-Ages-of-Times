@@ -1,7 +1,7 @@
 {
 	id: "06284B5DA2E60867"
 	group: ""
-	order_index: 3
+	order_index: 2
 	filename: "future_ages"
 	title: "Future Ages"
 	default_quest_shape: ""
@@ -22,11 +22,10 @@
 			y: 0.5d
 			id: "25DDC68A595A19A1"
 			tasks: [{
-				id: "79F7E71DDD1B7D50"
-				type: "dimension"
-				title: "Mars"
-				icon: "beyond_earth:mars_stone"
-				dimension: "beyond_earth:mars"
+				id: "6639AC83AE2B3699"
+				type: "advancement"
+				advancement: "beyond_earth:mars"
+				criterion: ""
 			}]
 		}
 		{
@@ -44,26 +43,15 @@
 			}]
 		}
 		{
-			title: "Mercury and Venus"
 			x: 3.0d
 			y: 0.5d
 			id: "656B3607290058B5"
-			tasks: [
-				{
-					id: "4D8324754C2B3281"
-					type: "dimension"
-					title: "Mercury"
-					icon: "beyond_earth:mercury_stone"
-					dimension: "beyond_earth:mercury"
-				}
-				{
-					id: "0FF0764034A44143"
-					type: "dimension"
-					title: "Venus"
-					icon: "beyond_earth:venus_stone"
-					dimension: "beyond_earth:venus"
-				}
-			]
+			tasks: [{
+				id: "7B930A6F2D57E63E"
+				type: "advancement"
+				advancement: "beyond_earth:mercury"
+				criterion: ""
+			}]
 		}
 		{
 			x: 4.5d
@@ -100,11 +88,10 @@
 			y: 0.5d
 			id: "75B595274BD461E1"
 			tasks: [{
-				id: "37CF49FF49FB6EB5"
-				type: "dimension"
-				title: "Glacio"
-				icon: "beyond_earth:glacio_stone"
-				dimension: "beyond_earth:glacio"
+				id: "1F36263273F2BBA8"
+				type: "advancement"
+				advancement: "beyond_earth:glacio"
+				criterion: ""
 			}]
 		}
 		{
@@ -155,6 +142,17 @@
 				id: "03FCBE305C9A8A90"
 				type: "item"
 				item: "the_ages_of_times:darkmatter_bucket"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.5d
+			id: "39087513CDDD7450"
+			tasks: [{
+				id: "700B5AA570B48D13"
+				type: "advancement"
+				advancement: "beyond_earth:venus"
+				criterion: ""
 			}]
 		}
 	]
