@@ -8200,6 +8200,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/computer_command": {
+    "criteria": {
+      "has_components": "2024-08-27 14:20:01 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rice_bag": {
     "criteria": {
       "has_rice": "2024-01-20 11:22:59 +0100"

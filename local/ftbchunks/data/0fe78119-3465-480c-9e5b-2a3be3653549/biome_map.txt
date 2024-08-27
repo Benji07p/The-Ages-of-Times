@@ -1,0 +1,7 @@
+#3D6 minecraft:cold_ocean
+#51E minecraft:jagged_peaks
+#2D6 minecraft:meadow
+#3DC minecraft:plains
+#5FF minecraft:river
+#524 minecraft:snowy_slopes
+#51A minecraft:stony_shore

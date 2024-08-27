@@ -1,0 +1,10 @@
+#556 minecraft:beach
+#3D6 minecraft:cold_ocean
+#4F9 minecraft:dark_forest
+#010 minecraft:forest
+#498 minecraft:lush_caves
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#3DC minecraft:plains
+#5FF minecraft:river
+#169 minecraft:taiga
