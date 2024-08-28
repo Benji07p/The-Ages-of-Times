@@ -46,6 +46,7 @@
 #7266EB the_ages_of_times:barrel
 #75DFAA minecraft:barrier
 #18D108 minecraft:basalt
+#FEBDAF the_ages_of_times:basic_satellite
 #B831E2 extendedcrafting:basic_table
 #E152BD create:basin
 #85547E electrodynamics:batterybox
@@ -91,6 +92,7 @@
 #0ADD53 minecolonies:blockhutguardtower
 #7F1716 minecolonies:blockhutlibrary
 #3A8A39 minecolonies:blockhutlumberjack
+#4EB3D3 minecolonies:blockhutmechanic
 #E47A5A minecolonies:blockhutminer
 #0B8E43 minecolonies:blockhutschool
 #EDB61A minecolonies:blockhuttownhall
@@ -384,6 +386,7 @@
 #19EEF2 immersiveengineering:light_engineering
 #7482E4 minecraft:lilac
 #DFD691 minecraft:lily_pad
+#794FA2 minecraft:lime_concrete
 #746434 create:limestone
 #4A0ECF atum:limestone_brick_small
 #FC9307 atum:limestone_chest
@@ -572,6 +575,7 @@
 #24BE64 minecraft:redstone_torch
 #5D17E5 minecraft:redstone_wall_torch
 #721B63 minecraft:redstone_wire
+#487B7B minecraft:repeater
 #31B0B4 minecraft:repeating_command_block
 #A69CFB electrodynamics:resourceblocklead
 #CA5CEC electrodynamics:resourceblocksilver
@@ -666,6 +670,7 @@
 #CB82F8 minecraft:smooth_stone_slab
 #872D76 minecraft:snow
 #12E6C4 minecraft:snow_block
+#00A2EF pneumaticcraft:solar_compressor
 #A0B4F5 minecraft:soul_fire
 #A67F43 minecraft:soul_sand
 #A6B33E minecraft:soul_soil
@@ -730,6 +735,7 @@
 #A3B970 ballistix:thermobaric
 #982755 the_ages_of_times:tin_sulfate
 #2F5CAD ae2:tiny_tnt
+#07CAA1 immersiveengineering:transformer
 #0BBF37 minecraft:trapped_chest
 #70F033 immersiveengineering:treated_fence
 #2035B7 minecraft:tube_coral_block

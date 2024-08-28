@@ -929,6 +929,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/safety_tube_module": {
+    "criteria": {
+      "has_pressure_gauge": "2024-08-28 13:50:35 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/gold_bars": {
     "criteria": {
       "has_ingot": "2024-01-01 19:13:41 +0100"
@@ -1581,6 +1587,12 @@
   "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2024-02-10 17:57:07 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_feet": {
+    "criteria": {
+      "has_alu_plate": "2024-08-28 13:34:31 +0200"
     },
     "done": true
   },
@@ -2728,6 +2740,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_chest": {
+    "criteria": {
+      "has_alu_plate": "2024-08-28 13:34:31 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green": {
     "criteria": {
       "has_sheetmetal": "2024-01-24 16:41:46 +0100"
@@ -3864,6 +3882,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/pressure_gauge_module": {
+    "criteria": {
+      "has_pressure_gauge": "2024-08-28 13:50:35 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_light_gray": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
@@ -4405,6 +4429,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:10 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_aluminum": {
+    "criteria": {
+      "has_plate": "2024-08-28 13:34:31 +0200"
     },
     "done": true
   },
@@ -6676,6 +6706,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_legs": {
+    "criteria": {
+      "has_alu_plate": "2024-08-28 13:34:31 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
@@ -6799,6 +6835,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/armor_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_head": {
+    "criteria": {
+      "has_alu_plate": "2024-08-28 13:34:31 +0200"
     },
     "done": true
   },
@@ -10038,6 +10080,12 @@
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2024-01-17 13:42:16 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/maintenance_kit": {
+    "criteria": {
+      "has_wirecutter": "2024-08-28 16:34:27 +0200"
     },
     "done": true
   },
