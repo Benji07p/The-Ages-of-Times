@@ -2025,6 +2025,156 @@ onEvent('recipes', event => {
 	H: 'pneumaticcraft:module_expansion_card',
 	C: 'the_ages_of_times:computer_circuit'
 	})
+
+	//Sputnik
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "A BBB A",
+			  " BCCCB ",
+			  "BCDEDCB",
+			  "BCEFECB",
+			  "BCDGDCB",
+			  " BCCCB ",
+			  "A BBB A"
+			],
+			"key": {
+			  "A": {
+				"item": "immersiveengineering:toolupgrade_powerpack_antenna"
+			  },
+			  "B": {
+				"item": "electrodynamics:platealuminum"
+			  },
+			  "C": {
+				"item": "the_ages_of_times:nitrogen"
+			  },
+			  "D": {
+				"item": "pneumaticcraft:pressure_gauge"
+			  },
+			  "E": {
+				"type": "forge:nbt",
+				"item": "electrodynamics:battery",
+				"count": 1,
+				"nbt": "{joules:1666666.0d}"
+			  },
+			  "F": {
+				"item": "beyond_earth:engine_fan"
+			  },
+			  "G": {
+				"item": "electrodynamics:circuitadvanced"
+			  }
+			},
+			"result": {
+			  "item": "the_ages_of_times:spoutnik"
+			}
+		  }
+	)
+
+	//Basic Satellite
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "       ",
+			  "       ",
+			  "   A   ",
+			  "BBBCBBB",
+			  "   A   ",
+			  "       ",
+			  "       "
+			],
+			"key": {
+			  "A": {
+				"item": "electrodynamics:platealuminum"
+			  },
+			  "B": {
+				"item": "electrodynamics:solarpanelplate"
+			  },
+			  "C": {
+				"item": "the_ages_of_times:spoutnik"
+			  }
+			},
+			"result": {
+			  "item": "the_ages_of_times:basic_satellite"
+			}
+		  }
+	)
+
+	//Mechanic Hut
+	event.remove({ id: 'minecolonies:blockhutmechanic'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAAAAAA",
+			  "B     B",
+			  "BCDEFGB",
+			  "BAAAAAB",
+			  "BHHHHHB",
+			  "BAAAAAB",
+			  "B     B"
+			],
+			"key": {
+			  "A": {
+				"item": "minecraft:petrified_oak_slab"
+			  },
+			  "B": {
+				"item": "quark:oak_vertical_slab"
+			  },
+			  "C": {
+				"item": "immersiveengineering:toolbox"
+			  },
+			  "D": {
+				"item": "immersiveengineering:screwdriver"
+			  },
+			  "E": {
+				"item": "electrodynamics:circuitadvanced"
+			  },
+			  "F": {
+				"type": "forge:nbt",
+				"item": "immersiveengineering:wirecutter",
+				"count": 1,
+				"nbt": "{Damage:0}"
+			  },
+			  "G": {
+				"type": "forge:nbt",
+				"item": "immersiveengineering:hammer",
+				"count": 1,
+				"nbt": "{Damage:0}"
+			  },
+			  "H": {
+				"item": "minecraft:redstone_block"
+			  }
+			},
+			"result": {
+			  "item": "minecolonies:blockhutmechanic"
+			}
+		}
+	)
+
+	//Satellite Rocket
+	event.custom(
+		{
+		  "type": "lychee:block_interacting",
+		  "item_in": {
+			"item": "the_ages_of_times:satellite_rocket"
+		  },
+		  "block_in": {
+			"blocks": ["beyond_earth:rocket_launch_pad"],
+			"state": {
+				"lit": true
+			}
+		  },
+		  "post": [
+			{
+			  "type": "execute",
+			  "command": "summon pig ~ ~ ~ {Silent:1b,CustomNameVisible:0b,DeathLootTable:\"minecraft:empty\",CustomName:'{\"text\":\"x9795652153\"}',ActiveEffects:[{Id:14b,Amplifier:1b,Duration:100000}],Passengers:[{id:\"beyond_earth:rocket_t1\",Passengers:[{id:\"the_ages_of_times:satellite\"}]}]}",
+			  "hide": true
+			}
+		  ]
+		}
+	  )
 })
 
 onEvent('item.tags', event => {
