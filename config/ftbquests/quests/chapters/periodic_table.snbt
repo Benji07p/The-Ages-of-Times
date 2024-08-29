@@ -111,6 +111,10 @@
 			x: -8.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: [
+				"191E7A2A02A766DE"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "7FEE3213AD8D6FCA"
 			tasks: [{
@@ -453,13 +457,24 @@
 			}]
 		}
 		{
+			title: "Silicon"
+			icon: "chemlib:silicon"
 			x: 5.0d
 			y: -5.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"18EA38D90681BB12"
+			]
 			invisible: true
 			id: "4CBB7D63DD1E7BFC"
 			tasks: [{
 				id: "1DE59F30CB424B24"
+				type: "item"
+				item: "ae2:silicon"
+			}]
+			rewards: [{
+				id: "582E28812CEC4583"
 				type: "item"
 				item: "chemlib:silicon"
 			}]
