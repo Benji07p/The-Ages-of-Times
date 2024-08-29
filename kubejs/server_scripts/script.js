@@ -2174,7 +2174,72 @@ onEvent('recipes', event => {
 			}
 		  ]
 		}
-	  )
+	)
+
+	//Monitor
+	event.remove({ id: 'computercraft:monitor_normal'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAABAAA",
+			  "ACDECDA",
+			  "ACDECDA",
+			  "ACDECDA",
+			  "FCDECDF",
+			  "FCDECDF",
+			  "FFFGFFF"
+			],
+			"key": {
+			  "A": {
+				"item": "minecraft:light_gray_concrete"
+			  },
+			  "B": {
+				"item": "electrodynamics:circuitadvanced"
+			  },
+			  "C": {
+				"item": "minecraft:blue_stained_glass_pane"
+			  },
+			  "D": {
+				"item": "minecraft:green_stained_glass_pane"
+			  },
+			  "E": {
+				"item": "minecraft:red_stained_glass_pane"
+			  },
+			  "F": {
+				"item": "minecraft:white_concrete"
+			  },
+			  "G": {
+				"item": "immersiveengineering:toolupgrade_shield_flash"
+			  }
+			},
+			"result": {
+			  "item": "computercraft:monitor_normal"
+			}
+		  }
+	)
+
+	//Rocket Launcher
+	event.shaped('the_ages_of_times:rocket_launcher', [
+		"SSS",
+		"PLP",
+		"SSS"
+	], {
+	S: '#forge:ingots/steel',
+	L: 'minecraft:lever',
+	P: '#forge:plates/iron'
+	})
+
+	//Rocket Charger
+	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:rocket_charger"}'), [
+		"SSS",
+		"PLP",
+		"SSS"
+	], {
+	S: '#forge:ingots/steel',
+	L: 'beyond_earth_giselle_addon:fuel_loader',
+	P: '#forge:plates/iron'
+	})
 })
 
 onEvent('item.tags', event => {
