@@ -258,6 +258,64 @@ onEvent('recipes', event => {
                 }
             )}
 
+            function oxydobrutreduction(input, amount1, input45, amount45, input9, amount9, fluidinput, amount2, chance3, output1, amount4, chance1, output2, amount5, chance2){
+                event.custom(
+                    {
+                        "type": "custommachinery:custom_machine",
+                        "machine": "taotmachinery:alembic",
+                        "time": 80,
+                        "requirements": [
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input,
+                                "amount": amount1,
+                                "slot": "input1"
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input45,
+                                "amount": amount45,
+                                "slot": "input2"
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input9,
+                                "amount": amount9,
+                                "slot": "input3"
+                            },
+                            {
+                                "type": "custommachinery:fluid",
+                                "mode": "input",
+                                "fluid": fluidinput,
+                                "amount": amount2,
+                                "chance": chance3
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "output",
+                                "item": output1,
+                                "amount": amount4,
+                                "slot": "input5",
+                                "chance": chance1
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "output",
+                                "item": output2,
+                                "amount": amount5,
+                                "slot": "input6",
+                                "chance": chance2
+                            },
+                            {
+                                "type": "custommachinery:fuel"
+                            }
+                        ]
+                    }
+                )}
+
             function melter(input, amount1, input45, amount45, input9, amount9, output1, amount4, chance1, output2, amount5, chance2){
                 event.custom(
                     {
@@ -796,5 +854,14 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     melting84272724("chemlib:sodium", 4, "the_ages_of_times:beaker", 3, "the_ages_of_times:titanium_tetrachloride", 1, "tconstruct:molten_glass", 400, "electrodynamics:ingottitanium", 1, 1, "chemlib:sodium_chloride", 4, 1)
 
     //Nitric Acid
+    distil("the_ages_of_times:beaker", 1, "electrodynamics:dustniter", 1, "chemlib:potassium_nitrate", 1, 1, "minecraft:air", 1, 0.01)
     distil("chemlib:sulfuric_acid", 1, "chemlib:potassium_nitrate", 1, "chemlib:nitric_acid", 1, 1, "the_ages_of_times:potassium_bisulfate", 1, 1)
+
+    //Silicon and Potassium
+    meltingdistillation("the_ages_of_times:beaker", 1, "electrodynamics:raworefluorite", 1, "chemlib:sulfuric_acid_fluid", 1000, "the_ages_of_times:hydrofluoric_acid", 2000, "chemlib:calcium_sulfate", 1, 1, "minecraft:air", 1, 0.01)
+    melter2("the_ages_of_times:beaker", 1, "minecraft:beetroot", 1, "chemlib:potassium_carbonate", 1, 1, "minecraft:air", 1, 0.01)
+    oxydobrutreduction("chemlib:potassium_carbonate", 1, "chemlib:calcium_oxide", 1, "the_ages_of_times:beaker", 1, "minecraft:water", 100, 1.0, "chemlib:potassium_hydroxide", 2, 1, "chemlib:calcium_carbonate", 1, 1)
+    meltingflui("chemlib:potassium", 16, "chemlib:potassium_dust", 1, 1, "minecraft:air", 1, 0.01)
+    meltingdistillation("the_ages_of_times:beaker", 1, "electrodynamics:dustsilica", 1, "the_ages_of_times:hydrofluoric_acid", 400, "minecraft:water", 200, "the_ages_of_times:silicon_tetrafluoride", 1, 1, "minecraft:air", 1, 0.01)
+    distil2("chemlib:potassium_ingot", 4, "the_ages_of_times:beaker", 48, "the_ages_of_times:silicon_tetrafluoride", 16, "ae2:silicon", 1, 1, "the_ages_of_times:potassium_fluoride", 64, 1)
 })
