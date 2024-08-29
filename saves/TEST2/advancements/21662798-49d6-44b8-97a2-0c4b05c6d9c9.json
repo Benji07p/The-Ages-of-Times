@@ -1355,6 +1355,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-08-29 12:03:42 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-02-01 21:18:26 +0100"
@@ -1779,6 +1785,12 @@
   "create:recipes/create.base/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2024-06-13 17:31:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-08-29 12:03:42 +0200"
     },
     "done": true
   },
@@ -2951,6 +2963,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-08-29 12:03:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
@@ -3687,6 +3705,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
     "criteria": {
       "has_item": "2024-08-26 14:59:57 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fertilizer": {
+    "criteria": {
+      "has_saltpeter": "2024-08-29 11:54:30 +0200"
     },
     "done": true
   },
@@ -4519,6 +4543,12 @@
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:raworefluorite": {
+    "criteria": {
+      "HasRawOre": "2024-08-29 11:49:02 +0200"
     },
     "done": true
   },
@@ -6973,6 +7003,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-07-25 14:51:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-08-29 12:03:42 +0200"
     },
     "done": true
   },

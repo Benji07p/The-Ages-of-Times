@@ -277,6 +277,7 @@
 #314645 tconstruct:earth_slime_leaves
 #91A5DB createaddition:electric_motor
 #CBF06E nuclearscience:electromagneticglass
+#94EBCF extendedcrafting:elite_auto_table
 #5B3487 extendedcrafting:elite_table
 #4C963A minecraft:emerald_ore
 #A952FC create:encased_chain_drive
@@ -301,6 +302,7 @@
 #8A9C1E ae2:fluix_block
 #DA0ACF tconstruct:foundry_controller
 #128EDC beyond_earth:fuel
+#AAF18F beyond_earth_giselle_addon:fuel_loader
 #E6F14B nuclearscience:fuelreprocessor
 #2DC94B minecraft:furnace
 #F554BF nuclearscience:fusionreactorcore
@@ -583,6 +585,7 @@
 #0FC6DA electrodynamics:resourceblocktin
 #69E799 farmersdelight:rich_soil_farmland
 #F9A178 beyond_earth:rocket_launch_pad
+#7C6FF0 the_ages_of_times:rocket_launcher
 #991DF8 minecraft:rooted_dirt
 #F7A42A create:rope_pulley
 #9C3ECB minecraft:rose_bush
