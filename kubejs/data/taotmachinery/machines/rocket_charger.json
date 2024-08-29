@@ -1,0 +1,89 @@
+{
+    "name": "Rocket Charger",
+    "appearance":{
+        "block": "beyond_earth_giselle_addon:fuel_loader"
+    },
+    "components": [
+        {
+            "type": "custommachinery:energy",
+            "capacity": 1000,
+            "mode": "input"
+        },
+        {
+            "type": "custommachinery:fluid",
+            "capacity": 10000,
+            "id": "fluidinput",
+            "mode": "input"
+        },
+        {
+            "id": "input",
+            "mode": "input",
+            "type": "custommachinery:item"
+        },
+        {
+            "id": "input1",
+            "mode": "input",
+            "type": "custommachinery:item"
+        },
+        {
+            "id": "output",
+            "mode": "output",
+            "type": "custommachinery:item"
+        }
+    ],
+    "gui": [
+        {
+            "texture": "custommachinery:textures/gui/base_background.png",
+            "x": 0,
+            "y": 0,
+            "type": "custommachinery:texture",
+            "height": 156,
+            "width": 196
+        },
+        {
+            "x": 17,
+            "y": 70,
+            "type": "custommachinery:player_inventory"
+        },
+        {
+            "type": "custommachinery:energy",
+            "x": 17,
+            "y": 17
+        },
+        {
+            "type": "custommachinery:fluid",
+            "x": 37,
+            "y": 17,
+            "id": "fluidinput"
+        },
+        {
+            "id": "input",
+            "x": 87,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input1",
+            "x": 67,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "output",
+            "x": 150,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "x": 116,
+            "y": 31,
+            "type": "custommachinery:progress"
+        },
+        {
+            "text": "Rocket Charger",
+            "x": 10,
+            "y": 7,
+            "type": "custommachinery:text"
+        }
+    ]
+}
