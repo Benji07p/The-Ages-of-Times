@@ -165,7 +165,7 @@
 			}]
 		}
 		{
-			title: "Create a satellite"
+			title: "Create a Space Station"
 			icon: {
 				id: "ftbquests:custom_icon"
 				Count: 1b
@@ -402,7 +402,11 @@
 		{
 			x: 30.0d
 			y: 0.0d
-			dependencies: ["05DD697E854555B1"]
+			dependencies: [
+				"05DD697E854555B1"
+				"6DBF872B1B6654D7"
+				"02901E2792E466B2"
+			]
 			id: "3640A4B06B9ABE39"
 			tasks: [{
 				id: "3CAFD0E17BAAA111"
@@ -596,7 +600,7 @@
 			}]
 		}
 		{
-			x: 12.0d
+			x: 21.0d
 			y: -3.0d
 			dependencies: ["0E6831850D0E6C73"]
 			id: "65DA5D0A8C6AAC7A"
@@ -608,7 +612,7 @@
 			}]
 		}
 		{
-			x: 13.5d
+			x: 22.5d
 			y: -3.0d
 			dependencies: ["65DA5D0A8C6AAC7A"]
 			id: "64A65B4EA1027B00"
@@ -619,7 +623,7 @@
 			}]
 		}
 		{
-			x: 15.0d
+			x: 24.0d
 			y: -3.0d
 			dependencies: [
 				"64A65B4EA1027B00"
@@ -639,7 +643,7 @@
 			}]
 		}
 		{
-			x: 16.5d
+			x: 25.5d
 			y: -3.0d
 			dependencies: ["7890BFA5DF3B9E69"]
 			id: "5E07503FA443D249"
@@ -650,7 +654,7 @@
 			}]
 		}
 		{
-			x: 18.0d
+			x: 27.0d
 			y: -3.0d
 			dependencies: ["5E07503FA443D249"]
 			id: "0EB3690E8A35A857"
@@ -661,7 +665,7 @@
 			}]
 		}
 		{
-			x: 12.0d
+			x: 21.0d
 			y: -1.5d
 			hide_dependency_lines: true
 			dependencies: ["70F7EF4EEF437156"]
@@ -673,7 +677,7 @@
 			}]
 		}
 		{
-			x: 13.5d
+			x: 22.5d
 			y: -1.5d
 			dependencies: ["04CCA12253431D0C"]
 			id: "2A9A5F3B4E86E10D"
@@ -684,7 +688,7 @@
 			}]
 		}
 		{
-			x: 15.0d
+			x: 24.0d
 			y: -1.5d
 			dependencies: ["2A9A5F3B4E86E10D"]
 			id: "4622F567F69DCE2C"
@@ -695,7 +699,7 @@
 			}]
 		}
 		{
-			x: 19.5d
+			x: 28.5d
 			y: -3.0d
 			dependencies: ["0EB3690E8A35A857"]
 			id: "7A5A300CD2643141"
@@ -706,7 +710,7 @@
 			}]
 		}
 		{
-			x: 21.0d
+			x: 30.0d
 			y: -3.0d
 			dependencies: ["7A5A300CD2643141"]
 			id: "6DBF872B1B6654D7"
@@ -800,6 +804,23 @@
 					}
 				}
 			]
+		}
+		{
+			x: 28.5d
+			y: 0.0d
+			dependencies: ["421D5925F0B51C8A"]
+			id: "02901E2792E466B2"
+			tasks: [{
+				id: "5B0C89A3E4BEEC4A"
+				type: "item"
+				item: {
+					id: "custommachinery:custom_machine_item"
+					Count: 1b
+					tag: {
+						machine: "taotmachinery:nasa_workbench_tier_2"
+					}
+				}
+			}]
 		}
 	]
 	quest_links: [ ]
