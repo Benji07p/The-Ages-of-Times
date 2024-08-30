@@ -1,0 +1,29 @@
+{
+	"type": "beyond_earth:space_station",
+	"ingredients": [
+		{
+			"ingredient": {
+				"tag": "forge:storage_blocks/quartz"
+			},
+			"count": 185
+		},
+		{
+			"ingredient": {
+				"tag": "forge:ingots/iron"
+			},
+			"count": 679
+		},
+		{
+			"ingredient": {
+				"tag": "minecraft:coals"
+			},
+			"count": 83
+		},
+		{
+			"ingredient": {
+				"tag": "forge:gems/lapis"
+			},
+			"count": 85
+		}
+	]
+}
