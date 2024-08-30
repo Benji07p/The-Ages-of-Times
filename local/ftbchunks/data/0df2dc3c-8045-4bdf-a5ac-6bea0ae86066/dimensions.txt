@@ -1,0 +1,2 @@
+minecraft:overworld
+beyond_earth:earth_orbit

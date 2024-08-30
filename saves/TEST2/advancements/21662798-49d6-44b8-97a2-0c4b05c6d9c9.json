@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-08-30 10:49:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-01-04 18:21:24 +0100"
@@ -458,6 +464,12 @@
   "functionalstorage:recipes/functionalstorage/netherite_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-08-30 10:49:59 +0200"
     },
     "done": true
   },
@@ -809,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:55 +0100"
@@ -1115,6 +1133,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
@@ -1148,6 +1172,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick_from_slab": {
     "criteria": {
       "has_blastbrick": "2023-12-09 14:55:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
     },
     "done": true
   },
@@ -1316,6 +1346,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
     },
     "done": true
   },
@@ -1674,6 +1710,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:14 +0100"
@@ -1767,6 +1809,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2023-12-12 20:52:20 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
     },
     "done": true
   },
@@ -3125,6 +3173,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
+    },
+    "done": true
+  },
   "atum:core/powerwasher": {
     "criteria": {
       "gold_brooch": "2023-12-04 17:35:07 +0100",
@@ -3528,6 +3582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_redstone": {
     "criteria": {
       "has_conveyor": "2024-01-16 16:34:48 +0100"
@@ -3552,6 +3612,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/charging_station": {
     "criteria": {
       "has_pressure_tube": "2024-08-20 19:13:48 +0200"
@@ -3567,6 +3633,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2023-12-14 12:09:16 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
     },
     "done": true
   },
@@ -3756,6 +3828,12 @@
     },
     "done": true
   },
+  "ceramics:recipes/building_blocks/smooth_quartz_kiln": {
+    "criteria": {
+      "has_item": "2024-08-30 10:52:01 +0200"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/porcelain_bricks_stairs_crafting": {
     "criteria": {
       "has_item": "2023-12-13 15:26:15 +0100"
@@ -3801,6 +3879,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/cobalt_block_from_ingots": {
     "criteria": {
       "has_item": "2024-08-17 16:11:13 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
     },
     "done": true
   },
@@ -4258,6 +4342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/pneumatic_door": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
@@ -4414,6 +4504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-02-01 20:48:47 +0100"
@@ -4429,6 +4525,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
     "criteria": {
       "has_plate": "2024-07-21 16:41:24 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
     },
     "done": true
   },
@@ -5002,6 +5104,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2023-12-11 20:57:11 +0100"
@@ -5245,6 +5353,12 @@
   "ae2:recipes/ae2.main/network/cables/dense_smart_black": {
     "criteria": {
       "has_dyes/black": "2024-01-17 13:42:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-08-30 10:49:59 +0200"
     },
     "done": true
   },
@@ -5607,6 +5721,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-02-01 20:48:47 +0100"
@@ -5964,6 +6084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
@@ -6088,6 +6214,18 @@
   "beyond_earth:rocket_tier_4_advancement": {
     "criteria": {
       "rocket_tier_4_advancement": "2024-08-24 19:45:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
     },
     "done": true
   },
@@ -6394,6 +6532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-01-30 20:12:02 +0100"
@@ -6421,6 +6565,12 @@
   "ceramics:recipes/ceramics/cyan_terracotta_cistern": {
     "criteria": {
       "has_cistern": "2024-01-01 18:55:15 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
     },
     "done": true
   },
@@ -6685,6 +6835,12 @@
   "create:recipes/create.palettes/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
     },
     "done": true
   },
@@ -6985,6 +7141,12 @@
   "create:recipes/create.palettes/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
     },
     "done": true
   },
@@ -8674,6 +8836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -9082,6 +9250,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
     "criteria": {
       "has_straw": "2024-01-20 11:38:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-08-30 10:52:01 +0200"
     },
     "done": true
   },
@@ -10209,6 +10383,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-02-02 22:13:07 +0100"
@@ -10329,6 +10509,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-08-30 14:30:52 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2024-01-24 17:34:50 +0100"
@@ -10399,6 +10585,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2023-12-13 14:34:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-08-30 10:49:59 +0200"
     },
     "done": true
   },
