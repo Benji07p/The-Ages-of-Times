@@ -2240,6 +2240,49 @@ onEvent('recipes', event => {
 	L: 'beyond_earth_giselle_addon:fuel_loader',
 	P: '#forge:plates/iron'
 	})
+
+	//Wireless Modem
+	event.remove({ id: 'computercraft:wireless_modem_normal'})
+	event.remove({ id: 'computercraft:wired_modem'})
+	event.shaped('computercraft:wireless_modem_normal', [
+		'A',
+		'M',
+		'C'
+	], {
+	A: 'immersiveengineering:toolupgrade_powerpack_antenna',
+	M: 'computercraft:wired_modem',
+	C: 'electrodynamics:circuitadvanced'
+	})
+	event.shaped('computercraft:wired_modem_full', [
+		'LGL',
+		'GCG',
+		'LGL'
+	], {
+	L: 'minecraft:light_gray_concrete',
+	G: 'minecraft:gray_concrete',
+	C: 'electrodynamics:circuitadvanced'
+	})
+
+	//NASA Workbench Tier 2
+	event.custom(
+		{
+			"type": "create:deploying",
+			"ingredients": [
+			  {
+				"item": "beyond_earth:nasa_workbench"
+			  },
+			  {
+				"item": "the_ages_of_times:moon_coordinates"
+			  }
+			],
+			"results": [
+			  {
+				"item": "custommachinery:custom_machine_item",
+				"nbt": "{machine:\"taotmachinery:nasa_workbench_tier_2\"}"
+			  }
+			]
+		}
+	)
 })
 
 onEvent('item.tags', event => {
