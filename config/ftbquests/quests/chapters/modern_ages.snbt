@@ -152,7 +152,7 @@
 			}]
 		}
 		{
-			x: 32.0d
+			x: 31.0d
 			y: 0.0d
 			dependencies: ["3640A4B06B9ABE39"]
 			size: 2.0d
@@ -254,7 +254,7 @@
 		{
 			x: -10.5d
 			y: 0.0d
-			dependencies: ["578BBF063FED2F12"]
+			dependencies: ["3153C6C8B223AED9"]
 			id: "650934E5007F6440"
 			tasks: [{
 				id: "0ED94484DF003E43"
@@ -400,7 +400,7 @@
 			}]
 		}
 		{
-			x: 30.0d
+			x: 28.5d
 			y: 0.0d
 			dependencies: [
 				"05DD697E854555B1"
@@ -567,7 +567,7 @@
 			}]
 		}
 		{
-			x: 30.0d
+			x: 28.5d
 			y: 3.0d
 			dependencies: ["5DBF728626B8AA0D"]
 			id: "05DD697E854555B1"
@@ -600,7 +600,7 @@
 			}]
 		}
 		{
-			x: 21.0d
+			x: 19.5d
 			y: -3.0d
 			dependencies: ["0E6831850D0E6C73"]
 			id: "65DA5D0A8C6AAC7A"
@@ -612,7 +612,7 @@
 			}]
 		}
 		{
-			x: 22.5d
+			x: 21.0d
 			y: -3.0d
 			dependencies: ["65DA5D0A8C6AAC7A"]
 			id: "64A65B4EA1027B00"
@@ -623,7 +623,7 @@
 			}]
 		}
 		{
-			x: 24.0d
+			x: 22.5d
 			y: -3.0d
 			dependencies: [
 				"64A65B4EA1027B00"
@@ -643,7 +643,7 @@
 			}]
 		}
 		{
-			x: 25.5d
+			x: 24.0d
 			y: -3.0d
 			dependencies: ["7890BFA5DF3B9E69"]
 			id: "5E07503FA443D249"
@@ -654,7 +654,7 @@
 			}]
 		}
 		{
-			x: 27.0d
+			x: 25.5d
 			y: -3.0d
 			dependencies: ["5E07503FA443D249"]
 			id: "0EB3690E8A35A857"
@@ -665,7 +665,7 @@
 			}]
 		}
 		{
-			x: 21.0d
+			x: 19.5d
 			y: -1.5d
 			hide_dependency_lines: true
 			dependencies: ["70F7EF4EEF437156"]
@@ -677,7 +677,7 @@
 			}]
 		}
 		{
-			x: 22.5d
+			x: 21.0d
 			y: -1.5d
 			dependencies: ["04CCA12253431D0C"]
 			id: "2A9A5F3B4E86E10D"
@@ -688,7 +688,7 @@
 			}]
 		}
 		{
-			x: 24.0d
+			x: 22.5d
 			y: -1.5d
 			dependencies: ["2A9A5F3B4E86E10D"]
 			id: "4622F567F69DCE2C"
@@ -699,7 +699,7 @@
 			}]
 		}
 		{
-			x: 28.5d
+			x: 27.0d
 			y: -3.0d
 			dependencies: ["0EB3690E8A35A857"]
 			id: "7A5A300CD2643141"
@@ -710,7 +710,7 @@
 			}]
 		}
 		{
-			x: 30.0d
+			x: 28.5d
 			y: -3.0d
 			dependencies: ["7A5A300CD2643141"]
 			id: "6DBF872B1B6654D7"
@@ -806,9 +806,9 @@
 			]
 		}
 		{
-			x: 28.5d
+			x: 27.0d
 			y: 0.0d
-			dependencies: ["421D5925F0B51C8A"]
+			dependencies: ["3BA5C02D4D49205D"]
 			id: "02901E2792E466B2"
 			tasks: [{
 				id: "5B0C89A3E4BEEC4A"
@@ -820,6 +820,39 @@
 						machine: "taotmachinery:nasa_workbench_tier_2"
 					}
 				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 1.5d
+			dependencies: ["70F7EF4EEF437156"]
+			id: "22554E5D03EB16CC"
+			tasks: [{
+				id: "1D604CB8F0757213"
+				type: "item"
+				item: "create:precision_mechanism"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 3.0d
+			dependencies: ["22554E5D03EB16CC"]
+			id: "73BE411538607F5E"
+			tasks: [{
+				id: "377A2A6C0A574ED9"
+				type: "item"
+				item: "create:mechanical_arm"
+			}]
+		}
+		{
+			x: 25.5d
+			y: 0.0d
+			dependencies: ["421D5925F0B51C8A"]
+			id: "3BA5C02D4D49205D"
+			tasks: [{
+				id: "0ACA1B8F0CF9152F"
+				type: "item"
+				item: "the_ages_of_times:moon_coordinates"
 			}]
 		}
 	]
