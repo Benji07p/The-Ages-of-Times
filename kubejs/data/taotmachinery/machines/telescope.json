@@ -1,0 +1,119 @@
+{
+    "name": "Telescope",
+    "appearance":{
+        "block": "the_ages_of_times:telescope",
+        "item": "the_ages_of_times:teletcope",
+        "shape": [[-0.5, 0.0, -0.5, 0.5, 2.0, 0.5]]
+    },
+    "components": [
+        {
+            "type": "custommachinery:item",
+            "id": "input1"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input2"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input3"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "output"
+        }
+    ],
+    "gui": [
+        {
+            "texture": "custommachinery:textures/gui/base_background.png",
+            "x": 38,
+            "y": 0,
+            "type": "custommachinery:texture",
+            "height": 166,
+            "width": 176
+        },
+        {
+            "texture": "kubejs:textures/night.png",
+            "x": 48,
+            "y": 10,
+            "type": "custommachinery:texture",
+            "height": 64,
+            "width": 64
+        },
+        {
+            "x": 44,
+            "y": 82,
+            "type": "custommachinery:player_inventory"
+        },
+        {
+            "id": "input1",
+            "x": 114,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input2",
+            "x": 132,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "output",
+            "x": 177,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "x": 151,
+            "y": 31,
+            "type": "custommachinery:progress"
+        }
+    ],
+    "jei": [
+        {
+            "texture": "custommachinery:textures/gui/base_background.png",
+            "x": 38,
+            "y": 0,
+            "type": "custommachinery:texture",
+            "height": 166,
+            "width": 176
+        },
+        {
+            "id": "input3",
+            "x": 48,
+            "y": 10,
+            "type": "custommachinery:slot",
+            "texture": "kubejs:textures/night.png",
+            "height": 64,
+            "width": 64
+        },
+        {
+            "x": 44,
+            "y": 82,
+            "type": "custommachinery:player_inventory"
+        },
+        {
+            "id": "input1",
+            "x": 114,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input2",
+            "x": 132,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "output",
+            "x": 177,
+            "y": 30,
+            "type": "custommachinery:slot"
+        },
+        {
+            "x": 151,
+            "y": 31,
+            "type": "custommachinery:progress"
+        }
+    ]
+}
