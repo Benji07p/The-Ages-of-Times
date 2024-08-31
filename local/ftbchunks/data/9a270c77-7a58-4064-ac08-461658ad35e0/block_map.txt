@@ -330,6 +330,7 @@
 #3F84B7 minecraft:grass_block
 #88BAFA minecraft:gravel
 #CC8898 minecraft:gray_bed
+#2D74D4 minecraft:gray_concrete
 #49417A minecraft:green_carpet
 #CFA1C4 minecraft:grindstone
 #87B5C3 create:hand_crank
@@ -386,6 +387,7 @@
 #72D77D minecraft:lever
 #CBF1B4 minecraft:light_blue_terracotta
 #19EEF2 immersiveengineering:light_engineering
+#38DD6B minecraft:light_gray_concrete
 #7482E4 minecraft:lilac
 #DFD691 minecraft:lily_pad
 #794FA2 minecraft:lime_concrete
@@ -730,6 +732,7 @@
 #0AA947 tardim:tardim_door
 #11066D tardim:tardim_roof
 #CFAD84 minecraft:target
+#81BC2F the_ages_of_times:telescope
 #9209D8 minecraft:terracotta
 #8193AC ceramics:terracotta_channel
 #B2F195 ceramics:terracotta_faucet

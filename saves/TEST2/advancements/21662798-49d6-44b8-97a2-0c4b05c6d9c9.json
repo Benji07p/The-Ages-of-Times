@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2024-08-31 13:43:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2023-12-12 21:01:54 +0100"
