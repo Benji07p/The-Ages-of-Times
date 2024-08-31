@@ -71,11 +71,6 @@
         },
         {
             "type": "custommachinery:item",
-            "id": "input14",
-            "mode": "input"
-        },
-        {
-            "type": "custommachinery:item",
             "id": "input15",
             "mode": "input"
         },
@@ -96,16 +91,6 @@
         },
         {
             "type": "custommachinery:item",
-            "id": "input19",
-            "mode": "input"
-        },
-        {
-            "type": "custommachinery:item",
-            "id": "input20",
-            "mode": "input"
-        },
-        {
-            "type": "custommachinery:item",
             "id": "input21",
             "mode": "input"
         },
@@ -121,16 +106,6 @@
         },
         {
             "type": "custommachinery:item",
-            "id": "input24",
-            "mode": "input"
-        },
-        {
-            "type": "custommachinery:item",
-            "id": "input25",
-            "mode": "input"
-        },
-        {
-            "type": "custommachinery:item",
             "id": "input26",
             "mode": "input"
         },
@@ -142,11 +117,6 @@
         {
             "type": "custommachinery:item",
             "id": "input28",
-            "mode": "input"
-        },
-        {
-            "type": "custommachinery:item",
-            "id": "input29",
             "mode": "input"
         },
         {
@@ -253,12 +223,6 @@
             "type": "custommachinery:slot"
         },
         {
-            "id": "input14",
-            "x": 44,
-            "y": 107,
-            "type": "custommachinery:slot"
-        },
-        {
             "id": "input15",
             "x": 62,
             "y": 107,
@@ -283,18 +247,6 @@
             "type": "custommachinery:slot"
         },
         {
-            "id": "input19",
-            "x": 134,
-            "y": 107,
-            "type": "custommachinery:slot"
-        },
-        {
-            "id": "input20",
-            "x": 44,
-            "y": 125,
-            "type": "custommachinery:slot"
-        },
-        {
             "id": "input21",
             "x": 62,
             "y": 125,
@@ -313,18 +265,6 @@
             "type": "custommachinery:slot"
         },
         {
-            "id": "input24",
-            "x": 134,
-            "y": 125,
-            "type": "custommachinery:slot"
-        },
-        {
-            "id": "input25",
-            "x": 44,
-            "y": 143,
-            "type": "custommachinery:slot"
-        },
-        {
             "id": "input26",
             "x": 62,
             "y": 143,
@@ -339,12 +279,6 @@
         {
             "id": "input28",
             "x": 116,
-            "y": 143,
-            "type": "custommachinery:slot"
-        },
-        {
-            "id": "input29",
-            "x": 134,
             "y": 143,
             "type": "custommachinery:slot"
         },
@@ -373,6 +307,15 @@
             "x": 45,
             "y": 166,
             "text": "Inventory"
+        },
+        {
+            "x": 146,
+            "y": 49,
+            "type": "custommachinery:progress",
+            "emptyTexture": "kubejs:textures/nasa123.png",
+            "filledTexture": "kubejs:textures/nasa123.png",
+            "height": 14,
+            "width": 14
         }
     ],
     "jei": [
@@ -469,12 +412,6 @@
             "type": "custommachinery:slot"
         },
         {
-            "id": "input14",
-            "x": 44,
-            "y": 107,
-            "type": "custommachinery:slot"
-        },
-        {
             "id": "input15",
             "x": 62,
             "y": 107,
@@ -499,18 +436,6 @@
             "type": "custommachinery:slot"
         },
         {
-            "id": "input19",
-            "x": 134,
-            "y": 107,
-            "type": "custommachinery:slot"
-        },
-        {
-            "id": "input20",
-            "x": 44,
-            "y": 125,
-            "type": "custommachinery:slot"
-        },
-        {
             "id": "input21",
             "x": 62,
             "y": 125,
@@ -529,18 +454,6 @@
             "type": "custommachinery:slot"
         },
         {
-            "id": "input24",
-            "x": 134,
-            "y": 125,
-            "type": "custommachinery:slot"
-        },
-        {
-            "id": "input25",
-            "x": 44,
-            "y": 143,
-            "type": "custommachinery:slot"
-        },
-        {
             "id": "input26",
             "x": 62,
             "y": 143,
@@ -555,12 +468,6 @@
         {
             "id": "input28",
             "x": 116,
-            "y": 143,
-            "type": "custommachinery:slot"
-        },
-        {
-            "id": "input29",
-            "x": 134,
             "y": 143,
             "type": "custommachinery:slot"
         },

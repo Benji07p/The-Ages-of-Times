@@ -105,13 +105,6 @@ onEvent('recipes', event => {
                 "mode": "input"
             },
             {
-                "slot": "input14",
-                "type": "custommachinery:item",
-                "amount": 1,
-                "item": two,
-                "mode": "input"
-            },
-            {
                 "slot": "input15",
                 "type": "custommachinery:item",
                 "amount": 1,
@@ -140,20 +133,6 @@ onEvent('recipes', event => {
                 "mode": "input"
             },
             {
-                "slot": "input19",
-                "type": "custommachinery:item",
-                "amount": 1,
-                "item": two,
-                "mode": "input"
-            },
-            {
-                "slot": "input20",
-                "type": "custommachinery:item",
-                "amount": 1,
-                "item": two,
-                "mode": "input"
-            },
-            {
                 "slot": "input21",
                 "type": "custommachinery:item",
                 "amount": 1,
@@ -175,20 +154,6 @@ onEvent('recipes', event => {
                 "mode": "input"
             },
             {
-                "slot": "input24",
-                "type": "custommachinery:item",
-                "amount": 1,
-                "item": two,
-                "mode": "input"
-            },
-            {
-                "slot": "input25",
-                "type": "custommachinery:item",
-                "amount": 1,
-                "item": two,
-                "mode": "input"
-            },
-            {
                 "slot": "input26",
                 "type": "custommachinery:item",
                 "amount": 1,
@@ -204,13 +169,6 @@ onEvent('recipes', event => {
             },
             {
                 "slot": "input28",
-                "type": "custommachinery:item",
-                "amount": 1,
-                "item": two,
-                "mode": "input"
-            },
-            {
-                "slot": "input29",
                 "type": "custommachinery:item",
                 "amount": 1,
                 "item": two,
