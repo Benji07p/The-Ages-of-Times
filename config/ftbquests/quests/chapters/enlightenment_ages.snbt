@@ -21,7 +21,7 @@
 		{
 			x: -3.0d
 			y: 0.5d
-			dependencies: ["25A3C8510672787A"]
+			dependencies: ["3BFAE6B239586E64"]
 			size: 2.0d
 			id: "464CBA2509DC3C07"
 			tasks: [{
@@ -41,7 +41,7 @@
 			}]
 		}
 		{
-			x: 4.0d
+			x: 4.5d
 			y: 0.5d
 			dependencies: ["32FF322D016DC443"]
 			size: 2.0d
@@ -65,7 +65,7 @@
 		}
 		{
 			x: 2.0d
-			y: -1.0d
+			y: -1.5d
 			dependencies: ["32FF322D016DC443"]
 			id: "7984C5618B3F5B9D"
 			tasks: [{
@@ -156,21 +156,20 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: 0.5d
-			id: "14B18B7AA8D73173"
-			tasks: [{
-				id: "22863C1A53F7D04D"
-				type: "custom"
-			}]
-		}
-		{
 			x: 0.5d
 			y: 0.5d
-			id: "40D0CAD0E7F4CD81"
+			dependencies: ["547BF730A70B12B5"]
+			id: "14B18B7AA8D73173"
 			tasks: [{
-				id: "0A04398E999A6814"
-				type: "custom"
+				id: "127D3391451945A6"
+				type: "item"
+				item: {
+					id: "custommachinery:custom_machine_item"
+					Count: 1b
+					tag: {
+						machine: "taotmachinery:telescope"
+					}
+				}
 			}]
 		}
 		{
@@ -221,6 +220,17 @@
 				id: "48A4B4A465DCE698"
 				type: "item"
 				item: "pneumaticcraft:air_compressor"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 0.5d
+			dependencies: ["464CBA2509DC3C07"]
+			id: "547BF730A70B12B5"
+			tasks: [{
+				id: "2BDC26DFA74B8005"
+				type: "item"
+				item: "the_ages_of_times:lens"
 			}]
 		}
 	]
