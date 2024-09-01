@@ -47,25 +47,25 @@
         },
         {
             "id": "input1",
-            "x": 114,
-            "y": 30,
+            "x": 116,
+            "y": 34,
             "type": "custommachinery:slot"
         },
         {
             "id": "input2",
-            "x": 132,
-            "y": 30,
+            "x": 136,
+            "y": 34,
             "type": "custommachinery:slot"
         },
         {
             "id": "output",
-            "x": 177,
-            "y": 30,
+            "x": 181,
+            "y": 34,
             "type": "custommachinery:slot"
         },
         {
-            "x": 151,
-            "y": 31,
+            "x": 155,
+            "y": 35,
             "type": "custommachinery:progress"
         }
     ],
@@ -94,25 +94,25 @@
         },
         {
             "id": "input1",
-            "x": 114,
-            "y": 30,
+            "x": 116,
+            "y": 34,
             "type": "custommachinery:slot"
         },
         {
             "id": "input2",
-            "x": 132,
-            "y": 30,
+            "x": 136,
+            "y": 34,
             "type": "custommachinery:slot"
         },
         {
             "id": "output",
-            "x": 177,
-            "y": 30,
+            "x": 181,
+            "y": 34,
             "type": "custommachinery:slot"
         },
         {
-            "x": 151,
-            "y": 31,
+            "x": 155,
+            "y": 35,
             "type": "custommachinery:progress"
         }
     ]
