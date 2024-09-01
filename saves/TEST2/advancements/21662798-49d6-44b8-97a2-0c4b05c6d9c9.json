@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/thallium_block_to_ingot": {
+    "criteria": {
+      "has_thallium": "2024-09-01 12:40:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -611,6 +617,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-09-01 12:24:52 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/erbium_ingot_from_smelting_erbium_dust": {
+    "criteria": {
+      "has_erbium": "2024-09-01 12:37:26 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-01-04 18:21:24 +0100"
@@ -863,6 +881,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/erbium_ingot_to_nugget": {
+    "criteria": {
+      "has_erbium": "2024-09-01 12:37:26 +0200"
+    },
+    "done": true
+  },
   "notreepunching:diamond_saw": {
     "criteria": {
       "has_item": "2024-02-02 22:13:07 +0100"
@@ -944,6 +968,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/network_data_storage": {
     "criteria": {
       "has_capacitor": "2024-08-26 14:48:16 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/lanthanum_ingot_to_block": {
+    "criteria": {
+      "has_lanthanum": "2024-09-01 12:36:37 +0200"
     },
     "done": true
   },
@@ -1451,6 +1481,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/cesium_ingot_to_block": {
+    "criteria": {
+      "has_cesium": "2024-09-01 12:21:45 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:pcb_blueprint": {
     "criteria": {
       "0": "2024-08-26 12:27:10 +0200"
@@ -1472,6 +1508,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-06-12 12:19:01 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/cesium_nugget_to_ingot": {
+    "criteria": {
+      "has_cesium": "2024-09-01 12:21:45 +0200"
     },
     "done": true
   },
@@ -3690,6 +3732,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/lanthanum_block_to_ingot": {
+    "criteria": {
+      "has_lanthanum": "2024-09-01 12:36:37 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:main/mb_distillationtower": {
     "criteria": {
       "distillationtower": "2024-07-24 15:09:07 +0200"
@@ -3855,6 +3903,12 @@
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2024-02-01 20:44:03 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/lanthanum_ingot_from_blasting_lanthanum_dust": {
+    "criteria": {
+      "has_lanthanum": "2024-09-01 12:36:37 +0200"
     },
     "done": true
   },
@@ -4078,6 +4132,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/erbium_nugget_to_ingot": {
+    "criteria": {
+      "has_erbium": "2024-09-01 12:37:26 +0200"
+    },
+    "done": true
+  },
   "notreepunching:dark_oak_planks_with_saw": {
     "criteria": {
       "has_item": "2024-01-30 20:32:23 +0100"
@@ -4219,6 +4279,12 @@
   "ceramics:recipes/clay_repair/terracotta_faucet_repair": {
     "criteria": {
       "has_item": "2023-12-13 16:04:18 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/cesium_block_to_ingot": {
+    "criteria": {
+      "has_cesium": "2024-09-01 12:21:45 +0200"
     },
     "done": true
   },
@@ -4372,6 +4438,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/erbium_ingot_to_block": {
+    "criteria": {
+      "has_erbium": "2024-09-01 12:37:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-02-21 17:06:26 +0100"
@@ -4465,6 +4537,12 @@
   "notreepunching:iron_saw": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/thallium_ingot_to_block": {
+    "criteria": {
+      "has_thallium": "2024-09-01 12:40:20 +0200"
     },
     "done": true
   },
@@ -4633,6 +4711,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-07-23 15:21:19 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/cesium_ingot_from_smelting_cesium_dust": {
+    "criteria": {
+      "has_cesium": "2024-09-01 12:21:45 +0200"
     },
     "done": true
   },
@@ -4942,6 +5026,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/cesium_ingot_from_blasting_cesium_dust": {
+    "criteria": {
+      "has_cesium": "2024-09-01 12:21:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2023-12-04 18:07:32 +0100"
@@ -5146,6 +5236,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/thallium_ingot_to_nugget": {
+    "criteria": {
+      "has_thallium": "2024-09-01 12:40:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-01-14 21:25:47 +0100"
@@ -5209,6 +5305,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2024-03-16 11:58:12 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/erbium_ingot_from_blasting_erbium_dust": {
+    "criteria": {
+      "has_erbium": "2024-09-01 12:37:26 +0200"
     },
     "done": true
   },
@@ -5505,6 +5607,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/lanthanum_ingot_from_smelting_lanthanum_dust": {
+    "criteria": {
+      "has_lanthanum": "2024-09-01 12:36:37 +0200"
+    },
+    "done": true
+  },
   "atum:core/itbelongsinamuseum": {
     "criteria": {
       "isis_division": "2023-12-04 17:35:07 +0100",
@@ -5670,6 +5778,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/strip_mv": {
     "criteria": {
       "has_electrum_coil": "2024-03-22 18:40:06 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-09-01 12:30:50 +0200"
     },
     "done": true
   },
@@ -6069,6 +6183,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-01-30 20:11:10 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/lanthanum_nugget_to_ingot": {
+    "criteria": {
+      "has_lanthanum": "2024-09-01 12:36:37 +0200"
     },
     "done": true
   },
@@ -6868,6 +6988,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/erbium_block_to_ingot": {
+    "criteria": {
+      "has_erbium": "2024-09-01 12:37:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-08-15 16:40:55 +0200"
@@ -7636,6 +7762,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-09-01 12:30:50 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-01-17 14:22:00 +0100"
@@ -7771,6 +7903,12 @@
   "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2024-01-14 20:18:03 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-09-01 12:24:46 +0200"
     },
     "done": true
   },
@@ -8062,6 +8200,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/thallium_nugget_to_ingot": {
+    "criteria": {
+      "has_thallium": "2024-09-01 12:40:20 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2024-02-20 18:31:31 +0100"
@@ -8191,6 +8335,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:10 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-09-01 12:24:46 +0200"
     },
     "done": true
   },
@@ -8353,6 +8503,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2024-03-16 11:58:43 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/lanthanum_ingot_to_nugget": {
+    "criteria": {
+      "has_lanthanum": "2024-09-01 12:36:37 +0200"
     },
     "done": true
   },
@@ -8719,6 +8875,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/uv_light_box": {
     "criteria": {
       "has_pcb_blueprint": "2024-08-26 12:27:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-09-01 12:30:50 +0200"
     },
     "done": true
   },
@@ -9963,6 +10125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-09-01 12:24:52 +0200"
+    },
+    "done": true
+  },
   "sliceanddice:recipes/tools/slicer": {
     "criteria": {
       "has_tool": "2024-06-30 17:32:38 +0200"
@@ -10167,6 +10335,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/cesium_ingot_to_nugget": {
+    "criteria": {
+      "has_cesium": "2024-09-01 12:21:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
@@ -10275,6 +10449,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/thallium_ingot_from_blasting_thallium_dust": {
+    "criteria": {
+      "has_thallium": "2024-09-01 12:40:20 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-07-23 20:08:57 +0200"
@@ -10350,6 +10530,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_purple": {
     "criteria": {
       "has_sheetmetal": "2024-01-24 16:41:46 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/thallium_ingot_from_smelting_thallium_dust": {
+    "criteria": {
+      "has_thallium": "2024-09-01 12:40:20 +0200"
     },
     "done": true
   },

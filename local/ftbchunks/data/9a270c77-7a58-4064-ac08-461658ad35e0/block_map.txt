@@ -169,6 +169,7 @@
 #531031 immersiveengineering:coke_oven
 #7E82C3 immersiveengineering:cokebrick
 #13615A alchemistry:combiner
+#71C32B electrodynamics:combustionchamber
 #FB5E8C minecraft:command_block
 #59C28D alchemistry:compactor
 #E2D601 minecraft:composter
