@@ -1,0 +1,8 @@
+{
+	"type": "beyond_earth:oxygen_bubble_distributor",
+	"input": {
+		"name": "chemlib:oxygen_fluid",
+		"amount": 1
+	},
+	"oxygen": 4
+}

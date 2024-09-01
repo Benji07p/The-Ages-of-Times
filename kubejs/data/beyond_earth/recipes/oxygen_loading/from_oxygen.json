@@ -1,0 +1,8 @@
+{
+	"type": "beyond_earth:oxygen_loader",
+	"input": {
+		"name": "chemlib:oxygen_fluid",
+		"amount": 5
+	},
+	"oxygen": 5
+}
