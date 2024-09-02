@@ -117,6 +117,7 @@
 #207534 minecraft:brown_mushroom
 #3AE802 minecraft:brown_mushroom_block
 #A4BB24 domum_ornamentum:brown_stone_bricks
+#642081 minecraft:brown_terracotta
 #F82DAB minecraft:brown_wall_banner
 #BA9FBF minecraft:bubble_coral_block
 #424F4E tconstruct:budding_sky_slime_crystal
@@ -219,6 +220,7 @@
 #E3DF1E minecraft:dark_oak_leaves
 #A66708 minecraft:dark_oak_log
 #19C8D3 minecraft:dark_oak_planks
+#68241E minecraft:dark_oak_pressure_plate
 #A4967C minecraft:dark_oak_slab
 #A8FCCC minecraft:dark_oak_stairs
 #2D271D minecraft:dark_oak_trapdoor
@@ -364,6 +366,7 @@
 #643C84 the_ages_of_times:iron_sulfate
 #20FC50 create:item_drain
 #2B1FD4 minecraft:jigsaw
+#3A4E22 minecraft:jungle_fence
 #C1E251 minecraft:jungle_leaves
 #6B68B5 minecraft:jungle_log
 #F7CC06 minecraft:jungle_planks
@@ -389,6 +392,7 @@
 #CBF1B4 minecraft:light_blue_terracotta
 #19EEF2 immersiveengineering:light_engineering
 #38DD6B minecraft:light_gray_concrete
+#EC280B minecraft:light_gray_terracotta
 #7482E4 minecraft:lilac
 #DFD691 minecraft:lily_pad
 #794FA2 minecraft:lime_concrete
@@ -480,6 +484,7 @@
 #ACDA62 domum_ornamentum:one_crossed_rl
 #6146E3 minecraft:orange_bed
 #79BDC3 minecraft:orange_stained_glass
+#4A3089 minecraft:orange_terracotta
 #8F6314 minecraft:orange_tulip
 #BF0745 immersiveengineering:ore_aluminum
 #AEFCD8 the_ages_of_times:ore_argyrodite
@@ -570,6 +575,8 @@
 #F6E05E immersiveengineering:razor_wire
 #EF2B43 nuclearscience:reactorcore
 #78AF47 minecraft:red_mushroom_block
+#81AF65 minecraft:red_sand
+#841826 minecraft:red_sandstone
 #31987F notreepunching:red_sandstone_loose_rock
 #4A5246 minecraft:red_terracotta
 #465F37 minecraft:red_tulip
