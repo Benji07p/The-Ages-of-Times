@@ -1265,6 +1265,33 @@ onEvent('recipes', event => {
 		  }
 	)
 
+	//Telescope
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "  A",
+			  " B ",
+			  "A C"
+			],
+			"key": {
+			  "A": {
+				"item": "the_ages_of_times:lens"
+			  },
+			  "B": {
+				"item": "createaddition:brass_rod"
+			  },
+			  "C": {
+				"item": "the_ages_of_times:long_stick"
+			  }
+			},
+			"result": {
+			  "item": "custommachinery:custom_machine_item",
+			  "nbt": '{machine:"taotmachinery:telescope"}'
+			}
+		  }
+	)
+
 	//Alembic
 	event.custom(
 		  {
