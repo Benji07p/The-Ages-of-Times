@@ -104,5 +104,27 @@ onEvent('recipes', event => {
             ]
         }
     )
+
+    event.custom(
+        {
+            "type": "lychee:block_interacting",
+            "item_in": {
+                "item": "bucket"
+            },
+            "block_in": "the_ages_of_times:white_cauldron",
+            "post": [
+                {
+                    "type": "drop_item",
+                    "item": "the_ages_of_times:white_water_bucket"
+                },
+                {
+                    "type": "place",
+                    "block": {
+                        "blocks": ["cauldron"]
+                    }
+                }
+            ]
+        }
+    )
     
 })
