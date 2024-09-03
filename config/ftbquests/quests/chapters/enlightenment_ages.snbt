@@ -1,9 +1,10 @@
 {
 	id: "7481FCEC4C402C8F"
-	group: ""
-	order_index: 1
+	group: "4EADA09B944324F5"
+	order_index: 4
 	filename: "enlightenment_ages"
 	title: "Enlightenment Ages"
+	icon: "minecraft:book"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -231,6 +232,17 @@
 				id: "2BDC26DFA74B8005"
 				type: "item"
 				item: "the_ages_of_times:lens"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 2.0d
+			dependencies: ["464CBA2509DC3C07"]
+			id: "14E39AF0896AEB4B"
+			tasks: [{
+				id: "6EC3F9202C587942"
+				type: "item"
+				item: "the_ages_of_times:thermometer"
 			}]
 		}
 	]
