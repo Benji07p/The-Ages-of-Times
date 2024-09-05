@@ -752,6 +752,11 @@
 				type: "item"
 				item: "computercraft:wireless_modem_normal"
 			}]
+			rewards: [{
+				id: "30B60BD1551D818D"
+				type: "item"
+				item: "the_ages_of_times:sputnik_timber"
+			}]
 		}
 		{
 			x: 24.0d
