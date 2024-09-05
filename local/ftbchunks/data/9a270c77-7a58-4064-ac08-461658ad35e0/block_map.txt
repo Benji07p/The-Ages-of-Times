@@ -427,6 +427,7 @@
 #4B39A0 melter:melter
 #FE827B chemlib:mercury
 #1CABB4 chemlib:methane
+#89A155 the_ages_of_times:microscope
 #C4844D create:millstone
 #DBCA5E electrodynamics:mineralcrusher
 #C94877 electrodynamics:mineralgrinder
@@ -759,6 +760,7 @@
 #05FFF5 create:turntable
 #EDFEF9 immersiveengineering:turntable
 #B945D4 the_ages_of_times:turntest
+#750605 computercraft:turtle_normal
 #36CBC5 extendedcrafting:ultimate_table
 #81B30B the_ages_of_times:uranium_hexafluoride
 #EB17F0 pneumaticcraft:uv_light_box
