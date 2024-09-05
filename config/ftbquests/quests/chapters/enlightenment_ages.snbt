@@ -245,6 +245,17 @@
 				item: "the_ages_of_times:thermometer"
 			}]
 		}
+		{
+			x: 0.5d
+			y: 2.0d
+			dependencies: ["547BF730A70B12B5"]
+			id: "3CB9CFDD534719FA"
+			tasks: [{
+				id: "2BBCC9DF727F7A46"
+				type: "item"
+				item: "the_ages_of_times:microscope"
+			}]
+		}
 	]
 	quest_links: [ ]
 }
