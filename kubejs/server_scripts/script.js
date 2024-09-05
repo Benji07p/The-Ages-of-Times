@@ -1327,6 +1327,56 @@ onEvent('recipes', event => {
 		  }
 	)
 
+	//Mercury Thermometer
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "  A  ",
+			  "  A  ",
+			  "  A  ",
+			  " ABA ",
+			  "  A  "
+			],
+			"key": {
+			  "A": {
+				"item": "minecraft:glass"
+			  },
+			  "B": {
+				"item": "chemlib:mercury_bucket"
+			  }
+			},
+			"result": {
+			  "item": "the_ages_of_times:thermometer"
+			}
+		  }
+	)
+
+	//Microscope
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "   AB",
+			  "  A B",
+			  " BBBB",
+			  "    B",
+			  "BBBBB"
+			],
+			"key": {
+			  "A": {
+				"item": "the_ages_of_times:lens"
+			  },
+			  "B": {
+				"item": "electrodynamics:plateiron"
+			  }
+			},
+			"result": {
+			  "item": "the_ages_of_times:microscope"
+			}
+		  }
+	)
+
 	//Lens
 	event.shaped('the_ages_of_times:lens', [
 		'VVV',
