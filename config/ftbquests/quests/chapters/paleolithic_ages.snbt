@@ -74,7 +74,7 @@
 				id: "6692F79ACE2C5832"
 				type: "item"
 				item: {
-					id: "notreepunching:flint_knife"
+					id: "farmersdelight:flint_knife"
 					Count: 1b
 					tag: {
 						Damage: 0
