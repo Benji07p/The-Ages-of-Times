@@ -1,33 +1,33 @@
-[18:07:47.169][INFO]: Parsing all .json files in machines folder.
-[18:07:47.194][INFO]: Parsing all .json files in upgrades folder.
-[18:07:47.502][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
-[18:07:47.618][INFO]: Finished, 11 .json files successfully parsed in machines folder.
-[18:08:05.237][INFO]: Reading Custom Machinery Machines...
-[18:08:05.238][INFO]: Parsing machine json: taotmachinery:horselol in datapack: KubeJS Resource Pack [data]
-[18:08:05.247][INFO]: Successfully parsed machine json: taotmachinery:horselol
-[18:08:05.247][INFO]: Parsing machine json: taotmachinery:pottery in datapack: KubeJS Resource Pack [data]
-[18:08:05.248][INFO]: Successfully parsed machine json: taotmachinery:pottery
-[18:08:05.249][INFO]: Parsing machine json: taotmachinery:telescope in datapack: KubeJS Resource Pack [data]
-[18:08:05.250][INFO]: Successfully parsed machine json: taotmachinery:telescope
-[18:08:05.251][INFO]: Parsing machine json: taotmachinery:printer in datapack: KubeJS Resource Pack [data]
-[18:08:05.252][INFO]: Successfully parsed machine json: taotmachinery:printer
-[18:08:05.252][INFO]: Parsing machine json: taotmachinery:turntableinjei in datapack: KubeJS Resource Pack [data]
-[18:08:05.253][INFO]: Successfully parsed machine json: taotmachinery:turntableinjei
-[18:08:05.253][INFO]: Parsing machine json: taotmachinery:rocket_charger in datapack: KubeJS Resource Pack [data]
-[18:08:05.254][INFO]: Successfully parsed machine json: taotmachinery:rocket_charger
-[18:08:05.256][INFO]: Parsing machine json: taotmachinery:turntable in datapack: KubeJS Resource Pack [data]
-[18:08:05.256][INFO]: Successfully parsed machine json: taotmachinery:turntable
-[18:08:05.256][INFO]: Parsing machine json: taotmachinery:wandering_trader in datapack: KubeJS Resource Pack [data]
-[18:08:05.257][INFO]: Successfully parsed machine json: taotmachinery:wandering_trader
-[18:08:05.257][INFO]: Parsing machine json: taotmachinery:alembic in datapack: KubeJS Resource Pack [data]
-[18:08:05.258][INFO]: Successfully parsed machine json: taotmachinery:alembic
-[18:08:05.259][INFO]: Parsing machine json: taotmachinery:nasa_workbench_tier_2 in datapack: KubeJS Resource Pack [data]
-[18:08:05.262][INFO]: Successfully parsed machine json: taotmachinery:nasa_workbench_tier_2
-[18:08:05.263][INFO]: Parsing machine json: taotmachinery:horse_power in datapack: KubeJS Resource Pack [data]
-[18:08:05.263][INFO]: Successfully parsed machine json: taotmachinery:horse_power
-[18:08:05.263][INFO]: Finished creating custom machines.
-[18:08:05.263][INFO]: Reading Custom Machinery Upgrades json
-[18:08:05.264][INFO]: No machine upgrade json found.
-[18:08:05.264][INFO]: Collecting machine upgrades with kubeJS.
-[18:08:05.266][INFO]: No machine upgrades found with kubejs
-[18:08:05.266][INFO]: Finished creating custom machine upgrades.
+[17:23:03.413][INFO]: Parsing all .json files in machines folder.
+[17:23:03.494][INFO]: Parsing all .json files in upgrades folder.
+[17:23:03.771][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
+[17:23:03.934][INFO]: Finished, 11 .json files successfully parsed in machines folder.
+[17:23:19.666][INFO]: Reading Custom Machinery Machines...
+[17:23:19.667][INFO]: Parsing machine json: taotmachinery:horselol in datapack: KubeJS Resource Pack [data]
+[17:23:19.675][INFO]: Successfully parsed machine json: taotmachinery:horselol
+[17:23:19.676][INFO]: Parsing machine json: taotmachinery:pottery in datapack: KubeJS Resource Pack [data]
+[17:23:19.677][INFO]: Successfully parsed machine json: taotmachinery:pottery
+[17:23:19.677][INFO]: Parsing machine json: taotmachinery:telescope in datapack: KubeJS Resource Pack [data]
+[17:23:19.680][INFO]: Successfully parsed machine json: taotmachinery:telescope
+[17:23:19.680][INFO]: Parsing machine json: taotmachinery:printer in datapack: KubeJS Resource Pack [data]
+[17:23:19.681][INFO]: Successfully parsed machine json: taotmachinery:printer
+[17:23:19.681][INFO]: Parsing machine json: taotmachinery:turntableinjei in datapack: KubeJS Resource Pack [data]
+[17:23:19.682][INFO]: Successfully parsed machine json: taotmachinery:turntableinjei
+[17:23:19.682][INFO]: Parsing machine json: taotmachinery:rocket_charger in datapack: KubeJS Resource Pack [data]
+[17:23:19.683][INFO]: Successfully parsed machine json: taotmachinery:rocket_charger
+[17:23:19.684][INFO]: Parsing machine json: taotmachinery:turntable in datapack: KubeJS Resource Pack [data]
+[17:23:19.685][INFO]: Successfully parsed machine json: taotmachinery:turntable
+[17:23:19.685][INFO]: Parsing machine json: taotmachinery:wandering_trader in datapack: KubeJS Resource Pack [data]
+[17:23:19.686][INFO]: Successfully parsed machine json: taotmachinery:wandering_trader
+[17:23:19.686][INFO]: Parsing machine json: taotmachinery:alembic in datapack: KubeJS Resource Pack [data]
+[17:23:19.688][INFO]: Successfully parsed machine json: taotmachinery:alembic
+[17:23:19.688][INFO]: Parsing machine json: taotmachinery:nasa_workbench_tier_2 in datapack: KubeJS Resource Pack [data]
+[17:23:19.692][INFO]: Successfully parsed machine json: taotmachinery:nasa_workbench_tier_2
+[17:23:19.692][INFO]: Parsing machine json: taotmachinery:horse_power in datapack: KubeJS Resource Pack [data]
+[17:23:19.693][INFO]: Successfully parsed machine json: taotmachinery:horse_power
+[17:23:19.693][INFO]: Finished creating custom machines.
+[17:23:19.693][INFO]: Reading Custom Machinery Upgrades json
+[17:23:19.693][INFO]: No machine upgrade json found.
+[17:23:19.693][INFO]: Collecting machine upgrades with kubeJS.
+[17:23:19.695][INFO]: No machine upgrades found with kubejs
+[17:23:19.695][INFO]: Finished creating custom machine upgrades.
