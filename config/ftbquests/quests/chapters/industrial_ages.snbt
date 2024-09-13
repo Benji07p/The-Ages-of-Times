@@ -39,6 +39,11 @@
 					criterion: ""
 				}
 			]
+			rewards: [{
+				id: "255F3B69654FFAB9"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 7.5d
@@ -49,6 +54,11 @@
 				id: "4895DEF9A973E432"
 				type: "item"
 				item: "createaddition:alternator"
+			}]
+			rewards: [{
+				id: "10EE8B5EA9B14C35"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -62,6 +72,11 @@
 				advancement: "immersiveengineering:multiblocks/mb_metalpress"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "69CD15F116F03357"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: -1.5d
@@ -72,6 +87,11 @@
 				id: "575B8BABE0022B71"
 				type: "item"
 				item: "immersiveengineering:workbench"
+			}]
+			rewards: [{
+				id: "3FAAFDB0DAE3EC62"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -85,6 +105,11 @@
 				advancement: "create:steam_engine"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "5F9C348213ACBFC4"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 10.5d
@@ -97,6 +122,11 @@
 				advancement: "immersiveengineering:multiblocks/mb_squeezer"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "765B7B62D7A59466"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 9.0d
@@ -108,6 +138,11 @@
 				type: "advancement"
 				advancement: "immersiveengineering:multiblocks/mb_crusher"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "030F2639122BCFC1"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -129,6 +164,11 @@
 					criterion: ""
 				}
 			]
+			rewards: [{
+				id: "125B8E66BBE2ED38"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 6.0d
@@ -140,12 +180,19 @@
 				type: "item"
 				item: "electrodynamics:ingotsteel"
 			}]
-			rewards: [{
-				id: "0B7B28CCA909A5CA"
-				type: "advancement"
-				advancement: "immersiveengineering:main/make_steel"
-				criterion: ""
-			}]
+			rewards: [
+				{
+					id: "0B7B28CCA909A5CA"
+					type: "advancement"
+					advancement: "immersiveengineering:main/make_steel"
+					criterion: ""
+				}
+				{
+					id: "6E6D0523C1DCFDD4"
+					type: "item"
+					item: "atum:coin_dirty"
+				}
+			]
 		}
 		{
 			x: 3.0d
@@ -156,6 +203,11 @@
 				id: "3911EB94E36B7CDC"
 				type: "item"
 				item: "minecraft:nether_brick"
+			}]
+			rewards: [{
+				id: "3ADD73BBA6D65AB0"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -168,6 +220,11 @@
 				type: "item"
 				item: "minecraft:soul_campfire"
 			}]
+			rewards: [{
+				id: "27F486658EC6C620"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 0.0d
@@ -178,6 +235,11 @@
 				id: "10D9B5FDB956DFC7"
 				type: "item"
 				item: "create:encased_fan"
+			}]
+			rewards: [{
+				id: "66BB75590F2FD369"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -197,6 +259,11 @@
 					item: "create:basin"
 				}
 			]
+			rewards: [{
+				id: "1CA16131118236DF"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 3.0d
@@ -207,6 +274,11 @@
 				id: "78814B940D505E54"
 				type: "item"
 				item: "create:blaze_burner"
+			}]
+			rewards: [{
+				id: "50EB464792341D32"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -349,6 +421,11 @@
 				type: "item"
 				item: "immersiveengineering:cloche"
 			}]
+			rewards: [{
+				id: "1B41450E38A8B680"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 9.0d
@@ -359,6 +436,11 @@
 				id: "095F3CF261998A43"
 				type: "item"
 				item: "electrodynamics:coalgenerator"
+			}]
+			rewards: [{
+				id: "0AEEB8D6B9FA8946"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -372,6 +454,11 @@
 				advancement: "immersiveengineering:multiblocks/mb_arcfurnace"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "56CB917B9BBF0B22"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: -1.5d
@@ -384,6 +471,11 @@
 				advancement: "create:track_0"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "03E8BDB05780187D"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 10.5d
@@ -395,6 +487,11 @@
 				type: "advancement"
 				advancement: "immersiveengineering:multiblocks/mb_fermenter"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "6619703FF9E53C7F"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -411,6 +508,11 @@
 				advancement: "immersiveengineering:multiblocks/mb_refinery"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "456078A03CCBF95B"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 13.5d
@@ -422,6 +524,11 @@
 				type: "advancement"
 				advancement: "immersiveengineering:multiblocks/mb_dieselgen"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "3DB5E62912CB7789"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -435,6 +542,11 @@
 				advancement: "immersivepetroleum:main/mb_pumpjack"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "7F38F1483E1DA265"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 18.0d
@@ -447,6 +559,11 @@
 				advancement: "immersivepetroleum:main/mb_distillationtower"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "45F20EC6FA87A88A"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 19.5d
@@ -458,6 +575,11 @@
 				type: "item"
 				item: "alchemistry:liquifier"
 			}]
+			rewards: [{
+				id: "07BCB7AA34596C5D"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 3.0d
@@ -468,6 +590,11 @@
 				id: "69B00DB51DD1146A"
 				type: "item"
 				item: "minecraft:soul_sand"
+			}]
+			rewards: [{
+				id: "19037C68388382D2"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -481,6 +608,11 @@
 				advancement: "immersivepetroleum:main/mb_derrick"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "48B511CCA10BEB3E"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 19.5d
@@ -491,6 +623,11 @@
 				id: "455C3A6118020F58"
 				type: "item"
 				item: "alchemistry:atomizer"
+			}]
+			rewards: [{
+				id: "4F5237113BB10451"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -503,6 +640,11 @@
 				type: "advancement"
 				advancement: "immersivepetroleum:main/mb_hydrotreater"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "07CE31240DBD178B"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -519,6 +661,12 @@
 				id: "37CDF0B28B261A99"
 				type: "item"
 				item: "pneumaticcraft:plastic"
+			}]
+			rewards: [{
+				id: "17A262A2C94DE828"
+				type: "item"
+				item: "atum:coin_gold"
+				count: 18
 			}]
 		}
 	]

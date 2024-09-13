@@ -18,6 +18,11 @@
 				type: "item"
 				item: "nuclearscience:yellowcake"
 			}]
+			rewards: [{
+				id: "253DFF3802E759B1"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 9.0d
@@ -41,6 +46,11 @@
 					item: "nuclearscience:fissiledust"
 				}
 			]
+			rewards: [{
+				id: "3C8C0C2BC645374A"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 10.5d
@@ -51,6 +61,11 @@
 				id: "33CC8F05F89C153B"
 				type: "item"
 				item: "nuclearscience:reactorcore"
+			}]
+			rewards: [{
+				id: "157C488D53C0C7F5"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -66,6 +81,11 @@
 				type: "item"
 				item: "nuclearscience:chemicalextractor"
 			}]
+			rewards: [{
+				id: "3C1AE4917E7A701D"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 6.0d
@@ -77,6 +97,11 @@
 				type: "item"
 				item: "nuclearscience:nuclearboiler"
 			}]
+			rewards: [{
+				id: "12F09C217023C678"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 7.5d
@@ -87,6 +112,11 @@
 				id: "00263EE803E9A1D2"
 				type: "item"
 				item: "nuclearscience:gascentrifuge"
+			}]
+			rewards: [{
+				id: "36F73051B9CD72F9"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -102,6 +132,11 @@
 				type: "item"
 				item: "electrodynamics:electrolyticseparator"
 			}]
+			rewards: [{
+				id: "39023342DCFFC0AF"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 10.5d
@@ -112,6 +147,11 @@
 				id: "202A782C440BC3FB"
 				type: "item"
 				item: "ballistix:nuclear"
+			}]
+			rewards: [{
+				id: "7499FA916089F4D5"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -124,6 +164,11 @@
 				type: "item"
 				item: "beyond_earth:oxygen_loader"
 			}]
+			rewards: [{
+				id: "06E7DA045D3F6BCC"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 15.0d
@@ -134,6 +179,11 @@
 				id: "4661D5340030BDCE"
 				type: "item"
 				item: "beyond_earth:fuel_bucket"
+			}]
+			rewards: [{
+				id: "0EB00D45EC94CAB8"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -150,6 +200,11 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "2E71623405CA7FF9"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 31.0d
@@ -162,6 +217,12 @@
 				type: "advancement"
 				advancement: "beyond_earth:moon_advancement"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "236E35C7F9478475"
+				type: "item"
+				item: "atum:coin_gold"
+				count: 38
 			}]
 		}
 		{
@@ -186,11 +247,18 @@
 				advancement: "beyond_earth:space_station"
 				criterion: ""
 			}]
-			rewards: [{
-				id: "0E404B7DE8EB994A"
-				type: "item"
-				item: "the_ages_of_times:general_relativity"
-			}]
+			rewards: [
+				{
+					id: "0E404B7DE8EB994A"
+					type: "item"
+					item: "the_ages_of_times:general_relativity"
+				}
+				{
+					id: "778E5BED7B54C655"
+					type: "item"
+					item: "atum:coin_dirty"
+				}
+			]
 		}
 		{
 			x: 1.5d
@@ -209,6 +277,11 @@
 					item: "chemlib:oxygen_bucket"
 				}
 			]
+			rewards: [{
+				id: "527015FB09D860A4"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 2.0d
@@ -239,6 +312,11 @@
 				type: "item"
 				item: "electrodynamics:chemicalmixer"
 			}]
+			rewards: [{
+				id: "3616DDE9811E1C6C"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 3.0d
@@ -249,6 +327,11 @@
 				id: "7DEEFE5B840A4093"
 				type: "item"
 				item: "electrodynamics:combustionchamber"
+			}]
+			rewards: [{
+				id: "6A241387415D4B3B"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -272,11 +355,18 @@
 				type: "item"
 				item: "extendedcrafting:elite_table"
 			}]
-			rewards: [{
-				id: "0B80D89C6330912F"
-				type: "item"
-				item: "the_ages_of_times:thermodynamics_laws_book"
-			}]
+			rewards: [
+				{
+					id: "0B80D89C6330912F"
+					type: "item"
+					item: "the_ages_of_times:thermodynamics_laws_book"
+				}
+				{
+					id: "7AA3632A776E0EF5"
+					type: "item"
+					item: "atum:coin_dirty"
+				}
+			]
 		}
 		{
 			x: -6.0d
@@ -287,6 +377,11 @@
 				id: "20C9C0488A97AA17"
 				type: "item"
 				item: "electrodynamics:mineralgrinder"
+			}]
+			rewards: [{
+				id: "3D3C20DDA0CE2B06"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -299,6 +394,11 @@
 				type: "item"
 				item: "electrodynamics:mineralcrusher"
 			}]
+			rewards: [{
+				id: "355EFBCAFE70A22D"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: -6.0d
@@ -309,6 +409,11 @@
 				id: "20C0833FDB059827"
 				type: "item"
 				item: "electrodynamics:wiremill"
+			}]
+			rewards: [{
+				id: "55E97C6233370D59"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -321,6 +426,11 @@
 				type: "item"
 				item: "electrodynamics:circuitbasic"
 			}]
+			rewards: [{
+				id: "673AA2BD51AEBE51"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: -7.5d
@@ -331,6 +441,11 @@
 				id: "63B631E9CB908CD1"
 				type: "item"
 				item: "electrodynamics:solarpanel"
+			}]
+			rewards: [{
+				id: "3D00E377A7842638"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -343,6 +458,11 @@
 				type: "item"
 				item: "immersiveengineering:component_electronic"
 			}]
+			rewards: [{
+				id: "506B8CF3D65BFB57"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: -4.5d
@@ -353,6 +473,11 @@
 				id: "66CB34A2689ADF10"
 				type: "item"
 				item: "immersiveengineering:electron_tube"
+			}]
+			rewards: [{
+				id: "42B42ADC8635CC71"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -365,6 +490,11 @@
 				type: "item"
 				item: "immersiveengineering:component_electronic_adv"
 			}]
+			rewards: [{
+				id: "2F744F578FBED24D"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: -1.5d
@@ -375,6 +505,11 @@
 				id: "5E4074647C3A9329"
 				type: "item"
 				item: "electrodynamics:circuitadvanced"
+			}]
+			rewards: [{
+				id: "699D89C68F7B74C7"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -387,6 +522,11 @@
 				type: "item"
 				item: "ballistix:missilemediumrange"
 			}]
+			rewards: [{
+				id: "05FA6657CC1EEC82"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 12.0d
@@ -397,6 +537,11 @@
 				id: "1E57B7CE0DD30C88"
 				type: "item"
 				item: "ballistix:missilesilo"
+			}]
+			rewards: [{
+				id: "57C168F6339EC5DA"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -417,6 +562,11 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "546412C254ECE441"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 0.0d
@@ -427,6 +577,11 @@
 				id: "140F837AC21F5828"
 				type: "item"
 				item: "electrodynamics:upgradetransformer"
+			}]
+			rewards: [{
+				id: "1BB1C603EE846730"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -480,6 +635,11 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "4DB6EA33510D74B1"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 4.5d
@@ -532,6 +692,11 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "3783D5FA6F6DF218"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 3.0d
@@ -549,6 +714,11 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "388A890B6FFB774F"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 9.0d
@@ -560,11 +730,18 @@
 				type: "item"
 				item: "nuclearscience:particleinjector"
 			}]
-			rewards: [{
-				id: "4A399DF14322573A"
-				type: "item"
-				item: "the_ages_of_times:quantum_physics_book"
-			}]
+			rewards: [
+				{
+					id: "4A399DF14322573A"
+					type: "item"
+					item: "the_ages_of_times:quantum_physics_book"
+				}
+				{
+					id: "1BD82A5377C98451"
+					type: "item"
+					item: "atum:coin_dirty"
+				}
+			]
 		}
 		{
 			x: 28.5d
@@ -575,6 +752,11 @@
 				id: "7F527308BAB39F33"
 				type: "item"
 				item: "the_ages_of_times:hydrogen_oxygen_mix_bucket"
+			}]
+			rewards: [{
+				id: "598FE697C3757E64"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -587,6 +769,11 @@
 				type: "item"
 				item: "chemlib:nitric_acid"
 			}]
+			rewards: [{
+				id: "3D9B463974CCCB95"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: -1.5d
@@ -597,6 +784,11 @@
 				id: "6F89B456A3B91820"
 				type: "item"
 				item: "pneumaticcraft:ingot_iron_compressed"
+			}]
+			rewards: [{
+				id: "62E6CFD4D7E502F2"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -610,6 +802,11 @@
 				advancement: "pneumaticcraft:pressure_chamber"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "62CD290F3FC0B3E0"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 21.0d
@@ -620,6 +817,11 @@
 				id: "6F2FFCB38C4B5511"
 				type: "item"
 				item: "pneumaticcraft:empty_pcb"
+			}]
+			rewards: [{
+				id: "010EF3CFA318D1E0"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -641,6 +843,11 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "31C96EA1D1AE3871"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 24.0d
@@ -652,6 +859,11 @@
 				type: "item"
 				item: "pneumaticcraft:unassembled_pcb"
 			}]
+			rewards: [{
+				id: "19B2C73539FEBF2E"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 25.5d
@@ -662,6 +874,11 @@
 				id: "070203E3215D9CEF"
 				type: "item"
 				item: "pneumaticcraft:printed_circuit_board"
+			}]
+			rewards: [{
+				id: "5706C23C095360AF"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -675,6 +892,11 @@
 				type: "item"
 				item: "minecolonies:blockhutmechanic"
 			}]
+			rewards: [{
+				id: "00D592E433BAEF07"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 21.0d
@@ -685,6 +907,11 @@
 				id: "026B056E297215BE"
 				type: "item"
 				item: "pneumaticcraft:pcb_blueprint"
+			}]
+			rewards: [{
+				id: "7F483B7ED3F9C334"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -697,6 +924,11 @@
 				type: "item"
 				item: "pneumaticcraft:uv_light_box"
 			}]
+			rewards: [{
+				id: "3333BE57E6D7148D"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 27.0d
@@ -707,6 +939,11 @@
 				id: "36AADBAC35F93807"
 				type: "item"
 				item: "the_ages_of_times:computer_circuit"
+			}]
+			rewards: [{
+				id: "3C7B1FB9514770A8"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -719,6 +956,11 @@
 				type: "item"
 				item: "computercraft:computer_normal"
 			}]
+			rewards: [{
+				id: "7125F99EA687F55B"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 19.5d
@@ -729,6 +971,11 @@
 				id: "55AEB0C74A0961E6"
 				type: "item"
 				item: "the_ages_of_times:spoutnik"
+			}]
+			rewards: [{
+				id: "2E6FF09D47F73E9D"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -741,6 +988,11 @@
 				type: "item"
 				item: "the_ages_of_times:basic_satellite"
 			}]
+			rewards: [{
+				id: "40BD593257498E95"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 22.5d
@@ -752,11 +1004,18 @@
 				type: "item"
 				item: "computercraft:wireless_modem_normal"
 			}]
-			rewards: [{
-				id: "30B60BD1551D818D"
-				type: "item"
-				item: "the_ages_of_times:sputnik_timber"
-			}]
+			rewards: [
+				{
+					id: "30B60BD1551D818D"
+					type: "item"
+					item: "the_ages_of_times:sputnik_timber"
+				}
+				{
+					id: "28F0B4E461111467"
+					type: "item"
+					item: "atum:coin_dirty"
+				}
+			]
 		}
 		{
 			x: 24.0d
@@ -809,6 +1068,11 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "41D1628890D4E9D0"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 27.0d
@@ -826,6 +1090,11 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "720167FCCC710135"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: -1.5d
@@ -836,6 +1105,11 @@
 				id: "1D604CB8F0757213"
 				type: "item"
 				item: "create:precision_mechanism"
+			}]
+			rewards: [{
+				id: "554BEAA137AA8E6B"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 		{
@@ -848,6 +1122,11 @@
 				type: "item"
 				item: "create:mechanical_arm"
 			}]
+			rewards: [{
+				id: "686F25C2CAB28ED1"
+				type: "item"
+				item: "atum:coin_dirty"
+			}]
 		}
 		{
 			x: 25.5d
@@ -858,6 +1137,11 @@
 				id: "0ACA1B8F0CF9152F"
 				type: "item"
 				item: "the_ages_of_times:moon_coordinates"
+			}]
+			rewards: [{
+				id: "103D3F3C0F7A9F36"
+				type: "item"
+				item: "atum:coin_dirty"
 			}]
 		}
 	]
