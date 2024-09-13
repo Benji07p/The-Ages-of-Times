@@ -269,9 +269,11 @@
 #80497A minecraft:dirt
 #4FA7D0 minecraft:dirt_path
 #910123 computercraft:disk_drive
+#B666A8 minecraft:dispenser
 #A47868 alchemistry:dissolver
 #5B644A immersivepetroleum:distillation_tower
 #3B0AD1 minecraft:dripstone_block
+#19A3C1 minecraft:dropper
 #B7B232 immersiveengineering:dynamo
 #3B3ABB tconstruct:earth_congealed_slime
 #7CDED2 tconstruct:earth_earth_slime_grass
@@ -284,6 +286,7 @@
 #5B3487 extendedcrafting:elite_table
 #4C963A minecraft:emerald_ore
 #A952FC create:encased_chain_drive
+#548B83 create:encased_fan
 #622CB1 minecraft:end_portal_frame
 #89C856 minecraft:end_rod
 #3A8323 chemlib:epinephrine
@@ -464,6 +467,7 @@
 #18AC5F chemlib:nitrogen_dioxide
 #1D338C ballistix:nuclear
 #272A33 functionalstorage:oak_1
+#272A36 functionalstorage:oak_4
 #308B47 minecraft:oak_door
 #73753E minecraft:oak_fence
 #111F32 minecraft:oak_fence_gate
@@ -750,6 +754,7 @@
 #A3B970 ballistix:thermobaric
 #982755 the_ages_of_times:tin_sulfate
 #2F5CAD ae2:tiny_tnt
+#52FD2D minecraft:tnt
 #07CAA1 immersiveengineering:transformer
 #0BBF37 minecraft:trapped_chest
 #70F033 immersiveengineering:treated_fence
