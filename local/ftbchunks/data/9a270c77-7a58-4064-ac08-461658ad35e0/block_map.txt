@@ -622,6 +622,7 @@
 #9EF0DB minecraft:sandstone_wall
 #8505E1 atum:sarcophagus
 #3C4AE0 create:schematic_table
+#257ED7 create:schematicannon
 #C369ED tconstruct:scorched_alloyer
 #2562EE tconstruct:scorched_basin
 #F14597 tconstruct:scorched_bricks
