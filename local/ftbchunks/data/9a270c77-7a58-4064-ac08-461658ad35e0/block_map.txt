@@ -173,6 +173,7 @@
 #71C32B electrodynamics:combustionchamber
 #FB5E8C minecraft:command_block
 #59C28D alchemistry:compactor
+#F888C9 minecraft:comparator
 #E2D601 minecraft:composter
 #3799E2 pneumaticcraft:compressed_brick_slab
 #2518F2 pneumaticcraft:compressed_brick_stairs
@@ -307,6 +308,7 @@
 #DDC0C3 create:fluid_tank
 #8A9C1E ae2:fluix_block
 #DA0ACF tconstruct:foundry_controller
+#D10A71 functionalstorage:framed_1
 #128EDC beyond_earth:fuel
 #AAF18F beyond_earth_giselle_addon:fuel_loader
 #E6F14B nuclearscience:fuelreprocessor
@@ -566,6 +568,8 @@
 #4E2A71 pneumaticcraft:pressure_chamber_wall
 #CB012A pneumaticcraft:pressure_tube
 #B4F304 pneumaticcraft:programmable_controller
+#BCFDB1 create:pulse_extender
+#3CCFF2 create:pulse_repeater
 #652575 immersivepetroleum:pumpjack
 #E6B35B minecraft:pumpkin
 #8DE070 ae2:quartz_ore
