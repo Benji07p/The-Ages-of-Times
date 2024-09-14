@@ -1433,6 +1433,58 @@ onEvent('recipes', event => {
 		  }
 	)
 	
+	//3-Cylinder
+	event.remove({ id: 'car:engine_3_cylinder'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "ABCBA",
+			  "DKFKD",
+			  "DGGGD",
+			  "DHIHD",
+			  "JFEFJ"
+			],
+			"key": {
+			  "A": {
+				"item": "car:screw_driver"
+			  },
+			  "B": {
+				"item": "car:wrench"
+			  },
+			  "C": {
+				"item": "car:hammer"
+			  },
+			  "D": {
+				"item": "electrodynamics:plateiron"
+			  },
+			  "E": {
+				"item": "electrodynamics:pipecopper"
+			  },
+			  "F": {
+				"item": "create:cogwheel"
+			  },
+			  "G": {
+				"item": "car:engine_piston"
+			  },
+			  "H": {
+				"item": "minecraft:water_bucket"
+			  },
+			  "I": {
+				"item": "minecraft:charcoal"
+			  },
+			  "J": {
+				"item": "car:repair_kit"
+			  },
+			  "K": {
+				"item": "beyond_earth:iron_stick"
+			  }
+			},
+			"result": {
+			  "item": "car:engine_3_cylinder"
+			}
+		  }
+	)
 
 	//Light Enginneer Block
 	event.remove({ id: 'immersiveengineering:crafting/component_iron'})
