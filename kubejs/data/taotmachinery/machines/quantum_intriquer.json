@@ -1,0 +1,57 @@
+{
+    "name": "Quantum Intriquer",
+    "appearance":{
+           "block": "the_ages_of_times:quantumtest",
+           "shape": [[0.0, 0.0, 0.0, 1.0, 0.9, 1.0]],
+           	"resistance": 3600000
+    },
+    "components": [
+        {
+            "type": "custommachinery:item",
+            "id": "input1"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input2"
+        },
+        {
+            "type": "custommachinery:redstone",
+            "craftingpoweroutput": 15
+        }
+    ],
+    "gui": [
+        {
+            "texture": "kubejs:textures/quantum_intriquer_gui.png",
+            "x": 0,
+            "y": 0,
+            "type": "custommachinery:texture",
+            "height": 186,
+            "width": 176
+        },
+        {
+            "x": 6,
+            "y": 102,
+            "type": "custommachinery:player_inventory"
+        },
+        {
+            "id": "input1",
+            "x": 24,
+            "y": 10,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input2",
+            "x": 131,
+            "y": 10,
+            "type": "custommachinery:slot"
+        },
+        {
+            "x": 63,
+            "y": 17,
+            "type": "custommachinery:progress",
+            "direction": "bottom",
+            "emptyTexture": "kubejs:textures/quantum_intriquer_progress_bar.png",
+            "filledTexture": "kubejs:textures/quantum_intriquer_progress_bar_full.png"
+        }
+    ]
+}
