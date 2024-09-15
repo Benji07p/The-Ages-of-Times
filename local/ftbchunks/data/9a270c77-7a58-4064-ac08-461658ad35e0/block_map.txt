@@ -181,6 +181,7 @@
 #AA7746 computercraft:computer_normal
 #1030A6 immersiveengineering:concrete_fluid_block
 #E727DA immersiveengineering:concrete_sprayed
+#9C1267 ae2:condenser
 #2C7BC8 immersiveengineering:connector_hv
 #57315A immersiveengineering:connector_hv_relay
 #2C7C44 immersiveengineering:connector_lv
@@ -674,6 +675,7 @@
 #DB76CE tconstruct:sky_slime_leaves
 #3768ED beyond_earth:sky_stone
 #468B47 ae2:sky_stone_block
+#52ADBB ae2:sky_stone_chest
 #C2CF94 ae2:sky_stone_tank
 #D4DCCF multibeds:slab
 #7552C1 immersiveengineering:slab_sheetmetal_steel
