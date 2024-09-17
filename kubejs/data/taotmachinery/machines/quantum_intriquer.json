@@ -49,7 +49,7 @@
             "x": 63,
             "y": 17,
             "type": "custommachinery:progress",
-            "direction": "bottom",
+            "direction": "top",
             "emptyTexture": "kubejs:textures/quantum_intriquer_progress_bar.png",
             "filledTexture": "kubejs:textures/quantum_intriquer_progress_bar_full.png"
         }
