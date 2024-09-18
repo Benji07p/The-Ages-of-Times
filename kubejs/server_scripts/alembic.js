@@ -92,6 +92,95 @@ onEvent('recipes', event => {
                 ]
             }
         )}
+        function filter(input, amount1, input7, amount7, chance3, output1, amount4, chance1, output2, amount5, chance2){
+            event.custom(
+                {
+                    "type": "custommachinery:custom_machine",
+                    "machine": "taotmachinery:alembic",
+                    "time": 80,
+                    "requirements": [
+                        {
+                            "type": "custommachinery:item",
+                            "mode": "input",
+                            "item": input,
+                            "amount": amount1,
+                            "slot": "input1"
+                        },
+                        {
+                            "type": "custommachinery:item",
+                            "mode": "input",
+                            "item": input7,
+                            "amount": amount7,
+                            "slot": "input2",
+                            "chance": chance3
+                        },
+                        {
+                            "type": "custommachinery:item",
+                            "mode": "output",
+                            "item": output1,
+                            "amount": amount4,
+                            "slot": "input5",
+                            "chance": chance1
+                        },
+                        {
+                            "type": "custommachinery:item",
+                            "mode": "output",
+                            "item": output2,
+                            "amount": amount5,
+                            "slot": "input6",
+                            "chance": chance2
+                        }
+                    ]
+                }
+            )}
+            function filter2(input, amount1, input7, amount7, chance3, input3, amount3, output1, amount4, chance1, output2, amount5, chance2){
+                event.custom(
+                    {
+                        "type": "custommachinery:custom_machine",
+                        "machine": "taotmachinery:alembic",
+                        "time": 80,
+                        "requirements": [
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input,
+                                "amount": amount1,
+                                "slot": "input1"
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input7,
+                                "amount": amount7,
+                                "slot": "input2",
+                                "chance": chance3
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "input",
+                                "item": input3,
+                                "amount": amount3,
+                                "slot": "input3"
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "output",
+                                "item": output1,
+                                "amount": amount4,
+                                "slot": "input5",
+                                "chance": chance1
+                            },
+                            {
+                                "type": "custommachinery:item",
+                                "mode": "output",
+                                "item": output2,
+                                "amount": amount5,
+                                "slot": "input6",
+                                "chance": chance2
+                            }
+                        ]
+                    }
+                )}
         function distil2(input, amount1, input7, amount7, input3, amount3, output1, amount4, chance1, output2, amount5, chance2){
             event.custom(
                 {
@@ -864,4 +953,26 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     meltingflui("chemlib:potassium", 16, "chemlib:potassium_dust", 1, 1, "minecraft:air", 1, 0.01)
     meltingdistillation("the_ages_of_times:beaker", 1, "electrodynamics:dustsilica", 1, "the_ages_of_times:hydrofluoric_acid", 400, "minecraft:water", 200, "the_ages_of_times:silicon_tetrafluoride", 1, 1, "minecraft:air", 1, 0.01)
     distil2("chemlib:potassium_ingot", 4, "the_ages_of_times:beaker", 48, "the_ages_of_times:silicon_tetrafluoride", 16, "ae2:silicon", 1, 1, "the_ages_of_times:potassium_fluoride", 64, 1)
+
+    //Erbium, Terbium and Ytterbium
+    filter("the_ages_of_times:yttrium_oxide", 1, "create:filter", 1, 0, "the_ages_of_times:terbium_oxide", 1, 0.5, "the_ages_of_times:erbium_oxide", 1, 0.5)
+    filter("the_ages_of_times:erbium_oxide", 1, "create:filter", 1, 0, "the_ages_of_times:erbium_oxide", 1, 0.5, "the_ages_of_times:ytterbium_oxide", 1, 0.5)
+
+    //Cerium, Lanthane, Praseodymium and Neodymium
+    filter2("the_ages_of_times:test_tube", 1, "create:filter", 1, 0, "the_ages_of_times:cerium_oxide", 1, "chemlib:cerium", 1, 0.5, "the_ages_of_times:didymium", 1, 0.5)
+    filter2("the_ages_of_times:test_tube", 1, "create:filter", 1, 0, "the_ages_of_times:cerium_oxide", 1, "chemlib:lanthanum", 1, 0.5, "the_ages_of_times:didymium", 1, 0.5)
+    filter("the_ages_of_times:didymium", 1, "create:filter", 1, 0, "the_ages_of_times:praseodymium_oxide", 1, 0.5, "the_ages_of_times:neodymium_oxide", 1, 0.5)
+
+    //Iridium, Osmium, Ruthenium, Rhodium and Palladium
+    oxydoreduction("the_ages_of_times:raw_ore_sperrylite", 1, "the_ages_of_times:test_tube", 1, "chemlib:hydrochloric_acid", 6, "chemlib:nitric_acid_fluid", 400, 0.5, "chemlib:nitric_oxide_fluid", 100, "the_ages_of_times:chloroplatinic_acid", 1, 1, "chemlib:osmium", 1, 1)
+    oxydoreduction("the_ages_of_times:raw_ore_sperrylite", 1, "the_ages_of_times:test_tube", 1, "chemlib:hydrochloric_acid", 6, "chemlib:nitric_acid_fluid", 400, 0.5, "chemlib:nitric_oxide_fluid", 100, "the_ages_of_times:chloroplatinic_acid", 1, 1, "chemlib:iridium", 1, 1)
+    oxydoreduction("the_ages_of_times:raw_ore_sperrylite", 1, "the_ages_of_times:test_tube", 1, "chemlib:hydrochloric_acid", 6, "chemlib:nitric_acid_fluid", 400, 0.5, "chemlib:nitric_oxide_fluid", 100, "the_ages_of_times:chloroplatinic_acid", 1, 1, "chemlib:ruthenium", 1, 1)
+    oxydoreduction("the_ages_of_times:raw_ore_sperrylite", 1, "the_ages_of_times:test_tube", 1, "chemlib:hydrochloric_acid", 6, "chemlib:nitric_acid_fluid", 400, 0.5, "chemlib:nitric_oxide_fluid", 100, "the_ages_of_times:chloroplatinic_acid", 1, 1, "chemlib:rhodium", 1, 1)
+    oxydoreduction("the_ages_of_times:raw_ore_sperrylite", 1, "the_ages_of_times:test_tube", 1, "chemlib:hydrochloric_acid", 6, "chemlib:nitric_acid_fluid", 400, 0.5, "chemlib:nitric_oxide_fluid", 100, "the_ages_of_times:chloroplatinic_acid", 1, 1, "chemlib:palladium", 1, 1)
+
+    //Cadmium
+    melting84272724("the_ages_of_times:watch_glass", 1, "the_ages_of_times:beaker", 1, "create:raw_zinc", 1, "chemlib:carbon_dioxide_fluid", 200, "chemlib:zinc_oxide", 1, 1, "the_ages_of_times:cadmium_oxide", 1, 0.25)
+
+    //Barium
+    filter("chemlib:manganese_oxide_dust", 1, "create:filter", 1, 0, "chemlib:manganese_oxide_dust", 1, 0.5, "chemlib:barium_oxide_dust", 1, 0.5)
 })
