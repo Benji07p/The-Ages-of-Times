@@ -742,13 +742,24 @@
 			}]
 		}
 		{
+			title: "Yttrium"
+			icon: "chemlib:yttrium"
 			x: -6.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "2BA7A4DE1B8771BF"
 			tasks: [{
 				id: "002FD9BC80ECD229"
+				type: "item"
+				item: "the_ages_of_times:yttrium_oxide"
+			}]
+			rewards: [{
+				id: "1108D390FD28A73D"
 				type: "item"
 				item: "chemlib:yttrium"
 			}]
@@ -867,6 +878,10 @@
 			x: -1.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "1F20B3ADDAB9BB79"
 			tasks: [{
@@ -879,6 +894,10 @@
 			x: 0.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "63859E1E09040705"
 			tasks: [{
@@ -994,6 +1013,10 @@
 			x: 1.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "630B644DDAFDCB78"
 			tasks: [{
@@ -1140,13 +1163,24 @@
 			}]
 		}
 		{
+			title: "Cadmium"
+			icon: "chemlib:cadmium"
 			x: 3.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "408FE00678F5826A"
 			tasks: [{
 				id: "2BAB6F93160A985A"
+				type: "item"
+				item: "the_ages_of_times:cadmium_oxide"
+			}]
+			rewards: [{
+				id: "051D1E5D7B3E7B24"
 				type: "item"
 				item: "chemlib:cadmium"
 			}]
@@ -1155,6 +1189,10 @@
 			x: -1.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "5CF56D835F78424A"
 			tasks: [{
@@ -1167,6 +1205,10 @@
 			x: 0.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "4BEE9CA999A75D02"
 			tasks: [{
@@ -1176,13 +1218,24 @@
 			}]
 		}
 		{
+			title: "Barium"
+			icon: "chemlib:barium"
 			x: -7.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "1872EB1E70224E06"
 			tasks: [{
 				id: "35F6AA317A471A75"
+				type: "item"
+				item: "chemlib:barium_oxide_dust"
+			}]
+			rewards: [{
+				id: "3B9B2281CBC716F6"
 				type: "item"
 				item: "chemlib:barium"
 			}]
@@ -1429,6 +1482,10 @@
 			x: -5.0d
 			y: 1.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "6EA8F4000916CD82"
 			tasks: [{
@@ -1450,13 +1507,24 @@
 			}]
 		}
 		{
+			title: "Neodymium"
+			icon: "chemlib:neodymium"
 			x: -2.0d
 			y: 1.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "59523D7CE68844F5"
 			tasks: [{
 				id: "12283A707A29E0D0"
+				type: "item"
+				item: "the_ages_of_times:neodymium_oxide"
+			}]
+			rewards: [{
+				id: "78EBC1E6E8C4CF98"
 				type: "item"
 				item: "chemlib:neodymium"
 			}]
@@ -1701,13 +1769,24 @@
 			}]
 		}
 		{
+			title: "Praseodymium"
+			icon: "chemlib:praseodymium"
 			x: -3.0d
 			y: 1.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "30E16A5FC9E54ED8"
 			tasks: [{
 				id: "5DBD0BE001C1C4A3"
+				type: "item"
+				item: "the_ages_of_times:praseodymium_oxide"
+			}]
+			rewards: [{
+				id: "20CE7094416030A0"
 				type: "item"
 				item: "chemlib:praseodymium"
 			}]
@@ -1716,6 +1795,10 @@
 			x: -4.0d
 			y: 1.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "5F990503A04AF387"
 			tasks: [{
@@ -1737,13 +1820,24 @@
 			}]
 		}
 		{
+			title: "Terbium"
+			icon: "chemlib:terbium"
 			x: 3.0d
 			y: 1.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "117855421C4F1F60"
 			tasks: [{
 				id: "509072A7C23D1E91"
+				type: "item"
+				item: "the_ages_of_times:terbium_oxide"
+			}]
+			rewards: [{
+				id: "65A8B1585DCC5895"
 				type: "item"
 				item: "chemlib:terbium"
 			}]
@@ -1766,13 +1860,24 @@
 			}]
 		}
 		{
+			title: "Erbium"
+			icon: "chemlib:erbium"
 			x: 6.0d
 			y: 1.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "510B22D50846DBE7"
 			tasks: [{
 				id: "4A6CC608B290A508"
+				type: "item"
+				item: "the_ages_of_times:erbium_oxide"
+			}]
+			rewards: [{
+				id: "698FEB7DF15C6DA7"
 				type: "item"
 				item: "chemlib:erbium"
 			}]
@@ -1795,13 +1900,24 @@
 			}]
 		}
 		{
+			title: "Ytterbium"
+			icon: "chemlib:ytterbium"
 			x: 8.0d
 			y: 1.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "6E9B7517EB46567B"
 			tasks: [{
 				id: "7093103EAC0C0580"
+				type: "item"
+				item: "the_ages_of_times:ytterbium_oxide"
+			}]
+			rewards: [{
+				id: "73B84AAFEC7721C1"
 				type: "item"
 				item: "chemlib:ytterbium"
 			}]
