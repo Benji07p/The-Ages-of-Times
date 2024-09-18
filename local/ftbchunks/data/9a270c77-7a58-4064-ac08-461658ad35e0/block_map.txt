@@ -51,6 +51,7 @@
 #E152BD create:basin
 #85547E electrodynamics:batterybox
 #840F59 minecraft:bedrock
+#771C40 the_ages_of_times:bedrock_redstone_block
 #33865C domum_ornamentum:beige_bricks
 #168736 domum_ornamentum:beige_stone_bricks
 #7F50F6 minecraft:bell
