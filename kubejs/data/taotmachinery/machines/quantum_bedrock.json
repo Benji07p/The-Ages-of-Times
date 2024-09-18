@@ -1,0 +1,7 @@
+{
+    "name": "Bedrock",
+    "appearance":{
+           "block": "minecraft:bedrock",
+           	"resistance": 3600000
+    }
+}
