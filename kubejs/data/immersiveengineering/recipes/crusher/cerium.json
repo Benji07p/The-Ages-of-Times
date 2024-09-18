@@ -1,0 +1,21 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[
+        {
+            "chance":0.05,
+            "output":{
+                "item":"minecraft:cobblestone"
+            }
+        }
+    ],
+    "result":{
+        "count":1,
+        "base_ingredient":{
+            "item":"the_ages_of_times:cerium_oxide"
+        }
+    },
+    "input":{
+        "item":"electrodynamics:oremonazite"
+    },
+    "energy":6000
+}
