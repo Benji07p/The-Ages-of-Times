@@ -39,118 +39,61 @@ onEvent('item.tooltip', tooltip => {
 	chemLib('sulfur', 'S (16)', 'Reactive Non-Metals')
 	//chemLib('cobalt', 'Co (27)', 'Transition Metals')
 
-	tooltip.addAdvanced(['electrodynamics:dustlithium', 'electrodynamics:platelithium', 'electrodynamics:ingotlithium'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Li (3)'))
-		text.add(2, Text.of('§7Alkali Metals'))
-	})
+	function chemLibCompounds(item, text1){
+		tooltip.addAdvanced(item, (item, advanced, text) => {
+			text.add(1, Text.of(text1))
+		})
+	}
 
-	tooltip.addAdvanced(['the_ages_of_times:iron_oxide_iii'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Fe₃O₄'))
-	})
+	chemLibCompounds(['the_ages_of_times:iron_oxide_iii'], '§3Fe₃O₄')
+	chemLibCompounds(['the_ages_of_times:manganese_chloride_ii'], '§3MnCl₂')
+	chemLibCompounds(['the_ages_of_times:nitrogen'], '§3N₂')
+	chemLibCompounds(['the_ages_of_times:oxygen_ballon'], '§3O₂')
+	chemLibCompounds(['the_ages_of_times:sodium_aluminate'], '§3NaAlO₂')
+	chemLibCompounds(['the_ages_of_times:sodium_sulfide'], '§3Na₂S')
+	chemLibCompounds(['the_ages_of_times:sodium_chromate'], '§3Na₂CrO₄')
+	chemLibCompounds(['the_ages_of_times:sodium_dichromate'], '§3Na₂Cr₂O₇')
+	chemLibCompounds(['the_ages_of_times:titanium_tetrachloride'], '§3TiCl₄')
+	chemLibCompounds(['the_ages_of_times:tungstic_acid'], '§3H₂WO₄')
+	chemLibCompounds(['the_ages_of_times:iron_chloride'], '§3FeCl₂')
+	chemLibCompounds(['the_ages_of_times:mercury_oxide'], '§3HgO')
+	chemLibCompounds(['the_ages_of_times:potassium_bisulfate'], '§3KHSO₄')
+	chemLibCompounds(['the_ages_of_times:silicon_tetrafluoride'], '§3SiF₄')
+	chemLibCompounds(['the_ages_of_times:potassium_fluoride'], '§3KF')
+	chemLibCompounds(['the_ages_of_times:diethyl_ether'], '§3C₄H₁₀O')
+	chemLibCompounds(['the_ages_of_times:yttrium_oxide'], '§3Y₂O₃')
+	chemLibCompounds(['the_ages_of_times:terbium_oxide'], '§3Tb₄O₇')
+	chemLibCompounds(['the_ages_of_times:erbium_oxide'], '§3Er₂O₃')
+	chemLibCompounds(['the_ages_of_times:ytterbium_oxide'], '§3Yb₂O₃')
+	chemLibCompounds(['the_ages_of_times:cerium_oxide'], '§3CeO₂')
+	chemLibCompounds(['the_ages_of_times:praseodymium_oxide'], '§3Pr₂O₃')
+	chemLibCompounds(['the_ages_of_times:neodymium_oxide'], '§3Nd₂O₃')
+	chemLibCompounds(['the_ages_of_times:holmium_oxide'], '§3Ho₂O₃')
+	chemLibCompounds(['the_ages_of_times:dysprosium_oxide'], '§3Dy₂O₃')
+	chemLibCompounds(['the_ages_of_times:dysprosium_chloride'], '§3DyCl₃')
+	chemLibCompounds(['the_ages_of_times:dysprosium_hydroxide'], '§3Dy(OH)₃')
+	chemLibCompounds(['the_ages_of_times:magnesium_oxide'], '§3MgO')
+	chemLibCompounds(['the_ages_of_times:chloroplatinic_acid'], '§3H₂PtCl₆')
+	chemLibCompounds(['the_ages_of_times:cadmium_oxide'], '§3CdO')
+	chemLibCompounds(['the_ages_of_times:boric_acid'], '§3B(OH)₃')
+	chemLibCompounds(['the_ages_of_times:vivianite_dust'], '§3Fe₃(PO₄)₂•8(H₂O)')
+	chemLibCompounds(['the_ages_of_times:gold_water', 'the_ages_of_times:golden_water_bucket'], '§3H₈₈O₂₉N₄₃C₂₅K₆Cl₆S₂NaCaMg')
 
-	tooltip.addAdvanced(['the_ages_of_times:manganese_chloride_ii'], (item, advanced, text) => {
-		text.add(1, Text.of('§3MnCl₂'))
-	})
+	function chemLibElement(item, text1, text2) {
+	tooltip.addAdvanced(item, (item, advanced, text) => {
+		text.add(1, Text.of(text1))
+		text.add(2, Text.of(text2))
+	})}
 
-	tooltip.addAdvanced(['the_ages_of_times:nitrogen'], (item, advanced, text) => {
-		text.add(1, Text.of('§3N₂'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:oxygen_ballon'], (item, advanced, text) => {
-		text.add(1, Text.of('§3O₂'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:sodium_aluminate'], (item, advanced, text) => {
-		text.add(1, Text.of('§3NaAlO₂'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:sodium_sulfide'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Na₂S'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:sodium_chromate'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Na₂CrO₄'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:sodium_dichromate'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Na₂Cr₂O₇'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:titanium_tetrachloride'], (item, advanced, text) => {
-		text.add(1, Text.of('§3TiCl₄'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:tungstic_acid'], (item, advanced, text) => {
-		text.add(1, Text.of('§3H₂WO₄'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:iron_chloride'], (item, advanced, text) => {
-		text.add(1, Text.of('§3FeCl₂'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:mercury_oxide'], (item, advanced, text) => {
-		text.add(1, Text.of('§3HgO'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:potassium_bisulfate'], (item, advanced, text) => {
-		text.add(1, Text.of('§3KHSO₄'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:silicon_tetrafluoride'], (item, advanced, text) => {
-		text.add(1, Text.of('§3SiF₄'))
-	})
-
-	tooltip.addAdvanced('the_ages_of_times:potassium_fluoride', (item, advanced, text) => {
-		text.add(1, Text.of('§3KF'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:vivianite_dust'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Fe₃(PO₄)₂•8(H₂O)'))
-	})
-
-	tooltip.addAdvanced(['the_ages_of_times:gold_water', 'the_ages_of_times:golden_water_bucket'], (item, advanced, text) => {
-		text.add(1, Text.of('§3H₈₈O₂₉N₄₃C₂₅K₆Cl₆S₂NaCaMg'))
-	})
-
-	tooltip.addAdvanced(['#forge:ingots/titanium', '#forge:storage_blocks/titanium', '#forge:plates/titanium'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Ti (22)'))
-		text.add(2, Text.of('§7Transition Metals'))
-	})
-
-	tooltip.addAdvanced(['electrodynamics:ingotchromium', 'electrodynamics:resourceblockchromium'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Cr (24)'))
-		text.add(2, Text.of('§7Transition Metals'))
-	})
-
-	tooltip.addAdvanced(['electrodynamics:ingotmolybdenum', 'electrodynamics:dustmolybdenum'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Mo (42)'))
-		text.add(2, Text.of('§7Transition Metals'))
-	})
-
-	tooltip.addAdvanced(['electrodynamics:dustvanadium', 'electrodynamics:ingotvanadium'], (item, advanced, text) => {
-		text.add(1, Text.of('§3V (23)'))
-		text.add(2, Text.of('§7Transition Metals'))
-	})
-
-	tooltip.addAdvanced(['#forge:ingots/tin', '#forge:nuggets/tin', '#forge:dusts/tin', '#forge:storage_blocks/tin'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Sn (50)'))
-		text.add(2, Text.of('§7Post-Transition Metals'))
-	})
-
-	tooltip.addAdvanced(['#forge:ingots/cobalt', '#forge:nuggets/cobalt', '#forge:storage_blocks/cobalt'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Co (27)'))
-		text.add(2, Text.of('§7Transition Metals'))
-	})
-
-	tooltip.addAdvanced(['create:zinc_ingot', 'create:zinc_nugget', 'createaddition:zinc_sheet', 'create:zinc_block'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Zn (30)'))
-		text.add(2, Text.of('§7Transition Metals'))
-	})
-
-	tooltip.addAdvanced(['nuclearscience:thorianitedust'], (item, advanced, text) => {
-		text.add(1, Text.of('§3Th (90)'))
-		text.add(2, Text.of('§7Actinides'))
-	})
+	chemLibElement(['electrodynamics:dustlithium', 'electrodynamics:platelithium', 'electrodynamics:ingotlithium'], '§3Li (3)', '§7Alkali Metals')
+	chemLibElement(['#forge:ingots/titanium', '#forge:storage_blocks/titanium', '#forge:plates/titanium'], '§3Ti (22)', '§7Transition Metals')
+	chemLibElement(['electrodynamics:ingotchromium', 'electrodynamics:resourceblockchromium'], '§3Cr (24)', '§7Transition Metals')
+	chemLibElement(['electrodynamics:ingotmolybdenum', 'electrodynamics:dustmolybdenum'], '§3Mo (42)', '§7Transition Metals')
+	chemLibElement(['electrodynamics:dustvanadium', 'electrodynamics:ingotvanadium'], '§3V (23)', '§7Transition Metals')
+	chemLibElement(['#forge:ingots/tin', '#forge:nuggets/tin', '#forge:dusts/tin', '#forge:storage_blocks/tin'], '§3Sn (50)', '§7Post-Transition Metals')
+	chemLibElement(['#forge:ingots/cobalt', '#forge:nuggets/cobalt', '#forge:storage_blocks/cobalt'], '§3Co (27)', '§7Transition Metals')
+	chemLibElement(['create:zinc_ingot', 'create:zinc_nugget', 'createaddition:zinc_sheet', 'create:zinc_block'], '§3Zn (30)', '§7Transition Metals')
+	chemLibElement(['nuclearscience:thorianitedust'], '§3Th (90)', '§7Actinides')
 
 	// Others Tooltips
 	tooltip.addAdvanced(['the_ages_of_times:andesite_shaft'], (item, advanced, text) => {
