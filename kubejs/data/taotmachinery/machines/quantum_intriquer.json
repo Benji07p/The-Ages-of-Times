@@ -15,6 +15,10 @@
             "id": "input2"
         },
         {
+            "type": "custommachinery:item",
+            "id": "output"
+        },
+        {
             "type": "custommachinery:redstone",
             "craftingpoweroutput": 15
         }
@@ -43,6 +47,34 @@
             "id": "input2",
             "x": 131,
             "y": 10,
+            "type": "custommachinery:slot"
+        },
+        {
+            "x": 63,
+            "y": 17,
+            "type": "custommachinery:progress",
+            "direction": "top",
+            "emptyTexture": "kubejs:textures/quantum_intriquer_progress_bar.png",
+            "filledTexture": "kubejs:textures/quantum_intriquer_progress_bar_full.png"
+        }
+    ],
+    "jei": [
+        {
+            "id": "input1",
+            "x": 24,
+            "y": 10,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input2",
+            "x": 131,
+            "y": 10,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "output",
+            "x": 79,
+            "y": 102,
             "type": "custommachinery:slot"
         },
         {

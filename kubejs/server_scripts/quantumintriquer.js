@@ -21,6 +21,13 @@ onEvent('recipes', event => {
                     "slot": "input2"
                 },
                 {
+                    "type": "custommachinery:item",
+                    "mode": "output",
+                    "item": "ae2:quantum_entangled_singularity",
+                    "amount": 2,
+                    "slot": "output"
+                },
+                {
                     "type": "custommachinery:block",
                     "mode": "input",
                     "action": "replace_destroy",
@@ -52,7 +59,8 @@ onEvent('recipes', event => {
                     "pos": [0, -1, 0, 0, -1, 0],
                     "block": "minecraft:redstone_wire"
                 }
-			]
+			],
+            "hidden": true
 		}
 	)
 })
