@@ -1,0 +1,27 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:hydrogen"
+      },
+      "count": 2
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:platinum"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:chlorine"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:chloroplatinic_acid"
+  }
+}

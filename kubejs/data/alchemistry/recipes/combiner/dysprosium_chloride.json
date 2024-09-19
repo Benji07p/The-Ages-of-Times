@@ -1,0 +1,21 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:dysprosium"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:chlorine"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:dysprosium_chloride"
+  }
+}

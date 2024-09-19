@@ -1,0 +1,21 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:yttrium"
+      },
+      "count": 2
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:oxygen"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:yttrium_oxide"
+  }
+}

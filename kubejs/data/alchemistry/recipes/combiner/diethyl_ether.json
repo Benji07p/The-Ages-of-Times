@@ -1,0 +1,27 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:carbon"
+      },
+      "count": 4
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:hydrogen"
+      },
+      "count": 10
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:oxygen"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:diethyl_ether"
+  }
+}

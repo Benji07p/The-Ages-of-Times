@@ -1,0 +1,21 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:terbium"
+      },
+      "count": 4
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:oxygen"
+      },
+      "count": 7
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:terbium_oxide"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:cerium"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:oxygen"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:cerium_oxide"
+  }
+}
