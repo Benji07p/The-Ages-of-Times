@@ -975,4 +975,10 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
 
     //Barium
     filter("chemlib:manganese_oxide_dust", 1, "create:filter", 1, 0, "chemlib:manganese_oxide_dust", 1, 0.5, "chemlib:barium_oxide_dust", 1, 0.5)
+
+    //Iodine and Bromine
+    melting84272724("the_ages_of_times:watch_glass", 1, "the_ages_of_times:beaker", 1, "minecraft:kelp", 1, "minecraft:water", 100, "chemlib:sodium_carbonate", 1, 1, "the_ages_of_times:iode_waste", 1, 1)
+    oxydoreduction("the_ages_of_times:test_tube", 2, "the_ages_of_times:balloon", 1, "the_ages_of_times:iode_waste", 1, "chemlib:sulfuric_acid_fluid", 100, 1, "minecraft:water", 100, "chemlib:sulfur_dioxide", 1, 1, "chemlib:iodine", 2, 1)
+    meltingflui("chemlib:ethanol", 2, "the_ages_of_times:diethyl_ether", 1, 1, "chemlib:water", 1, 1)
+    distil2("the_ages_of_times:iode_waste", 1, "the_ages_of_times:diethyl_ether", 1, "the_ages_of_times:glass_ampul", 1, "the_ages_of_times:watch_glass", 1, 1, "chemlib:bromine", 1, 0.25)
 })
