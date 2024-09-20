@@ -1932,6 +1932,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/gadolinium_ingot_to_nugget": {
+    "criteria": {
+      "has_gadolinium": "2024-09-20 20:09:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-04-13 17:53:16 +0200"
@@ -2025,6 +2031,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_crafting": {
     "criteria": {
       "has_item": "2024-01-19 17:20:31 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/samarium_ingot_from_smelting_samarium_dust": {
+    "criteria": {
+      "has_samarium": "2024-09-20 20:08:20 +0200"
     },
     "done": true
   },
@@ -2323,6 +2335,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2024-07-23 15:21:16 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/samarium_nugget_to_ingot": {
+    "criteria": {
+      "has_samarium": "2024-09-20 20:08:20 +0200"
     },
     "done": true
   },
@@ -3032,6 +3050,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/gadolinium_block_to_ingot": {
+    "criteria": {
+      "has_gadolinium": "2024-09-20 20:09:35 +0200"
     },
     "done": true
   },
@@ -3921,6 +3945,12 @@
   "ceramics:recipes/building_blocks/smooth_basalt_kiln": {
     "criteria": {
       "has_item": "2024-03-30 19:01:25 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/samarium_block_to_ingot": {
+    "criteria": {
+      "has_samarium": "2024-09-20 20:08:20 +0200"
     },
     "done": true
   },
@@ -5056,6 +5086,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/gadolinium_ingot_to_block": {
+    "criteria": {
+      "has_gadolinium": "2024-09-20 20:09:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-06-12 12:19:01 +0200"
@@ -5838,6 +5874,12 @@
   "pneumaticcraft:recipes/pressure_chamber/coal_to_diamond": {
     "criteria": {
       "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/samarium_ingot_to_block": {
+    "criteria": {
+      "has_samarium": "2024-09-20 20:08:20 +0200"
     },
     "done": true
   },
@@ -6715,6 +6757,12 @@
   "alchemistry:recipes/alchemistry/compactor": {
     "criteria": {
       "has_item": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:superconductors": {
+    "criteria": {
+      "HasSuperconductiveWire": "2024-09-20 19:04:03 +0200"
     },
     "done": true
   },
@@ -8410,6 +8458,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/gadolinium_ingot_from_blasting_gadolinium_dust": {
+    "criteria": {
+      "has_gadolinium": "2024-09-20 20:09:35 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick_reinforced_to_slab": {
     "criteria": {
       "has_blastbrick_reinforced": "2023-12-09 14:59:33 +0100"
@@ -9583,6 +9637,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/gadolinium_ingot_from_smelting_gadolinium_dust": {
+    "criteria": {
+      "has_gadolinium": "2024-09-20 20:09:35 +0200"
+    },
+    "done": true
+  },
   "ceramicshears:recipes/misc/clay_shears_part": {
     "criteria": {
       "has_clay": "2023-12-04 17:35:07 +0100"
@@ -10526,6 +10586,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/samarium_ingot_from_blasting_samarium_dust": {
+    "criteria": {
+      "has_samarium": "2024-09-20 20:08:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
@@ -10856,6 +10922,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/gadolinium_nugget_to_ingot": {
+    "criteria": {
+      "has_gadolinium": "2024-09-20 20:09:35 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/gray_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-08-30 14:30:52 +0200"
@@ -11010,6 +11082,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_uranium_to_ingot_uranium": {
     "criteria": {
       "has_storage_uranium": "2024-08-22 13:54:46 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/samarium_ingot_to_nugget": {
+    "criteria": {
+      "has_samarium": "2024-09-20 20:08:20 +0200"
     },
     "done": true
   },
