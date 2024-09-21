@@ -184,6 +184,7 @@ onEvent('recipes', event => {
     spectroscopie2("chemlib:erbium_dust", "chemlib:thulium", 0.01)
     spectroscopie2("the_ages_of_times:didymium", "chemlib:samarium", 0.01)
     spectroscopie2("the_ages_of_times:ore_gadolinite", "chemlib:gadolinium", 0.01)
+    spectroscopie2("the_ages_of_times:ore_gadolinite", "chemlib:scandium", 0.01)
     
     spacetelescope("the_ages_of_times:moon_coordinates", "beyond_earth:earth_orbit")
 
