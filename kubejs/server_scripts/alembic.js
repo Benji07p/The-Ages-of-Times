@@ -946,7 +946,7 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     distil("the_ages_of_times:beaker", 1, "electrodynamics:dustniter", 1, "chemlib:potassium_nitrate", 1, 1, "minecraft:air", 1, 0.01)
     distil("chemlib:sulfuric_acid", 1, "chemlib:potassium_nitrate", 1, "chemlib:nitric_acid", 1, 1, "the_ages_of_times:potassium_bisulfate", 1, 1)
 
-    //Silicon and Potassium
+    //Silicon, Fluorine and Potassium
     meltingdistillation("the_ages_of_times:beaker", 1, "electrodynamics:raworefluorite", 1, "chemlib:sulfuric_acid_fluid", 1000, "the_ages_of_times:hydrofluoric_acid", 2000, "chemlib:calcium_sulfate", 1, 1, "minecraft:air", 1, 0.01)
     melter2("the_ages_of_times:beaker", 1, "minecraft:beetroot", 1, "chemlib:potassium_carbonate", 1, 1, "minecraft:air", 1, 0.01)
     oxydobrutreduction("chemlib:potassium_carbonate", 1, "chemlib:calcium_oxide", 1, "the_ages_of_times:beaker", 1, "minecraft:water", 100, 1.0, "chemlib:potassium_hydroxide", 2, 1, "chemlib:calcium_carbonate", 1, 1)
@@ -957,6 +957,7 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     //Erbium, Terbium and Ytterbium
     filter("the_ages_of_times:yttrium_oxide", 1, "create:filter", 1, 0, "the_ages_of_times:terbium_oxide", 1, 0.5, "the_ages_of_times:erbium_oxide", 1, 0.5)
     filter("the_ages_of_times:erbium_oxide", 1, "create:filter", 1, 0, "the_ages_of_times:erbium_oxide", 1, 0.5, "the_ages_of_times:ytterbium_oxide", 1, 0.5)
+    meltingflui("the_ages_of_times:erbium_oxide", 8, "chemlib:erbium_dust", 1, 1, "minecraft:air", 1, 0.01)
 
     //Cerium, Lanthane, Praseodymium and Neodymium
     filter2("the_ages_of_times:test_tube", 1, "create:filter", 1, 0, "the_ages_of_times:cerium_oxide", 1, "chemlib:cerium", 1, 0.5, "the_ages_of_times:didymium", 1, 0.5)
@@ -981,4 +982,17 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     oxydoreduction("the_ages_of_times:test_tube", 2, "the_ages_of_times:balloon", 1, "the_ages_of_times:iode_waste", 1, "chemlib:sulfuric_acid_fluid", 100, 1, "minecraft:water", 100, "chemlib:sulfur_dioxide", 1, 1, "chemlib:iodine", 2, 1)
     meltingflui("chemlib:ethanol", 2, "the_ages_of_times:diethyl_ether", 1, 1, "chemlib:water", 1, 1)
     distil2("the_ages_of_times:iode_waste", 1, "the_ages_of_times:diethyl_ether", 1, "the_ages_of_times:glass_ampul", 1, "the_ages_of_times:watch_glass", 1, 1, "chemlib:bromine", 1, 0.25)
+
+    //Tellurium
+    melting2("minecraft:raw_gold", 1, "chemlib:carbon_dioxide_fluid", 3200, "electrodynamics:dustgold", 1, 1, "chemlib:tellurium_dust", 2, 1)
+
+    //Beryllium
+    melting84272724("chemlib:calcium_oxide", 1, "the_ages_of_times:balloon", 3, "chemlib:ammonium_chloride_dust", 2, "minecraft:water", 100, "chemlib:ammonia", 3, 1, "chemlib:calcium_chloride", 1, 1)
+    meltingdistillation("chemlib:calcium_chloride", 3, "minecraft:emerald", 1, "the_ages_of_times:hydrofluoric_acid", 3600, "tconstruct:molten_emerald", 95, "chemlib:beryllium_chloride", 3, 1,  "electrodynamics:raworefluorite", 3, 1)
+    distil("chemlib:potassium", 2, "chemlib:beryllium_chloride", 1, "chemlib:potassium_chloride", 2, 1, "chemlib:beryllium", 1, 1)
+
+    //Magnesium
+    melting("the_ages_of_times:watch_glass", 1, "minecraft:raw_iron", 1, "tconstruct:molten_iron", 90, "the_ages_of_times:magnesium_oxide", 1, 1, "minecraft:air", 1, 0.01)
+
+    //
 })
