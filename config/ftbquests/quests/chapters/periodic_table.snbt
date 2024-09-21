@@ -48,6 +48,10 @@
 			x: -7.0d
 			y: -6.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "6715925D63F9535E"
 			tasks: [{
@@ -76,6 +80,11 @@
 			x: -7.0d
 			y: -5.0d
 			shape: "square"
+			dependencies: [
+				"191E7A2A02A766DE"
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "01A5B98CD188F718"
 			tasks: [{
@@ -139,6 +148,11 @@
 			x: -6.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: [
+				"14B18B7AA8D73173"
+				"7984C5618B3F5B9D"
+				"18EA38D90681BB12"
+			]
 			invisible: true
 			id: "54C17B7DF552A404"
 			tasks: [{
@@ -429,6 +443,11 @@
 			x: 8.0d
 			y: -6.0d
 			shape: "square"
+			dependencies: [
+				"5DF7D6BCE47FAD94"
+				"191E7A2A02A766DE"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "0F0AA5BE7D7660E1"
 			tasks: [{
@@ -1106,13 +1125,24 @@
 			}]
 		}
 		{
+			title: "Tellurium"
+			icon: "chemlib:tellurium"
 			x: 7.0d
 			y: -3.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"18EA38D90681BB12"
+			]
 			invisible: true
 			id: "0E420704EEAA62AD"
 			tasks: [{
 				id: "5AC09CC76D931502"
+				type: "item"
+				item: "chemlib:tellurium_dust"
+			}]
+			rewards: [{
+				id: "35CBA0EEFC99E2B0"
 				type: "item"
 				item: "chemlib:tellurium"
 			}]
