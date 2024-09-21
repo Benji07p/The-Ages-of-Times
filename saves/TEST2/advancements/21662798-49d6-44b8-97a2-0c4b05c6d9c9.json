@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/beryllium_ingot_to_block": {
+    "criteria": {
+      "has_beryllium": "2024-09-21 15:24:38 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:air_compressor": {
     "criteria": {
       "0": "2024-08-20 19:10:07 +0200"
@@ -1968,6 +1974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-09-21 13:41:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -3194,6 +3206,12 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-09-21 14:58:49 +0200"
     },
     "done": true
   },
@@ -4726,6 +4744,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/beryllium_block_to_ingot": {
+    "criteria": {
+      "has_beryllium": "2024-09-21 15:24:38 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-02-01 21:18:26 +0100"
@@ -4960,6 +4984,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/magnesium_ingot_to_block": {
+    "criteria": {
+      "has_magnesium": "2024-09-21 15:48:05 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/misc/copper_ingot_from_smelting_copper_dust": {
     "criteria": {
       "has_copper": "2023-12-21 17:54:12 +0100"
@@ -5182,6 +5212,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/magnesium_ingot_to_nugget": {
+    "criteria": {
+      "has_magnesium": "2024-09-21 15:48:05 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sorter": {
     "criteria": {
       "has_conveyor_basic": "2024-01-16 16:34:48 +0100"
@@ -5371,6 +5407,12 @@
   "create:recipes/create.base/crafting/schematics/schematic_table": {
     "criteria": {
       "has_item": "2024-01-24 16:59:45 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/magnesium_ingot_from_blasting_magnesium_dust": {
+    "criteria": {
+      "has_magnesium": "2024-09-21 15:48:05 +0200"
     },
     "done": true
   },
@@ -6219,6 +6261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-09-21 13:41:27 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/programmer": {
     "criteria": {
       "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
@@ -6760,6 +6808,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/magnesium_ingot_from_smelting_magnesium_dust": {
+    "criteria": {
+      "has_magnesium": "2024-09-21 15:48:05 +0200"
+    },
+    "done": true
+  },
   "electrodynamics:superconductors": {
     "criteria": {
       "HasSuperconductiveWire": "2024-09-20 19:04:03 +0200"
@@ -6787,6 +6841,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-01-30 20:13:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-09-21 13:41:27 +0200"
     },
     "done": true
   },
@@ -6847,6 +6907,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/assembly_io_unit_export": {
     "criteria": {
       "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/magnesium_block_to_ingot": {
+    "criteria": {
+      "has_magnesium": "2024-09-21 15:48:05 +0200"
     },
     "done": true
   },
@@ -7207,6 +7273,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/programmable_controller": {
     "criteria": {
       "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/beryllium_ingot_to_nugget": {
+    "criteria": {
+      "has_beryllium": "2024-09-21 15:24:38 +0200"
     },
     "done": true
   },
@@ -8308,6 +8380,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/magnesium_nugget_to_ingot": {
+    "criteria": {
+      "has_magnesium": "2024-09-21 15:48:05 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_vertical": {
     "criteria": {
       "has_conveyor": "2024-01-16 16:34:48 +0100"
@@ -8869,6 +8947,12 @@
   "woodenshears:recipes/tools/wooden_shears": {
     "criteria": {
       "has_planks": "2023-12-12 20:55:32 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/beryllium_ingot_from_blasting_beryllium_dust": {
+    "criteria": {
+      "has_beryllium": "2024-09-21 15:24:38 +0200"
     },
     "done": true
   },
@@ -10592,6 +10676,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/beryllium_nugget_to_ingot": {
+    "criteria": {
+      "has_beryllium": "2024-09-21 15:24:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:20 +0100"
@@ -11184,6 +11274,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-12-04 18:07:32 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/beryllium_ingot_from_smelting_beryllium_dust": {
+    "criteria": {
+      "has_beryllium": "2024-09-21 15:24:38 +0200"
     },
     "done": true
   },
