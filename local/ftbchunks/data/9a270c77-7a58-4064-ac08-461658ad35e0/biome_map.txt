@@ -20,6 +20,9 @@
 #4B0 minecraft:jungle
 #79A minecraft:lukewarm_ocean
 #498 minecraft:lush_caves
+#5E5 beyond_earth:mars_desert
+#231 beyond_earth:mars_ice_spikes
+#724 beyond_earth:mars_rocky_plains
 #2D6 minecraft:meadow
 #039 beyond_earth:moon_desert
 #4F1 minecraft:ocean

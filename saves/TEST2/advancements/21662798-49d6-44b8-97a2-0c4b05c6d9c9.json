@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2024-09-22 12:32:56 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2023-12-13 15:03:55 +0100"
@@ -965,6 +971,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2024-09-22 12:32:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-02-21 17:06:26 +0100"
@@ -1310,6 +1322,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_purple": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/deconstruction_fluix_block": {
+    "criteria": {
+      "has_fluix_block": "2024-09-22 12:33:05 +0200"
     },
     "done": true
   },
@@ -2698,6 +2716,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2024-09-22 12:32:56 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2023-12-13 14:34:32 +0100"
@@ -2842,6 +2866,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/stairs/fluix_block": {
+    "criteria": {
+      "has_fluix_block": "2024-09-22 12:33:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-01-01 19:09:04 +0100"
@@ -2935,6 +2965,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/dispenser_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
+    },
+    "done": true
+  },
+  "beyond_earth:mars": {
+    "criteria": {
+      "moon_advancement": "2024-09-22 12:27:52 +0200"
     },
     "done": true
   },
@@ -4510,6 +4546,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2024-09-22 12:32:56 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-07-23 15:21:19 +0200"
@@ -4750,6 +4792,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2024-09-22 12:32:56 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-02-01 21:18:26 +0100"
@@ -4849,6 +4897,12 @@
   "chemlib:recipes/chemlib.metals/cesium_ingot_from_smelting_cesium_dust": {
     "criteria": {
       "has_cesium": "2024-09-01 12:21:45 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2024-09-22 12:32:56 +0200"
     },
     "done": true
   },
@@ -5176,6 +5230,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/walls/fluix_block": {
+    "criteria": {
+      "has_fluix_block": "2024-09-22 12:33:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2023-12-04 18:07:32 +0100"
@@ -5427,6 +5487,14 @@
       "has_hemp_fabric": "2024-02-01 20:45:35 +0100"
     },
     "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "silicon": "2024-09-22 12:40:23 +0200",
+      "calc": "2024-09-22 12:40:22 +0200",
+      "eng": "2024-09-22 12:42:48 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
@@ -6970,6 +7038,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2024-09-22 12:32:56 +0200"
+    },
+    "done": true
+  },
   "notreepunching:story/root": {
     "criteria": {
       "has_sticks": "2023-12-04 18:07:36 +0100"
@@ -6979,6 +7053,12 @@
   "tconstruct:recipes/tconstruct/general/common/copper_platform_waxing_unaffected": {
     "criteria": {
       "has_block": "2023-12-13 14:29:42 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2024-09-22 12:32:56 +0200"
     },
     "done": true
   },
@@ -7204,6 +7284,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/slabs/fluix_block": {
+    "criteria": {
+      "has_fluix_block": "2024-09-22 12:33:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-08-15 16:40:55 +0200"
@@ -7291,6 +7377,12 @@
   "chemlib:recipes/chemlib.metals/potassium_ingot_from_smelting_potassium_dust": {
     "criteria": {
       "has_potassium": "2024-03-06 16:30:34 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/slabs/fluix_slab": {
+    "criteria": {
+      "has_fluix_block": "2024-09-22 12:33:05 +0200"
     },
     "done": true
   },
@@ -9106,6 +9198,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/block_cutter/walls/fluix_wall": {
+    "criteria": {
+      "has_fluix_block": "2024-09-22 12:33:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-01-01 19:13:41 +0100"
@@ -10022,6 +10120,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2024-09-22 12:32:56 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2024-01-09 20:26:35 +0100"
@@ -10181,6 +10285,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/crystal_processing_quartz_growth_accelerator": {
+    "criteria": {
+      "has_fluix_block": "2024-09-22 12:33:05 +0200"
     },
     "done": true
   },
@@ -11112,6 +11222,12 @@
   "ceramics:recipes/ceramics/golden_bricks_slab_gold": {
     "criteria": {
       "has_gold": "2024-01-01 19:13:41 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/stairs/fluix_stairs": {
+    "criteria": {
+      "has_fluix_block": "2024-09-22 12:33:05 +0200"
     },
     "done": true
   },

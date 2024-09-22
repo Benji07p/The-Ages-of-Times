@@ -1,292 +1,37 @@
-[13:01:28.522][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[13:01:28.558][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[13:01:28.560][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[13:01:28.584][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
-[13:01:31.895][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[13:01:31.898][INFO]: - 'atum' at version '1.18.2-2.3.0'
-[13:01:31.898][INFO]: - 'crafttweaker' at version '9.1.211'
-[13:01:31.898][INFO]: - 'custommachinery' at version '0.8.9'
-[13:01:31.898][INFO]: - 'custommachinerycreate' at version '1.0.2'
-[13:01:31.898][INFO]: - 'extendedcrafting' at version '4.1.2'
-[13:01:31.898][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
-[13:01:31.898][INFO]: - 'gamestages' at version '8.1.3'
-[13:01:31.898][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
-[13:01:31.898][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
-[13:01:31.898][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[13:01:31.899][INFO]: - 'jmapstages' at version '1.18.2-2.1.0'
-[13:01:31.899][INFO]: - 'pneumaticcraft' at version '1.18.2-3.6.4-45'
-[13:01:31.899][INFO]: - 'recipestages' at version '3.0.0.10'
-[13:02:01.043][INFO]: Started loading scripts for loader 'initialize'
-[13:02:01.800][INFO]: Compiling and executing scripts
-[13:02:01.943][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:02:02.198][INFO]: Execution for loader 'initialize' completed successfully
-[13:15:48.633][INFO]: Started loading scripts for loader 'tags'
-[13:15:48.653][INFO]: Compiling and executing scripts
-[13:15:48.665][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:15:48.675][INFO]: Execution for loader 'tags' completed successfully
-[13:15:55.148][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:15:55.166][INFO]: Compiling and executing scripts
-[13:15:55.479][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:15:55.480][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:15:55.494][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[13:15:55.502][INFO]: Restricting Journey Map waypoint stage to GPS.
-[13:15:55.502][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[13:15:55.502][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[13:15:55.502][INFO]: Restricting Journey Map minimap stage to GPS.
-[13:15:55.502][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:15:55.504][INFO]: This reload was made possible by NickT and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:27:21.186][INFO]: Started loading scripts for loader 'tags'
-[13:27:21.186][INFO]: Undoing previous actions
-[13:27:21.203][INFO]: Compiling and executing scripts
-[13:27:21.206][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:27:21.214][INFO]: Execution for loader 'tags' completed successfully
-[13:27:26.968][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:27:26.968][INFO]: Undoing previous actions
-[13:27:26.983][INFO]: Compiling and executing scripts
-[13:27:27.109][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:27:27.109][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:27:27.118][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[13:27:27.122][INFO]: Restricting Journey Map waypoint stage to GPS.
-[13:27:27.122][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[13:27:27.122][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[13:27:27.122][INFO]: Restricting Journey Map minimap stage to GPS.
-[13:27:27.122][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:27:27.123][INFO]: This reload was made possible by NickT and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:32:20.157][INFO]: Started loading scripts for loader 'tags'
-[13:32:20.158][INFO]: Undoing previous actions
-[13:32:20.172][INFO]: Compiling and executing scripts
-[13:32:20.175][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:32:20.182][INFO]: Execution for loader 'tags' completed successfully
-[13:32:25.800][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:32:25.801][INFO]: Undoing previous actions
-[13:32:25.814][INFO]: Compiling and executing scripts
-[13:32:25.905][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:32:25.905][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:32:25.915][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[13:32:25.918][INFO]: Restricting Journey Map waypoint stage to GPS.
-[13:32:25.918][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[13:32:25.918][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[13:32:25.918][INFO]: Restricting Journey Map minimap stage to GPS.
-[13:32:25.918][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:32:25.919][INFO]: This reload was made possible by Lucas and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[13:46:19.011][INFO]: Started loading scripts for loader 'tags'
-[13:46:19.012][INFO]: Undoing previous actions
-[13:46:19.025][INFO]: Compiling and executing scripts
-[13:46:19.027][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[13:46:19.035][INFO]: Execution for loader 'tags' completed successfully
-[13:46:24.632][INFO]: Started loading scripts for loader 'crafttweaker'
-[13:46:24.632][INFO]: Undoing previous actions
-[13:46:24.643][INFO]: Compiling and executing scripts
-[13:46:24.726][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[13:46:24.726][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[13:46:24.736][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[13:46:24.739][INFO]: Restricting Journey Map waypoint stage to GPS.
-[13:46:24.739][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[13:46:24.739][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[13:46:24.739][INFO]: Restricting Journey Map minimap stage to GPS.
-[13:46:24.739][INFO]: Execution for loader 'crafttweaker' completed successfully
-[13:46:24.740][INFO]: This reload was made possible by embeddedt and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[14:59:24.407][INFO]: Started loading scripts for loader 'tags'
-[14:59:24.407][INFO]: Undoing previous actions
-[14:59:24.420][INFO]: Compiling and executing scripts
-[14:59:24.422][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:59:24.429][INFO]: Execution for loader 'tags' completed successfully
-[14:59:30.239][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:59:30.239][INFO]: Undoing previous actions
-[14:59:30.250][INFO]: Compiling and executing scripts
-[14:59:30.324][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:59:30.324][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[14:59:30.332][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[14:59:30.335][INFO]: Restricting Journey Map waypoint stage to GPS.
-[14:59:30.335][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[14:59:30.335][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[14:59:30.335][INFO]: Restricting Journey Map minimap stage to GPS.
-[14:59:30.335][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:59:30.336][INFO]: This reload was made possible by Spencer Gilbert and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:05:41.822][INFO]: Started loading scripts for loader 'tags'
-[15:05:41.822][INFO]: Undoing previous actions
-[15:05:41.834][INFO]: Compiling and executing scripts
-[15:05:41.836][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:05:41.842][INFO]: Execution for loader 'tags' completed successfully
-[15:05:47.283][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:05:47.283][INFO]: Undoing previous actions
-[15:05:47.294][INFO]: Compiling and executing scripts
-[15:05:47.368][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:05:47.368][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:05:47.375][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[15:05:47.378][INFO]: Restricting Journey Map waypoint stage to GPS.
-[15:05:47.378][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[15:05:47.378][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[15:05:47.379][INFO]: Restricting Journey Map minimap stage to GPS.
-[15:05:47.379][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:05:47.379][INFO]: This reload was made possible by Spencer Gilbert and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:06:54.120][INFO]: Started loading scripts for loader 'tags'
-[15:06:54.120][INFO]: Undoing previous actions
-[15:06:54.131][INFO]: Compiling and executing scripts
-[15:06:54.133][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:06:54.139][INFO]: Execution for loader 'tags' completed successfully
-[15:06:59.675][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:06:59.675][INFO]: Undoing previous actions
-[15:06:59.685][INFO]: Compiling and executing scripts
-[15:06:59.758][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:06:59.758][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:06:59.766][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[15:06:59.770][INFO]: Restricting Journey Map waypoint stage to GPS.
-[15:06:59.770][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[15:06:59.770][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[15:06:59.770][INFO]: Restricting Journey Map minimap stage to GPS.
-[15:06:59.770][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:06:59.771][INFO]: This reload was made possible by Ivy_ and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:09:53.047][INFO]: Started loading scripts for loader 'tags'
-[15:09:53.047][INFO]: Undoing previous actions
-[15:09:53.058][INFO]: Compiling and executing scripts
-[15:09:53.060][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:09:53.066][INFO]: Execution for loader 'tags' completed successfully
-[15:09:58.700][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:09:58.700][INFO]: Undoing previous actions
-[15:09:58.712][INFO]: Compiling and executing scripts
-[15:09:58.789][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:09:58.789][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:09:58.796][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[15:09:58.799][INFO]: Restricting Journey Map waypoint stage to GPS.
-[15:09:58.799][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[15:09:58.799][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[15:09:58.799][INFO]: Restricting Journey Map minimap stage to GPS.
-[15:09:58.799][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:09:58.800][INFO]: This reload was made possible by Phillip Swearingain and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:12:03.240][INFO]: Started loading scripts for loader 'tags'
-[15:12:03.240][INFO]: Undoing previous actions
-[15:12:03.251][INFO]: Compiling and executing scripts
-[15:12:03.253][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:12:03.259][INFO]: Execution for loader 'tags' completed successfully
-[15:12:08.652][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:12:08.652][INFO]: Undoing previous actions
-[15:12:08.662][INFO]: Compiling and executing scripts
-[15:12:08.732][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:12:08.732][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:12:08.740][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[15:12:08.743][INFO]: Restricting Journey Map waypoint stage to GPS.
-[15:12:08.743][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[15:12:08.743][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[15:12:08.743][INFO]: Restricting Journey Map minimap stage to GPS.
-[15:12:08.744][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:12:08.744][INFO]: This reload was made possible by Lucas and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:14:22.427][INFO]: Started loading scripts for loader 'tags'
-[15:14:22.428][INFO]: Undoing previous actions
-[15:14:22.438][INFO]: Compiling and executing scripts
-[15:14:22.440][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:14:22.445][INFO]: Execution for loader 'tags' completed successfully
-[15:14:27.860][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:14:27.860][INFO]: Undoing previous actions
-[15:14:27.868][INFO]: Compiling and executing scripts
-[15:14:27.935][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:14:27.935][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:14:27.942][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[15:14:27.945][INFO]: Restricting Journey Map waypoint stage to GPS.
-[15:14:27.945][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[15:14:27.945][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[15:14:27.945][INFO]: Restricting Journey Map minimap stage to GPS.
-[15:14:27.945][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:14:27.945][INFO]: This reload was made possible by DreamThorn and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:25:03.359][INFO]: Started loading scripts for loader 'tags'
-[15:25:03.359][INFO]: Undoing previous actions
-[15:25:03.369][INFO]: Compiling and executing scripts
-[15:25:03.371][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:25:03.376][INFO]: Execution for loader 'tags' completed successfully
-[15:25:08.850][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:25:08.850][INFO]: Undoing previous actions
-[15:25:08.859][INFO]: Compiling and executing scripts
-[15:25:08.922][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:25:08.923][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:25:08.929][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[15:25:08.932][INFO]: Restricting Journey Map waypoint stage to GPS.
-[15:25:08.932][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[15:25:08.932][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[15:25:08.932][INFO]: Restricting Journey Map minimap stage to GPS.
-[15:25:08.932][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:25:08.933][INFO]: This reload was made possible by Jessie Sims and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:41:23.083][INFO]: Started loading scripts for loader 'tags'
-[15:41:23.083][INFO]: Undoing previous actions
-[15:41:23.093][INFO]: Compiling and executing scripts
-[15:41:23.095][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:41:23.100][INFO]: Execution for loader 'tags' completed successfully
-[15:41:28.471][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:41:28.471][INFO]: Undoing previous actions
-[15:41:28.478][INFO]: Compiling and executing scripts
-[15:41:28.537][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:41:28.538][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:41:28.544][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[15:41:28.547][INFO]: Restricting Journey Map waypoint stage to GPS.
-[15:41:28.547][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[15:41:28.547][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[15:41:28.547][INFO]: Restricting Journey Map minimap stage to GPS.
-[15:41:28.547][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:41:28.547][INFO]: This reload was made possible by Jonathan McManus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:50:56.393][INFO]: Started loading scripts for loader 'tags'
-[15:50:56.393][INFO]: Undoing previous actions
-[15:50:56.403][INFO]: Compiling and executing scripts
-[15:50:56.404][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:50:56.410][INFO]: Execution for loader 'tags' completed successfully
-[15:51:01.744][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:51:01.744][INFO]: Undoing previous actions
-[15:51:01.752][INFO]: Compiling and executing scripts
-[15:51:01.814][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:51:01.814][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:51:01.821][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[15:51:01.824][INFO]: Restricting Journey Map waypoint stage to GPS.
-[15:51:01.824][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[15:51:01.824][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[15:51:01.824][INFO]: Restricting Journey Map minimap stage to GPS.
-[15:51:01.824][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:51:01.825][INFO]: This reload was made possible by NickT and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[15:57:29.151][INFO]: Started loading scripts for loader 'tags'
-[15:57:29.152][INFO]: Undoing previous actions
-[15:57:29.161][INFO]: Compiling and executing scripts
-[15:57:29.162][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:57:29.168][INFO]: Execution for loader 'tags' completed successfully
-[15:57:34.471][INFO]: Started loading scripts for loader 'crafttweaker'
-[15:57:34.471][INFO]: Undoing previous actions
-[15:57:34.479][INFO]: Compiling and executing scripts
-[15:57:34.551][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[15:57:34.551][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[15:57:34.557][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[15:57:34.560][INFO]: Restricting Journey Map waypoint stage to GPS.
-[15:57:34.561][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[15:57:34.561][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[15:57:34.561][INFO]: Restricting Journey Map minimap stage to GPS.
-[15:57:34.561][INFO]: Execution for loader 'crafttweaker' completed successfully
-[15:57:34.561][INFO]: This reload was made possible by embeddedt and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[16:13:24.233][INFO]: Started loading scripts for loader 'tags'
-[16:13:24.233][INFO]: Undoing previous actions
-[16:13:24.243][INFO]: Compiling and executing scripts
-[16:13:24.245][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[16:13:24.250][INFO]: Execution for loader 'tags' completed successfully
-[16:13:29.674][INFO]: Started loading scripts for loader 'crafttweaker'
-[16:13:29.674][INFO]: Undoing previous actions
-[16:13:29.682][INFO]: Compiling and executing scripts
-[16:13:29.751][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[16:13:29.752][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[16:13:29.760][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[16:13:29.764][INFO]: Restricting Journey Map waypoint stage to GPS.
-[16:13:29.764][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[16:13:29.764][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[16:13:29.764][INFO]: Restricting Journey Map minimap stage to GPS.
-[16:13:29.765][INFO]: Execution for loader 'crafttweaker' completed successfully
-[16:13:29.765][INFO]: This reload was made possible by Genryu and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[16:14:49.467][INFO]: Started loading scripts for loader 'tags'
-[16:14:49.468][INFO]: Undoing previous actions
-[16:14:49.478][INFO]: Compiling and executing scripts
-[16:14:49.480][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[16:14:49.486][INFO]: Execution for loader 'tags' completed successfully
-[16:14:54.784][INFO]: Started loading scripts for loader 'crafttweaker'
-[16:14:54.784][INFO]: Undoing previous actions
-[16:14:54.792][INFO]: Compiling and executing scripts
-[16:14:54.849][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[16:14:54.849][INFO]: Loading file 'gated_recipes.zs' with priority 0
-[16:14:54.855][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2c3c8117" to "Gunpowder"
-[16:14:54.858][INFO]: Restricting Journey Map waypoint stage to GPS.
-[16:14:54.858][INFO]: Restricting Journey Map fullscreen stage to GPS.
-[16:14:54.858][INFO]: Restricting Journey Map deathpoint stage to GPS.
-[16:14:54.858][INFO]: Restricting Journey Map minimap stage to GPS.
-[16:14:54.858][INFO]: Execution for loader 'crafttweaker' completed successfully
-[16:14:54.858][INFO]: This reload was made possible by Zuniroa and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[14:37:56.945][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[14:37:57.056][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[14:37:57.058][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[14:37:57.068][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
+[14:38:02.198][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[14:38:02.201][INFO]: - 'atum' at version '1.18.2-2.3.0'
+[14:38:02.201][INFO]: - 'crafttweaker' at version '9.1.211'
+[14:38:02.201][INFO]: - 'custommachinery' at version '0.8.9'
+[14:38:02.201][INFO]: - 'custommachinerycreate' at version '1.0.2'
+[14:38:02.201][INFO]: - 'extendedcrafting' at version '4.1.2'
+[14:38:02.201][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
+[14:38:02.201][INFO]: - 'gamestages' at version '8.1.3'
+[14:38:02.202][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
+[14:38:02.202][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
+[14:38:02.202][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[14:38:02.202][INFO]: - 'jmapstages' at version '1.18.2-2.1.0'
+[14:38:02.202][INFO]: - 'pneumaticcraft' at version '1.18.2-3.6.4-45'
+[14:38:02.202][INFO]: - 'recipestages' at version '3.0.0.10'
+[14:38:32.175][INFO]: Started loading scripts for loader 'initialize'
+[14:38:32.762][INFO]: Compiling and executing scripts
+[14:38:32.849][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[14:38:33.005][INFO]: Execution for loader 'initialize' completed successfully
+[15:00:58.598][INFO]: Started loading scripts for loader 'tags'
+[15:00:58.619][INFO]: Compiling and executing scripts
+[15:00:58.632][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[15:00:58.641][INFO]: Execution for loader 'tags' completed successfully
+[15:01:05.531][INFO]: Started loading scripts for loader 'crafttweaker'
+[15:01:05.549][INFO]: Compiling and executing scripts
+[15:01:05.898][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[15:01:05.898][INFO]: Loading file 'gated_recipes.zs' with priority 0
+[15:01:05.914][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@fd7260da" to "Gunpowder"
+[15:01:05.922][INFO]: Restricting Journey Map waypoint stage to GPS.
+[15:01:05.922][INFO]: Restricting Journey Map fullscreen stage to GPS.
+[15:01:05.922][INFO]: Restricting Journey Map deathpoint stage to GPS.
+[15:01:05.923][INFO]: Restricting Journey Map minimap stage to GPS.
+[15:01:05.923][INFO]: Execution for loader 'crafttweaker' completed successfully
+[15:01:05.924][INFO]: This reload was made possible by Jonathan McManus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

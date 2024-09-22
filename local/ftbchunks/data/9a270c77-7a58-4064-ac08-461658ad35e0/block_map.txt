@@ -134,6 +134,8 @@
 #40C68F chemlib:carbon_monoxide
 #54A3DE the_ages_of_times:carbyne_sulfate
 #6A23D5 minecraft:cauldron
+#12B6CA minecraft:cave_vines
+#6436F6 minecraft:cave_vines_plant
 #E9A18E minecraft:chain_command_block
 #7C0317 electrodynamics:chemicalmixer
 #F522F4 minecraft:chest
@@ -419,6 +421,9 @@
 #DE9468 minecraft:magma_block
 #5E18E2 the_ages_of_times:manganese_dioxide_ore
 #70A959 farmingforblockheads:market
+#BD263B beyond_earth:mars_iron_ore
+#8BDCD4 beyond_earth:mars_sand
+#6F9BA1 beyond_earth:mars_stone
 #4F0350 create:mechanical_arm
 #EB48A2 create:mechanical_bearing
 #FB37C1 create:mechanical_crafter
