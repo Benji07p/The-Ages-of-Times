@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/crystal_processing_charger": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
@@ -956,6 +962,12 @@
   "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/fluix_axe": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
     },
     "done": true
   },
@@ -2920,6 +2932,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2024-09-23 19:04:55 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2024-01-20 11:22:59 +0100"
@@ -3155,6 +3173,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/spatial_io_pylon": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2023-12-09 14:27:25 +0100"
@@ -3335,6 +3359,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_fluix": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_red": {
     "criteria": {
       "has_sheetmetal": "2024-01-24 16:41:46 +0100"
@@ -3463,6 +3493,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
     "criteria": {
       "has_paper": "2024-06-18 14:25:14 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/controller": {
+    "criteria": {
+      "has_purified_fluix_crystal": "2024-09-23 19:05:03 +0200"
     },
     "done": true
   },
@@ -4354,6 +4390,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2024-09-23 19:04:55 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_post": {
     "criteria": {
       "has_steel_fence": "2024-07-23 19:22:18 +0200"
@@ -4582,6 +4624,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2024-09-23 19:04:55 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/pneumatic_door": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
@@ -4675,6 +4723,12 @@
   "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/fluix_block": {
+    "criteria": {
+      "has_fluix_crystal": "2024-09-23 19:05:03 +0200"
     },
     "done": true
   },
@@ -4834,6 +4888,18 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/fluix_pickaxe": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2024-09-23 19:04:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-02-10 17:57:07 +0100"
@@ -4957,6 +5023,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2024-08-22 15:03:08 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/inscribers": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
     },
     "done": true
   },
@@ -5107,6 +5179,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/etching_tank": {
     "criteria": {
       "has_etching_acid_bucket": "2024-08-23 18:50:33 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/certus_quartz_block": {
+    "criteria": {
+      "has_certus_crystal": "2024-09-23 19:04:55 +0200"
     },
     "done": true
   },
@@ -6035,6 +6113,12 @@
     },
     "done": true
   },
+  "ae2:recipes/combat/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2024-09-23 19:04:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
@@ -6774,6 +6858,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/energy_energy_acceptor": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_acacia_wood": {
     "criteria": {
       "has_log": "2024-01-30 20:14:36 +0100"
@@ -6795,6 +6885,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_electrum": {
     "criteria": {
       "has_electrum_ingot": "2024-01-01 19:10:31 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2024-09-23 19:04:55 +0200"
     },
     "done": true
   },
@@ -6915,6 +7011,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-09-21 13:41:27 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/fluix_sword": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
     },
     "done": true
   },
@@ -7167,6 +7269,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_electrum_to_storage_electrum": {
     "criteria": {
       "has_ingot_electrum": "2024-01-01 19:10:31 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/quartz_crystal": {
+    "criteria": {
+      "certus": "2024-09-23 19:04:55 +0200"
     },
     "done": true
   },
@@ -7488,6 +7596,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/fluix_shovel": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-01-04 18:21:24 +0100"
@@ -7779,6 +7893,12 @@
   "notreepunching:story/knapping": {
     "criteria": {
       "has_flint_shard": "2024-01-16 20:42:28 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/fluix_hoe": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
     },
     "done": true
   },
@@ -8832,6 +8952,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2024-09-23 19:04:55 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2024-02-10 17:57:07 +0100"
@@ -9390,6 +9516,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2024-09-23 19:04:55 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pressure_chamber/etching_acid": {
     "criteria": {
       "pressure_chamber_valve": "2024-08-26 14:55:10 +0200"
@@ -9519,6 +9651,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-08-20 19:27:50 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/storage_chest": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
     },
     "done": true
   },
@@ -10735,6 +10873,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2023-12-12 20:52:20 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/fluixpearl": {
+    "criteria": {
+      "has_crystals/fluix": "2024-09-23 19:05:03 +0200"
     },
     "done": true
   },
