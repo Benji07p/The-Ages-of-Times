@@ -300,8 +300,9 @@
 			]
 		}
 		{
-			x: 12.0d
+			x: 13.5d
 			y: 0.5d
+			size: 2.0d
 			id: "41EE045FE55EFC61"
 			tasks: [{
 				id: "6E60D8E2068F0204"
@@ -877,9 +878,9 @@
 			}]
 		}
 		{
-			x: 9.0d
+			x: 10.5d
 			y: 0.5d
-			dependencies: ["22D9020EB875EAA0"]
+			dependencies: ["34DE9912AC794132"]
 			id: "16AE8BB5F80682A8"
 			tasks: [{
 				id: "2E35BC0889794BCF"
@@ -896,6 +897,17 @@
 				id: "55C510B29AD8FF4B"
 				type: "item"
 				item: "ae2:sky_compass"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 0.5d
+			dependencies: ["22D9020EB875EAA0"]
+			id: "34DE9912AC794132"
+			tasks: [{
+				id: "4FF49566F7697C55"
+				type: "item"
+				item: "the_ages_of_times:quantum_intriquer_structure"
 			}]
 		}
 	]
