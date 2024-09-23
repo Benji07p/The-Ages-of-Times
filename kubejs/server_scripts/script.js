@@ -2412,6 +2412,62 @@ onEvent('recipes', event => {
 			]
 		}
 	)
+
+	//Quantum Intriquer
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "  AAAAA  ",
+			  " ABCCCBA ",
+			  "ABBDCDBBA",
+			  "ACDECEDCA",
+			  "ACCCFCCCA",
+			  "ACDECEDCA",
+			  "ABBDCDBBA",
+			  " ABCCCBA ",
+			  "  AAGAA  "
+			],
+			"key": {
+			  "A": {
+				"item": "create:industrial_iron_block"
+			  },
+			  "B": {
+				"item": "ae2:singularity"
+			  },
+			  "C": {
+				"item": "electrodynamics:coil"
+			  },
+			  "D": {
+				"type": "forge:nbt",
+				"item": "immersiveengineering:logic_circuit",
+				"count": 1,
+				"nbt": "{inputs:[\"WHITE\"],operator:\"NOT\",output:\"WHITE\"}"
+			  },
+			  "E": {
+				"type": "forge:nbt",
+				"item": "immersiveengineering:logic_circuit",
+				"count": 1,
+				"nbt": "{inputs:[\"WHITE\",\"WHITE\"],operator:\"AND\",output:\"WHITE\"}"
+			  },
+			  "F": {
+				"type": "forge:nbt",
+				"item": "immersiveengineering:logic_circuit",
+				"count": 1,
+				"nbt": "{inputs:[\"WHITE\",\"WHITE\"],operator:\"OR\",output:\"WHITE\"}"
+			  },
+			  "G": {
+				"type": "forge:nbt",
+				"item": "custommachinery:custom_machine_item",
+				"count": 1,
+				"nbt": "{machine:\"taotmachinery:quantum_intriquer\"}"
+			  }
+			},
+			"result": {
+			  "item": "the_ages_of_times:quantum_intriquer_structure"
+			}
+		  }
+	)
 })
 
 onEvent('item.tags', event => {
