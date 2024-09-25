@@ -36,6 +36,56 @@ onEvent('recipes', event => {
         }
     )}
 
+    function spout(int, fluid, amount, out){
+        event.custom(
+            {
+                "type": "create:filling",
+                "ingredients": [
+                  {
+                    "item": int
+                  },
+                  {
+                    "fluid": fluid,
+                    "amount": amount
+                  }
+                ],
+                "results": [
+                  {
+                    "item": out
+                  }
+                ]
+              }
+        )
+    }
+
+    function mixercreate(item_in1, fluid, amount, item_in2, out){
+        event.custom(
+            {
+                "type": "create:mixing",
+                "ingredients": [
+                  {
+                    "item": item_in1
+                  },
+                  {
+                    "fluid": fluid,
+                    "nbt": {},
+                    "amount": amount
+                  },
+                  {
+                    "item": item_in2
+                  }
+                ],
+                "results": [
+                  {
+                    "item": out,
+                    "count": 1
+                  }
+                ],
+                "heatRequirement": "none"
+              }
+        )
+    }
+
     function emptyChaudron(item_in1, item_in2, item_out){
         event.custom(
             {
@@ -242,6 +292,11 @@ onEvent('recipes', event => {
     nulEmptyChaudron("the_ages_of_times:hide_dried", "the_ages_of_times:hide_wet")
     mixingChaudron("minecraft:white_dye", "minecraft:yellow_dye", "the_ages_of_times:white_cauldron")
     nulEmptymixingChaudron("minecraft:leather", ["the_ages_of_times:white_cauldron"], "the_ages_of_times:white_leather")
+
+    spout("minecraft:leather", "the_ages_of_times:white_water", 1000, "the_ages_of_times:white_leather")
+    spout("the_ages_of_times:hide_dried", "minecraft:water", 333, "the_ages_of_times:hide_wet")
+    mixercreate("the_ages_of_times:hide_raw", "minecraft:water", 333, "electrodynamics:dustsalt", "the_ages_of_times:hide_salted")
+    mixercreate("the_ages_of_times:hide_wet", "minecraft:water", 333, "farmersdelight:tree_bark", "the_ages_of_times:hide_tanned")
 
     //Mouton
     event.custom(
