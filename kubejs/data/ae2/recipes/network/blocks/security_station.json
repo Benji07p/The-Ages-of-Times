@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/iron"
+    },
+    "b": {
+      "item": "ae2:chest"
+    },
+    "c": {
+      "item": "ae2:fluix_glass_cable"
+    },
+    "d": {
+      "item": "ae2:cell_component_256k"
+    },
+    "e": {
+      "item": "ae2:engineering_processor"
+    }
+  },
+  "result": {
+    "item": "ae2:security_station"
+  }
+}
