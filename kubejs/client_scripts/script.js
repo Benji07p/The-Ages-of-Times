@@ -75,7 +75,7 @@ onEvent('item.tooltip', tooltip => {
 	chemLibCompounds(['the_ages_of_times:magnesium_oxide'], '§3MgO')
 	chemLibCompounds(['the_ages_of_times:chloroplatinic_acid'], '§3H₂PtCl₆')
 	chemLibCompounds(['the_ages_of_times:cadmium_oxide'], '§3CdO')
-	chemLibCompounds(['the_ages_of_times:boric_acid'], '§3B(OH)₃')
+	chemLibCompounds(['the_ages_of_times:boric_acid'], '§3H₃BO₃')
 	chemLibCompounds(['the_ages_of_times:vivianite_dust'], '§3Fe₃(PO₄)₂•8(H₂O)')
 	chemLibCompounds(['the_ages_of_times:gold_water', 'the_ages_of_times:golden_water_bucket'], '§3H₈₈O₂₉N₄₃C₂₅K₆Cl₆S₂NaCaMg')
 
