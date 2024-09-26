@@ -1,0 +1,11 @@
+mods.extendedcrafting.TableCrafting.addShaped("quantum_circuit_recipe", <item:the_ages_of_times:quantum_circuit> * 2, [
+    [<item:electrodynamics:ingotsuperconductive> * 2, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:electrodynamics:wiresuperconductive> * 2, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:electrodynamics:ingotsuperconductive> * 2],
+    [<item:minecraft:air>],
+    [<item:minecraft:air>, <item:minecraft:air>, <item:electrodynamics:ingotsuperconductive> * 2, <item:the_ages_of_times:computer_circuit> * 2, <item:electrodynamics:wiresuperconductive> * 2, <item:the_ages_of_times:computer_circuit> * 2, <item:electrodynamics:ingotsuperconductive> * 2],
+    [<item:minecraft:air>, <item:minecraft:air>, <item:the_ages_of_times:computer_circuit> * 2, <item:electrodynamics:ingotsuperconductive> * 2, <item:nuclearscience:cellelectromagnetic> * 2, <item:electrodynamics:ingotsuperconductive> * 2,  <item:the_ages_of_times:computer_circuit> * 2],
+    [<item:electrodynamics:wiresuperconductive> * 2, <item:minecraft:air>, <item:electrodynamics:wiresuperconductive> * 2, <item:ae2:quantum_entangled_singularity> * 2, <item:pneumaticcraft:printed_circuit_board> * 2, <item:ae2:quantum_entangled_singularity> * 2, <item:electrodynamics:wiresuperconductive> * 2, <item:minecraft:air>,  <item:electrodynamics:wiresuperconductive> * 2],
+    [<item:minecraft:air>, <item:minecraft:air>, <item:the_ages_of_times:computer_circuit> * 2, <item:electrodynamics:ingotsuperconductive> * 2, <item:nuclearscience:cellelectromagnetic> * 2, <item:electrodynamics:ingotsuperconductive> * 2,  <item:the_ages_of_times:computer_circuit> * 2],
+    [<item:minecraft:air>, <item:minecraft:air>, <item:electrodynamics:ingotsuperconductive> * 2, <item:the_ages_of_times:computer_circuit> * 2, <item:electrodynamics:wiresuperconductive> * 2, <item:the_ages_of_times:computer_circuit> * 2, <item:electrodynamics:ingotsuperconductive> * 2],
+    [<item:minecraft:air>],
+    [<item:electrodynamics:ingotsuperconductive> * 2, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:electrodynamics:wiresuperconductive> * 2, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:electrodynamics:ingotsuperconductive> * 2]
+]);
