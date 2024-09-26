@@ -1,0 +1,27 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "ingredient": {
+        "item": "chemlib:hydrogen"
+      },
+      "count": 3
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:dysprosium"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "chemlib:oxygen"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "item": "the_ages_of_times:dysprosium_hydroxide"
+  }
+}

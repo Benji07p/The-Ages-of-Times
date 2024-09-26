@@ -994,5 +994,12 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     //Magnesium
     melting("the_ages_of_times:watch_glass", 1, "minecraft:raw_iron", 1, "tconstruct:molten_iron", 90, "the_ages_of_times:magnesium_oxide", 1, 1, "minecraft:air", 1, 0.01)
 
-    //
+    //Boron
+    oxydoreduction("the_ages_of_times:beaker", 2, "the_ages_of_times:watch_glass", 4, "the_ages_of_times:raw_ore_borax", 1, "chemlib:hydrochloric_acid_fluid", 200, 1.0, "minecraft:water", 500, "the_ages_of_times:boric_acid", 4, 1, "chemlib:sodium_chloride", 2, 1)
+    melting84272724("chemlib:potassium", 3, "the_ages_of_times:beaker", 3, "the_ages_of_times:boric_acid", 1, "tconstruct:molten_glass", 300, "chemlib:potassium_hydroxide", 3, 1, "chemlib:boron", 1, 1)
+
+    //Dysprosium
+    filter("the_ages_of_times:holmium_oxide", 1, "create:filter", 1, 0, "the_ages_of_times:holmium_oxide", 1, 0.5, "the_ages_of_times:dysprosium_oxide", 1, 0.5)
+    meltingdistillation("the_ages_of_times:watch_glass", 1, "the_ages_of_times:dysprosium_oxide", 1, "chemlib:hydrochloric_acid_fluid", 600, "minecraft:water", 300, "the_ages_of_times:dysprosium_chloride", 2, 1, "minecraft:air", 1, 0.01)
+    oxydoreduction("chemlib:ammonia", 3, "the_ages_of_times:watch_glass", 3, "the_ages_of_times:dysprosium_chloride", 1, "minecraft:water", 300, 1.0, "tconstruct:molten_glass", 300, "the_ages_of_times:dysprosium_hydroxide", 1, 1, "chemlib:ammonium_chloride_dust", 3, 1)
 })
