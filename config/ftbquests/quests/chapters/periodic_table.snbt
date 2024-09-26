@@ -136,6 +136,11 @@
 			x: -7.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: [
+				"191E7A2A02A766DE"
+				"7984C5618B3F5B9D"
+				"18EA38D90681BB12"
+			]
 			invisible: true
 			id: "6E3E58B1F74A50CD"
 			tasks: [{
@@ -371,6 +376,10 @@
 			x: 4.0d
 			y: -6.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "13247CB0BD7D5B86"
 			tasks: [{
@@ -1663,13 +1672,24 @@
 			}]
 		}
 		{
+			title: "Dysprosium"
+			icon: "chemlib:dysprosium"
 			x: 4.0d
 			y: 1.0d
 			shape: "square"
+			dependencies: [
+				"18EA38D90681BB12"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "55DFE42F2FB66742"
 			tasks: [{
 				id: "59E5B2E31BE48BAE"
+				type: "item"
+				item: "the_ages_of_times:dysprosium_hydroxide"
+			}]
+			rewards: [{
+				id: "7709CEFEC567F104"
 				type: "item"
 				item: "chemlib:dysprosium"
 			}]

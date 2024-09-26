@@ -503,6 +503,7 @@
 #8F6314 minecraft:orange_tulip
 #BF0745 immersiveengineering:ore_aluminum
 #AEFCD8 the_ages_of_times:ore_argyrodite
+#281464 the_ages_of_times:ore_borax
 #218738 the_ages_of_times:ore_columbite
 #AD5850 the_ages_of_times:ore_gadolinite
 #262421 immersiveengineering:ore_lead
@@ -512,6 +513,7 @@
 #59C7AA the_ages_of_times:ore_strontianite
 #CF81A4 the_ages_of_times:ore_tantalite
 #BFB150 the_ages_of_times:ore_wolframite
+#6F66C1 the_ages_of_times:ore_zircon
 #6F71C2 electrodynamics:orealuminum
 #984231 electrodynamics:orechromite
 #F5858A electrodynamics:orefluorite
@@ -688,6 +690,7 @@
 #7552C1 immersiveengineering:slab_sheetmetal_steel
 #F66619 immersiveengineering:slab_steel_scaffolding_grate_top
 #BE2411 immersiveengineering:slab_steel_scaffolding_standard
+#36B94A immersiveengineering:slab_storage_steel
 #9B2B73 immersiveengineering:slab_treated_wood_horizontal
 #F87E74 sliceanddice:slicer
 #975FAF create:smart_chute

@@ -1397,6 +1397,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluorescent_tube": {
+    "criteria": {
+      "has_electrode": "2024-09-26 16:52:22 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2023-12-16 22:27:59 +0100"
