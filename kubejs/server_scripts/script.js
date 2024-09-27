@@ -2466,7 +2466,38 @@ onEvent('recipes', event => {
 			"result": {
 			  "item": "the_ages_of_times:quantum_intriquer_structure"
 			}
-		  }
+		}
+	)
+
+	//5 x 5 Crafting Table
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"tier": 4,
+			"pattern": [
+			  "ABA",
+			  "CDC",
+			  "ABA"
+			],
+			"key": {
+			  "A": {
+				"item": "extendedcrafting:black_iron_ingot"
+			  },
+			  "B": {
+				"item": "extendedcrafting:redstone_component"
+			  },
+			  "C": {
+				"item": "extendedcrafting:advanced_auto_table"
+			  },
+			  "D": {
+				"item": "extendedcrafting:ultimate_auto_table"
+			  }
+			},
+			"result": {
+			  "item": "custommachinery:custom_machine_item",
+			  "nbt":'{machine:"taotmachinery:5x5_craft"}'
+			}
+		}
 	)
 })
 
