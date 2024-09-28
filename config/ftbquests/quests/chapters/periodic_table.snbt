@@ -636,13 +636,24 @@
 			}]
 		}
 		{
+			title: "Selenium"
+			icon: "chemlib:selenium"
 			x: 7.0d
 			y: -4.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"18EA38D90681BB12"
+			]
 			invisible: true
 			id: "053274179EF0CFD2"
 			tasks: [{
 				id: "295914851BBE15BD"
+				type: "item"
+				item: "chemlib:selenium_dust"
+			}]
+			rewards: [{
+				id: "48A80758022A21B6"
 				type: "item"
 				item: "chemlib:selenium"
 			}]
