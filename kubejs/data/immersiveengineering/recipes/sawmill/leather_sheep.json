@@ -1,0 +1,18 @@
+{
+    "type":"immersiveengineering:sawmill",
+    "secondaries":[
+        {
+            "output":{
+                "item":"multibeds:woolen_cloth"
+            },
+            "stripping":false
+        }
+    ],
+    "result":{
+        "item":"the_ages_of_times:hide_clean"
+    },
+    "input":{
+        "item":"butchersdelight:sheephide"
+    },
+    "energy":800
+}
