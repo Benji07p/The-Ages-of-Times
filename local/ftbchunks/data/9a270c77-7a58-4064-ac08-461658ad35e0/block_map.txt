@@ -188,6 +188,7 @@
 #2C7BC8 immersiveengineering:connector_hv
 #57315A immersiveengineering:connector_hv_relay
 #2C7C44 immersiveengineering:connector_lv
+#2BFCCE ae2:controller
 #B4E342 immersiveengineering:conveyor_basic
 #0D9C42 ironchest:copper_chest
 #6E76AF minecraft:copper_ore
@@ -197,6 +198,7 @@
 #306005 minecraft:cracked_stone_bricks
 #8C5E34 tconstruct:crafting_station
 #468304 minecraft:crafting_table
+#5F7313 ae2:crafting_unit
 #8700D4 immersiveengineering:craftingtable
 #DEE14B immersiveengineering:crate
 #CB47FE domum_ornamentum:cream_bricks
@@ -294,6 +296,7 @@
 #548B83 create:encased_fan
 #622CB1 minecraft:end_portal_frame
 #89C856 minecraft:end_rod
+#0691F4 ae2:energy_acceptor
 #3A8323 chemlib:epinephrine
 #157107 chemlib:ethane
 #D76B4B chemlib:ethanol
@@ -582,6 +585,7 @@
 #3CCFF2 create:pulse_repeater
 #652575 immersivepetroleum:pumpjack
 #E6B35B minecraft:pumpkin
+#0AA206 ae2:quantum_ring
 #8DE070 ae2:quartz_ore
 #FC8012 atum:quern
 #64F142 butchersdelight:rack
@@ -701,6 +705,7 @@
 #13D503 minecraft:smooth_sandstone
 #046DFC minecraft:smooth_sandstone_slab
 #70F44C minecraft:smooth_sandstone_stairs
+#C43AB6 ae2:smooth_sky_stone_block
 #3A9287 minecraft:smooth_stone
 #CB82F8 minecraft:smooth_stone_slab
 #872D76 minecraft:snow

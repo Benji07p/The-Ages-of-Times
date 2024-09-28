@@ -935,6 +935,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/crafting/4k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2024-09-28 16:04:24 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
@@ -2191,6 +2197,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-08-26 14:59:57 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/crafting/1k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2024-09-28 16:04:24 +0200"
     },
     "done": true
   },
@@ -5730,6 +5742,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/crafting/16k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2024-09-28 16:04:24 +0200"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/lava_bricks_slab_crafting": {
     "criteria": {
       "has_item": "2023-12-12 20:55:19 +0100"
@@ -5823,6 +5841,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/pneumatic_cylinder": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/crafting/64k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2024-09-28 16:04:24 +0200"
     },
     "done": true
   },
@@ -5930,6 +5954,12 @@
   "chemlib:recipes/chemlib.metals/bismuth_ingot_to_block": {
     "criteria": {
       "has_bismuth": "2024-02-02 18:25:58 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/shaped/walls/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2024-09-28 16:02:50 +0200"
     },
     "done": true
   },
@@ -6500,6 +6530,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/crafting/cpu_crafting_monitor": {
+    "criteria": {
+      "has_crafting_unit": "2024-09-28 16:04:24 +0200"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/trapped_dirt_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-03-06 16:27:41 +0100"
@@ -6600,6 +6636,12 @@
   "immersiveengineering:recipes/misc/crafting/string": {
     "criteria": {
       "has_hemp_fiber": "2024-02-01 20:45:57 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_cpu": {
+    "criteria": {
+      "cu": "2024-09-28 16:04:24 +0200"
     },
     "done": true
   },
@@ -7332,6 +7374,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/block_cutter/slabs/smooth_sky_stone_slab": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2024-09-28 16:02:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-01-18 22:10:26 +0100"
@@ -7584,6 +7632,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/crafting/cpu_crafting_accelerator": {
+    "criteria": {
+      "has_crafting_unit": "2024-09-28 16:04:24 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_head": {
     "criteria": {
       "has_alu_plate": "2024-08-28 13:34:31 +0200"
@@ -7782,6 +7836,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/stairs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2024-09-28 16:02:50 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sword_steel": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
@@ -7809,6 +7869,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/assembly_laser": {
     "criteria": {
       "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/shaped/slabs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2024-09-28 16:02:50 +0200"
     },
     "done": true
   },
@@ -8076,6 +8142,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/misc/chests_smooth_sky_stone": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2024-09-28 16:02:50 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/gps_tool_from_gps_area_tool": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
@@ -8199,6 +8271,12 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
     "criteria": {
       "has_item": "2023-12-11 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/crafting/256k_cpu_crafting_storage": {
+    "criteria": {
+      "has_crafting_unit": "2024-09-28 16:04:24 +0200"
     },
     "done": true
   },
@@ -9885,6 +9963,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/energy_vibration_chamber": {
+    "criteria": {
+      "has_energy_acceptor": "2024-09-28 16:04:33 +0200"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/turtle_advanced": {
     "criteria": {
       "has_computer": "2024-08-25 15:03:10 +0200"
@@ -10630,6 +10714,12 @@
     },
     "done": false
   },
+  "ae2:recipes/ae2.main/block_cutter/stairs/smooth_sky_stone_stairs": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2024-09-28 16:02:50 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/fission_core": {
     "criteria": {
       "has_item": "2024-07-27 19:02:49 +0200"
@@ -10639,6 +10729,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/sky_stone_brick": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2024-09-28 16:02:50 +0200"
     },
     "done": true
   },
@@ -11248,6 +11344,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/block_cutter/walls/smooth_sky_stone_wall": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2024-09-28 16:02:50 +0200"
+    },
+    "done": true
+  },
   "chemlib:recipes/chemlib.metals/cobalt_nugget_to_ingot": {
     "criteria": {
       "has_cobalt": "2024-08-14 16:15:12 +0200"
@@ -11528,6 +11630,12 @@
   "create:recipes/create.base/crafting/kinetics/smart_chute": {
     "criteria": {
       "has_item": "2024-09-13 19:12:39 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/parts/energy_acceptor": {
+    "criteria": {
+      "has_energy_acceptor": "2024-09-28 16:04:33 +0200"
     },
     "done": true
   },
