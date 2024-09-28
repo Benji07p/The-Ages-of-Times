@@ -2544,6 +2544,47 @@ onEvent('recipes', event => {
 			}
 		}
 	)
+
+	//ME Controller
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAAAAAAAA",
+			  "ABBBBBBBA",
+			  "ABCCCCCBA",
+			  "ABCDEDCBA",
+			  "ABCEFECBA",
+			  "ABCDEDCBA",
+			  "ABCCCCCBA",
+			  "ABBBBBBBA",
+			  "AAAAAAAAA"
+			],
+			"key": {
+			  "A": {
+				"item": "ae2:smooth_sky_stone_block"
+			  },
+			  "B": {
+				"item": "ae2:quantum_ring"
+			  },
+			  "C": {
+				"item": "ae2:crafting_unit"
+			  },
+			  "D": {
+				"item": "the_ages_of_times:quantum_circuit"
+			  },
+			  "E": {
+				"item": "ae2:fluix_block"
+			  },
+			  "F": {
+				"item": "ae2:energy_acceptor"
+			  }
+			},
+			"result": {
+			  "item": "ae2:controller"
+			}
+		  }
+	)
 })
 
 onEvent('item.tags', event => {
