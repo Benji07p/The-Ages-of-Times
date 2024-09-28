@@ -1959,23 +1959,26 @@ onEvent('recipes', event => {
 		{
 			"type": "extendedcrafting:shaped_table",
 			"pattern": [
-			  "AAAAA",
-			  "BBBBB",
-			  "CBBBC",
-			  "DBBBD",
-			  " BBB "
+			  "AABAA",
+			  "CCCCC",
+			  "DCCCD",
+			  "ECCCE",
+			  " CCC "
 			],
 			"key": {
 			  "A": {
-				"item": "chemlib:osmium_ingot"
+				"item": "extendedcrafting:elite_component"
 			  },
 			  "B": {
-				"item": "pneumaticcraft:plastic"
+				"item": "extendedcrafting:elite_catalyst"
 			  },
 			  "C": {
-				"item": "extendedcrafting:advanced_table"
+				"item": "pneumaticcraft:plastic"
 			  },
 			  "D": {
+				"item": "extendedcrafting:advanced_table"
+			  },
+			  "E": {
 				"item": "electrodynamics:sheetplastic"
 			  }
 			},
@@ -2496,6 +2499,48 @@ onEvent('recipes', event => {
 			"result": {
 			  "item": "custommachinery:custom_machine_item",
 			  "nbt":'{machine:"taotmachinery:5x5_craft"}'
+			}
+		}
+	)
+
+	//Ultimate Crafting Table
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAAAAAA",
+			  "AAABAAA",
+			  "AAAAAAA",
+			  "  CDC  ",
+			  "  AEA  ",
+			  "  FFF  ",
+			  "  FGF  "
+			],
+			"key": {
+			  "A": {
+				"item": "extendedcrafting:ultimate_component"
+			  },
+			  "B": {
+				"item": "extendedcrafting:ultimate_catalyst"
+			  },
+			  "C": {
+				"item": "extendedcrafting:elite_table"
+			  },
+			  "D": {
+				"item": "beyond_earth:desh_block"
+			  },
+			  "E": {
+				"item": "extendedcrafting:black_iron_slate"
+			  },
+			  "F": {
+				"item": "extendedcrafting:pedestal"
+			  },
+			  "G": {
+				"item": "the_ages_of_times:computer_circuit"
+			  }
+			},
+			"result": {
+			  "item": "extendedcrafting:ultimate_table"
 			}
 		}
 	)
