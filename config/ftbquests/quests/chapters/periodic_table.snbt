@@ -719,6 +719,10 @@
 			x: 9.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: [
+				"6684320381546044"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "0D9DDFEF7D7A78E2"
 			tasks: [{
@@ -857,6 +861,10 @@
 			x: -8.0d
 			y: -1.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"6684320381546044"
+			]
 			invisible: true
 			id: "188E01CAF0EBA142"
 			tasks: [{
@@ -1121,13 +1129,24 @@
 			}]
 		}
 		{
+			title: "Polonium"
+			icon: "chemlib:polonium"
 			x: 7.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"6684320381546044"
+			]
 			invisible: true
 			id: "53012C73EE895689"
 			tasks: [{
 				id: "77BC9549E2ABF42A"
+				type: "item"
+				item: "nuclearscience:polonium210"
+			}]
+			rewards: [{
+				id: "0C71637E5D65B1CE"
 				type: "item"
 				item: "chemlib:polonium"
 			}]
@@ -1302,6 +1321,11 @@
 			x: -7.0d
 			y: -1.0d
 			shape: "square"
+			dependencies: [
+				"7984C5618B3F5B9D"
+				"6684320381546044"
+				"14B18B7AA8D73173"
+			]
 			invisible: true
 			id: "0AA710FD13DAE2C1"
 			tasks: [{
@@ -1314,6 +1338,10 @@
 			x: -5.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: [
+				"6684320381546044"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "2DA4701CD971BB75"
 			tasks: [{
@@ -1361,6 +1389,10 @@
 			x: -2.0d
 			y: -2.0d
 			shape: "square"
+			dependencies: [
+				"6684320381546044"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "4F977C2276E6235D"
 			tasks: [{
@@ -1556,6 +1588,10 @@
 			x: -5.0d
 			y: 2.0d
 			shape: "square"
+			dependencies: [
+				"6684320381546044"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "016FBED9F45F99B8"
 			tasks: [{
@@ -1798,6 +1834,11 @@
 			x: 1.0d
 			y: 1.0d
 			shape: "square"
+			dependencies: [
+				"14B18B7AA8D73173"
+				"6684320381546044"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "0FE88C218CEBAE83"
 			tasks: [{
@@ -1833,6 +1874,10 @@
 			x: -3.0d
 			y: 2.0d
 			shape: "square"
+			dependencies: [
+				"6684320381546044"
+				"7984C5618B3F5B9D"
+			]
 			hide: false
 			invisible: true
 			id: "1B1A612494ED3D16"
@@ -2005,6 +2050,10 @@
 			x: 9.0d
 			y: 1.0d
 			shape: "square"
+			dependencies: [
+				"6684320381546044"
+				"7984C5618B3F5B9D"
+			]
 			invisible: true
 			id: "39254C4C2874AFCC"
 			tasks: [{
