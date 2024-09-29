@@ -1005,4 +1005,25 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
 
     //Selenium
     filter("minecraft:raw_iron", 1, "create:filter", 1, 0, "minecraft:raw_iron", 1, 0.99, "chemlib:selenium_dust", 1, 0.01)
+
+    //Radon
+    unfill("chemlib:radium", "chemlib:radon_fluid", 10, "the_ages_of_times:test_tube")
+
+    //Lutetium
+    filter("the_ages_of_times:ytterbium_oxide", 1, "create:filter", 1, 0, "the_ages_of_times:ytterbium_oxide", 1, 0.99, "chemlib:lutetium", 1, 0.01)
+
+    //Hafmium
+    filter("the_ages_of_times:raw_ore_zircon", 1, "create:filter", 1, 0, "chemlib:zirconium_dust", 1, 0.99, "chemlib:hafnium", 1, 0.01)
+
+    //Rhenium
+    filter("electrodynamics:oremolybdenum", 64, "create:filter", 1, 0, "electrodynamics:dustmolybdenum", 64, 0.99, "chemlib:rhenium", 1, 0.01)
+
+    //Actinium
+    filter("nuclearscience:fissiledust", 1, "create:filter", 1, 0, "nuclearscience:plutoniumoxide", 1, 0.02, "chemlib:actinium", 1, 0.01)
+
+    //Francium
+    filter("chemlib:actinium", 1, "create:filter", 1, 0, "chemlib:actinium", 1, 0.99, "chemlib:francium", 1, 0.01)
+
+    //Protactinium
+    filter("nuclearscience:fissiledust", 1, "create:filter", 1, 0, "nuclearscience:plutoniumoxide", 1, 0.02, "chemlib:protactinium", 1, 0.01)
 })
