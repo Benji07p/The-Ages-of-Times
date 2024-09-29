@@ -2583,7 +2583,42 @@ onEvent('recipes', event => {
 			"result": {
 			  "item": "ae2:controller"
 			}
-		  }
+		}
+	)
+
+	//Condenser
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"tier": 4,
+			"pattern": [
+			  "ABBBA",
+			  "BCDCB",
+			  "BDEDB",
+			  "BCDCB",
+			  "ABBBA"
+			],
+			"key": {
+			  "A": {
+				"item": "ae2:smooth_sky_stone_block"
+			  },
+			  "B": {
+				"item": "ae2:quantum_ring"
+			  },
+			  "C": {
+				"item": "ae2:crafting_unit"
+			  },
+			  "D": {
+				"item": "ae2:fluix_block"
+			  },
+			  "E": {
+				"item": "ae2:energy_acceptor"
+			  }
+			},
+			"result": {
+			  "item": "ae2:condenser"
+			}
+		}
 	)
 })
 
