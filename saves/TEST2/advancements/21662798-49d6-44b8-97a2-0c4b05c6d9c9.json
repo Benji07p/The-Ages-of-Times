@@ -1193,6 +1193,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/rhenium_block_to_ingot": {
+    "criteria": {
+      "has_rhenium": "2024-09-29 17:20:23 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/block_tracker_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-08-26 16:41:27 +0200"
@@ -2848,6 +2854,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/rhenium_ingot_from_blasting_rhenium_dust": {
+    "criteria": {
+      "has_rhenium": "2024-09-29 17:20:23 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
     "criteria": {
       "has_item": "2024-01-01 19:13:41 +0100"
@@ -3266,6 +3278,12 @@
   "create:funnel": {
     "criteria": {
       "0": "2024-08-26 15:08:35 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/hafnium_ingot_from_smelting_hafnium_dust": {
+    "criteria": {
+      "has_hafnium": "2024-09-29 17:16:37 +0200"
     },
     "done": true
   },
@@ -4104,6 +4122,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/hafnium_nugget_to_ingot": {
+    "criteria": {
+      "has_hafnium": "2024-09-29 17:16:37 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/gun_ammo_weighted": {
     "criteria": {
       "has_gun_ammo": "2024-07-23 15:13:38 +0200"
@@ -4357,6 +4381,12 @@
   "notreepunching:dark_oak_planks_with_saw": {
     "criteria": {
       "has_item": "2024-01-30 20:32:23 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/hafnium_ingot_from_blasting_hafnium_dust": {
+    "criteria": {
+      "has_hafnium": "2024-09-29 17:16:37 +0200"
     },
     "done": true
   },
@@ -5963,6 +5993,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/rhenium_ingot_to_nugget": {
+    "criteria": {
+      "has_rhenium": "2024-09-29 17:20:23 +0200"
+    },
+    "done": true
+  },
   "chemlib:recipes/chemlib.metals/lanthanum_ingot_from_smelting_lanthanum_dust": {
     "criteria": {
       "has_lanthanum": "2024-09-01 12:36:37 +0200"
@@ -7161,6 +7197,12 @@
   "create:track_0": {
     "criteria": {
       "0": "2024-08-08 16:12:12 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/hafnium_block_to_ingot": {
+    "criteria": {
+      "has_hafnium": "2024-09-29 17:16:37 +0200"
     },
     "done": true
   },
@@ -8502,6 +8544,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/rhenium_ingot_from_smelting_rhenium_dust": {
+    "criteria": {
+      "has_rhenium": "2024-09-29 17:20:23 +0200"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2024-01-01 19:13:41 +0100"
@@ -9570,6 +9618,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/chemlib.metals/hafnium_ingot_to_block": {
+    "criteria": {
+      "has_hafnium": "2024-09-29 17:16:37 +0200"
+    },
+    "done": true
+  },
   "notreepunching:diamond_knife": {
     "criteria": {
       "has_item": "2024-02-02 22:13:07 +0100"
@@ -9651,6 +9705,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/smooth_plastic_brick_white": {
     "criteria": {
       "has_plastic": "2024-07-24 15:53:57 +0200"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/rhenium_ingot_to_block": {
+    "criteria": {
+      "has_rhenium": "2024-09-29 17:20:23 +0200"
     },
     "done": true
   },
@@ -9846,6 +9906,12 @@
   "ceramics:recipes/building_blocks/terracotta_kiln": {
     "criteria": {
       "has_item": "2024-02-19 18:39:05 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/rhenium_nugget_to_ingot": {
+    "criteria": {
+      "has_rhenium": "2024-09-29 17:20:23 +0200"
     },
     "done": true
   },
@@ -10777,6 +10843,12 @@
   "farmersdelight:recipes/farmersdelight/grilled_salmon": {
     "criteria": {
       "has_salmon": "2024-03-30 20:20:24 +0100"
+    },
+    "done": true
+  },
+  "chemlib:recipes/chemlib.metals/hafnium_ingot_to_nugget": {
+    "criteria": {
+      "has_hafnium": "2024-09-29 17:16:37 +0200"
     },
     "done": true
   },

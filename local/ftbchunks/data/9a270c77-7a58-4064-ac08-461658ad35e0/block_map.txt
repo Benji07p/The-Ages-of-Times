@@ -593,6 +593,7 @@
 #5CF136 the_ages_of_times:rackraw
 #5307D2 immersiveengineering:radiator
 #BFAFC2 nuclearscience:radioactivesoil
+#9CA81C chemlib:radon
 #1E9339 chemlib:radon_lamp_block
 #213091 minecraft:raw_copper_block
 #F6E05E immersiveengineering:razor_wire
