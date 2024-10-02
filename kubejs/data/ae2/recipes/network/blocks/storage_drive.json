@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "c c",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/ostrum"
+    },
+    "b": {
+      "item": "ae2:engineering_processor"
+    },
+    "c": {
+      "item": "ae2:fluix_glass_cable"
+    }
+  },
+  "result": {
+    "item": "ae2:drive"
+  }
+}
