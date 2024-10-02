@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/calorite"
+    },
+    "b": {
+      "tag": "forge:ingots/ostrum"
+    },
+    "c": {
+      "item": "ae2:energy_cell"
+    }
+  },
+  "result": {
+    "item": "ae2:energy_acceptor"
+  }
+}
