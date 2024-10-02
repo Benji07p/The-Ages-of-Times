@@ -34,6 +34,7 @@
 		{
 			x: 2.0d
 			y: 0.5d
+			dependencies: ["14B18B7AA8D73173"]
 			id: "32FF322D016DC443"
 			tasks: [{
 				id: "397B7ABDA87683FA"
