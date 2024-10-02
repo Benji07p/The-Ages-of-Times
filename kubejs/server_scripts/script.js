@@ -1432,6 +1432,42 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+
+	//Star Parchment
+	event.shapeless('the_ages_of_times:empty_parchment', ['atum:scroll', 'multibeds:embroidery_thread'])
+
+	//Advanced Crafting Table
+	event.remove({ id: 'extendedcrafting:advanced_table'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "ABA",
+			  "CDC",
+			  "AEA"
+			],
+			"key": {
+			  "A": {
+				"item": "extendedcrafting:advanced_component"
+			  },
+			  "B": {
+				"item": "extendedcrafting:advanced_catalyst"
+			  },
+			  "C": {
+				"item": "extendedcrafting:basic_table"
+			  },
+			  "D": {
+				"item": "the_ages_of_times:star_observation_book"
+			  },
+			  "E": {
+				"item": "extendedcrafting:black_iron_slate"
+			  }
+			},
+			"result": {
+			  "item": "extendedcrafting:advanced_table"
+			}
+		  }
+	)
 	
 	//3-Cylinder
 	event.remove({ id: 'car:engine_3_cylinder'})
@@ -2504,6 +2540,7 @@ onEvent('recipes', event => {
 	)
 
 	//Ultimate Crafting Table
+	event.remove({ id: 'extendedcrafting:ultimate_table'})
 	event.custom(
 		{
 			"type": "extendedcrafting:shaped_table",
