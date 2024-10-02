@@ -369,6 +369,7 @@
 #0575BD minecraft:infested_stone
 #60199F the_ages_of_times:ink_press_off
 #9A844C the_ages_of_times:ink_press_test
+#D47B15 ae2:inscriber
 #2E2249 minecraft:iron_block
 #EAC0B1 ironchest:iron_chest
 #102198 beyond_earth:iron_mark_block

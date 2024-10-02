@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
+    },
+    "done": true
+  },
   "notreepunching:clay_tool": {
     "criteria": {
       "has_item": "2023-12-04 18:07:36 +0100"
@@ -1361,6 +1367,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_fluid_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2024-01-24 17:34:50 +0100"
@@ -1556,6 +1568,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_iron": {
     "criteria": {
       "has_plate": "2024-06-13 17:31:41 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/portable_fluid_cell_1k": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
     },
     "done": true
   },
@@ -1941,6 +1959,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-02-02 22:13:07 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/portable_fluid_cell_4k": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
     },
     "done": true
   },
@@ -2938,6 +2962,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_gray": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_road_smelting": {
     "criteria": {
       "has_item": "2024-01-19 17:20:15 +0100"
@@ -3798,6 +3828,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_brown": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2023-12-16 22:27:58 +0100"
@@ -4618,6 +4654,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/quantum_ring": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-07-23 15:33:35 +0200"
@@ -4645,6 +4687,12 @@
   "ae2:recipes/ae2.main/shaped/slabs/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2024-09-22 12:32:56 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_purple": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
     },
     "done": true
   },
@@ -4765,6 +4813,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-07-23 15:21:19 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_light_gray": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
     },
     "done": true
   },
@@ -5002,6 +5056,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_magenta": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-01-09 20:23:25 +0100"
@@ -5125,6 +5185,12 @@
   "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2024-07-22 16:05:57 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
     },
     "done": true
   },
@@ -5458,6 +5524,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/misctools_charged_staff": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2024-10-02 18:55:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2024-01-24 21:14:46 +0100"
@@ -5763,6 +5835,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-08-22 15:44:49 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/meteors_sky_compass": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2024-10-02 18:55:56 +0200"
     },
     "done": true
   },
@@ -6173,6 +6251,12 @@
     },
     "done": true
   },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2024-10-02 18:55:56 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/strip_mv": {
     "criteria": {
       "has_electrum_coil": "2024-03-22 18:40:06 +0100"
@@ -6407,6 +6491,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_item_cell_4k": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
+    },
+    "done": true
+  },
   "create:mechanical_pump_0": {
     "criteria": {
       "0": "2024-01-19 18:13:00 +0100"
@@ -6623,6 +6713,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/metal_barrel": {
     "criteria": {
       "has_iron_sheet_slab": "2024-01-24 16:53:09 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/parts/panels_semi_dark_monitor": {
+    "criteria": {
+      "has_quartz_glass": "2024-10-02 19:21:51 +0200"
     },
     "done": true
   },
@@ -7080,6 +7176,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_fluid_cell_256k": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
     "criteria": {
       "has_fluid_pipe": "2024-01-24 16:52:25 +0100"
@@ -7263,6 +7365,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2024-08-15 16:40:56 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/portable_item_cell_1k": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
     },
     "done": true
   },
@@ -7605,6 +7713,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2023-12-13 20:50:03 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/portable_item_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
     },
     "done": true
   },
@@ -8364,6 +8478,12 @@
     },
     "done": false
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_pink": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2024-01-17 13:42:16 +0100"
@@ -8415,6 +8535,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-01-16 20:02:51 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
     },
     "done": true
   },
@@ -8532,6 +8658,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_item_cell_256k": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/stone_kiln": {
     "criteria": {
       "has_item": "2023-12-12 20:52:20 +0100"
@@ -8547,6 +8679,12 @@
   "chemlib:recipes/chemlib.metals/rhenium_ingot_from_smelting_rhenium_dust": {
     "criteria": {
       "has_rhenium": "2024-09-29 17:20:23 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_cyan": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
     },
     "done": true
   },
@@ -8595,6 +8733,12 @@
   "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-02-01 20:44:03 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/quartz_vibrant_glass": {
+    "criteria": {
+      "has_quartz_glass": "2024-10-02 19:21:51 +0200"
     },
     "done": true
   },
@@ -8922,6 +9066,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/decorative/quartz_fixture": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2024-10-02 18:55:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-01-24 21:15:10 +0100"
@@ -9174,6 +9324,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_light_blue": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-01-01 19:13:41 +0100"
@@ -9330,6 +9486,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_fluid_cell_16k": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
@@ -9372,6 +9534,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/energy_dense_energy_cell": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_slab": {
     "criteria": {
       "has_item": "2024-01-19 17:20:14 +0100"
@@ -9387,6 +9555,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-03-30 19:04:53 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/portable_item_cell_16k": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
     },
     "done": true
   },
@@ -9429,6 +9603,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_stairs": {
     "criteria": {
       "has_item": "2024-01-19 17:20:14 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_lime": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
     },
     "done": true
   },
@@ -9723,6 +9903,12 @@
   "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_fluix_clean": {
+    "criteria": {
+      "has_covered_dense_cable": "2024-10-02 19:04:50 +0200"
     },
     "done": true
   },
@@ -10561,6 +10747,12 @@
   "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-08-07 16:31:12 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_fluix_covered_dense_cable": "2024-10-02 19:04:50 +0200"
     },
     "done": true
   },
@@ -11594,6 +11786,12 @@
   "chemlib:recipes/chemlib.metals/potassium_ingot_from_blasting_potassium_dust": {
     "criteria": {
       "has_potassium": "2024-03-06 16:30:34 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/network_color_applicator": {
+    "criteria": {
+      "has_energy_cell": "2024-10-02 19:14:29 +0200"
     },
     "done": true
   },
