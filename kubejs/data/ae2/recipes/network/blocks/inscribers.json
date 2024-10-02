@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ada",
+    "aca",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/ostrum"
+    },
+    "b": {
+      "item": "minecraft:piston"
+    },
+    "c": {
+      "item": "ae2:silicon_press"
+    },
+    "d": {
+      "item": "create:mechanical_press"
+    }
+  },
+  "result": {
+    "item": "ae2:inscriber"
+  }
+}
