@@ -2657,6 +2657,9 @@ onEvent('recipes', event => {
 			}
 		}
 	)
+
+	//Quantum Link
+	event.shapeless('ae2:quantum_link', ['ae2:quartz_glass', 'ae2:quantum_ring'])
 })
 
 onEvent('item.tags', event => {
