@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "ae2:quartz_glass"
+    },
+    "b": {
+      "tag": "forge:dusts/glowstone"
+    },
+    "c": {
+      "item": "ae2:charged_certus_quartz_crystal"
+    },
+    "d": {
+      "tag": "forge:ingots/ostrum"
+    }
+  },
+  "result": {
+    "item": "ae2:blank_pattern",
+    "count": 1
+  }
+}
