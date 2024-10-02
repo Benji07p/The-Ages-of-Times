@@ -29,8 +29,7 @@ onEvent('recipes', event => {
                 },
                 {
                     "type": "custommachinery:weather",
-                    "weather": "clear",
-                    "onmachine": false
+                    "weather": "clear"
                 },
                 {
                     "type": "custommachinery:time",
@@ -156,8 +155,7 @@ onEvent('recipes', event => {
                     },
                     {
                         "type": "custommachinery:weather",
-                        "weather": "clear",
-                        "onmachine": false
+                        "weather": "clear"
                     },
                     {
                         "type": "custommachinery:time",
@@ -190,5 +188,5 @@ onEvent('recipes', event => {
     
     spacetelescope("the_ages_of_times:moon_coordinates", "beyond_earth:earth_orbit")
 
-
+    telescope("the_ages_of_times:star_parchment", "the_ages_of_times:sky_parchment", "minecraft:overworld", "(12000,)")
 })
