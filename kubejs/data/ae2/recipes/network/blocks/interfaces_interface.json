@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "c d",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/ostrum"
+    },
+    "b": {
+      "tag": "forge:glass"
+    },
+    "c": {
+      "item": "ae2:annihilation_core"
+    },
+    "d": {
+      "item": "ae2:formation_core"
+    }
+  },
+  "result": {
+    "item": "ae2:interface"
+  }
+}
