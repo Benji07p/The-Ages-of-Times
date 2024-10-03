@@ -823,6 +823,7 @@
 #46AAFF computercraft:wired_modem_full
 #70BCAC electrodynamics:wirehighlyinsulatedsuperconductive
 #5ECF58 computercraft:wireless_modem_normal
+#0A520E minecraft:wither_rose
 #D066AA minecraft:wither_skeleton_skull
 #F75977 immersiveengineering:wooden_barrel
 #9C81F3 woodenhopper:wooden_hopper
