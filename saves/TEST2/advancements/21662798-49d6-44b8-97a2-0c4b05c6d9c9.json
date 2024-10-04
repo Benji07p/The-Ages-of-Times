@@ -3792,7 +3792,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-10-04 18:01:28 +0200",
       "minecraft:wither": "2024-08-22 15:26:28 +0200",
+      "minecraft:wither_skeleton": "2024-10-04 18:24:49 +0200",
       "minecraft:ender_dragon": "2024-08-22 15:08:10 +0200",
       "minecraft:enderman": "2024-08-23 15:09:15 +0200"
     },
@@ -6524,6 +6526,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-01-01 19:13:40 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2024-10-04 18:44:29 +0200"
     },
     "done": true
   },
@@ -10974,7 +10982,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "potato": "2024-03-30 19:07:46 +0100"
+      "potato": "2024-03-30 19:07:46 +0100",
+      "bread": "2024-10-04 19:14:16 +0200"
     },
     "done": false
   },
@@ -11323,6 +11332,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-01-14 21:25:47 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-10-04 19:13:11 +0200"
     },
     "done": true
   },
