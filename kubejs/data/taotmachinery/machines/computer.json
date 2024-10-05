@@ -1,0 +1,19 @@
+{
+    "name": "Computer",
+    "appearance":{
+           "block": "create:gearbox[axis=x]"
+    },
+    "components": [
+        {
+            "type": "custommachinery:contraption",
+            "config": {
+                "default": "output",
+                "output": true
+            }
+        },
+        {
+            "type": "custommachinery:energy",
+            "capacity": 100000
+        }
+    ]
+}

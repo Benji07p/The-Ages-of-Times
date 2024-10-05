@@ -2660,6 +2660,19 @@ onEvent('recipes', event => {
 
 	//Quantum Link
 	event.shapeless('ae2:quantum_link', ['ae2:quartz_glass', 'ae2:quantum_ring'])
+
+	//Mechanical Computer
+	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:computer"}'), [
+		'LLL',
+		'RMR',
+		'WCW'
+	], {
+	L: 'immersiveengineering:light_bulb',
+	R: 'create:brass_casing',
+	M: 'car:engine_3_cylinder',
+	W: 'create:cogwheel',
+	C: 'createaddition:capacitor'
+	})
 })
 
 onEvent('item.tags', event => {
