@@ -26,6 +26,7 @@
 #FA75A8 minecraft:andesite
 #251593 create:andesite_alloy_block
 #A4683B create:andesite_casing
+#116822 create:andesite_encased_cogwheel
 #DA9404 create:andesite_funnel
 #4515BD notreepunching:andesite_loose_rock
 #89AB26 create:andesite_scaffolding
@@ -305,6 +306,7 @@
 #56C7FC create:experience_block
 #009B14 minecraft:farmland
 #9B1166 immersiveengineering:fermenter
+#397472 compactcrafting:field_projector
 #B9B269 minecraft:fire_coral_block
 #E66556 minecraft:flowering_azalea_leaves
 #863EE4 functionalstorage:fluid_1
@@ -428,6 +430,7 @@
 #BD263B beyond_earth:mars_iron_ore
 #8BDCD4 beyond_earth:mars_sand
 #6F9BA1 beyond_earth:mars_stone
+#40322F compactcrafting:match_proxy
 #4F0350 create:mechanical_arm
 #EB48A2 create:mechanical_bearing
 #FB37C1 create:mechanical_crafter
@@ -614,6 +617,7 @@
 #721B63 minecraft:redstone_wire
 #487B7B minecraft:repeater
 #31B0B4 minecraft:repeating_command_block
+#77DF5A compactcrafting:rescan_proxy
 #A69CFB electrodynamics:resourceblocklead
 #CA5CEC electrodynamics:resourceblocksilver
 #57C3CC electrodynamics:resourceblocksteel
@@ -730,6 +734,7 @@
 #D9135A minecraft:spruce_stairs
 #B1D22B minecraft:spruce_trapdoor
 #5DB983 immersiveengineering:stairs_treated_wood_horizontal
+#12043F davebuildingmod:stars
 #8C8A95 create:steam_engine
 #1ADE45 immersiveengineering:steel_fence
 #9D641C immersiveengineering:steel_post
