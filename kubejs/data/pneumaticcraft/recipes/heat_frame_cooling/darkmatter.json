@@ -1,0 +1,10 @@
+{
+  "type": "pneumaticcraft:heat_frame_cooling",
+  "input": {
+    "item": "nuclearscience:celldarkmatter"
+  },
+  "max_temp": 0,
+  "result": {
+    "item": "the_ages_of_times:liquid_darkmatter_cell"
+  }
+}
