@@ -6,7 +6,8 @@
       "viewedEntries": [
         "pneumaticcraft:tools/drone",
         "pneumaticcraft:components/transistor",
-        "pneumaticcraft:manufacturing/pressure_chamber"
+        "pneumaticcraft:manufacturing/pressure_chamber",
+        "pneumaticcraft:base_concepts/heat_sources"
       ],
       "bookmarks": [],
       "completedManualQuests": []

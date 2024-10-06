@@ -352,6 +352,7 @@
 #CFA1C4 minecraft:grindstone
 #87B5C3 create:hand_crank
 #F67E21 minecraft:hay_block
+#6D5F89 pneumaticcraft:heat_pipe
 #6EBC6E pneumaticcraft:heat_sink
 #B6A923 immersiveengineering:heavy_engineering
 #DB81DB chemlib:helium_lamp_block
@@ -703,6 +704,7 @@
 #36B94A immersiveengineering:slab_storage_steel
 #9B2B73 immersiveengineering:slab_treated_wood_horizontal
 #F87E74 sliceanddice:slicer
+#7C220E pneumaticcraft:small_tank
 #975FAF create:smart_chute
 #C2A0D6 minecraft:smoker
 #8638B9 minecraft:smooth_basalt
@@ -805,6 +807,7 @@
 #6DB687 create:veridium
 #88779D minecraft:vine
 #2F6B3B multibeds:vintage
+#FC1461 pneumaticcraft:vortex_tube
 #FB59FD minecraft:water_cauldron
 #AAF4B7 create:water_wheel
 #7D38EB create:water_wheel_structure
