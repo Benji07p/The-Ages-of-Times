@@ -2673,6 +2673,61 @@ onEvent('recipes', event => {
 	W: 'create:cogwheel',
 	C: 'createaddition:capacitor'
 	})
+
+	//Antimatter and Darkmatter
+	event.smelting('nuclearscience:cellantimatterverylarge', 'the_ages_of_times:liquid_antimatter_cell')
+	event.smelting('nuclearscience:celldarkmatter', 'the_ages_of_times:liquid_darkmatter_cell')
+
+	//Quantum Computer
+	event.remove({ id: 'computercraft:computer_advanced_upgrade'})
+	event.remove({ id: 'computercraft:computer_advanced'})
+	event.remove({ id: 'computercraft:monitor_advanced'})
+	event.shapeless('computercraft:monitor_advanced', ['computercraft:monitor_normal', 'the_ages_of_times:quantum_circuit'])
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"tier": 4,
+			"pattern": [
+			  "ABA",
+			  "CDC",
+			  "EFE"
+			],
+			"key": {
+			  "A": {
+				"item": "pneumaticcraft:module_expansion_card"
+			  },
+			  "B": {
+				"item": "the_ages_of_times:mechanicalprecisionmechanism"
+			  },
+			  "C": {
+				"item": "pneumaticcraft:heat_frame"
+			  },
+			  "D": {
+				"item": "computercraft:monitor_advanced"
+			  },
+			  "E": {
+				"item": "pneumaticcraft:printed_circuit_board"
+			  },
+			  "F": {
+				"item": "the_ages_of_times:quantum_circuit"
+			  }
+			},
+			"result": {
+			  "item": "computercraft:computer_advanced"
+			}
+		  }
+	)
+
+	//Heat Frame
+	event.remove({ id: 'pneumaticcraft:heat_frame'})
+	event.shaped('pneumaticcraft:heat_frame', [
+		'CCC',
+		'CHC',
+		'CCC'
+	], {
+	H: 'electrodynamics:titaniumheatcoil',
+	C: 'pneumaticcraft:ingot_iron_compressed'
+	})
 })
 
 onEvent('item.tags', event => {
