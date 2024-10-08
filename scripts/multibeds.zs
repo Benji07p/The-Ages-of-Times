@@ -1,0 +1,26 @@
+import mods.recipestages.Recipes;
+
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:bedding_package>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:bed_kit>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_base>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_black>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_blue>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_brown>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_cyan>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_gray>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_green>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_light_blue>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_light_gray>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_lime>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_magenta>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_orange>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_pink>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_purple>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_red>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_white>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:blanket_yellow>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:ladder_tools>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:padding>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:pillow_base>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:sheet_base>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:multibeds:woolen_cloth>);
