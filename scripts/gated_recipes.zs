@@ -1,4 +1,5 @@
 import mods.recipestages.Recipes;
+import mods.jei.JEI;
 
 //mods.recipestages.Recipes.setRecipeStage("stage_block", <item:magistuarmory:heavy_crossbow>);
 //mods.recipestages.Recipes.setRecipeStageByMod("stage_block", "magistuarmory");
@@ -121,6 +122,7 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:functionalstorage:c
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:functionalstorage:ender_drawer>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:functionalstorage:linking_tool>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:functionalstorage:storage_controller>);
+mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:beacon>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:antidote>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:atomicassembler>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:cellantimatterlarge>);
@@ -140,15 +142,84 @@ mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_block_uncraft>);
 
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:functionalstorage:void_upgrade>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:barrel>);
 
-mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "beyond_earth");
-mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "createaddition");
 mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "electrodynamics");
 mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "immersiveengineering");
-mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "minecraft");
 mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "pneumaticcraft");
 mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "tconstruct");
 
 mods.recipestages.Recipes.setRecipeStageByMod("Jamais", "tardim");
 mods.recipestages.Recipes.setRecipeStageByMod("Jamais", "kubejs");
 mods.recipestages.Recipes.setRecipeStageByMod("Jamais", "the_ages_of_times");
+
+
+
+
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:blaze_powder>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:bone_block>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:bone_meal>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:bone_meal_from_bone_block>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:bow>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:bowl>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:brewing_stand>);
+
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:cartography_table>);
+
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:blast_furnace>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_apple>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_axe>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_boots>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_carrot>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_chestplate>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_helmet>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_hoe>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_leggings>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_pickaxe>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_shovel>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:golden_sword>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:gold_block>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:gold_ingot_from_gold_block>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:gold_ingot_from_nuggets>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:gold_nugget>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:hopper>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_axe>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_bars>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_block>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_boots>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_chestplate>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_door>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_helmet>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_hoe>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_ingot_from_iron_block>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_ingot_from_nuggets>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_leggings>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_nugget>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_pickaxe>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_shovel>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_sword>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:iron_trapdoor>);
+
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:enchanting_table>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:ender_chest>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:ender_eye>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:end_crystal>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:end_rod>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:netherite_block>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:netherite_ingot>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:netherite_ingot_from_netherite_block>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:spyglass>);
+
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:redstone>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:comparator>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:redstone_block>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:redstone_lamp>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:redstone_torch>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:nether_bricks>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:nether_brick_fence>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:nether_brick_slab>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:nether_brick_stairs>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:nether_brick_wall>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:flint_and_steel>);
+mods.recipestages.Recipes.setRecipeStage("Test_mdr", <resource:minecraft:activator_rail>);
+
