@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mctb:spruce_crafting_table"
+    },
+    {
+      "item": "ae2:basic_card"
+    }
+  ],
+  "result": {
+    "item": "ae2:crafting_card"
+  }
+}

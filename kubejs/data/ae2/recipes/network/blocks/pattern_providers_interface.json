@@ -10,7 +10,7 @@
       "tag": "forge:ingots/ostrum"
     },
     "b": {
-      "item": "minecraft:crafting_table"
+      "item": "mctb:spruce_crafting_table"
     },
     "c": {
       "item": "ae2:annihilation_core"

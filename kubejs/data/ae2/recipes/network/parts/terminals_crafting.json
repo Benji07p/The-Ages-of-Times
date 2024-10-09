@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ae2:terminal"
+    },
+    {
+      "item": "mctb:spruce_crafting_table"
+    },
+    {
+      "item": "ae2:calculation_processor"
+    }
+  ],
+  "result": {
+    "item": "ae2:crafting_terminal"
+  }
+}
