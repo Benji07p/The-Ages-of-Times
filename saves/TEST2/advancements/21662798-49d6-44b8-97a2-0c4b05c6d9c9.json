@@ -1475,6 +1475,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/amadron/assembly_program_drill": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_white": {
     "criteria": {
       "has_sheetmetal": "2024-01-24 16:41:46 +0100"
@@ -4794,6 +4800,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/amadron/emerald_to_oil": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
@@ -5286,6 +5298,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/amadron/assembly_program_drill_laser": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
+    },
+    "done": true
+  },
   "ae2:recipes/tools/tools/certus_quartz_pickaxe": {
     "criteria": {
       "has_certus_quartz": "2024-09-23 19:04:55 +0200"
@@ -5391,6 +5409,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/circuit_table": {
     "criteria": {
       "has_circuit_board": "2023-12-09 14:25:20 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/amadron/gasoline_to_emerald": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
     },
     "done": true
   },
@@ -9212,6 +9236,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/amadron/assembly_program_laser": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/stone_kiln": {
     "criteria": {
       "has_item": "2023-12-12 20:52:20 +0100"
@@ -9554,6 +9584,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/amadron/oil_to_emerald": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2023-12-11 20:57:12 +0100"
@@ -9860,6 +9896,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/amadron/diesel_to_emerald": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2023-12-04 18:07:28 +0100"
@@ -10085,6 +10127,12 @@
   "create:recipes/create.base/crafting/logistics/display_link": {
     "criteria": {
       "has_item": "2023-12-13 15:03:54 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/amadron/lubricant_to_emerald": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
     },
     "done": true
   },
@@ -10547,6 +10595,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_light_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-10-06 14:04:44 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/amadron/lpg_to_emerald": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
     },
     "done": true
   },
@@ -11042,6 +11096,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-04-13 17:53:16 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/amadron/pcb_blueprint": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
     },
     "done": true
   },
@@ -11836,6 +11896,12 @@
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-02-06 15:43:58 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/amadron/kerosene_to_emerald": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
     },
     "done": true
   },
@@ -12662,6 +12728,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/amadron/emerald_to_lubricant": {
+    "criteria": {
+      "amadron_tablet": "2024-10-10 16:12:01 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_brown": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-10-06 14:04:44 +0200"
@@ -12725,6 +12797,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/basin": {
     "criteria": {
       "has_item": "2024-10-06 12:13:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:amadron_tablet": {
+    "criteria": {
+      "0": "2024-10-10 16:12:01 +0200"
     },
     "done": true
   },
