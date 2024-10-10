@@ -24,6 +24,8 @@ onEvent('recipes', event => {
 	event.remove({ id: 'beyond_earth:steel_nugget_from_ingot' })
 	event.remove({ id: 'beyond_earth:steel_ingot_blasting' })
 	event.remove({ id: 'car:iron_stick'})
+	event.remove({ id: 'davebuildingmod:rec_steel_ingot'})
+	event.remove({ id: 'davebuildingmod:rec_steel_block'})
 	event.remove({ id: 'pneumaticcraft:amadron/kerosene_to_emerald'})
 	event.remove({ id: 'pneumaticcraft:amadron/lubricant_to_emerald'})
 	event.remove({ id: 'pneumaticcraft:amadron/gasoline_to_emerald'})
@@ -229,7 +231,7 @@ onEvent('item.tags', event => {
 
 	//Steel
 	event.get('forge:nuggets/steel').remove(['magistuarmory:steel_nugget', 'immersiveengineering:nugget_steel', 'beyond_earth:steel_nugget'])
-	event.get('forge:ingots/steel').remove(['magistuarmory:steel_ingot', 'immersiveengineering:ingot_steel', 'beyond_earth:steel_ingot'])
+	event.get('forge:ingots/steel').remove(['magistuarmory:steel_ingot', 'immersiveengineering:ingot_steel', 'beyond_earth:steel_ingot', 'davebuildingmod:steel_ingot'])
 	event.get('forge:dusts/steel').remove('immersiveengineering:dust_steel')
 	event.get('forge:plates/steel').remove(['magistuarmory:steel_plate', 'immersiveengineering:plate_steel'])
 	event.get('forge:rods/steel').remove('immersiveengineering:stick_steel')
