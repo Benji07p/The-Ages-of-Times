@@ -356,6 +356,7 @@
 #6EBC6E pneumaticcraft:heat_sink
 #B6A923 immersiveengineering:heavy_engineering
 #DB81DB chemlib:helium_lamp_block
+#D6767C minecraft:honey_block
 #1A0827 minecraft:hopper
 #9D2636 minecraft:horn_coral_block
 #4E92EA pneumaticcraft:huge_tank

@@ -6248,6 +6248,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2024-10-11 17:54:33 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_drum": {
     "criteria": {
       "has_ingot_steel": "2023-12-09 15:03:33 +0100"
@@ -8075,6 +8081,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-01 21:18:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2024-10-11 17:43:24 +0200"
     },
     "done": true
   },
