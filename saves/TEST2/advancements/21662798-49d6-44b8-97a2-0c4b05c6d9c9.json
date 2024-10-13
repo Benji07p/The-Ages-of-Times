@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_blue_dye": "2024-10-12 14:10:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2024-08-30 10:49:59 +0200"
@@ -4932,6 +4938,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-10-12 14:10:08 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/canvas_rug": {
     "criteria": {
       "has_canvas": "2024-01-20 11:38:35 +0100"
@@ -6799,6 +6811,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-10-12 14:10:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-12-13 15:25:49 +0100"
@@ -8543,6 +8561,12 @@
   "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-10-12 14:10:08 +0200"
     },
     "done": true
   },
@@ -12695,6 +12719,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-01-17 14:59:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2024-10-12 14:10:08 +0200"
     },
     "done": true
   },
