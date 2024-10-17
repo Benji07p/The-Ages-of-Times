@@ -4,6 +4,7 @@ import mods.recipestages.Recipes;
 //mods.recipestages.Recipes.setRecipeStageByMod("stage_block", "magistuarmory");
 
 mods.recipestages.Recipes.setRecipeStage("Gunpowder", <item:minecraft:gunpowder>);
+//mods.recipestages.Recipes.setRecipeStage("Test", <resource:immersiveengineering:crafting/gunpowder_from_dusts>);
 
 mods.jmapstages.JMapStages.setWaypointStage("GPS");
 mods.jmapstages.JMapStages.setFullscreenStage("GPS");
@@ -35,6 +36,28 @@ mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "woodenshears");
 
 //Bronze Ages
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:extendedcrafting:handheld_table>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/hammercrushing_lead>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/nugget_lead_to_ingot_lead>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/plate_lead_hammering>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/sheetmetal_lead>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/sheetmetal_lead_from_slab>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/sheetmetal_lead_to_slab>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/ingot_lead_to_nugget_lead>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/hammercrushing_copper>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/plate_copper_hammering>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/sheetmetal_copper>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/sheetmetal_copper_from_slab>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/sheetmetal_copper_to_slab>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/hammercrushing_tin>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/hammercrushing_silver>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/sheetmetal_silver>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/sheetmetal_silver_from_slab>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/sheetmetal_silver_to_slab>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/plate_silver_hammering>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/alloybrick>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/alloybrick_from_slab>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/alloybrick_to_slab>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/hammer>);
 mods.recipestages.Recipes.setRecipeStageByMod("Bronze", "ironchest");
 mods.recipestages.Recipes.setRecipeStageByMod("Bronze", "mctb");
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:minecraft:barrel>);
@@ -61,10 +84,47 @@ mods.recipestages.Recipes.setRecipeStageByMod("Iron", "farmingforblockheads");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:functionalstorage:gold_upgrade>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:functionalstorage:iron_downgrade>);
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "minecolonies");
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_hoe>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_shovel>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_pickaxe>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_sword>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_axe>);
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "quark");
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "structurize");
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/channel>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/chute>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/chute_retextured>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/drain>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/drain_retextured>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/duct>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/duct_retextured>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/fuel_gauge>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/fuel_tank>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/grout>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/grout_multiple>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/ingot_gauge>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/ingot_tank>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/lantern>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_bricks_crafting>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_bricks_from_brick>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_bricks_slab>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_bricks_stairs>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_bricks_wall>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_cobble_slab>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_cobble_stairs>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_cobble_wall>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_fancy_bricks_crafting>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_glass>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_glass_pane>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_ladder>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_paver_slab>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_paver_stairs>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_stone_slab>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_stone_stairs>);
 mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:extendedcrafting:advanced_component>);
 mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:extendedcrafting:advanced_catalyst>);
+mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:immersiveengineering:crafting/raw_hammercrushing_cobalt>);
+mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:immersiveengineering:crafting/hammercrushing_cobalt>);
 mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:minecraft:cartography_table>);
 mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:minecraft:spyglass>);
 mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:pneumaticcraft:air_compressor>);
@@ -119,6 +179,11 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:extendedcrafting:el
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:extendedcrafting:elite_catalyst>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:functionalstorage:diamond_upgrade>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:functionalstorage:collector_upgrade>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/sheetmetal_uranium_from_slab>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/sheetmetal_uranium_to_slab>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/storage_uranium_to_slab>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/raw_hammercrushing_uranium>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/hammercrushing_uranium>);
 
 //Future Ages
 mods.recipestages.Recipes.setRecipeStageByMod("Future", "ae2");
@@ -148,6 +213,8 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:end_rod>)
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:netherite_block>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:netherite_ingot>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:netherite_ingot_from_netherite_block>);
+mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:warped_planks>);
+mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:crimson_planks>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:antidote>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:atomicassembler>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:cellantimatterlarge>);
@@ -171,8 +238,6 @@ mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:functionalstorage:void_upgrade>);
 
 mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "electrodynamics");
-mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "immersiveengineering");
-mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "tconstruct");
 
 mods.recipestages.Recipes.setRecipeStageByMod("Jamais", "tardim");
 mods.recipestages.Recipes.setRecipeStageByMod("Jamais", "kubejs");
