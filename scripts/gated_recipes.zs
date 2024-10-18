@@ -10,6 +10,7 @@ mods.jmapstages.JMapStages.setWaypointStage("GPS");
 mods.jmapstages.JMapStages.setFullscreenStage("GPS");
 mods.jmapstages.JMapStages.setDeathpointStage("GPS");
 mods.jmapstages.JMapStages.setMinimapStage("GPS");
+mods.recipestages.Recipes.setRecipeStage("GPS", <resource:kubejs:kjs_93gavuf0e1m5zz19u9ia9ykjg>);
 
 
 //Paleolithic Ages
@@ -20,6 +21,7 @@ mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "ftbquests");
 mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "nologpunch");
 mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "notreepunching");
 mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "woodenbucket");
+mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:the_ages_of_times:extinglitched_campfire>);
 
 //Neolithic Ages
 mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "astikorcarts");
@@ -28,6 +30,19 @@ mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "butchersdelight");
 mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "ceramics");
 mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "ceramicshears");
 mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "farmersdelight");
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_ds4omyvm1chi56324jhprvskn>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_q2t18fjgbm9s56jbrol26ywt>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_qybb2zi7h54a1istnh3kgsuu>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_540w4pw13sw9ia0b90zuc5ufa>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_7krh1wt5yp1as26l4ke20655n>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_7tx29gw50rtc3cfdbiztq6h8v>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:the_ages_of_times:leather_cordto_strip>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_5u0kyv3lmxsm1muaw2d2atkd0>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:the_ages_of_times:lead_leather>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_dtgtkmf5ea8xzjsl35t7009zx>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_58sp5bfm44064zru80xg5xmgu>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_8usbi8ya2rvcrschw19atgcct>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_6335hy2casoutqzpqxuvd3d4c>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:multibeds:feather_pile>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:multibeds:feather_pile_uncraft>);
 mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "sliceanddice");
@@ -36,6 +51,31 @@ mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "woodenshears");
 
 //Bronze Ages
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:extendedcrafting:handheld_table>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:the_ages_of_times:writable>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_1kfk5q658427iww2uum9gkimz>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_cmwt0orh0ryxb9lhh15glb3iq>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_dx1uox0lj8s6we72u4kxs57at>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_cvbsdg79ttv8j54u8tw1vok3l>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_62k0itt19efei538w8ohv1jnl>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_e2w32n0yx7jyefuhdanakm0ng>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:the_ages_of_times:leather_belt_from_leather_cordage>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_eta1z93h9ob97azgr9ou6xfv>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_9sz4bh6a4ua4eetwt8rp5vabr>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_5scqvwe4zubjptncnjc0ccvf9>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:the_ages_of_times:written>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_cbtmo19fnynriw5g0dbdbugu5>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_czsk7jg764fklsjjta3c16w79>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_7eyi2ysmtlncniiv9giikhhl0>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_5xpwqqtqmtxack3q536kg1t0k>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_as5cz3se7zpzfdyyf95aa8syo>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_72296gc5rmkr78mj0frsnazjs>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_8xj9pinepodo6ehhl2dxun9a2>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_ev72dtr6esanvkc9os05aepzb>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_6yqu70fx060adioaersa3ngo>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_dagkcrbcurbuy92jj62zrg6xs>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_cct475d42cyf6hiwgennnfhf1>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_b0ezoc8e53h4jbrmp06pjgrxd>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_7brgmry36xagd8gk2d9s5tnd1>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/hammercrushing_lead>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/nugget_lead_to_ingot_lead>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/plate_lead_hammering>);
@@ -83,6 +123,12 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:blac
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "farmingforblockheads");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:functionalstorage:gold_upgrade>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:functionalstorage:iron_downgrade>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_8uod9ylf8pg69k4mof1rbfbuk>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_63g1evw5lcfldsjuyju6t63z1>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_2dyjbvyfczssyfr4qxly8pnn1>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_6r9vnvnh7ef160epc9rmh2wb6>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_5h0vl9d7bfpll28xen7lnf7h>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_6xmwxn3fv2x01vrlqeuvdcgoy>);
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "minecolonies");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_hoe>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_shovel>);
@@ -121,8 +167,12 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/s
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_paver_stairs>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_stone_slab>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_stone_stairs>);
+
+//Enlightment Ages
 mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:extendedcrafting:advanced_component>);
 mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:extendedcrafting:advanced_catalyst>);
+mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:kubejs:kjs_1j5yisqzsqcz0kisw7lll67n>);
+mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:kubejs:kjs_67jr6ajty6vhgll9q1jt29p9t>);
 mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:immersiveengineering:crafting/raw_hammercrushing_cobalt>);
 mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:immersiveengineering:crafting/hammercrushing_cobalt>);
 mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:minecraft:cartography_table>);
@@ -142,6 +192,7 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstora
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:pusher_upgrade>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:redstone_upgrade>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:simple_compacting_drawer>);
+mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:kubejs:kjs_3l0kno920id2foztac32csfs6>);
 mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "immersivepetroleum");
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:redstone>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:comparator>);
@@ -179,6 +230,11 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:extendedcrafting:el
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:extendedcrafting:elite_catalyst>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:functionalstorage:diamond_upgrade>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:functionalstorage:collector_upgrade>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_vpx63okd2z260qgttpby5429>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_1vxildy8hm6by17yu6hfj2ckn>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_e8r05cmeshvh8pxlgs9v74zqm>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_1hynd5w6ev0fnkgweecmg3t72>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_cjgujiijtcqi22a0o03hq31xo>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/sheetmetal_uranium_from_slab>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/sheetmetal_uranium_to_slab>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/storage_uranium_to_slab>);
@@ -202,6 +258,8 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:functionalstorage:c
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:functionalstorage:ender_drawer>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:functionalstorage:linking_tool>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:functionalstorage:storage_controller>);
+mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_d73urjnq5752ijzo1n9ezrhns>);
+mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_40p4uspge0h5w7rt4hrbmi9zm>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:beacon>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:blaze_powder>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:brewing_stand>);
@@ -237,8 +295,4 @@ mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:
 
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:functionalstorage:void_upgrade>);
 
-mods.recipestages.Recipes.setRecipeStageByMod("Test_mdr", "electrodynamics");
-
 mods.recipestages.Recipes.setRecipeStageByMod("Jamais", "tardim");
-mods.recipestages.Recipes.setRecipeStageByMod("Jamais", "kubejs");
-mods.recipestages.Recipes.setRecipeStageByMod("Jamais", "the_ages_of_times");
