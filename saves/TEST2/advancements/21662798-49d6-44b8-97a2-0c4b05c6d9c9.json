@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/network_tool": {
+    "criteria": {
+      "has_calculation_processor": "2024-10-18 10:28:40 +0200"
+    },
+    "done": true
+  },
   "electrodynamics:raworethorium": {
     "criteria": {
       "HasOre": "2024-08-14 16:03:37 +0200"
@@ -1088,6 +1094,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/network_data_storage": {
     "criteria": {
       "has_capacitor": "2024-08-26 14:48:16 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/security_station": {
+    "criteria": {
+      "has_engineering_processor": "2024-10-18 10:28:42 +0200"
     },
     "done": true
   },
@@ -2190,6 +2202,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/parts/terminals_crafting": {
+    "criteria": {
+      "has_calculation_processor": "2024-10-18 10:28:40 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_lead": {
     "criteria": {
       "has_lead_ingot": "2024-01-01 19:09:46 +0100"
@@ -2731,6 +2749,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/fancy_frame/clear": {
     "criteria": {
       "has_item": "2024-06-12 12:19:01 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/materials/annihilationcore": {
+    "criteria": {
+      "has_logic_processor": "2024-10-18 10:28:38 +0200"
     },
     "done": true
   },
@@ -3283,6 +3307,12 @@
   "notreepunching:flint_shovel": {
     "criteria": {
       "has_item": "2024-01-16 20:42:28 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/storage_drive": {
+    "criteria": {
+      "has_engineering_processor": "2024-10-18 10:28:42 +0200"
     },
     "done": true
   },
@@ -5046,6 +5076,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/upgrade_wireless_crafting_terminal": {
+    "criteria": {
+      "has_calculation_processor": "2024-10-18 10:28:40 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_steel_hammering": {
     "criteria": {
       "has_steel_ingot": "2023-12-09 15:03:33 +0100"
@@ -5820,6 +5856,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/parts/tunnels_me": {
+    "criteria": {
+      "has_engineering_processor": "2024-10-18 10:28:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-10-06 12:13:20 +0200"
@@ -6143,6 +6185,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/redstone_breaker": {
     "criteria": {
       "has_hv_connector": "2024-03-22 18:15:49 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/cell_workbench": {
+    "criteria": {
+      "has_calculation_processor": "2024-10-18 10:28:40 +0200"
     },
     "done": true
   },
@@ -6619,6 +6667,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/parts/terminals": {
+    "criteria": {
+      "has_logic_processor": "2024-10-18 10:28:38 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/mb_fermenter": {
     "criteria": {
       "form_multiblock": "2024-01-24 16:53:19 +0100"
@@ -7009,6 +7063,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/misctools_entropy_manipulator": {
+    "criteria": {
+      "has_engineering_processor": "2024-10-18 10:28:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2024-03-16 11:58:12 +0100"
@@ -7030,6 +7090,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/programmer": {
     "criteria": {
       "has_printed_circuit_board": "2024-08-26 12:27:11 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/spatial_io_port": {
+    "criteria": {
+      "has_engineering_processor": "2024-10-18 10:28:42 +0200"
     },
     "done": true
   },
@@ -8291,6 +8357,12 @@
   "ae2:recipes/ae2.main/tools/portable_item_cell_64k": {
     "criteria": {
       "has_energy_cell": "2024-10-02 19:14:29 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cells/item_storage_components_cell_1k_part": {
+    "criteria": {
+      "has_logic_processor": "2024-10-18 10:28:38 +0200"
     },
     "done": true
   },
@@ -9728,6 +9800,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cells/spatial_components": {
+    "criteria": {
+      "has_engineering_processor": "2024-10-18 10:28:42 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2024-09-01 12:24:46 +0200"
@@ -10133,6 +10211,12 @@
   "ae2:recipes/ae2.main/network/cables/glass_yellow": {
     "criteria": {
       "has_dyes/black": "2024-03-16 11:58:43 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/materials/advancedcard": {
+    "criteria": {
+      "has_calculation_processor": "2024-10-18 10:28:40 +0200"
     },
     "done": true
   },
@@ -11358,6 +11442,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/parts/energy_level_emitter": {
+    "criteria": {
+      "has_calculation_processor": "2024-10-18 10:28:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2023-12-22 18:14:24 +0100"
@@ -11631,6 +11721,12 @@
   "notreepunching:story/fire_pottery": {
     "criteria": {
       "has_ceramics": "2024-08-05 12:15:13 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/network_memory_card": {
+    "criteria": {
+      "has_calculation_processor": "2024-10-18 10:28:40 +0200"
     },
     "done": true
   },
@@ -12013,6 +12109,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/materials/formationcore": {
+    "criteria": {
+      "has_logic_processor": "2024-10-18 10:28:38 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_mv_relay": {
     "criteria": {
       "has_electrum_ingot": "2024-01-01 19:10:31 +0100"
@@ -12247,6 +12349,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/materials/basiccard": {
+    "criteria": {
+      "has_calculation_processor": "2024-10-18 10:28:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-02-06 15:43:58 +0100"
@@ -12385,6 +12493,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/crafting/cpu_crafting_unit": {
+    "criteria": {
+      "has_calculation_processor": "2024-10-18 10:28:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-01-15 19:25:50 +0100"
@@ -12490,6 +12604,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_yellow": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-10-06 14:04:44 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/parts/level_emitter": {
+    "criteria": {
+      "has_calculation_processor": "2024-10-18 10:28:40 +0200"
     },
     "done": true
   },
