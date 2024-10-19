@@ -64,9 +64,6 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:flui
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:flux_compressor>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:gas_lift>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:gilded_upgrade>);
-mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:gps_area_tool>);
-mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:gps_tool>);
-mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:gps_tool_from_gps_area_tool>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:guard_drone>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:gun_ammo>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:gun_ammo_ap>);

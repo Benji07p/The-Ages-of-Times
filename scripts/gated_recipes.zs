@@ -10,7 +10,11 @@ mods.jmapstages.JMapStages.setWaypointStage("GPS");
 mods.jmapstages.JMapStages.setFullscreenStage("GPS");
 mods.jmapstages.JMapStages.setDeathpointStage("GPS");
 mods.jmapstages.JMapStages.setMinimapStage("GPS");
+
 mods.recipestages.Recipes.setRecipeStage("GPS", <resource:kubejs:kjs_93gavuf0e1m5zz19u9ia9ykjg>);
+mods.recipestages.Recipes.setRecipeStage("GPS", <resource:pneumaticcraft:gps_area_tool>);
+mods.recipestages.Recipes.setRecipeStage("GPS", <resource:pneumaticcraft:gps_tool>);
+mods.recipestages.Recipes.setRecipeStage("GPS", <resource:pneumaticcraft:gps_tool_from_gps_area_tool>);
 
 
 //Paleolithic Ages
