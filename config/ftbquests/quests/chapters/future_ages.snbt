@@ -107,8 +107,8 @@
 			}]
 		}
 		{
-			x: 22.5d
-			y: 0.5d
+			x: 17.0d
+			y: -3.0d
 			id: "4D8784C898432E37"
 			tasks: [{
 				id: "5DDAB5CF66022AA0"
@@ -117,8 +117,8 @@
 			}]
 		}
 		{
-			x: 24.0d
-			y: 0.5d
+			x: 18.5d
+			y: -2.5d
 			id: "157EAF9FE74C60C6"
 			tasks: [{
 				id: "66A01CD4A8A27B62"
@@ -923,6 +923,150 @@
 				id: "332A2E4724A7F0D3"
 				type: "item"
 				item: "the_ages_of_times:quantum_circuit"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 2.0d
+			dependencies: ["43454D7C85743790"]
+			id: "1F1498A37CAD6300"
+			tasks: [{
+				id: "1DAC98135A7BE82D"
+				type: "item"
+				item: "electrodynamics:circuitelite"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 2.0d
+			dependencies: ["1F1498A37CAD6300"]
+			id: "62D105FC6423B92A"
+			tasks: [{
+				id: "554B636150A54E3F"
+				type: "item"
+				item: "electrodynamics:quarry"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 3.5d
+			dependencies: ["1F1498A37CAD6300"]
+			id: "1F2C3C90BBD0918F"
+			tasks: [{
+				id: "3CBB6B472E4EA0A3"
+				type: "item"
+				item: "electrodynamics:mineralwasher"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 2.0d
+			dependencies: ["1F1498A37CAD6300"]
+			id: "43D4179E0F6EC328"
+			tasks: [{
+				id: "2866817B452CC7DB"
+				type: "item"
+				item: "electrodynamics:lathe"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 3.5d
+			dependencies: ["43D4179E0F6EC328"]
+			id: "2D66798EF047F3D2"
+			tasks: [{
+				id: "0D7E690DAD01C0C9"
+				type: "item"
+				item: {
+					id: "electrodynamics:railgunplasma"
+					Count: 1b
+					tag: {
+						temperature: 0.0d
+						joules: 1.0E7d
+					}
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 5.0d
+			dependencies: ["3D60AB60A8F993CA"]
+			id: "5E82D115442FEA7F"
+			tasks: [{
+				id: "246C62408A33B206"
+				type: "item"
+				item: "nuclearscience:fusionreactorcore"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -2.5d
+			dependencies: ["31BB278109BF2BA3"]
+			id: "4BFED1D91D5D6FD4"
+			tasks: [{
+				id: "3CF6AD8E6CB00C96"
+				type: "item"
+				item: "nuclearscience:teleporter"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 3.5d
+			dependencies: ["1F1498A37CAD6300"]
+			id: "5EEAF6C21B59CBF1"
+			tasks: [{
+				id: "1DB0215F011BA18D"
+				type: "item"
+				item: "electrodynamics:energizedalloyer"
+			}]
+		}
+		{
+			x: -6.0d
+			y: 5.0d
+			dependencies: ["5EEAF6C21B59CBF1"]
+			id: "3D60AB60A8F993CA"
+			tasks: [{
+				id: "1B3F47CC7741C953"
+				type: "item"
+				item: "electrodynamics:reinforcedalloyer"
+			}]
+		}
+		{
+			x: 9.0d
+			y: -1.0d
+			dependencies: [
+				"161AF7C08A361FDB"
+				"22D9020EB875EAA0"
+			]
+			id: "6F15F73B5FC8BE22"
+			tasks: [{
+				id: "01E0900FF3051BF8"
+				type: "item"
+				item: "the_ages_of_times:mechanicalprecisionmechanism"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -1.0d
+			id: "161AF7C08A361FDB"
+			tasks: [{
+				id: "55F8FC1286210685"
+				type: "item"
+				item: "compactcrafting:field_projector"
+			}]
+		}
+		{
+			x: 12.0d
+			y: -1.0d
+			dependencies: [
+				"6F15F73B5FC8BE22"
+				"3A55AB69F1CEEF0E"
+			]
+			id: "488DEAD10FF044C2"
+			tasks: [{
+				id: "56928C67CE264497"
+				type: "item"
+				item: "computercraft:computer_advanced"
 			}]
 		}
 	]
