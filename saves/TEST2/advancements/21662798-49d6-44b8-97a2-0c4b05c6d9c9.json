@@ -2650,6 +2650,12 @@
     },
     "done": true
   },
+  "electrodynamics:ceramicinsulation": {
+    "criteria": {
+      "HasCeramicInsulation": "2024-10-19 14:15:12 +0200"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_normal": {
     "criteria": {
       "has_computer": "2024-08-25 15:03:10 +0200"
@@ -4259,6 +4265,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/gas_lift": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-10-06 14:04:44 +0200"
+    },
+    "done": true
+  },
+  "electrodynamics:downgradetransformer": {
+    "criteria": {
+      "HasTransf": "2024-10-19 14:01:03 +0200"
     },
     "done": true
   },
@@ -6775,6 +6787,12 @@
     },
     "done": true
   },
+  "electrodynamics:electricarcfurnace": {
+    "criteria": {
+      "HasFurnace": "2024-10-19 13:43:17 +0200"
+    },
+    "done": true
+  },
   "chemlib:recipes/chemlib.metals/lanthanum_ingot_from_smelting_lanthanum_dust": {
     "criteria": {
       "has_lanthanum": "2024-09-01 12:36:37 +0200"
@@ -8070,6 +8088,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-01-30 20:12:02 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:electricfurnace": {
+    "criteria": {
+      "HasElectricFurnace": "2024-10-19 13:59:50 +0200"
     },
     "done": true
   },

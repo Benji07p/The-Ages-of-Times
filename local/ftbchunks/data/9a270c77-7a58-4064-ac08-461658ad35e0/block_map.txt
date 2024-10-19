@@ -282,6 +282,7 @@
 #B666A8 minecraft:dispenser
 #A47868 alchemistry:dissolver
 #5B644A immersivepetroleum:distillation_tower
+#B10D64 electrodynamics:downgradetransformer
 #136FCC minecraft:dragon_egg
 #3B0AD1 minecraft:dripstone_block
 #19A3C1 minecraft:dropper
@@ -292,6 +293,8 @@
 #62139B tconstruct:earth_slime_fluid
 #314645 tconstruct:earth_slime_leaves
 #91A5DB createaddition:electric_motor
+#24A97B electrodynamics:electricfurnace
+#ECAFA4 electrodynamics:electricfurnacerunning
 #CBF06E nuclearscience:electromagneticglass
 #94EBCF extendedcrafting:elite_auto_table
 #5B3487 extendedcrafting:elite_table
@@ -839,6 +842,7 @@
 #9678C6 the_ages_of_times:white_water
 #BC20FE minecraft:white_wool
 #79C917 create:windmill_bearing
+#D765BE electrodynamics:wirecopper
 #46AAFF computercraft:wired_modem_full
 #70BCAC electrodynamics:wirehighlyinsulatedsuperconductive
 #5ECF58 computercraft:wireless_modem_normal
