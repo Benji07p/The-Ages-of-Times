@@ -113,28 +113,6 @@ onEvent('recipes', event => {
         )
     }
 
-    function itemdrain(int, out, fluid, amount){
-        event.custom(
-            {
-                "type": "create:emptying",
-                "ingredients": [
-                  {
-                    "item": int
-                  }
-                ],
-                "results": [
-                  {
-                    "item": out
-                  },
-                  {
-                    "fluid": fluid,
-                    "amount": amount
-                  }
-                ]
-              }
-        )
-    }
-
     function spout(int, fluid, amount, out){
         event.custom(
             {
@@ -405,11 +383,6 @@ onEvent('recipes', event => {
     spout("the_ages_of_times:hide_dried", "minecraft:water", 333, "the_ages_of_times:hide_wet")
     mixercreate("the_ages_of_times:hide_raw", "minecraft:water", 333, "electrodynamics:dustsalt", "the_ages_of_times:hide_salted")
     mixercreate("the_ages_of_times:hide_wet", "minecraft:water", 333, "farmersdelight:tree_bark", "the_ages_of_times:hide_tanned")
-
-    spout("nuclearscience:cellelectromagnetic", "the_ages_of_times:antimatter", 100, "the_ages_of_times:liquid_antimatter_cell")
-    spout("nuclearscience:cellelectromagnetic", "the_ages_of_times:darkmatter", 100, "the_ages_of_times:liquid_darkmatter_cell")
-    itemdrain("the_ages_of_times:liquid_antimatter_cell", "nuclearscience:cellelectromagnetic", "the_ages_of_times:antimatter", 100)
-    itemdrain("the_ages_of_times:liquid_darkmatter_cell", "nuclearscience:cellelectromagnetic", "the_ages_of_times:darkmatter", 100)
 
     //Mouton
     event.custom(

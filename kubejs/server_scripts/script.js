@@ -2728,6 +2728,18 @@ onEvent('recipes', event => {
 	H: 'electrodynamics:titaniumheatcoil',
 	C: 'pneumaticcraft:ingot_iron_compressed'
 	})
+
+	//Dragon Head
+	event.custom(
+		{
+			"type": "minecraft:stonecutting",
+			"ingredient": {
+			  "item": "tconstruct:dragon_scale"
+			},
+			"result": "minecraft:dragon_head",
+			"count": 1
+		  }
+	)
 })
 
 onEvent('item.tags', event => {
