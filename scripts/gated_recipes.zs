@@ -4,7 +4,9 @@ import mods.recipestages.Recipes;
 //mods.recipestages.Recipes.setRecipeStageByMod("stage_block", "magistuarmory");
 
 mods.recipestages.Recipes.setRecipeStage("Gunpowder", <item:minecraft:gunpowder>);
-//mods.recipestages.Recipes.setRecipeStage("Test", <resource:immersiveengineering:crafting/gunpowder_from_dusts>);
+//mods.recipestages.Recipes.setRecipeStage("Gunpowder", <resource:immersiveengineering:crafting/gunpowder_from_dusts>);
+//mods.recipestages.Recipes.setRecipeStage("Gunpowder", <resource:electrodynamics:gunpowderfromcharcoal>);
+//mods.recipestages.Recipes.setRecipeStage("Gunpowder", <resource:electrodynamics:gunpowderfromcoal>);
 
 mods.jmapstages.JMapStages.setWaypointStage("GPS");
 mods.jmapstages.JMapStages.setFullscreenStage("GPS");
@@ -54,6 +56,31 @@ mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "woodenhopper");
 mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "woodenshears");
 
 //Bronze Ages
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:copperingot_from_nuggets>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:coppernuggets_from_ingot>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:gearbronze>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:gearcopper>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:geartin>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:ingotbronze_from_block>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:ingotlead_from_block>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:ingotsilver_from_block>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:ingottin_from_block>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:platebronze>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:platelead>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:raworeblocklead>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:raworeblocksilver>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:raworeblocktin>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:raworelead_from_block>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:raworesilver_from_block>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:raworetin_from_block>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:resourceblockbronze>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:resourceblocklead>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:resourceblocksilver>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:resourceblocktin>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:silveringot_from_nuggets>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:silvernuggets_from_ingot>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:tiningot_from_nuggets>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:tinnuggets_from_ingot>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:extendedcrafting:handheld_table>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:the_ages_of_times:writable>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_1kfk5q658427iww2uum9gkimz>);
@@ -111,6 +138,9 @@ mods.recipestages.Recipes.setRecipeStageByMod("Bronze", "sleeping_bags");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:spinning_wheel>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:spinning_wheel_2>);
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "domum_ornamentum");
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:electrodynamics:geariron>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:electrodynamics:obsidian>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:electrodynamics:plateiron>);
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "epic_knight");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:black_iron_ingot_uncraft>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:black_iron_block_uncraft>);
@@ -296,7 +326,11 @@ mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_block>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_component>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_block_uncraft>);
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:circuitultimate>);
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:fluidlol>);
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:powerlol>);
 
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:functionalstorage:void_upgrade>);
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:fluidvoid>);
 
 mods.recipestages.Recipes.setRecipeStageByMod("Jamais", "tardim");
