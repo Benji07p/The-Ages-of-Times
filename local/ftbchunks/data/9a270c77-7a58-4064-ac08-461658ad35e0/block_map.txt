@@ -197,6 +197,7 @@
 #3E77D5 the_ages_of_times:copper_sulfate
 #CC07F6 minecraft:cornflower
 #306005 minecraft:cracked_stone_bricks
+#B2C961 extendedcrafting:crafting_core
 #8C5E34 tconstruct:crafting_station
 #468304 minecraft:crafting_table
 #5F7313 ae2:crafting_unit
@@ -213,6 +214,7 @@
 #863B36 electrodynamics:creativefluidsource
 #ECF231 electrodynamics:creativepowersource
 #4BF61E create:crimsite
+#182273 minecraft:crimson_nylium
 #7DF6E7 create:crushing_wheel
 #E9A8F5 minecraft:crying_obsidian
 #14C49F ironchest:crystal_chest
@@ -280,6 +282,7 @@
 #B666A8 minecraft:dispenser
 #A47868 alchemistry:dissolver
 #5B644A immersivepetroleum:distillation_tower
+#136FCC minecraft:dragon_egg
 #3B0AD1 minecraft:dripstone_block
 #19A3C1 minecraft:dropper
 #B7B232 immersiveengineering:dynamo
@@ -295,8 +298,10 @@
 #4C963A minecraft:emerald_ore
 #A952FC create:encased_chain_drive
 #548B83 create:encased_fan
+#889C43 minecraft:end_portal
 #622CB1 minecraft:end_portal_frame
 #89C856 minecraft:end_rod
+#A8CFF4 minecraft:end_stone
 #0691F4 ae2:energy_acceptor
 #3A8323 chemlib:epinephrine
 #157107 chemlib:ethane
@@ -457,6 +462,7 @@
 #95218D tconstruct:molten_copper_fluid
 #BE94B8 the_ages_of_times:molten_dirt
 #CC6000 tconstruct:molten_emerald_fluid
+#9346A4 tconstruct:molten_ender_fluid
 #332C58 tconstruct:molten_glass_fluid
 #EE50FC tconstruct:molten_iron_fluid
 #023C90 tconstruct:molten_lead_fluid
@@ -479,6 +485,7 @@
 #483B67 minecraft:mossy_stone_bricks
 #AE1367 beyond_earth:nasa_workbench
 #2BF4D7 chemlib:neon_lamp_block
+#6B6354 minecraft:nether_wart_block
 #454322 minecraft:netherrack
 #9B7491 chemlib:nitric_acid
 #E0AC9D chemlib:nitric_oxide
@@ -809,6 +816,9 @@
 #88779D minecraft:vine
 #2F6B3B multibeds:vintage
 #FC1461 pneumaticcraft:vortex_tube
+#78332B minecraft:warped_nylium
+#5BFED4 minecraft:warped_stem
+#9D2725 minecraft:warped_wart_block
 #FB59FD minecraft:water_cauldron
 #AAF4B7 create:water_wheel
 #7D38EB create:water_wheel_structure

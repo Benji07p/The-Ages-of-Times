@@ -43,6 +43,7 @@
 #4D3 minecraft:swamp
 #169 minecraft:taiga
 #147 tardim:tardis_biome
+#400 minecraft:the_end
 #2B7 minecraft:warm_ocean
 #4C3 minecraft:windswept_hills
 #579 minecraft:windswept_savanna
