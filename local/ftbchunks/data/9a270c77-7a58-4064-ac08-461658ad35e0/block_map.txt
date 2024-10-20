@@ -125,6 +125,7 @@
 #424F4E tconstruct:budding_sky_slime_crystal
 #CF26E9 car:cable
 #3B0CF8 computercraft:cable
+#208CB0 ae2:cable_bus
 #C6AC20 minecraft:cactus
 #00BE18 minecraft:calcite
 #FC842A minecraft:campfire
@@ -696,6 +697,12 @@
 #177682 domum_ornamentum:shingle_slab
 #F68259 minecraft:shroomlight
 #9E85C9 the_ages_of_times:silver_sulfate
+#07649D davebuildingmod:skeleton_1
+#07649E davebuildingmod:skeleton_2
+#07649F davebuildingmod:skeleton_3
+#0764A0 davebuildingmod:skeleton_4
+#0764A1 davebuildingmod:skeleton_5
+#0764A2 davebuildingmod:skeleton_6
 #2AA99B farmersdelight:skillet
 #615192 tconstruct:sky_congealed_slime
 #789BE9 tconstruct:sky_earth_slime_grass

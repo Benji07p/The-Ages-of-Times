@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2024-10-20 13:15:37 +0200"
+    },
+    "done": true
+  },
   "chemlib:recipes/chemlib.metals/thorium_ingot_to_block": {
     "criteria": {
       "has_thorium": "2023-12-27 17:06:52 +0100"
@@ -3151,6 +3157,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-08-20 19:27:50 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/parts/monitors_storage": {
+    "criteria": {
+      "has_illuminated_panel": "2024-10-20 13:15:16 +0200"
     },
     "done": true
   },
@@ -13578,6 +13590,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/green_clear_stained_glass": {
     "criteria": {
       "has_clear_glass": "2024-02-01 21:20:43 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/parts/panels_dark_monitor": {
+    "criteria": {
+      "has_monitor": "2024-10-20 13:15:16 +0200"
     },
     "done": true
   },
