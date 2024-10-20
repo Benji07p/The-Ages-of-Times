@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "abc",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:dusts/fluix"
+    },
+    "b": {
+      "tag": "ae2:all_certus_quartz"
+    },
+    "c": {
+      "item": "the_ages_of_times:ender_dust"
+    },
+    "d": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "ae2:wireless_booster",
+    "count": 2
+  }
+}

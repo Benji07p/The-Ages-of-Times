@@ -1,0 +1,12 @@
+{
+  "type": "ae2:inscriber",
+  "mode": "inscribe",
+  "result": {
+    "item": "the_ages_of_times:ender_dust"
+  },
+  "ingredients": {
+    "middle": {
+      "item": "minecraft:ender_pearl"
+    }
+  }
+}
