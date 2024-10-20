@@ -16,7 +16,7 @@ onEvent('recipes', event => {
 		{
 		  "type": "lychee:block_interacting",
 		  "item_in": {
-			"item": "quark:soul_bead"
+			"item": "the_ages_of_times:neural_processor"
 		  },
 		  "block_in": int,
 		  "post": [
