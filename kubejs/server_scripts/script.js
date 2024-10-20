@@ -848,6 +848,7 @@ onEvent('recipes', event => {
 	)
 
 	//Wax Tablet
+	event.remove({ id: 'create:crafting/appliances/clipboard'})
 	event.custom(
 		{
 			"type": "tconstruct:casting_table",
@@ -2738,6 +2739,84 @@ onEvent('recipes', event => {
 			},
 			"result": "minecraft:dragon_head",
 			"count": 1
+		  }
+	)
+
+	//Netherack
+	event.custom(
+		{
+		  "type": "create:item_application",
+		  "ingredients": [
+			{
+			  "item": "minecraft:netherrack"
+			},
+			{
+			  "item": "minecraft:warped_fungus"
+			}
+		  ],
+		  "results": [
+			{
+			  "item": "minecraft:warped_nylium"
+			}
+		  ]
+		}
+	)
+	event.custom(
+		{
+		  "type": "create:item_application",
+		  "ingredients": [
+			{
+			  "item": "minecraft:netherrack"
+			},
+			{
+			  "item": "minecraft:crimson_fungus"
+			}
+		  ],
+		  "results": [
+			{
+			  "item": "minecraft:crimson_nylium"
+			}
+		  ]
+		}
+	)
+
+	//Neural Processor
+	event.shapeless('the_ages_of_times:neural_processor', ['ae2:engineering_processor', 'ae2:logic_processor', 'ae2:calculation_processor'])
+
+	//Ender Crafter
+	event.remove({ id: 'extendedcrafting:ender_crafter'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"tier": 4,
+			"pattern": [
+			  "ABA",
+			  "CDC",
+			  "AEA"
+			],
+			"key": {
+			  "A": {
+				"item": "extendedcrafting:ender_component"
+			  },
+			  "B": {
+				"item": "extendedcrafting:ender_catalyst"
+			  },
+			  "C": {
+				"type": "forge:nbt",
+				"item": "custommachinery:custom_machine_item",
+				"count": 1,
+				"nbt": "{machine:\"taotmachinery:5x5_craft\"}"
+			  },
+			  "D": {
+				"item": "extendedcrafting:ender_ingot_block"
+			  },
+			  "E": {
+				"item": "extendedcrafting:black_iron_slate"
+			  }
+			},
+			"result": {
+			  "item": "extendedcrafting:ender_crafter"
+			}
 		  }
 	)
 })

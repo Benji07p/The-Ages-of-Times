@@ -13,11 +13,9 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:en
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:advanced_auto_table>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:crystaltine_catalyst>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:redstone_catalyst>);
-mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:ender_crafter>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:enhanced_ender_ingot_uncraft>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:redstone_ingot_recraft>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:crystaltine_ingot_uncraft>);
-mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:ender_ingot>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:redstone_ingot_uncraft>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:ultimate_catalyst>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:ender_star_block_uncraft>);
