@@ -306,6 +306,8 @@
 #622CB1 minecraft:end_portal_frame
 #89C856 minecraft:end_rod
 #A8CFF4 minecraft:end_stone
+#0067AA extendedcrafting:ender_alternator
+#00A9BB extendedcrafting:ender_crafter
 #0691F4 ae2:energy_acceptor
 #3A8323 chemlib:epinephrine
 #157107 chemlib:ethane
@@ -487,6 +489,7 @@
 #2F738D minecraft:mossy_stone_brick_slab
 #F0D99D minecraft:mossy_stone_brick_stairs
 #483B67 minecraft:mossy_stone_bricks
+#C2A0AE create:mysterious_cuckoo_clock
 #AE1367 beyond_earth:nasa_workbench
 #2BF4D7 chemlib:neon_lamp_block
 #6B6354 minecraft:nether_wart_block
