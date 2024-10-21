@@ -999,9 +999,12 @@
 			}]
 		}
 		{
-			x: -7.5d
-			y: -2.5d
-			dependencies: ["31BB278109BF2BA3"]
+			x: 4.5d
+			y: -4.0d
+			dependencies: [
+				"31BB278109BF2BA3"
+				"76BE403E1C2D6CF9"
+			]
 			id: "4BFED1D91D5D6FD4"
 			tasks: [{
 				id: "3CF6AD8E6CB00C96"
@@ -1048,6 +1051,7 @@
 		{
 			x: 7.5d
 			y: -1.0d
+			dependencies: ["662507E6669C8686"]
 			id: "161AF7C08A361FDB"
 			tasks: [{
 				id: "55F8FC1286210685"
@@ -1067,6 +1071,84 @@
 				id: "56928C67CE264497"
 				type: "item"
 				item: "computercraft:computer_advanced"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -1.0d
+			dependencies: ["75B595274BD461E1"]
+			id: "1B1714969E62FBB6"
+			tasks: [{
+				id: "5208435D2DDC9785"
+				type: "item"
+				item: "tconstruct:molten_ender_bucket"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -2.5d
+			dependencies: ["1B1714969E62FBB6"]
+			id: "76BE403E1C2D6CF9"
+			tasks: [{
+				id: "7F588C8EDD26BC8A"
+				type: "item"
+				item: "minecraft:ender_pearl"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -2.5d
+			dependencies: ["1B1714969E62FBB6"]
+			id: "518283862B78BB2C"
+			tasks: [{
+				id: "70FAA65821ABA83D"
+				type: "item"
+				item: "extendedcrafting:ender_ingot"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -2.5d
+			dependencies: ["518283862B78BB2C"]
+			id: "662507E6669C8686"
+			tasks: [{
+				id: "74178BD3EFF977EA"
+				type: "item"
+				item: "extendedcrafting:ender_crafter"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -1.0d
+			dependencies: ["1B1714969E62FBB6"]
+			id: "2A1B638B873D098A"
+			tasks: [{
+				id: "22B0F8D1AB749359"
+				type: "item"
+				item: "minecraft:end_stone"
+			}]
+		}
+		{
+			x: 9.0d
+			y: -2.5d
+			hide_dependency_lines: true
+			dependencies: ["46CF4AE57D85297A"]
+			id: "2053C71AF1FAB3FD"
+			tasks: [{
+				id: "12056B862751A581"
+				type: "item"
+				item: "the_ages_of_times:neural_processor"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -2.5d
+			dependencies: ["2053C71AF1FAB3FD"]
+			id: "555179FBC113CBF8"
+			tasks: [{
+				id: "3310D22C1CC35FF3"
+				type: "item"
+				item: "minecraft:wither_skeleton_skull"
 			}]
 		}
 	]
