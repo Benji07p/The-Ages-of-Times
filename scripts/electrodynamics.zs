@@ -114,7 +114,6 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:electrodynamics:wre
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:carbynebattery>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:carbynebatterybox>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:chargermv>);
-mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:circuitelite>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:combatarmorboots>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:combatarmorchestplate>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:combatarmorhelmet>);

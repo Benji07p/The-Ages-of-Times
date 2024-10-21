@@ -2819,6 +2819,126 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+
+	//Miniaturisation
+	event.remove({ id: 'compactcrafting:field_projector'})
+	event.remove({ id: 'compactcrafting:projector_dish'})
+	event.remove({ id: 'compactcrafting:base'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_ender_crafter",
+			"pattern": [
+			  "AB"
+			],
+			"key": {
+			  "A": {
+				"item": "compactcrafting:projector_dish"
+			  },
+			  "B": {
+				"item": "compactcrafting:base"
+			  }
+			},
+			"result": {
+			  "item": "compactcrafting:field_projector"
+			}
+		  }
+	)
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_ender_crafter",
+			"pattern": [
+			  "ABA",
+			  "BCB",
+			  "DBD"
+			],
+			"key": {
+			  "A": {
+				"item": "electrodynamics:circuitelite"
+			  },
+			  "B": {
+				"item": "the_ages_of_times:lens"
+			  },
+			  "C": {
+				"item": "extendedcrafting:enhanced_ender_catalyst"
+			  },
+			  "D": {
+				"item": "the_ages_of_times:quantum_circuit"
+			  }
+			},
+			"result": {
+			  "item": "compactcrafting:projector_dish"
+			}
+		  }
+	)
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_ender_crafter",
+			"pattern": [
+			  "   ",
+			  "ABA",
+			  "CCC"
+			],
+			"key": {
+			  "A": {
+				"item": "electrodynamics:circuitelite"
+			  },
+			  "B": {
+				"item": "the_ages_of_times:quantum_circuit"
+			  },
+			  "C": {
+				"item": "extendedcrafting:ender_ingot_block"
+			  }
+			},
+			"result": {
+			  "item": "compactcrafting:base"
+			}
+		  }
+	)
+
+	//Elite Circuit
+	event.remove({ id: 'electrodynamics:circuitelite'})
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AAAAAAAAA",
+			  "AABBBBBAA",
+			  "ABACCCABA",
+			  "ABCDEDCBA",
+			  "ABCFGFCBA",
+			  "ABCDEDCBA",
+			  "ABACCCABA",
+			  "AABBBBBAA",
+			  "AAAAAAAAA"
+			],
+			"key": {
+			  "A": {
+				"item": "createaddition:diamond_grit"
+			  },
+			  "B": {
+				"item": "pneumaticcraft:printed_circuit_board"
+			  },
+			  "C": {
+				"item": "pneumaticcraft:module_expansion_card"
+			  },
+			  "D": {
+				"item": "extendedcrafting:elite_component"
+			  },
+			  "E": {
+				"item": "the_ages_of_times:computer_circuit"
+			  },
+			  "F": {
+				"item": "electrodynamics:circuitadvanced"
+			  },
+			  "G": {
+				"item": "extendedcrafting:elite_catalyst"
+			  }
+			},
+			"result": {
+			  "item": "electrodynamics:circuitelite"
+			}
+		}
+	)
 })
 
 onEvent('item.tags', event => {
