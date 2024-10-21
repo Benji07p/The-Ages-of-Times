@@ -122,8 +122,7 @@ onEvent('recipes', event => {
     spout("nuclearscience:cellelectromagnetic", "the_ages_of_times:darkmatter", 100, "the_ages_of_times:liquid_darkmatter_cell")
     itemdrain("the_ages_of_times:liquid_antimatter_cell", "nuclearscience:cellelectromagnetic", "the_ages_of_times:antimatter", 100)
     itemdrain("the_ages_of_times:liquid_darkmatter_cell", "nuclearscience:cellelectromagnetic", "the_ages_of_times:darkmatter", 100)
-    
-    spoutender("minecraft:slime_ball", "minecraft:ender_pearl")
+
     spoutender("minecraft:stone", "minecraft:end_stone")
     spoutender("minecraft:oxeye_daisy", "minecraft:chorus_flower")
     spoutender("minecraft:turtle_helmet", "minecraft:shulker_shell")
