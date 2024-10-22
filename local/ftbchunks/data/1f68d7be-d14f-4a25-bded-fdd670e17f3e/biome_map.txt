@@ -1,0 +1,9 @@
+#556 minecraft:beach
+#3D6 minecraft:cold_ocean
+#4F9 minecraft:dark_forest
+#010 minecraft:forest
+#2D6 minecraft:meadow
+#73A minecraft:old_growth_pine_taiga
+#60C minecraft:old_growth_spruce_taiga
+#5FF minecraft:river
+#169 minecraft:taiga
