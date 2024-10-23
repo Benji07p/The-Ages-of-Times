@@ -2272,6 +2272,8 @@ onEvent('recipes', event => {
 
 	//Mechanic Hut
 	event.remove({ id: 'minecolonies:blockhutmechanic'})
+	event.remove({ id: 'pneumaticcraft:amadron/assembly_program_laser'})
+	event.remove({ id: 'pneumaticcraft:amadron/pcb_blueprint'})
 	event.custom(
 		{
 			"type": "extendedcrafting:shaped_table",
@@ -2939,6 +2941,99 @@ onEvent('recipes', event => {
 			}
 		}
 	)
+
+	//Black Iron Frame
+	event.remove({ id: 'extendedcrafting:frame' })
+    event.custom({
+        "type": "compactcrafting:miniaturization",
+        "recipeSize": 3,
+        "layers": [
+        {
+            "type": "compactcrafting:mixed",
+            "pattern": [
+                ["a", "a", "a"],
+                ["a", "b", "a"],
+                ["a", "a", "a"]
+            ]
+        },
+        {
+            "type": "compactcrafting:mixed",
+            "pattern": [
+                ["a", "b", "a"],
+                ["b", "-", "b"],
+                ["a", "b", "a"]
+            ]
+        },
+        {
+            "type": "compactcrafting:mixed",
+            "pattern": [
+                ["a", "a", "a"],
+                ["a", "b", "a"],
+                ["a", "a", "a"]
+            ]
+        }],
+        "catalyst": {
+            "id": "ae2:singularity",
+            "Count": 1
+        },
+        "components": {
+            "a": {
+                "type": "compactcrafting:block",
+                "block": "extendedcrafting:black_iron_block"
+            },
+            "b": {
+                "type": "compactcrafting:block",
+                "block": "create:framed_glass"
+            }
+        },
+        "outputs": [
+            {
+                "id": "extendedcrafting:frame",
+                "Count": 1
+            }
+        ]
+    })
+
+	//Coin Cast
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "tag": "forge:coin_cast"
+			},
+			"cast_consumed": true,
+			"fluid": {
+			  "tag": "forge:molten_gold",
+			  "amount": 90
+			},
+			"result": "tconstruct:coin_cast",
+			"cooling_time": 25
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:molding_table",
+			"material": {
+			  "item": "tconstruct:blank_red_sand_cast"
+			},
+			"pattern": {
+			  "tag": "forge:coin_cast"
+			},
+			"result": "tconstruct:coin_red_sand_cast"
+		  }
+	)
+	event.custom(
+		{
+			"type": "tconstruct:molding_table",
+			"material": {
+			  "item": "tconstruct:blank_sand_cast"
+			},
+			"pattern": {
+			  "tag": "forge:coin_cast"
+			},
+			"result": "tconstruct:coin_sand_cast"
+		  }
+	)
 })
 
 onEvent('item.tags', event => {
@@ -2971,4 +3066,7 @@ onEvent('item.tags', event => {
 
 	//Bucket Cast
 	event.add('forge:bucket_cast', ['the_ages_of_times:barrel', 'ceramics:unfired_clay_bucket', 'ceramics:empty_clay_bucket', 'minecraft:bucket'])
+
+	//Coin Cast
+	event.add('forge:coin_cast', ['atum:coin_gold', 'atum:coin_dirty'])
 })
