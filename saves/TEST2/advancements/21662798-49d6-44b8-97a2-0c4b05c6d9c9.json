@@ -5124,6 +5124,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/slimesteel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-10-23 11:34:02 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-08-10 16:36:02 +0200"
@@ -6796,6 +6802,12 @@
   "chemlib:recipes/chemlib.metals/rhenium_ingot_to_nugget": {
     "criteria": {
       "has_rhenium": "2024-09-29 17:20:23 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/slimesteel_block_from_ingots": {
+    "criteria": {
+      "has_item": "2024-10-23 11:34:02 +0200"
     },
     "done": true
   },
@@ -12761,6 +12773,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_electrum_hammering": {
     "criteria": {
       "has_electrum_ingot": "2024-01-01 19:10:31 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/sand_casting": {
+    "criteria": {
+      "crafted_cast": "2024-10-23 11:39:17 +0200"
     },
     "done": true
   },
