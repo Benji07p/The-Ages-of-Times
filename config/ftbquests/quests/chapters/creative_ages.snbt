@@ -1,0 +1,249 @@
+{
+	id: "20E6440BC9ED139C"
+	group: "4EADA09B944324F5"
+	order_index: 8
+	filename: "creative_ages"
+	title: "Creative Ages"
+	icon: "extendedcrafting:ultimate_singularity"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -12.0d
+			y: -9.5d
+			id: "4D8784C898432E37"
+			tasks: [{
+				id: "5DDAB5CF66022AA0"
+				type: "item"
+				item: "minecraft:bedrock"
+			}]
+		}
+		{
+			x: -7.0d
+			y: -8.0d
+			dependencies: ["1D30211B7B2F78D7"]
+			id: "69EF6DC63AA7F2B8"
+			tasks: [{
+				id: "460BAD9DAD0EE741"
+				type: "item"
+				item: "create:handheld_worldshaper"
+			}]
+		}
+		{
+			x: -10.0d
+			y: -9.5d
+			id: "58A8D80141FBC795"
+			tasks: [{
+				id: "74432356AE533BB3"
+				type: "item"
+				item: "immersiveengineering:capacitor_creative"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -6.5d
+			id: "0D9A72596CB472F7"
+			tasks: [{
+				id: "1DF1E34039C5BF89"
+				type: "item"
+				item: "ae2:creative_item_cell"
+			}]
+		}
+		{
+			x: -7.0d
+			y: -6.5d
+			id: "201CDA78997F6845"
+			tasks: [{
+				id: "244F8E7A43C52836"
+				type: "item"
+				item: "ae2:creative_fluid_cell"
+			}]
+		}
+		{
+			x: -10.0d
+			y: -6.5d
+			id: "06C93FA32585A5CB"
+			tasks: [{
+				id: "2BCD51A41029114A"
+				type: "item"
+				item: "pneumaticcraft:creative_compressed_iron_block"
+			}]
+		}
+		{
+			x: -10.0d
+			y: -8.0d
+			id: "12689E50EF819707"
+			tasks: [{
+				id: "378FBA44C540DAE1"
+				type: "item"
+				item: "pneumaticcraft:creative_compressor"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -8.0d
+			id: "1D30211B7B2F78D7"
+			tasks: [{
+				id: "24916FA759629574"
+				type: "item"
+				item: "pneumaticcraft:creative_upgrade"
+			}]
+		}
+		{
+			x: -10.0d
+			y: -3.5d
+			id: "338746169FDBC16E"
+			tasks: [{
+				id: "455E26958936E44A"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1b
+					tag: {
+						slot: "abilities"
+					}
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: -3.5d
+			id: "48C6EFA171B8D4F4"
+			tasks: [{
+				id: "1BA28D6733BC132D"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1b
+					tag: {
+						slot: "upgrades"
+					}
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: -5.0d
+			id: "1BE719A36BDD435B"
+			tasks: [{
+				id: "76394A7AE0A1AC2E"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1b
+					tag: {
+						slot: "defense"
+					}
+				}
+			}]
+		}
+		{
+			x: -10.0d
+			y: -5.0d
+			id: "6E20818B358AC5EA"
+			tasks: [{
+				id: "7BDF5D368D995775"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1b
+					tag: {
+						slot: "souls"
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -8.0d
+			id: "7A9BCF7F9A2F5949"
+			tasks: [{
+				id: "62B7065AA5EC4A91"
+				type: "item"
+				item: "functionalstorage:creative_vending_upgrade"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -9.5d
+			id: "325281470B1F2B45"
+			tasks: [{
+				id: "6A88A514E33D1022"
+				type: "item"
+				item: "electrodynamics:creativepowersource"
+			}]
+		}
+		{
+			x: -7.0d
+			y: -9.5d
+			dependencies: ["325281470B1F2B45"]
+			id: "34D4336F8CFA1370"
+			tasks: [{
+				id: "0989CEF138DA8D47"
+				type: "item"
+				item: "electrodynamics:creativefluidsource"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -11.0d
+			id: "573F216BF9D321F6"
+			tasks: [{
+				id: "76F3FA4524A99310"
+				type: "item"
+				item: "createaddition:creative_energy"
+			}]
+		}
+		{
+			x: -10.0d
+			y: -11.0d
+			id: "3195D1AB26638A02"
+			tasks: [{
+				id: "508E7A975B715A52"
+				type: "item"
+				item: "create:creative_motor"
+			}]
+		}
+		{
+			x: -5.5d
+			y: -9.5d
+			id: "62DD8951D45FD72D"
+			tasks: [{
+				id: "4BAE646601C5CD48"
+				type: "item"
+				item: "create:creative_fluid_tank"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -8.0d
+			id: "7A5C98F1B5E68134"
+			tasks: [{
+				id: "7E9E71B9CEB93846"
+				type: "item"
+				item: "create:creative_crate"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -9.5d
+			id: "4D849CB14BE92CE3"
+			tasks: [{
+				id: "6790B1AB2085EF52"
+				type: "item"
+				item: "create:creative_blaze_cake"
+			}]
+		}
+		{
+			x: -7.0d
+			y: -11.0d
+			id: "385FD4700DAD1FE8"
+			tasks: [{
+				id: "2E5674B50A777F5D"
+				type: "item"
+				item: "ae2:creative_energy_cell"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
