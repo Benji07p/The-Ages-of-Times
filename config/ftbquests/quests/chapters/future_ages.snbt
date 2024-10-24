@@ -107,16 +107,6 @@
 			}]
 		}
 		{
-			x: 17.0d
-			y: -3.0d
-			id: "4D8784C898432E37"
-			tasks: [{
-				id: "5DDAB5CF66022AA0"
-				type: "item"
-				item: "minecraft:bedrock"
-			}]
-		}
-		{
 			x: 18.5d
 			y: -2.5d
 			id: "157EAF9FE74C60C6"
@@ -302,7 +292,7 @@
 		}
 		{
 			x: 13.5d
-			y: 0.5d
+			y: 2.0d
 			dependencies: ["3A55AB69F1CEEF0E"]
 			size: 2.0d
 			id: "41EE045FE55EFC61"
@@ -1129,9 +1119,8 @@
 			}]
 		}
 		{
-			x: 9.0d
-			y: -2.5d
-			hide_dependency_lines: true
+			x: 1.5d
+			y: 8.0d
 			dependencies: ["46CF4AE57D85297A"]
 			id: "2053C71AF1FAB3FD"
 			tasks: [{
@@ -1141,14 +1130,99 @@
 			}]
 		}
 		{
+			x: 0.0d
+			y: 8.0d
+			dependencies: ["2053C71AF1FAB3FD"]
+			id: "1519791130A78BAA"
+			tasks: [{
+				id: "3576152BFD559407"
+				type: "kill"
+				icon: "minecraft:skeleton_skull"
+				entity: "minecraft:skeleton"
+				value: 1L
+			}]
+		}
+		{
+			x: 23.0d
+			y: 0.5d
+			dependencies: ["1BCE0304CFE888C1"]
+			size: 2.0d
+			id: "145D26DEE26E3FBA"
+			tasks: [{
+				id: "7614F83E9D0055C8"
+				type: "item"
+				item: "tempad:tempad"
+			}]
+		}
+		{
+			x: 9.0d
+			y: -2.5d
+			dependencies: ["662507E6669C8686"]
+			id: "72256FA34A091F04"
+			tasks: [{
+				id: "15FA5CB9E7A70D54"
+				type: "item"
+				item: "extendedcrafting:enhanced_ender_ingot"
+			}]
+		}
+		{
 			x: 10.5d
 			y: -2.5d
-			dependencies: ["2053C71AF1FAB3FD"]
-			id: "555179FBC113CBF8"
+			dependencies: ["72256FA34A091F04"]
+			id: "5968917271A1D702"
 			tasks: [{
-				id: "3310D22C1CC35FF3"
+				id: "3CC105F41BA5B406"
 				type: "item"
-				item: "minecraft:wither_skeleton_skull"
+				item: "extendedcrafting:enhanced_ender_component"
+			}]
+		}
+		{
+			x: 12.0d
+			y: -2.5d
+			dependencies: ["5968917271A1D702"]
+			id: "5FD1781BA126AC7C"
+			tasks: [{
+				id: "70AF414CD5FAF76A"
+				type: "item"
+				item: "extendedcrafting:enhanced_ender_catalyst"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -2.5d
+			dependencies: ["5FD1781BA126AC7C"]
+			id: "2EE07EE34E33C0C7"
+			tasks: [{
+				id: "33132698413428BC"
+				type: "item"
+				item: "extendedcrafting:crafting_core"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 0.5d
+			dependencies: ["3A55AB69F1CEEF0E"]
+			id: "139EC3FE5A7E3490"
+			tasks: [{
+				id: "4C11B863112F57C3"
+				type: "item"
+				item: "extendedcrafting:compressor"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 0.5d
+			id: "1BCE0304CFE888C1"
+			tasks: [{
+				id: "7FBA94CB4CDE9210"
+				type: "item"
+				item: {
+					id: "extendedcrafting:singularity"
+					Count: 1b
+					tag: {
+						Id: "extendedcrafting:creative"
+					}
+				}
 			}]
 		}
 	]
