@@ -1,0 +1,12 @@
+{
+  "name": "Creative",
+  "colors": [
+    "d400ff",
+    "a700c9"
+  ],
+  "ingredient": {
+    "item": "minecraft:nether_star"
+  },
+  "inUltimateSingularity": true,
+  "materialCount": 1000
+}
