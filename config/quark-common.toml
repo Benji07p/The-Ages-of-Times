@@ -1181,7 +1181,7 @@
 		"Ignore Anti Overlap" = false
 
 [mobs]
-	Wraith = true
+	Wraith = false
 	Toretoise = false
 	Stonelings = false
 	Shiba = true
