@@ -7,7 +7,6 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:en
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:redstone_ingot>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:enhanced_ender_ingot_block>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:enhanced_ender_ingot_recraft>);
-mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:compressor>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:ender_ingot_block_uncraft>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:advanced_auto_table>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:extendedcrafting:crystaltine_catalyst>);

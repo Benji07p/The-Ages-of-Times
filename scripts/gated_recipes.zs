@@ -374,7 +374,6 @@ mods.recipestages.Recipes.setRecipeStageByMod("Future", "tempad");
 //Creative Ages
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_ingot_recraft>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_ingot_uncraft>);
-mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:crafting_core>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_catalyst>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_block>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_component>);

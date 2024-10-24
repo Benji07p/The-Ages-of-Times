@@ -3034,6 +3034,126 @@ onEvent('recipes', event => {
 			"result": "tconstruct:coin_sand_cast"
 		  }
 	)
+
+	//Crafting Core
+	event.remove({ id: 'extendedcrafting:crafting_core' })
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AABBCBBAA",
+			  "ABBCDCBBA",
+			  "BBBDCDBBB",
+			  "BCDEDEDCB",
+			  "CDCDFDCDC",
+			  "BCDEDEDCB",
+			  "BBBDCDBBB",
+			  "ABBCDCBBA",
+			  "AABBCBBAA"
+			],
+			"key": {
+			  "A": {
+				"item": "extendedcrafting:black_iron_ingot"
+			  },
+			  "B": {
+				"item": "extendedcrafting:black_iron_slate"
+			  },
+			  "C": {
+				"item": "extendedcrafting:elite_catalyst"
+			  },
+			  "D": {
+				"item": "extendedcrafting:elite_component"
+			  },
+			  "E": {
+				"item": "extendedcrafting:frame"
+			  },
+			  "F": {
+				"item": "extendedcrafting:enhanced_ender_catalyst"
+			  }
+			},
+			"result": {
+			  "item": "extendedcrafting:crafting_core"
+			}
+		}
+	)
+
+	//Quantum Compressor
+	event.remove({ id: 'extendedcrafting:compressor' })
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "AABBCBBAA",
+			  "ABBDEDBBA",
+			  "BBDEDEDBB",
+			  "BDEFEFEDB",
+			  "CEDEGEDEC",
+			  "BDEFEFEDB",
+			  "BBDEDEDBB",
+			  "ABBDEDBBA",
+			  "AABBCBBAA"
+			],
+			"key": {
+			  "A": {
+				"item": "extendedcrafting:black_iron_ingot"
+			  },
+			  "B": {
+				"item": "extendedcrafting:black_iron_slate"
+			  },
+			  "C": {
+				"item": "compactcrafting:field_projector"
+			  },
+			  "D": {
+				"item": "extendedcrafting:elite_component"
+			  },
+			  "E": {
+				"item": "extendedcrafting:elite_catalyst"
+			  },
+			  "F": {
+				"item": "ae2:singularity"
+			  },
+			  "G": {
+				"item": "ae2:condenser"
+			  }
+			},
+			"result": {
+			  "item": "extendedcrafting:compressor"
+			}
+		  }
+	)
+
+	//Skeleton
+	function skeletton(int){
+		event.custom(
+			{
+			  "type": "lychee:block_interacting",
+			  "item_in": {
+				"item": "the_ages_of_times:neural_processor"
+			  },
+			  "block_in": int,
+			  "post": [
+				{
+				  "type": "execute",
+				  "command": "summon minecraft:skeleton ~ ~ ~",
+				  "hide": true
+				},
+				{
+					"type": "place",
+					"block": {
+						"blocks": ["air"]
+					}
+				}
+			  ]
+			}
+	)}
+	
+	skeletton("davebuildingmod:skeleton_1")
+	skeletton("davebuildingmod:skeleton_2")
+	skeletton("davebuildingmod:skeleton_3")
+	skeletton("davebuildingmod:skeleton_4")
+	skeletton("davebuildingmod:skeleton_5")
+	skeletton("davebuildingmod:skeleton_6")
+	
 })
 
 onEvent('item.tags', event => {
