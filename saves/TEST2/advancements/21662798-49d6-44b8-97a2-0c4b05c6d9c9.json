@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-10-25 13:55:48 +0200"
+    },
+    "done": true
+  },
   "functionalstorage:recipes/functionalstorage/netherite_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2024-08-26 18:11:42 +0200"
