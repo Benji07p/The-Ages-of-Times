@@ -107,16 +107,6 @@
 			}]
 		}
 		{
-			x: 18.5d
-			y: -2.5d
-			id: "157EAF9FE74C60C6"
-			tasks: [{
-				id: "66A01CD4A8A27B62"
-				type: "item"
-				item: "nuclearscience:plasma"
-			}]
-		}
-		{
 			x: -7.5d
 			y: 0.5d
 			dependencies: ["4B64C42D88ABB8CB"]
@@ -978,9 +968,8 @@
 			}]
 		}
 		{
-			x: -4.5d
-			y: 5.0d
-			dependencies: ["3D60AB60A8F993CA"]
+			x: 16.5d
+			y: 0.5d
 			id: "5E82D115442FEA7F"
 			tasks: [{
 				id: "246C62408A33B206"
@@ -1230,6 +1219,7 @@
 		{
 			x: 18.0d
 			y: 0.5d
+			dependencies: ["5E82D115442FEA7F"]
 			id: "3CE1C171964541A1"
 			tasks: [{
 				id: "4108CF2E14676D4A"
