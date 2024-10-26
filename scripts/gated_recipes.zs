@@ -369,7 +369,6 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:quan
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:teleporter>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:pneumaticcraft:amadron_tablet>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:pneumaticcraft:drone>);
-mods.recipestages.Recipes.setRecipeStageByMod("Future", "tempad");
 
 //Creative Ages
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_ingot_recraft>);

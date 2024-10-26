@@ -3086,9 +3086,9 @@ onEvent('recipes', event => {
 			  "AABBCBBAA",
 			  "ABBDEDBBA",
 			  "BBDEDEDBB",
-			  "BDEFEFEDB",
-			  "CEDEGEDEC",
-			  "BDEFEFEDB",
+			  "BDEFGFEDB",
+			  "CEDGHGDEC",
+			  "BDEFGFEDB",
 			  "BBDEDEDBB",
 			  "ABBDEDBBA",
 			  "AABBCBBAA"
@@ -3114,6 +3114,9 @@ onEvent('recipes', event => {
 			  },
 			  "G": {
 				"item": "ae2:condenser"
+			  },
+			  "H": {
+				"item": "ae2:controller"
 			  }
 			},
 			"result": {
@@ -3153,6 +3156,81 @@ onEvent('recipes', event => {
 	skeletton("davebuildingmod:skeleton_4")
 	skeletton("davebuildingmod:skeleton_5")
 	skeletton("davebuildingmod:skeleton_6")
+
+	//Nether Star
+	event.custom(
+        {
+            "type": "lychee:item_inside",
+            "item_in": [
+                {
+                    "item": "the_ages_of_times:plasma_singularity"
+                }
+            ],
+            "block_in": {
+                "blocks": ["nuclearscience:plasma"]
+            },
+            "post": [
+                {
+                    "type": "drop_item",
+                    "item": "minecraft:nether_star"
+                }
+            ]
+        }
+    )
+
+	//Plasma Singularity
+	event.custom(
+		{
+		  "type": "extendedcrafting:compressor",
+		  "powerCost": 500000,
+		  "inputCount": 10,
+		  "ingredient": {
+			"item": "ae2:singularity"
+		  },
+		  "catalyst": {
+			"item": "extendedcrafting:ultimate_catalyst"
+		  },
+		  "result": {
+			"item": "the_ages_of_times:plasma_singularity"
+		  }
+		}
+	)
+
+	//Tempad
+	event.remove({ id: 'tempad:tempad' })
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"tier": 4,
+			"pattern": [
+			  "     ",
+			  "ABABA",
+			  "CADAC",
+			  "ABABA",
+			  "     "
+			],
+			"key": {
+			  "A": {
+				"item": "the_ages_of_times:space_time_circuit"
+			  },
+			  "B": {
+				"item": "the_ages_of_times:plasma_singularity"
+			  },
+			  "C": {
+				"type": "forge:nbt",
+				"item": "extendedcrafting:singularity",
+				"count": 1,
+				"nbt": "{Id:\"extendedcrafting:creative\"}"
+			  },
+			  "D": {
+				"item": "computercraft:computer_advanced"
+			  }
+			},
+			"result": {
+			  "item": "tempad:tempad"
+			}
+		  }
+	)
 	
 })
 
