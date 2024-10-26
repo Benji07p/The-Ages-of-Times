@@ -968,8 +968,8 @@
 			}]
 		}
 		{
-			x: 16.5d
-			y: 0.5d
+			x: 15.0d
+			y: -1.0d
 			id: "5E82D115442FEA7F"
 			tasks: [{
 				id: "246C62408A33B206"
@@ -1132,9 +1132,9 @@
 			}]
 		}
 		{
-			x: 22.5d
+			x: 21.0d
 			y: 0.5d
-			dependencies: ["1BCE0304CFE888C1"]
+			dependencies: ["3A43E8A96232A563"]
 			size: 2.0d
 			id: "145D26DEE26E3FBA"
 			tasks: [{
@@ -1199,7 +1199,7 @@
 			}]
 		}
 		{
-			x: 19.5d
+			x: 18.0d
 			y: 0.5d
 			dependencies: ["3CE1C171964541A1"]
 			id: "1BCE0304CFE888C1"
@@ -1217,14 +1217,39 @@
 			}]
 		}
 		{
-			x: 18.0d
+			x: 16.5d
 			y: 0.5d
-			dependencies: ["5E82D115442FEA7F"]
+			dependencies: [
+				"5E82D115442FEA7F"
+				"49A7B8DC6D980C46"
+			]
 			id: "3CE1C171964541A1"
 			tasks: [{
 				id: "4108CF2E14676D4A"
 				type: "item"
 				item: "minecraft:nether_star"
+			}]
+		}
+		{
+			x: 15.0d
+			y: 2.0d
+			dependencies: ["139EC3FE5A7E3490"]
+			id: "49A7B8DC6D980C46"
+			tasks: [{
+				id: "1A78A3BCB1AC62C4"
+				type: "item"
+				item: "the_ages_of_times:plasma_singularity"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 0.5d
+			dependencies: ["1BCE0304CFE888C1"]
+			id: "3A43E8A96232A563"
+			tasks: [{
+				id: "7EFA1ECB96ECCC3F"
+				type: "item"
+				item: "the_ages_of_times:space_time_circuit"
 			}]
 		}
 	]
