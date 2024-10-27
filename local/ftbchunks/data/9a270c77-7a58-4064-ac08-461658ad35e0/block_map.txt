@@ -466,6 +466,7 @@
 #BB8DD9 createaddition:modular_accumulator
 #FCE534 tconstruct:molten_aluminum_fluid
 #95218D tconstruct:molten_copper_fluid
+#012F30 tconstruct:molten_diamond_fluid
 #BE94B8 the_ages_of_times:molten_dirt
 #CC6000 tconstruct:molten_emerald_fluid
 #9346A4 tconstruct:molten_ender_fluid
