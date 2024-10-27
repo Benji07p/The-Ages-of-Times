@@ -2045,6 +2045,7 @@ onEvent('recipes', event => {
 	//Circuit
 	event.remove({ id: 'electrodynamics:circuitbasic'})
 	event.remove({ id: 'electrodynamics:circuitadvanced'})
+	event.remove({ id: 'pneumaticcraft:pressure_chamber/etching_acid'})
 
 	//Nuke
 	event.remove({ id: 'ballistix:nuclear'})
@@ -3035,6 +3036,23 @@ onEvent('recipes', event => {
 		  }
 	)
 
+	//Diamond Coin
+	event.custom(
+		{
+			"type": "tconstruct:casting_table",
+			"cast": {
+			  "tag": "tconstruct:casts/multi_use/coin"
+			},
+			"cast_consumed": false,
+			"fluid": {
+			  "tag": "tconstruct:molten_diamond",
+			  "amount": 100
+			},
+			"result": "the_ages_of_times:diamond_coin",
+			"cooling_time": 30
+		  }
+	)
+
 	//Crafting Core
 	event.remove({ id: 'extendedcrafting:crafting_core' })
 	event.custom(
@@ -3266,5 +3284,5 @@ onEvent('item.tags', event => {
 	event.add('forge:bucket_cast', ['the_ages_of_times:barrel', 'ceramics:unfired_clay_bucket', 'ceramics:empty_clay_bucket', 'minecraft:bucket'])
 
 	//Coin Cast
-	event.add('forge:coin_cast', ['atum:coin_gold', 'atum:coin_dirty'])
+	event.add('forge:coin_cast', ['atum:coin_gold', 'atum:coin_dirty', 'the_ages_of_times:diamond_coin'])
 })
