@@ -970,6 +970,7 @@
 		{
 			x: 15.0d
 			y: -1.0d
+			dependencies: ["139EC3FE5A7E3490"]
 			id: "5E82D115442FEA7F"
 			tasks: [{
 				id: "246C62408A33B206"
@@ -1250,6 +1251,30 @@
 				id: "7EFA1ECB96ECCC3F"
 				type: "item"
 				item: "the_ages_of_times:space_time_circuit"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -4.0d
+			dependencies: ["1B1714969E62FBB6"]
+			id: "1C3CF5D0F29FD100"
+			tasks: [{
+				id: "12FDCEEF3C344694"
+				type: "item"
+				item: "minecraft:dragon_egg"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -4.0d
+			dependencies: ["1C3CF5D0F29FD100"]
+			id: "319358B7297F275C"
+			tasks: [{
+				id: "12B364939DDD4C36"
+				type: "advancement"
+				icon: "minecraft:dragon_head"
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
 			}]
 		}
 	]
