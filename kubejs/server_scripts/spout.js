@@ -133,4 +133,46 @@ onEvent('recipes', event => {
     haunting("minecraft:wheat_seeds", "minecraft:nether_wart")
 
     event.remove({ id: 'extendedcrafting:ender_ingot'})
+
+    event.custom(
+        {
+            "type": "create:sequenced_assembly",
+            "ingredient": {
+              "item": "minecraft:egg"
+            },
+            "transitionalItem": {
+              "item": "minecraft:egg"
+            },
+            "sequence": [
+                {
+                    "type": "create:filling",
+                    "ingredients": [
+                      {
+                        "item": "minecraft:egg"
+                      },
+                      {
+                        "fluid": "tconstruct:molten_ender",
+                        "amount": 1000
+                      }
+                    ],
+                    "results": [
+                      {
+                        "item": "minecraft:egg"
+                      }
+                    ]
+                }
+            ],
+            "results": [
+              {
+                "item": "minecraft:dragon_egg",
+                "chance": 0.01
+              },
+              {
+                "item": "minecraft:air",
+                "chance": 0.99
+              }
+            ],
+            "loops": 1
+          }
+    )
 })
