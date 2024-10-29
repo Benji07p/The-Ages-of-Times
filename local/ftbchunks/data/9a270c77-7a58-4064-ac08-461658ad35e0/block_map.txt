@@ -700,6 +700,7 @@
 #3624F5 domum_ornamentum:shingle
 #177682 domum_ornamentum:shingle_slab
 #F68259 minecraft:shroomlight
+#30862B minecraft:shulker_box
 #9E85C9 the_ages_of_times:silver_sulfate
 #07649D davebuildingmod:skeleton_1
 #07649E davebuildingmod:skeleton_2
