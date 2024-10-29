@@ -389,5 +389,3 @@ mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/k
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/kinetics/wrench>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/materials/experience_block>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/materials/experience_nugget_from_block>);
-
-mods.recipestages.Recipes.setRecipeStageByMod("Jamais", "tardim");
