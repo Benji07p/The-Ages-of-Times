@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-10-29 11:47:50 +0100"
@@ -14,6 +20,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
     "criteria": {
       "has_lead_ingot": "2024-10-29 11:34:04 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
     },
     "done": true
   },
@@ -38,6 +50,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/pneumatic_door": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
     },
     "done": true
   },
@@ -110,6 +128,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-10-29 11:34:48 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:22 +0100"
     },
     "done": true
   },
@@ -239,6 +263,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:22 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/tinkers_anvil": {
     "criteria": {
       "has_item": "2024-10-29 11:46:24 +0100"
@@ -272,6 +302,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_gray": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:22 +0100"
     },
     "done": true
   },
@@ -341,15 +377,33 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
+    },
+    "done": true
+  },
   "electrodynamics:raworelead": {
     "criteria": {
       "HasRawOreLead": "2024-10-29 11:34:03 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-10-30 15:19:12 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/projector": {
     "criteria": {
       "has_iron_ingot": "2024-10-29 11:34:48 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
     },
     "done": true
   },
@@ -377,9 +431,21 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/charcoal": {
+    "criteria": {
+      "has_the_recipe": "2024-10-30 15:18:16 +0100"
+    },
+    "done": true
+  },
   "compactcrafting:recipes/compactcrafting/field_projector": {
     "criteria": {
       "got_ender_eye": "2024-10-28 14:10:42 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
     },
     "done": true
   },
@@ -407,6 +473,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-10-30 15:18:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-10-29 11:34:48 +0100"
@@ -416,6 +488,12 @@
   "tconstruct:recipes/tconstruct/general/tables/scorched_anvil": {
     "criteria": {
       "has_item": "2024-10-29 11:46:24 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
     },
     "done": true
   },
@@ -496,9 +574,21 @@
     },
     "done": true
   },
+  "notreepunching:sticks_from_logs_with_saw": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:16 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/universal_sensor": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-10-30 15:19:18 +0100"
     },
     "done": true
   },
@@ -661,6 +751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-10-30 15:18:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-10-29 11:34:48 +0100"
@@ -688,6 +784,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-10-29 11:34:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
     },
     "done": true
   },
@@ -763,6 +865,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:03 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_red": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
@@ -799,6 +907,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:oil_bucket": {
+    "criteria": {
+      "0": "2024-10-30 15:09:04 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:sticks_from_logs_with_flint_axe": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:16 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_lime": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
@@ -832,6 +952,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-10-29 11:47:52 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
     },
     "done": true
   },
@@ -886,6 +1012,12 @@
   "ceramics:recipes/building_blocks/glass_kiln": {
     "criteria": {
       "has_item": "2024-10-28 14:26:58 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-10-30 15:18:22 +0100"
     },
     "done": true
   },
@@ -961,6 +1093,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:22 +0100"
+    },
+    "done": true
+  },
   "atum:core/aquaculture": {
     "criteria": {
       "fish_jeweled": "2024-10-28 14:10:42 +0100",
@@ -1003,6 +1141,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/elevator_caller": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
     },
     "done": true
   },
@@ -1123,6 +1267,12 @@
     },
     "done": true
   },
+  "woodenbucket:recipes/misc/wooden_bucket": {
+    "criteria": {
+      "has_log": "2024-10-30 15:18:16 +0100"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2024-10-29 11:34:47 +0100"
@@ -1171,6 +1321,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:22 +0100"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/plow": {
     "criteria": {
       "has_wheel": "2024-10-28 14:10:42 +0100"
@@ -1186,6 +1342,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/medium_tank": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-10-30 15:18:16 +0100"
     },
     "done": true
   },
@@ -1216,6 +1378,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-10-29 11:34:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
     },
     "done": true
   },
@@ -1273,6 +1441,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:22 +0100"
+    },
+    "done": true
+  },
   "electrodynamics:electrodynamics/guidebook": {
     "criteria": {
       "spawn": "2024-10-28 14:10:42 +0100"
@@ -1282,6 +1456,12 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
     "criteria": {
       "has_item": "2024-10-29 11:33:43 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
     },
     "done": true
   },
@@ -1312,6 +1492,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/printed_circuit_board": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:22 +0100"
     },
     "done": true
   },
@@ -1369,6 +1555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-10-30 15:19:12 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_black": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
@@ -1420,6 +1612,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-10-28 14:26:58 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:22 +0100"
     },
     "done": true
   },
@@ -1583,6 +1781,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-10-29 11:33:42 +0100"
@@ -1669,6 +1873,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/elevator_base_2": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-10-30 15:18:22 +0100"
     },
     "done": true
   },
@@ -1804,6 +2014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-10-30 15:18:16 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_purple": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
@@ -1819,6 +2035,12 @@
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2024-10-29 11:33:43 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-10-30 15:18:22 +0100"
     },
     "done": true
   },
@@ -1900,6 +2122,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2024-10-30 15:18:05 +0100"
+    },
+    "done": true
+  },
   "antiqueatlas:recipes/atlas": {
     "criteria": {
       "has_compass": "2024-10-28 14:10:42 +0100"
@@ -1921,6 +2149,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-10-29 11:34:48 +0100"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2024-10-30 15:18:25 +0100"
     },
     "done": true
   },
