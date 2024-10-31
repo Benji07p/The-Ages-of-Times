@@ -163,6 +163,34 @@ onEvent('recipes', event => {
         )
     }
 
+    function mixercreate2(item_in1, item_in2, fluid, amount, out){
+        event.custom(
+            {
+                "type": "create:mixing",
+                "ingredients": [
+                  {
+                    "item": item_in1
+                  },
+                  {
+                    "item": item_in2
+                  },
+                  {
+                    "fluid": fluid,
+                    "nbt": {},
+                    "amount": amount
+                  },
+                ],
+                "results": [
+                  {
+                    "fluid": out,
+                    "amount": amount
+                  }
+                ],
+                "heatRequirement": "none"
+              }
+        )
+    }
+
     function emptyChaudron(item_in1, item_in2, item_out){
         event.custom(
             {
@@ -383,6 +411,8 @@ onEvent('recipes', event => {
     spout("the_ages_of_times:hide_dried", "minecraft:water", 333, "the_ages_of_times:hide_wet")
     mixercreate("the_ages_of_times:hide_raw", "minecraft:water", 333, "electrodynamics:dustsalt", "the_ages_of_times:hide_salted")
     mixercreate("the_ages_of_times:hide_wet", "minecraft:water", 333, "farmersdelight:tree_bark", "the_ages_of_times:hide_tanned")
+
+    mixercreate2("minecraft:yellow_dye", "minecraft:white_dye", "minecraft:water", 1000, "the_ages_of_times:white_water")
 
     //Mouton
     event.custom(
