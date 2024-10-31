@@ -98,6 +98,8 @@ onEvent('recipes', event => {
 	event.remove({ id: 'mctb:dark_oak_crafting_table' })
 	event.remove({ id: 'mctb:crimson_crafting_table' })
 	event.remove({ id: 'mctb:warped_crafting_table' })
+	event.remove({ id: 'mctb:azalea_crafting_table' })
+	event.remove({ id: 'mctb:blossom_crafting_table' })
 	event.shaped('mctb:spruce_crafting_table', [
 		' BB',
 		' BB'
@@ -646,6 +648,7 @@ onEvent('recipes', event => {
 
 	//Scroll
 	event.remove({ id: 'atum:scroll'})
+	event.remove({ id: 'minecolonies:resourcescroll'})
 
 	//Cauldron
 	event.remove({ id: 'minecraft:cauldron'})
@@ -2047,6 +2050,19 @@ onEvent('recipes', event => {
 	event.remove({ id: 'electrodynamics:circuitadvanced'})
 	event.remove({ id: 'pneumaticcraft:pressure_chamber/etching_acid'})
 
+	//Electric Arc Furnace
+	event.remove({ id: 'electrodynamics:electricarcfurnace'})
+	event.shaped('electrodynamics:electricarcfurnace', [
+		'SSS',
+		'EFE',
+		'SMS'
+	], {
+	S: 'electrodynamics:platesteel',
+	E: Item.of('immersiveengineering:graphite_electrode', '{graphDmg:0}'),
+	F: 'electrodynamics:electricfurnace',
+	M: 'electrodynamics:motor'
+	})
+
 	//Nuke
 	event.remove({ id: 'ballistix:nuclear'})
 	event.custom(
@@ -2457,6 +2473,14 @@ onEvent('recipes', event => {
 	)
 
 	//Quantum Intriquer
+	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:quantum_intriquer"}'), [
+		'FFF',
+		'FCF',
+		'FFF'
+	], {
+	C: 'computercraft:computer_normal',
+	F: 'create:industrial_iron_block'
+	})
 	event.custom(
 		{
 			"type": "extendedcrafting:shaped_table",
