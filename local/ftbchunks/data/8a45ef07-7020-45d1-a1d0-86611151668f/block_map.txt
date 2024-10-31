@@ -23,6 +23,7 @@
 #840F59 minecraft:bedrock
 #7F50F6 minecraft:bell
 #7C938F create:belt
+#504E7C mctb:birch_crafting_table
 #3DE8FE minecraft:birch_leaves
 #3BA928 minecraft:birch_log
 #C9CBB9 minecraft:blackstone
@@ -54,6 +55,7 @@
 #CC07F6 minecraft:cornflower
 #306005 minecraft:cracked_stone_bricks
 #8C5E34 tconstruct:crafting_station
+#8700D4 immersiveengineering:craftingtable
 #DEE14B immersiveengineering:crate
 #95EC20 createaddition:creative_energy
 #BF5353 create:creative_fluid_tank
