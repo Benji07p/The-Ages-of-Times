@@ -85,7 +85,6 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:electrodynamics:con
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:electrodynamics:concretetile>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:electrodynamics:drillheadsteel>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:electrodynamics:drillheadtitanium>);
-mods.recipestages.Recipes.setRecipeStage("Modern", <resource:electrodynamics:electricarcfurnace>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:electrodynamics:electricarcfurnacedouble>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:electrodynamics:electricchainsaw>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:electrodynamics:electricdrill>);

@@ -320,6 +320,7 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_1vxildy8
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_e8r05cmeshvh8pxlgs9v74zqm>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_1hynd5w6ev0fnkgweecmg3t72>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_cjgujiijtcqi22a0o03hq31xo>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_ce9byb8sbl4e7hk3hy4l49n62>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/sheetmetal_uranium_from_slab>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/sheetmetal_uranium_to_slab>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/storage_uranium_to_slab>);
