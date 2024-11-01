@@ -780,6 +780,8 @@ onEvent('recipes', event => {
 	})
 
 	//Worked Clay
+	event.remove({ id: 'atum:flower_pot'})
+	event.remove({ id: 'minecraft:flower_pot'})
 	event.custom(
 		{
 		  "type": "create:item_application",
@@ -879,6 +881,20 @@ onEvent('recipes', event => {
 		  "amount": 90
 		},
 		"temperature": 65,
+		"time": 90
+	})
+
+	//Mercury
+	event.custom({
+		"type": "tconstruct:melting",
+		"ingredient": {
+		  "item": "chemlib:mercury_sulfide_dust"
+		},
+		"result": {
+		  "fluid": "chemlib:mercury_fluid",
+		  "amount": 90
+		},
+		"temperature": 600,
 		"time": 90
 	})
 
@@ -1524,6 +1540,68 @@ onEvent('recipes', event => {
 			  "item": "car:engine_3_cylinder"
 			}
 		  }
+	)
+
+	//Tungsten Wire
+	event.shapeless('the_ages_of_times:wire_tungsten', ['immersiveengineering:wirecutter', '#forge:plates/tungsten'])
+	event.shaped('the_ages_of_times:wire_tungsten', [
+		"W",
+		"W"
+	], {
+	W: '#forge:ingots/tungsten'
+	})
+	event.custom(
+		{
+			"type":"createaddition:rolling",
+			"input": {
+				  "tag": "forge:ingots/tungsten"
+			},
+			"result": {
+				"item": "the_ages_of_times:wire_tungsten",
+				"count": 2
+			}
+		}
+	)
+	event.custom(
+		{
+			"type":"immersiveengineering:metal_press",
+			"mold":"immersiveengineering:mold_wire",
+			"result":{
+				"count":2,
+				"base_ingredient":{
+					"tag":"forge:wires/tungsten"
+				}
+			},
+			"input":{
+				"tag":"#forge:ingots/tungsten"
+			},
+			"energy":2400
+		}
+	)
+	event.custom(
+		{
+			"type":"electrodynamics:wire_mill_recipe",
+			"iteminputs" : {
+				"count" : 1,
+				"0":{
+					"tag":"forge:ingots/tungsten",
+					"count":1
+				}
+			},
+			"output":{
+				"item":"the_ages_of_times:wire_tungsten",
+				"count":1
+			},
+			"experience": 0.1,
+			"itembi" : {
+				"count" : 1, 
+				"0" : {
+					"item" : "chemlib:tungsten_nugget", 
+					"count" : 1,
+					"chance" : 1
+				}
+			}
+		}
 	)
 
 	//Light Enginneer Block
@@ -2451,6 +2529,10 @@ onEvent('recipes', event => {
 	C: 'electrodynamics:circuitadvanced'
 	})
 
+	//Superconductive Ingot
+	event.remove({ id: 'electrodynamics:item2item/reinforcedalloyer/superconductive_ingot_netherite'})
+	event.remove({ id: 'electrodynamics:item2item/reinforcedalloyer/superconductive_ingot_ender'})
+
 	//NASA Workbench Tier 2
 	event.custom(
 		{
@@ -3309,4 +3391,7 @@ onEvent('item.tags', event => {
 
 	//Coin Cast
 	event.add('forge:coin_cast', ['atum:coin_gold', 'atum:coin_dirty', 'the_ages_of_times:diamond_coin'])
+
+	//Tungsten Wire
+	event.add('forge:wires/tungsten', 'the_ages_of_times:wire_tungsten')
 })
