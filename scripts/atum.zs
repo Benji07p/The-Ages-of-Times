@@ -212,7 +212,6 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:emmer_block>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:emmer_wheat>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:fertile_soil>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:flax>);
-mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:flower_pot>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:forsaken_fish>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:geb_godforged_block>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:glassblower_furnace>);

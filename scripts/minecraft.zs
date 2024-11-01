@@ -204,7 +204,6 @@ mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:minecraft:fire_ch
 mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:minecraft:fishing_rod>);
 mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:minecraft:fletching_table>);
 mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:minecraft:flower_banner_pattern>);
-mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:minecraft:flower_pot>);
 mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:minecraft:furnace_minecart>);
 mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:minecraft:glass_bottle>);
 mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:minecraft:glass_pane>);
