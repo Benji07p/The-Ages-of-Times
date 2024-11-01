@@ -168,7 +168,6 @@ mods.recipestages.Recipes.setRecipeStageByMod("Bronze", "sleeping_bags");
 
 //Iron Ages
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:spinning_wheel>);
-mods.recipestages.Recipes.setRecipeStage("Iron", <resource:atum:spinning_wheel_2>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/appliances/clipboard_clear>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/kinetics/brass_hand>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/kinetics/framed_glass_door>);
