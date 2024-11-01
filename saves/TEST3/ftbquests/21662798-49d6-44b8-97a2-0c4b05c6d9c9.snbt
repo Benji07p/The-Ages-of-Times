@@ -8,7 +8,9 @@
 	chapter_pinned: false
 	rewards_blocked: false
 	task_progress: { }
-	started: { }
+	started: {
+		0000000000000001: 1730471463923L
+	}
 	completed: { }
 	claimed_rewards: { }
 	pinned_quests: [ ]

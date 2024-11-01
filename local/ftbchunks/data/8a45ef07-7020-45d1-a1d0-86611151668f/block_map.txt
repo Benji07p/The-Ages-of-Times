@@ -27,6 +27,7 @@
 #3DE8FE minecraft:birch_leaves
 #3BA928 minecraft:birch_log
 #C9CBB9 minecraft:blackstone
+#25EDFE minecolonies:blockhutshepherd
 #45C81B minecraft:blue_orchid
 #8AE729 minecraft:brain_coral_block
 #6754E0 create:brass_belt_funnel
@@ -36,9 +37,11 @@
 #BA9FBF minecraft:bubble_coral_block
 #C6AC20 minecraft:cactus
 #00BE18 minecraft:calcite
+#6A23D5 minecraft:cauldron
 #F522F4 minecraft:chest
 #C3DAEA minecraft:chiseled_sandstone
 #F2A1A5 create:chute
+#8FB320 the_ages_of_times:cinnabar_ore
 #9EC980 immersiveengineering:circuit_table
 #802D27 multibeds:classic
 #7FDE54 minecraft:clay
@@ -113,6 +116,7 @@
 #5A75B0 minecraft:glow_lichen
 #2C1BE1 minecraft:gold_block
 #B76A76 minecraft:gold_ore
+#A079A6 the_ages_of_times:golden_water
 #060B35 minecraft:granite
 #727610 notreepunching:granite_loose_rock
 #57F09A minecraft:granite_wall
@@ -150,6 +154,7 @@
 #4F44DD create:mechanical_saw
 #80CAA6 minecraft:melon
 #4B39A0 melter:melter
+#FE827B chemlib:mercury
 #C4844D create:millstone
 #BB8DD9 createaddition:modular_accumulator
 #A4FC4B minecraft:mossy_cobblestone
@@ -188,6 +193,7 @@
 #F6678E minecraft:oxeye_daisy
 #8719D7 the_ages_of_times:papyrus_spawn
 #AB1C58 minecraft:peony
+#281E44 nuclearscience:plasma
 #5CDCB7 minecraft:polished_basalt
 #437566 minecraft:polished_granite
 #AFAC0D minecraft:poppy
