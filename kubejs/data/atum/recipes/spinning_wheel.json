@@ -1,0 +1,25 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "SCS",
+        "PRP",
+        "PSP"
+    ],
+    "key":{
+        "S":{
+            "tag":"forge:rods/wooden"
+        },
+        "P":{
+            "tag":"minecraft:planks"
+        },
+        "C":{
+            "item":"immersiveengineering:hemp_fiber"
+        },
+        "R":{
+            "item":"astikorcarts:wheel"
+        }
+    },
+    "result":{
+        "item":"atum:spinning_wheel"
+    }
+}
