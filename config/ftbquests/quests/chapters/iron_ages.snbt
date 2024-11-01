@@ -149,6 +149,7 @@
 				"10E196C554F2436E"
 				"2BC7C89C420ECD45"
 			]
+			hide: true
 			id: "42835DBD75C59F46"
 			tasks: [
 				{
@@ -340,6 +341,7 @@
 				"07C5D9B8D0B89F95"
 				"3C75E3E9A3332DF2"
 			]
+			hide: true
 			size: 2.0d
 			id: "29381B3B9F32189D"
 			tasks: [{
@@ -431,6 +433,7 @@
 			x: -2.5d
 			y: -6.0d
 			dependencies: ["345A418D79BC00A0"]
+			invisible: true
 			id: "3C75E3E9A3332DF2"
 			tasks: [{
 				id: "6B3D5E9CD095B12A"
