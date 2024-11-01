@@ -4,6 +4,7 @@ console.info('Hello, World! (You will see this line every time client resources 
 
 onEvent('jei.information', event=> {
 	event.add('minecraft:leather', ['Use a ceramic shears on a leather tanner with a tanned hide'])
+	event.add('the_ages_of_times:gold_water', ['Hit a Villager, Wandering Trader, Illusioner, Pillager, Evoker or Vindicator with a Beaker to obtains'])
 })
 
 onEvent('jei.hide.items', event => {
