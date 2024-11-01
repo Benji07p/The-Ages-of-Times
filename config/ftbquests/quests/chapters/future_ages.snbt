@@ -188,7 +188,8 @@
 		{
 			x: -10.5d
 			y: 0.5d
-			dependencies: ["4424CD0D54828AE5"]
+			dependencies: ["3D42F323D0F5DE74"]
+			hide: true
 			id: "134DCDFF4D85FE68"
 			tasks: [{
 				id: "67B1B6F9C5B88E17"
@@ -1274,6 +1275,19 @@
 				type: "advancement"
 				icon: "minecraft:dragon_head"
 				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+			}]
+		}
+		{
+			x: -12.0d
+			y: 0.5d
+			dependencies: ["4424CD0D54828AE5"]
+			invisible: true
+			id: "3D42F323D0F5DE74"
+			tasks: [{
+				id: "2E0B2911D1040497"
+				type: "advancement"
+				advancement: "beyond_earth:moon_advancement"
 				criterion: ""
 			}]
 		}
