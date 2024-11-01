@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HCH",
+    "SWF",
+    "HJH"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "S": {
+      "item": "minecraft:water_bucket"
+    },
+    "J": {
+      "item": "ceramicshears:ceramic_shears"
+    },
+    "W": {
+      "item": "atum:spinning_wheel"
+    },
+    "F": {
+      "item": "farmingforblockheads:feeding_trough"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockhutshepherd"
+  }
+}
