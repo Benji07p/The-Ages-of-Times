@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
+    },
+    "done": true
+  },
   "compactcrafting:recipes/compactcrafting/field_projector": {
     "criteria": {
       "got_ender_eye": "2024-10-28 14:10:42 +0100"
@@ -484,6 +490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
+    },
+    "done": true
+  },
   "ceramicshears:recipes/misc/ceramic_shears_part": {
     "criteria": {
       "has_clay": "2024-10-28 14:10:42 +0100"
@@ -511,6 +523,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-10-29 11:34:48 +0100"
+    },
+    "done": true
+  },
+  "ceramics:recipes/building_blocks/smooth_sandstone_kiln": {
+    "criteria": {
+      "has_item": "2024-11-02 10:48:35 +0100"
     },
     "done": true
   },
@@ -969,6 +987,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fertilizer": {
+    "criteria": {
+      "has_saltpeter": "2024-11-02 10:48:56 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
     "criteria": {
       "has_item": "2024-10-29 11:33:43 +0100"
@@ -1158,6 +1182,12 @@
   "create:recipes/create.palettes/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2024-10-29 11:35:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
     },
     "done": true
   },
@@ -1555,6 +1585,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_legs": {
+    "criteria": {
+      "has_alu_plate": "2024-11-02 11:12:11 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_structure_rope": {
     "criteria": {
       "has_hemp_fiber": "2024-11-01 11:48:07 +0100"
@@ -1570,6 +1606,12 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
     "criteria": {
       "has_item": "2024-10-29 11:33:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
     },
     "done": true
   },
@@ -1741,6 +1783,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_head": {
+    "criteria": {
+      "has_alu_plate": "2024-11-02 11:12:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-10-29 11:47:50 +0100"
@@ -1750,6 +1798,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-11-01 12:15:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
     },
     "done": true
   },
@@ -2005,9 +2059,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_aluminum": {
+    "criteria": {
+      "has_plate": "2024-11-02 11:12:11 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
     "criteria": {
       "has_steel_ingot": "2024-10-31 14:45:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_feet": {
+    "criteria": {
+      "has_alu_plate": "2024-11-02 11:12:11 +0100"
     },
     "done": true
   },
@@ -2110,6 +2182,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-01 12:11:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
     },
     "done": true
   },
@@ -2419,6 +2497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-10-28 14:26:58 +0100"
@@ -2653,6 +2737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/rockcutter": {
     "criteria": {
       "has_steel_ingot": "2024-10-31 14:45:05 +0100"
@@ -2701,6 +2791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/printed_circuit_board": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
@@ -2734,6 +2830,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_cyan": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-02 10:48:35 +0100"
     },
     "done": true
   },
@@ -2806,6 +2908,12 @@
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2024-10-31 14:39:56 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/smooth_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2024-11-02 10:48:35 +0100"
     },
     "done": true
   },
@@ -3147,6 +3255,12 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_yellow_dye": "2024-10-31 14:39:56 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_chest": {
+    "criteria": {
+      "has_alu_plate": "2024-11-02 11:12:11 +0100"
     },
     "done": true
   },
