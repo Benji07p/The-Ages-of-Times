@@ -1,0 +1,90 @@
+import mods.itemstages.ItemStages;
+
+//Neolithic Ages
+ItemStages.createModRestriction("astikorcarts", "Neolithic");
+ItemStages.restrict(<item:atum:quern>, "Neolithic");
+ItemStages.restrict(<item:butchersdelight:cleaver>, "Neolithic");
+ItemStages.restrict(<item:butchersdelight:hook>, "Neolithic");
+ItemStages.restrict(<item:butchersdelight:rack>, "Neolithic");
+ItemStages.restrict(<item:butchersdelight:roaster>, "Neolithic");
+ItemStages.restrict(<item:ceramicshears:ceramic_shears_part>, "Neolithic");
+ItemStages.restrict(<item:ceramicshears:clay_shears_part>, "Neolithic");
+ItemStages.createModRestriction("woodenhopper", "Neolithic");
+ItemStages.createModRestriction("woodenshears", "Neolithic");
+
+//Bronze Ages
+ItemStages.restrict(<item:ceramics:cracked_empty_clay_bucket>, "Bronze");
+ItemStages.restrict(<item:ceramics:cracked_fluid_clay_bucket>, "Bronze");
+ItemStages.restrict(<item:ceramics:cracked_milk_clay_bucket>, "Bronze");
+ItemStages.restrict(<item:ceramics:cracked_solid_clay_bucket>, "Bronze");
+ItemStages.restrict(<item:ceramics:empty_clay_bucket>, "Bronze");
+ItemStages.restrict(<item:ceramics:fluid_clay_bucket>, "Bronze");
+ItemStages.restrict(<item:ceramics:milk_clay_bucket>, "Bronze");
+ItemStages.restrict(<item:ceramics:solid_clay_bucket>, "Bronze");
+ItemStages.createModRestriction("mctb", "Bronze");
+
+//Iron Ages
+ItemStages.createModRestriction("antiqueatlas", "Iron");
+ItemStages.restrict(<item:butchersdelight:bbq_sauce>, "Iron");
+ItemStages.restrict(<item:ceramicshears:ceramic_shears>, "Iron");
+ItemStages.createModRestriction("chemlib", "Iron");
+ItemStages.createModRestriction("domum_ornamentum", "Iron");
+ItemStages.createModRestriction("farmingforblockheads", "Iron");
+ItemStages.createModRestriction("magistuarmory", "Iron");
+ItemStages.createModRestriction("structurize", "Iron");
+
+//Industrial Ages
+ItemStages.restrict(<item:alchemistry:atomizer>, "Industrial");
+ItemStages.restrict(<item:alchemistry:liquifier>, "Industrial");
+ItemStages.createModRestriction("immersivepetroleum", "Industrial");
+ItemStages.createModRestriction("multipiston", "Industrial");
+
+//Modern Ages
+ItemStages.restrict(<item:alchemistry:combiner>, "Modern");
+ItemStages.restrict(<item:alchemistry:compactor>, "Modern");
+ItemStages.restrict(<item:alchemistry:dissolver>, "Modern");
+ItemStages.restrict(<item:alchemistry:fission_chamber_controller>, "Modern");
+ItemStages.restrict(<item:alchemistry:fission_core>, "Modern");
+ItemStages.restrict(<item:alchemistry:fusion_chamber_controller>, "Modern");
+ItemStages.restrict(<item:alchemistry:fusion_core>, "Modern");
+ItemStages.restrict(<item:alchemistry:reactor_casing>, "Modern");
+ItemStages.restrict(<item:alchemistry:reactor_energy>, "Modern");
+ItemStages.restrict(<item:alchemistry:reactor_glass>, "Modern");
+ItemStages.restrict(<item:alchemistry:reactor_input>, "Modern");
+ItemStages.restrict(<item:alchemistry:reactor_output>, "Modern");
+ItemStages.createModRestriction("beyond_earth_giselle_addon", "Modern");
+ItemStages.restrict(<item:computercraft:cable>, "Modern");
+ItemStages.restrict(<item:computercraft:computer_normal>, "Modern");
+ItemStages.restrict(<item:computercraft:disk>, "Modern");
+ItemStages.restrict(<item:computercraft:disk_drive>, "Modern");
+ItemStages.restrict(<item:computercraft:monitor_normal>, "Modern");
+ItemStages.restrict(<item:computercraft:pocket_computer_normal>, "Modern");
+ItemStages.restrict(<item:computercraft:printed_book>, "Modern");
+ItemStages.restrict(<item:computercraft:printed_page>, "Modern");
+ItemStages.restrict(<item:computercraft:printed_pages>, "Modern");
+ItemStages.restrict(<item:computercraft:printer>, "Modern");
+ItemStages.restrict(<item:computercraft:speaker>, "Modern");
+ItemStages.restrict(<item:computercraft:treasure_disk>, "Modern");
+ItemStages.restrict(<item:computercraft:turtle_normal>, "Modern");
+ItemStages.restrict(<item:computercraft:wired_modem>, "Modern");
+ItemStages.restrict(<item:computercraft:wired_modem_full>, "Modern");
+ItemStages.restrict(<item:computercraft:wireless_modem_normal>, "Modern");
+
+//Future Ages
+ItemStages.createModRestriction("ae2", "Future");
+ItemStages.restrict(<item:ballistix:antimatter>, "Future");
+ItemStages.restrict(<item:ballistix:darkmatter>, "Future");
+ItemStages.restrict(<item:ballistix:largeantimatter>, "Future");
+ItemStages.restrict(<item:ballistix:minecartantimatter>, "Future");
+ItemStages.restrict(<item:ballistix:minecartdarkmatter>, "Future");
+ItemStages.restrict(<item:ballistix:minecartlargeantimatter>, "Future");
+ItemStages.createModRestriction("compactcrafting", "Future");
+ItemStages.restrict(<item:computercraft:computer_advanced>, "Future");
+ItemStages.restrict(<item:computercraft:monitor_advanced>, "Future");
+ItemStages.restrict(<item:computercraft:pocket_computer_advanced>, "Future");
+ItemStages.restrict(<item:computercraft:turtle_advanced>, "Future");
+ItemStages.restrict(<item:computercraft:wireless_modem_advanced>, "Future");
+
+//Disable
+ItemStages.restrict(<item:computercraft:computer_command>, "Never");
+ItemStages.createModRestriction("woodenbucket", "Never");
