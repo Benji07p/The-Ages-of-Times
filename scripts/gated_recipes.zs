@@ -276,6 +276,8 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstora
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:redstone_upgrade>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:simple_compacting_drawer>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:kubejs:kjs_3l0kno920id2foztac32csfs6>);
+mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:kubejs:kjs_1othlxtnzs0v6uc3ulta7t0ww>);
+mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:kubejs:kjs_9ng2cihd4tuiih9p59rdmclyk>);
 mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "immersivepetroleum");
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:redstone>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:comparator>);
@@ -325,6 +327,7 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineerin
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/storage_uranium_to_slab>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/raw_hammercrushing_uranium>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/hammercrushing_uranium>);
+mods.recipestages.Recipes.setRecipeStage("Mobern", <resource:nuclearscience:particleinjector_modern>);
 
 //Future Ages
 mods.recipestages.Recipes.setRecipeStageByMod("Future", "ae2");
@@ -347,6 +350,7 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:functionalstorage:s
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_d73urjnq5752ijzo1n9ezrhns>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_40p4uspge0h5w7rt4hrbmi9zm>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_69caxuv6dkgk3aphb1u2ua6bv>);
+mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_awz30ban57oviqjtplx1bggo9>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:beacon>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:blaze_powder>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:brewing_stand>);
@@ -361,11 +365,9 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:netherite
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:warped_planks>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:crimson_planks>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:antidote>);
-mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:atomicassembler>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:cellantimatterlarge>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:cellantimatterverylarge>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:particleinjector>);
-mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:quantumcapacitor>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:nuclearscience:teleporter>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:pneumaticcraft:amadron_tablet>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:pneumaticcraft:drone>);
@@ -383,6 +385,8 @@ mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:p
 
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:functionalstorage:void_upgrade>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:fluidvoid>);
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:nuclearscience:atomicassembler>);
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:nuclearscience:quantumcapacitor>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/kinetics/goggles>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/kinetics/mechanical_crafter>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/kinetics/super_glue>);
