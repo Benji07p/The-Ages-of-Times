@@ -7,10 +7,10 @@
 	],
 	"key": {
 		"v": {
-			"tag": "forge:plates/vanadiumsteel"
+			"tag": "forge:plates/titanium"
 		},
 		"c": {
-			"tag": "forge:circuits/elite"
+			"tag": "forge:circuits/advanced"
 		},
 		"m": {
 			"item": "electrodynamics:chemicalmixer"
