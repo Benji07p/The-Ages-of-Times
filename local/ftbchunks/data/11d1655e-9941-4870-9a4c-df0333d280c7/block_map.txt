@@ -38,9 +38,11 @@
 #2D68D6 minecraft:dead_bush
 #5E9420 minecraft:deepslate
 #7DFBE4 electrodynamics:deepslateorechromite
+#6DFCDC electrodynamics:deepslateorehalite
 #A436C2 electrodynamics:deepslateoresilver
 #4D16AE electrodynamics:deepslateoresulfur
 #BEFDD0 electrodynamics:deepslateorethorianite
+#4A2CC4 electrodynamics:deepslateoretin
 #303BC4 electrodynamics:deepslateorevanadinite
 #BED665 minecraft:diorite
 #2BCCE0 notreepunching:diorite_loose_rock
@@ -86,6 +88,7 @@
 #4A3089 minecraft:orange_terracotta
 #BF0745 immersiveengineering:ore_aluminum
 #262421 immersiveengineering:ore_lead
+#067C92 immersiveengineering:ore_silver
 #6F71C2 electrodynamics:orealuminum
 #984231 electrodynamics:orechromite
 #F5858A electrodynamics:orefluorite
