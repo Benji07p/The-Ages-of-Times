@@ -265,6 +265,7 @@ mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:pneumaticcraft
 //Industrial Ages
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:alchemistry:atomizer>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:alchemistry:liquifier>);
+mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "createaddition");
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:compacting_drawer>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:compacting_framed_drawer>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:configuration_tool>);
