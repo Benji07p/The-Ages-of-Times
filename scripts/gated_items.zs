@@ -392,6 +392,13 @@ ItemStages.restrict(<item:pneumaticcraft:creative_upgrade>, "Creative");
 ItemStages.restrict(<item:tempad:he_who_remains_tempad>, "Creative");
 
 //Disable
+ItemStages.restrict(<item:beyond_earth:alien_spawn_egg>, "Never");
+ItemStages.restrict(<item:beyond_earth:alien_zombie_spawn_egg>, "Never");
+ItemStages.restrict(<item:beyond_earth:martian_raptor_spawn_egg>, "Never");
+ItemStages.restrict(<item:beyond_earth:mogler_spawn_egg>, "Never");
+ItemStages.restrict(<item:beyond_earth:pygro_brute_spawn_egg>, "Never");
+ItemStages.restrict(<item:beyond_earth:pygro_spawn_egg>, "Never");
+ItemStages.restrict(<item:beyond_earth:star_crawler_spawn_egg>, "Never");
 ItemStages.restrict(<item:computercraft:computer_command>, "Never");
 ItemStages.restrict(<item:extendedcrafting:recipe_maker>, "Never");
 ItemStages.restrict(<item:ftbquests:barrier>, "Never");
