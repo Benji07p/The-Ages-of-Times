@@ -392,15 +392,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-11-06 14:03:23 +0100"
-    },
-    "done": true
-  },
   "ceramics:recipes/building_blocks/smooth_stone_kiln": {
     "criteria": {
       "has_item": "2024-11-06 14:02:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-06 14:03:23 +0100"
     },
     "done": true
   },
