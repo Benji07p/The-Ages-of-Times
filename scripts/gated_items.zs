@@ -116,6 +116,22 @@ ItemStages.restrict(<item:notreepunching:clay_large_vessel>, "Bronze");
 ItemStages.restrict(<item:notreepunching:clay_small_vessel>, "Bronze");
 ItemStages.restrict(<item:notreepunching:clay_tool>, "Bronze");
 ItemStages.restrict(<item:notreepunching:clay_worked>, "Bronze");
+ItemStages.restrict(<item:tconstruct:blank_red_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:blank_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:gear_red_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:gear_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:gem_red_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:gem_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:ingot_red_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:ingot_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:nugget_red_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:nugget_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:plate_red_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:plate_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:rod_red_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:rod_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:scorched_basin>, "Bronze");
+ItemStages.restrict(<item:tconstruct:scorched_table>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:aletter>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:andesite_shaft>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:bletter>, "Bronze");
@@ -219,6 +235,7 @@ ItemStages.restrict(<item:notreepunching:iron_saw>, "Iron");
 ItemStages.createModRestriction("structurize", "Iron");
 
 //Enlightment Ages
+ItemStages.restrict(<item:car:engine_3_cylinder>, "Enlightment");
 ItemStages.restrict(<item:extendedcrafting:advanced_catalyst>, "Enlightment");
 ItemStages.restrict(<item:extendedcrafting:advanced_component>, "Enlightment");
 ItemStages.restrict(<item:extendedcrafting:advanced_table>, "Enlightment");
@@ -232,10 +249,21 @@ ItemStages.restrict(<item:immersiveengineering:raw_block_uranium>, "Enlightment"
 ItemStages.restrict(<item:immersiveengineering:raw_uranium>, "Enlightment");
 ItemStages.restrict(<item:immersiveengineering:storage_uranium>, "Enlightment");
 ItemStages.restrict(<item:pneumaticcraft:air_compressor>, "Enlightment");
+ItemStages.restrict(<item:tconstruct:cobalt_block>, "Enlightment");
+ItemStages.restrict(<item:tconstruct:cobalt_ingot>, "Enlightment");
+ItemStages.restrict(<item:tconstruct:cobalt_nugget>, "Enlightment");
+ItemStages.restrict(<item:tconstruct:cobalt_ore>, "Enlightment");
+ItemStages.restrict(<item:tconstruct:cobalt_platform>, "Enlightment");
+ItemStages.restrict(<item:tconstruct:cobalt_reinforcement>, "Enlightment");
+ItemStages.restrict(<item:tconstruct:raw_cobalt>, "Enlightment");
+ItemStages.restrict(<item:tconstruct:raw_cobalt_block>, "Enlightment");
 
 //Industrial Ages
 ItemStages.restrict(<item:alchemistry:atomizer>, "Industrial");
 ItemStages.restrict(<item:alchemistry:liquifier>, "Industrial");
+ItemStages.restrict(<item:car:engine_6_cylinder>, "Industrial");
+ItemStages.restrict(<item:car:engine_piston>, "Industrial");
+ItemStages.restrict(<item:car:engine_truck>, "Industrial");
 ItemStages.restrict(<item:createaddition:accumulator>, "Industrial");
 ItemStages.restrict(<item:createaddition:alternator>, "Industrial");
 ItemStages.restrict(<item:createaddition:barbed_wire>, "Industrial");
@@ -280,6 +308,7 @@ ItemStages.createModRestriction("multipiston", "Industrial");
 ItemStages.restrict(<item:pneumaticcraft:plastic>, "Industrial");
 ItemStages.restrict(<item:sliceanddice:fertilizer_bucket>, "Industrial");
 ItemStages.restrict(<item:sliceanddice:sprinkler>, "Industrial");
+ItemStages.restrict(<item:the_ages_of_times:wire_tungsten>, "Industrial");
 
 //Modern Ages
 ItemStages.restrict(<item:alchemistry:combiner>, "Modern");
@@ -327,6 +356,7 @@ ItemStages.restrict(<item:ironchest:obsidian_chest>, "Modern");
 ItemStages.restrict(<item:minecolonies:blockhutmechanic>, "Modern");
 ItemStages.restrict(<item:the_ages_of_times:basic_satellite>, "Modern");
 ItemStages.restrict(<item:the_ages_of_times:computer_circuit>, "Modern");
+ItemStages.restrict(<item:the_ages_of_times:diamond_coin>, "Modern");
 ItemStages.restrict(<item:the_ages_of_times:general_relativity>, "Modern");
 ItemStages.restrict(<item:the_ages_of_times:hydrogen_oxygen_mix_bucket>, "Modern");
 ItemStages.restrict(<item:the_ages_of_times:incomplete_basic_circuit>, "Modern");
@@ -373,8 +403,10 @@ ItemStages.restrict(<item:the_ages_of_times:liquid_antimatter_cell>, "Future");
 ItemStages.restrict(<item:the_ages_of_times:liquid_darkmatter_cell>, "Future");
 ItemStages.restrict(<item:the_ages_of_times:mechanicalprecisionmechanism>, "Future");
 ItemStages.restrict(<item:the_ages_of_times:neural_processor>, "Future");
+ItemStages.restrict(<item:the_ages_of_times:plasma_singularity>, "Future");
 ItemStages.restrict(<item:the_ages_of_times:quantum_circuit>, "Future");
 ItemStages.restrict(<item:the_ages_of_times:quantum_intriquer_structure>, "Future");
+ItemStages.restrict(<item:the_ages_of_times:space_time_circuit>, "Future");
 
 //Creative Ages
 ItemStages.restrict(<item:createaddition:creative_energy>, "Creative");
@@ -389,6 +421,7 @@ ItemStages.restrict(<item:immersiveengineering:capacitor_creative>, "Creative");
 ItemStages.restrict(<item:pneumaticcraft:creative_compressed_iron_block>, "Creative");
 ItemStages.restrict(<item:pneumaticcraft:creative_compressor>, "Creative");
 ItemStages.restrict(<item:pneumaticcraft:creative_upgrade>, "Creative");
+ItemStages.restrict(<item:tconstruct:creative_slot>, "Creative");
 ItemStages.restrict(<item:tempad:he_who_remains_tempad>, "Creative");
 
 //Disable
