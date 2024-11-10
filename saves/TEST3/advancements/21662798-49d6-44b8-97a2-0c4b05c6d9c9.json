@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-11-10 15:36:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-11-01 12:11:32 +0100"
@@ -2077,6 +2083,12 @@
     },
     "done": true
   },
+  "sliceanddice:recipes/tools/slicer": {
+    "criteria": {
+      "has_mixer": "2024-11-10 15:32:55 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_feet": {
     "criteria": {
       "has_alu_plate": "2024-11-02 11:12:11 +0100"
@@ -2104,6 +2116,12 @@
   "computercraft:recipes/computercraft/speaker": {
     "criteria": {
       "has_computer": "2024-10-31 15:12:13 +0100"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-11-10 15:32:38 +0100"
     },
     "done": true
   },
@@ -2587,6 +2605,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-11-10 15:33:00 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/ceramics/golden_bricks_stairs_gold": {
     "criteria": {
       "has_gold": "2024-10-29 11:34:47 +0100"
@@ -2632,6 +2656,12 @@
   "chemlib:recipes/chemlib.metals/samarium_nugget_to_ingot": {
     "criteria": {
       "has_samarium": "2024-11-01 14:03:56 +0100"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-11-10 13:33:37 +0100"
     },
     "done": true
   },

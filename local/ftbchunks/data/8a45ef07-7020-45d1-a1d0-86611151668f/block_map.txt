@@ -27,6 +27,7 @@
 #3DE8FE minecraft:birch_leaves
 #3BA928 minecraft:birch_log
 #C9CBB9 minecraft:blackstone
+#63D15D create:blaze_burner
 #25EDFE minecolonies:blockhutshepherd
 #45C81B minecraft:blue_orchid
 #8AE729 minecraft:brain_coral_block
