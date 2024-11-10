@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "chemlib:barium_nitrate_dust"
+    },
+    {
+      "item": "chemlib:copper_nitrate_dust"
+    },
+    {
+      "item": "the_ages_of_times:yttrium_oxide"
+    },
+    {
+      "fluid": "chemlib:nitric_acid_fluid",
+      "nbt": {},
+      "amount": 1000
+    },
+    {
+      "fluid": "chemlib:oxygen_fluid",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "electrodynamics:dustsuperconductive"
+    }
+  ],
+  "heatRequirement": "superheated"
+}
