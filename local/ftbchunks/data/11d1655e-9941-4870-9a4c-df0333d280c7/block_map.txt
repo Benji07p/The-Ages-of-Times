@@ -133,9 +133,12 @@
 #A0B4F5 minecraft:soul_fire
 #A67F43 minecraft:soul_sand
 #A6B33E minecraft:soul_soil
+#FAE367 minecraft:spruce_fence
 #13F5AC minecraft:spruce_leaves
 #6A8B3A minecraft:spruce_log
 #49DF61 minecraft:spruce_planks
+#64F88A minecraft:spruce_slab
+#D9135A minecraft:spruce_stairs
 #B1D22B minecraft:spruce_trapdoor
 #DC3458 minecraft:stone
 #F8955F minecraft:stone_bricks

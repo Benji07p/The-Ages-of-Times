@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
+    "criteria": {
+      "has_lead_ingot": "2024-11-11 14:50:42 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/orange_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2024-11-11 14:50:42 +0100"
+    },
+    "done": true
+  },
   "beyond_earth:root": {
     "criteria": {
       "tick": "2024-11-01 17:06:37 +0100"
@@ -101,6 +113,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2024-11-11 14:46:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-06 14:02:57 +0100"
@@ -113,9 +131,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_anvil": {
+    "criteria": {
+      "has_item": "2024-11-11 14:50:32 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/blue_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2024-11-11 14:50:32 +0100"
     },
     "done": true
   },
@@ -155,6 +185,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworelead": {
+    "criteria": {
+      "HasRawOreLead": "2024-11-11 14:50:36 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
@@ -173,6 +209,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_forge": {
+    "criteria": {
+      "has_item": "2024-11-11 14:50:32 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-11-01 18:16:53 +0100"
@@ -188,6 +230,12 @@
   "compactcrafting:recipes/compactcrafting/field_projector": {
     "criteria": {
       "got_ender_eye": "2024-11-01 17:06:37 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2024-11-11 14:46:39 +0100"
     },
     "done": true
   },
@@ -218,6 +266,12 @@
   "electrodynamics:evenbetterwiring": {
     "criteria": {
       "HasGoldWire": "2024-11-10 16:30:44 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2024-11-11 14:50:32 +0100"
     },
     "done": true
   },
@@ -280,9 +334,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-11-11 14:46:39 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/red_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
+    "criteria": {
+      "has_sulfur": "2024-11-11 14:35:25 +0100"
     },
     "done": true
   },
@@ -304,6 +370,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworetin": {
+    "criteria": {
+      "HasRawTinOre": "2024-11-11 14:50:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-06 14:02:57 +0100"
@@ -322,6 +394,12 @@
       "body_of_ra": "2024-11-01 17:06:37 +0100",
       "legs_of_ra": "2024-11-01 17:06:37 +0100",
       "halo_of_ra": "2024-11-01 17:06:37 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:raworefluorite": {
+    "criteria": {
+      "HasRawOre": "2024-11-11 13:46:48 +0100"
     },
     "done": true
   },
@@ -352,6 +430,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-11-06 14:03:23 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-11-11 14:46:39 +0100"
     },
     "done": true
   },
@@ -391,6 +475,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworevanadinite": {
+    "criteria": {
+      "HasRawOre": "2024-11-11 13:46:52 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/plate_shield": {
     "criteria": {
       "has_item": "2024-11-09 14:44:41 +0100"
@@ -400,6 +490,12 @@
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_lead": {
+    "criteria": {
+      "has_lead_ingot": "2024-11-11 14:50:42 +0100"
     },
     "done": true
   },
@@ -436,6 +532,12 @@
   "pneumaticcraft:oil_bucket": {
     "criteria": {
       "0": "2024-11-06 13:57:03 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2024-11-11 14:50:40 +0100"
     },
     "done": true
   },
@@ -544,6 +646,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworelepidolite": {
+    "criteria": {
+      "HasRawOre": "2024-11-11 13:46:22 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/brown_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
@@ -574,9 +682,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-11-11 14:46:39 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/decorations/orange_glazed_terracotta_kiln": {
     "criteria": {
       "has_item": "2024-11-01 18:15:10 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:raworesilver": {
+    "criteria": {
+      "HasRawSilverOre": "2024-11-11 14:50:34 +0100"
     },
     "done": true
   },
@@ -613,6 +733,12 @@
   "alchemistry:recipes/dissolver/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2024-11-06 14:02:57 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:ceramicinsulation": {
+    "criteria": {
+      "HasCeramicInsulation": "2024-11-11 13:50:58 +0100"
     },
     "done": true
   },
@@ -673,6 +799,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fertilizer": {
+    "criteria": {
+      "has_saltpeter": "2024-11-11 14:35:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-11-06 14:02:57 +0100"
@@ -712,6 +844,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-11-06 14:03:23 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-11-11 14:46:39 +0100"
     },
     "done": true
   },
@@ -1005,6 +1143,12 @@
     },
     "done": false
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/electrum_mix": {
+    "criteria": {
+      "has_gold_dust": "2024-11-11 14:46:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-11-06 14:03:23 +0100"
@@ -1277,6 +1421,12 @@
   "compactcrafting:recipes/compactcrafting/base": {
     "criteria": {
       "got_ender_eye": "2024-11-01 17:06:37 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2024-11-11 14:46:39 +0100"
     },
     "done": true
   },
