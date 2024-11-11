@@ -184,6 +184,10 @@ ItemStages.restrict(<item:createaddition:zinc_sheet>, "Iron");
 ItemStages.restrict(<item:davebuildingmod:book_1>, "Iron");
 ItemStages.restrict(<item:davebuildingmod:book_2>, "Iron");
 ItemStages.createModRestriction("domum_ornamentum", "Iron");
+ItemStages.restrict(<item:electrodynamics:dustiron>, "Iron");
+ItemStages.restrict(<item:electrodynamics:dustgold>, "Iron");
+ItemStages.restrict(<item:electrodynamics:geariron>, "Iron");
+ItemStages.restrict(<item:electrodynamics:plateiron>, "Iron");
 ItemStages.restrict(<item:extendedcrafting:basic_catalyst>, "Iron");
 ItemStages.restrict(<item:extendedcrafting:basic_component>, "Iron");
 ItemStages.restrict(<item:extendedcrafting:basic_table>, "Iron");
@@ -236,6 +240,17 @@ ItemStages.createModRestriction("structurize", "Iron");
 
 //Enlightment Ages
 ItemStages.restrict(<item:car:engine_3_cylinder>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:crystalhalite>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:oresulfur>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:oreniter>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:orehalite>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:deepslateoreniter>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:deepslateorehalite>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:deepslateoresulfur>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:oxidetrisulfur>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:dustniter>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:oxidedisulfur>, "Enlightment");
+ItemStages.restrict(<item:electrodynamics:dustsulfur>, "Enlightment");
 ItemStages.restrict(<item:extendedcrafting:advanced_catalyst>, "Enlightment");
 ItemStages.restrict(<item:extendedcrafting:advanced_component>, "Enlightment");
 ItemStages.restrict(<item:extendedcrafting:advanced_table>, "Enlightment");
@@ -410,6 +425,9 @@ ItemStages.restrict(<item:the_ages_of_times:space_time_circuit>, "Future");
 
 //Creative Ages
 ItemStages.restrict(<item:createaddition:creative_energy>, "Creative");
+ItemStages.restrict(<item:electrodynamics:creativefluidsource>, "Creative");
+ItemStages.restrict(<item:electrodynamics:creativepowersource>, "Creative");
+ItemStages.restrict(<item:electrodynamics:circuitultimate>, "Creative");
 ItemStages.restrict(<item:extendedcrafting:singularity>, "Creative");
 ItemStages.restrict(<item:extendedcrafting:the_ultimate_block>, "Creative");
 ItemStages.restrict(<item:extendedcrafting:the_ultimate_catalyst>, "Creative");
@@ -458,6 +476,11 @@ ItemStages.restrict(<item:the_ages_of_times:teletcope>, "Never");
 ItemStages.restrict(<item:the_ages_of_times:turntest>, "Never");
 ItemStages.createModRestriction("woodenbucket", "Never");
 
+ItemStages.restrict(<item:electrodynamics:coalcoke>, "Creative");
+ItemStages.restrict(<item:electrodynamics:crystalnetherite>, "Creative");
+ItemStages.restrict(<item:electrodynamics:dustnetherite>, "Creative");
+ItemStages.restrict(<item:electrodynamics:fluidvoid>, "Creative");
+ItemStages.restrict(<item:electrodynamics:impuredustnetherite>, "Creative");
 ItemStages.restrict(<item:farmersdelight:diamond_knife>, "Creative");
 ItemStages.restrict(<item:farmersdelight:netherite_knife>, "Creative");
 ItemStages.restrict(<item:functionalstorage:void_upgrade>, "Creative");
@@ -469,3 +492,4 @@ ItemStages.restrict(<item:notreepunching:netherite_mattock>, "Creative");
 ItemStages.restrict(<item:notreepunching:netherite_saw>, "Creative");
 ItemStages.restrict(<item:nuclearscience:atomicassembler>, "Creative");
 ItemStages.restrict(<item:nuclearscience:quantumcapacitor>, "Creative");
+
