@@ -77,6 +77,7 @@ mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/cur
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/kinetics/andesite_door>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/kinetics/copper_door>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/kinetics/mechanical_bearing>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/kinetics/piston_extension_pole>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/kinetics/shaft>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/kinetics/sticky_mechanical_piston>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/kinetics/turntable>);

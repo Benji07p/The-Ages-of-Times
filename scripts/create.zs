@@ -386,7 +386,6 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/nozzle>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/orange_valve_handle_from_other_valve_handle>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/pink_valve_handle_from_other_valve_handle>);
-mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/piston_extension_pole>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/placard>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/portable_fluid_interface>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/portable_storage_interface>);
