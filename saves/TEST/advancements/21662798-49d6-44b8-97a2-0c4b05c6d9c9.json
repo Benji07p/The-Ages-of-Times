@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/orange_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
@@ -20,6 +32,25 @@
   "tconstruct:recipes/tconstruct/world/common/materials/raw_cobalt_from_raw_block": {
     "criteria": {
       "has_item": "2024-11-09 14:44:40 +0100"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-11-14 17:59:08 +0100",
+      "1": "2024-11-14 17:59:15 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
     },
     "done": true
   },
@@ -47,6 +78,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-11-14 18:01:32 +0100"
+    },
+    "done": true
+  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2024-11-01 17:06:37 +0100"
@@ -62,6 +99,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_head": {
     "criteria": {
       "has_alu_plate": "2024-11-10 17:08:10 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
     },
     "done": true
   },
@@ -83,9 +132,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/blasting/ingot_lead_compat_mekanism": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:06 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:38 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-11-01 18:16:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:49 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
     },
     "done": true
   },
@@ -104,6 +183,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:07 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
     },
     "done": true
   },
@@ -137,6 +222,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/blue_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
@@ -155,6 +246,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-06 14:02:57 +0100"
@@ -164,6 +261,12 @@
   "antiqueatlas:recipes/atlas_new": {
     "criteria": {
       "has_compass": "2024-11-01 17:06:37 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2024-11-14 18:02:10 +0100"
     },
     "done": true
   },
@@ -179,9 +282,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/black_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
     },
     "done": true
   },
@@ -209,6 +324,48 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_nickel_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:01 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:19 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_tin_compat_mekanism": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:08 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2024-11-14 17:59:33 +0100"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/tinkers_forge": {
     "criteria": {
       "has_item": "2024-11-11 14:50:32 +0100"
@@ -230,6 +387,12 @@
   "compactcrafting:recipes/compactcrafting/field_projector": {
     "criteria": {
       "got_ender_eye": "2024-11-01 17:06:37 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
     },
     "done": true
   },
@@ -263,6 +426,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
   "electrodynamics:evenbetterwiring": {
     "criteria": {
       "HasGoldWire": "2024-11-10 16:30:44 +0100"
@@ -275,9 +444,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-11-01 18:16:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_uranium_compat_mekanism": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:03 +0100"
     },
     "done": true
   },
@@ -296,6 +477,12 @@
   "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:07 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/light_blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
     },
     "done": true
   },
@@ -340,15 +527,51 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-11-14 18:02:02 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/red_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
     },
     "done": true
   },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-11-14 17:59:49 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_nickel_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:01 +0100"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-11-14 18:01:32 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
     "criteria": {
       "has_sulfur": "2024-11-11 14:35:25 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
     },
     "done": true
   },
@@ -388,6 +611,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/blasting/ingot_aluminum_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:05 +0100"
+    },
+    "done": true
+  },
   "atum:core/radyforaction": {
     "criteria": {
       "feet_of_ra": "2024-11-01 17:06:37 +0100",
@@ -409,9 +638,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-11-06 14:03:23 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
     },
     "done": true
   },
@@ -439,15 +680,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/blasting/ingot_uranium_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2024-11-01 18:15:10 +0100"
     },
     "done": true
   },
+  "create:recipes/building_blocks/blasting/tin_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:08 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_block_to_items": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-11-14 17:59:38 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:19 +0100"
     },
     "done": true
   },
@@ -469,9 +746,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:07 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
     },
     "done": true
   },
@@ -505,6 +794,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2024-11-09 14:38:23 +0100"
@@ -523,6 +818,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/ingot_lead_compat_mekanism": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:06 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:07 +0100"
@@ -532,6 +833,18 @@
   "pneumaticcraft:oil_bucket": {
     "criteria": {
       "0": "2024-11-06 13:57:03 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:42 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/tin_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:08 +0100"
     },
     "done": true
   },
@@ -559,6 +872,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-11-06 14:03:23 +0100"
@@ -571,9 +890,51 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:49 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_silver_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:14 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:42 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/yellow_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_uranium_compat_mekanism": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:03 +0100"
+    },
+    "done": true
+  },
   "notreepunching:sticks_from_planks_with_saw": {
     "criteria": {
       "has_item": "2024-11-09 14:38:23 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:16 +0100"
     },
     "done": true
   },
@@ -583,9 +944,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:42 +0100"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/sand_casting": {
     "criteria": {
       "crafted_cast": "2024-11-09 14:42:02 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_aluminum_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:05 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2024-11-14 17:58:15 +0100"
     },
     "done": true
   },
@@ -613,9 +992,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-11-01 18:15:06 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:49 +0100"
     },
     "done": true
   },
@@ -670,6 +1061,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-11-01 18:16:53 +0100"
@@ -685,6 +1082,12 @@
   "create:recipes/create.base/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2024-11-11 14:46:39 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
     },
     "done": true
   },
@@ -718,6 +1121,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/lead_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-09 14:38:23 +0100"
@@ -727,6 +1136,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
     "criteria": {
       "has_item": "2024-11-09 14:44:41 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_lead_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:06 +0100"
     },
     "done": true
   },
@@ -742,9 +1157,33 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:25 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:07 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:16 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/silver_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:14 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
     },
     "done": true
   },
@@ -760,6 +1199,12 @@
       "legs_of_atem": "2024-11-01 17:06:37 +0100",
       "feet_of_atem": "2024-11-01 17:06:37 +0100",
       "body_of_atem": "2024-11-01 17:06:37 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:47 +0100"
     },
     "done": true
   },
@@ -787,6 +1232,12 @@
     },
     "done": true
   },
+  "create:recipes/food/smelting/bread": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:37 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/orange_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-11-01 18:15:10 +0100"
@@ -796,6 +1247,12 @@
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/food/smoking/bread": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:37 +0100"
     },
     "done": true
   },
@@ -820,6 +1277,12 @@
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:07 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
     },
     "done": true
   },
@@ -865,9 +1328,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:22 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_block_to_items": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2024-11-14 18:01:25 +0100"
     },
     "done": true
   },
@@ -889,6 +1364,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/ingot_tin_compat_mekanism": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:08 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
@@ -904,6 +1391,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/strip_curtain": {
     "criteria": {
       "has_metal_rod": "2024-11-10 16:30:24 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
     },
     "done": true
   },
@@ -955,6 +1448,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/orange_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
   "electrodynamics:electrodynamics/guidebook": {
     "criteria": {
       "spawn": "2024-11-01 17:06:37 +0100"
@@ -964,6 +1463,18 @@
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
     },
     "done": true
   },
@@ -988,6 +1499,12 @@
   "ceramicshears:recipes/misc/clay_shears_part": {
     "criteria": {
       "has_clay": "2024-11-01 17:06:37 +0100"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-11-14 18:01:45 +0100"
     },
     "done": true
   },
@@ -1036,6 +1553,18 @@
   "tconstruct:recipes/tconstruct/general/common/copper_platform_waxing_unaffected": {
     "criteria": {
       "has_block": "2024-11-09 14:40:49 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/nickel_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:01 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/lead_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:06 +0100"
     },
     "done": true
   },
@@ -1097,15 +1626,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/nickel_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:01 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:37 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/misc/clay_uncrafting_4": {
     "criteria": {
       "has_unfired": "2024-11-09 14:38:29 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:42 +0100"
     },
     "done": true
   },
@@ -1149,9 +1696,33 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/food/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-11-06 14:03:23 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:42 +0100"
     },
     "done": true
   },
@@ -1170,6 +1741,18 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-11-09 14:38:23 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/food/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:37 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-11-14 18:01:32 +0100"
     },
     "done": true
   },
@@ -1232,6 +1815,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/white_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
@@ -1241,6 +1830,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-06 14:02:57 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:49 +0100"
     },
     "done": true
   },
@@ -1265,6 +1860,18 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-01 18:15:06 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_uranium_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:03 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/silver_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:14 +0100"
     },
     "done": true
   },
@@ -1295,6 +1902,12 @@
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_silver_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:14 +0100"
     },
     "done": true
   },
@@ -1364,6 +1977,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/ingot_lead_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-11-06 14:02:57 +0100"
@@ -1388,9 +2007,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:18 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:22 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard": {
     "criteria": {
       "has_steel_sticks": "2024-11-10 16:30:24 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:51 +0100"
     },
     "done": true
   },
@@ -1403,6 +2040,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_chest": {
     "criteria": {
       "has_alu_plate": "2024-11-10 17:08:10 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
     },
     "done": true
   },
@@ -1466,9 +2109,21 @@
     },
     "done": true
   },
+  "create:chocolate_bucket": {
+    "criteria": {
+      "0": "2024-11-14 17:58:04 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/purple_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:42 +0100"
     },
     "done": true
   },
