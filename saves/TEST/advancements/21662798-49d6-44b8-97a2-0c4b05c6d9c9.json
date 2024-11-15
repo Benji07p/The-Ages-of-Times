@@ -11,15 +11,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/clutch": {
-    "criteria": {
-      "has_item": "2024-11-14 18:01:53 +0100"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2024-11-14 18:01:51 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:53 +0100"
     },
     "done": true
   },
@@ -324,15 +324,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
-    "criteria": {
-      "has_valve": "2024-11-14 18:03:18 +0100"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/smelting/ingot_nickel_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2024-11-14 18:01:01 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2024-11-14 18:03:18 +0100"
     },
     "done": true
   },
@@ -342,27 +342,27 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/crafting/kinetics/brass_door": {
-    "criteria": {
-      "has_item": "2024-11-14 18:01:51 +0100"
-    },
-    "done": true
-  },
   "create:recipes/misc/blasting/gold_ingot_from_crushed": {
     "criteria": {
       "has_item": "2024-11-14 18:01:19 +0100"
     },
     "done": true
   },
-  "create:recipes/building_blocks/blasting/ingot_tin_compat_mekanism": {
+  "create:recipes/create.palettes/crafting/kinetics/brass_door": {
     "criteria": {
-      "has_item": "2024-11-14 18:01:08 +0100"
+      "has_item": "2024-11-14 18:01:51 +0100"
     },
     "done": true
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
     "criteria": {
       "has_plate": "2024-11-14 17:59:33 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_tin_compat_mekanism": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:08 +0100"
     },
     "done": true
   },
@@ -405,6 +405,12 @@
   "immersivepetroleum:recipes/building_blocks/oxidized_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2024-11-15 16:29:18 +0100"
     },
     "done": true
   },
@@ -890,6 +896,12 @@
     },
     "done": true
   },
+  "notreepunching:story/use_clay_tool": {
+    "criteria": {
+      "damage_clay_tool": "2024-11-15 16:29:56 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2024-11-14 18:01:49 +0100"
@@ -1169,15 +1181,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/blasting/zinc_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2024-11-14 18:01:16 +0100"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/smelting/silver_ingot_compat_thermal": {
     "criteria": {
       "has_item": "2024-11-14 18:01:14 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-14 18:01:16 +0100"
     },
     "done": true
   },
@@ -2010,6 +2022,12 @@
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2024-11-14 18:01:18 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2024-11-15 16:29:18 +0100"
     },
     "done": true
   },

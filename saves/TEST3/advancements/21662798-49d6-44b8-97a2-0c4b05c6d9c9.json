@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-11-15 17:02:12 +0100"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2024-10-28 14:18:31 +0100"
@@ -481,6 +487,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_steel": {
     "criteria": {
       "has_steel_ingot": "2024-10-31 14:45:05 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2024-11-15 17:11:05 +0100"
     },
     "done": true
   },
@@ -830,6 +842,12 @@
       "has_white_dye": "2024-10-31 14:39:57 +0100"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2024-11-15 17:09:34 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
@@ -1525,6 +1543,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2024-11-15 17:09:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2024-10-31 14:39:57 +0100"
@@ -1590,6 +1614,12 @@
       "has_plate": "2024-10-31 14:53:17 +0100"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "copper": "2024-11-15 17:09:34 +0100"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_legs": {
     "criteria": {
@@ -2065,6 +2095,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2024-11-15 17:02:50 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_aluminum": {
     "criteria": {
       "has_plate": "2024-11-02 11:12:11 +0100"
@@ -2353,6 +2389,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2024-11-15 17:09:57 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_red": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
@@ -2638,6 +2680,12 @@
   "tconstruct:recipes/tconstruct/general/common/copper_platform": {
     "criteria": {
       "has_bars": "2024-10-29 11:33:43 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2024-11-15 17:01:52 +0100"
     },
     "done": true
   },
@@ -3261,6 +3309,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/component_steel": {
     "criteria": {
       "has_steel_ingot": "2024-10-31 14:45:05 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2024-11-15 17:02:50 +0100"
     },
     "done": true
   },

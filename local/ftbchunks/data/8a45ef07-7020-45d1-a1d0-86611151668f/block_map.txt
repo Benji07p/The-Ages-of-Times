@@ -267,6 +267,7 @@
 #9209D8 minecraft:terracotta
 #B2F195 ceramics:terracotta_faucet
 #4C0FBF createaddition:tesla_coil
+#689A91 tconstruct:tinker_station
 #2035B7 minecraft:tube_coral_block
 #87BAF4 minecraft:tuff
 #36CBC5 extendedcrafting:ultimate_table
