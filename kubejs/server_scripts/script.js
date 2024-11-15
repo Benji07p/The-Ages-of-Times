@@ -1604,6 +1604,10 @@ onEvent('recipes', event => {
 		}
 	)
 
+	//Coal Coke
+	event.remove({ id: 'electrodynamics:coalcoke_smelting'})
+	event.remove({ id: 'electrodynamics:coalcoke_blasting'})
+
 	//Light Enginneer Block
 	event.remove({ id: 'immersiveengineering:crafting/component_iron'})
 	event.remove({ id: 'immersiveengineering:crafting/light_engineering'})
@@ -3352,4 +3356,7 @@ onEvent('item.tags', event => {
 
 	//Tungsten Wire
 	event.add('forge:wires/tungsten', 'the_ages_of_times:wire_tungsten')
+
+	//Coal Coke
+	event.get('forge:coal_coke').remove('electrodynamics:coalcoke')
 })
