@@ -324,6 +324,7 @@ mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:create:weathered_
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/appliances/copper_backtank>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/appliances/copper_diving_boots>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/appliances/copper_diving_helmet>);
+mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/curiosities/brown_toolbox>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/adjustable_chain_gearshift>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/analog_lever>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/attribute_filter>);

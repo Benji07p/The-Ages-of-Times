@@ -177,7 +177,6 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:upg
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:upgradeinjectorfix>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:upgradeiteminput>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:upgradeitemoutput>);
-mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:upgradeitemvoid>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:upgraderange>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:upgradesilktouch>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:upgradestator>);

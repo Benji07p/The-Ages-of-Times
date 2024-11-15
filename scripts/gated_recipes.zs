@@ -71,7 +71,6 @@ mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/app
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/appliances/schedule_clear>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/appliances/slime_ball>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/appliances/tree_fertilizer>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/curiosities/brown_toolbox>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/curiosities/minecart_coupling>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/curiosities/peculiar_bell>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:create:crafting/kinetics/andesite_door>);
@@ -266,6 +265,9 @@ mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:pneumaticcraft
 //Industrial Ages
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:alchemistry:atomizer>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:alchemistry:liquifier>);
+mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/goggles>);
+mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/wrench>);
+mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/super_glue>);
 mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "createaddition");
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:compacting_drawer>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:compacting_framed_drawer>);
@@ -375,6 +377,9 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:pneumaticcraft:amad
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:pneumaticcraft:drone>);
 
 //Creative Ages
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/kinetics/mechanical_crafter>);
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/materials/experience_block>);
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/materials/experience_nugget_from_block>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_ingot_recraft>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_ingot_uncraft>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:the_ultimate_catalyst>);
@@ -384,14 +389,8 @@ mods.recipestages.Recipes.setRecipeStage("Creative", <resource:extendedcrafting:
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:circuitultimate>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:fluidlol>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:powerlol>);
-
-mods.recipestages.Recipes.setRecipeStage("Creative", <resource:functionalstorage:void_upgrade>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:fluidvoid>);
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:electrodynamics:upgradeitemvoid>);
+mods.recipestages.Recipes.setRecipeStage("Creative", <resource:functionalstorage:void_upgrade>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:nuclearscience:atomicassembler>);
 mods.recipestages.Recipes.setRecipeStage("Creative", <resource:nuclearscience:quantumcapacitor>);
-mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/kinetics/goggles>);
-mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/kinetics/mechanical_crafter>);
-mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/kinetics/super_glue>);
-mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/kinetics/wrench>);
-mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/materials/experience_block>);
-mods.recipestages.Recipes.setRecipeStage("Creative", <resource:create:crafting/materials/experience_nugget_from_block>);

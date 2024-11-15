@@ -251,7 +251,6 @@ ItemStages.restrict(<item:electrodynamics:upgradefortune>, "Future");
 ItemStages.restrict(<item:electrodynamics:upgradeimprovedsolarcell>, "Future");
 ItemStages.restrict(<item:electrodynamics:upgradeiteminput>, "Future");
 ItemStages.restrict(<item:electrodynamics:upgradeitemoutput>, "Future");
-ItemStages.restrict(<item:electrodynamics:upgradeitemvoid>, "Future");
 ItemStages.restrict(<item:electrodynamics:upgraderange>, "Future");
 ItemStages.restrict(<item:electrodynamics:upgradesilktouch>, "Future");
 ItemStages.restrict(<item:electrodynamics:upgradestator>, "Future");
