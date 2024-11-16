@@ -2,13 +2,15 @@
 	version: 1
 	uuid: "2166279849d644b897a20c4b05c6d9c9"
 	name: "Benji07p"
-	can_edit: false
+	can_edit: true
 	lock: false
 	auto_pin: false
 	chapter_pinned: false
 	rewards_blocked: false
 	task_progress: { }
-	started: { }
+	started: {
+		0000000000000001: 1731762915837L
+	}
 	completed: { }
 	claimed_rewards: { }
 	pinned_quests: [ ]
