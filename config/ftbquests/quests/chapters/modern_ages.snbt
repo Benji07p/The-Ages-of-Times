@@ -218,12 +218,28 @@
 				advancement: "beyond_earth:moon_advancement"
 				criterion: ""
 			}]
-			rewards: [{
-				id: "236E35C7F9478475"
-				type: "item"
-				item: "atum:coin_gold"
-				count: 38
-			}]
+			rewards: [
+				{
+					id: "236E35C7F9478475"
+					type: "item"
+					item: "atum:coin_gold"
+					count: 38
+				}
+				{
+					id: "483707779BF14FDC"
+					type: "command"
+					auto: "invisible"
+					command: "/gamestage remove @p Mobern"
+					silent: true
+				}
+				{
+					id: "612862BC3E966E6A"
+					type: "command"
+					auto: "invisible"
+					command: "/gamestage add @p Future"
+					silent: true
+				}
+			]
 		}
 		{
 			title: "Create a Space Station"

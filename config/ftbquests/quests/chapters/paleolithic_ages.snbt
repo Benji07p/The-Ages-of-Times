@@ -144,6 +144,14 @@
 				type: "item"
 				item: "the_ages_of_times:extinguished_campfire"
 			}]
+			rewards: [{
+				id: "17585FC92B09753C"
+				type: "command"
+				team_reward: false
+				auto: "invisible"
+				command: "/gamestage add @p Neolithic"
+				silent: true
+			}]
 		}
 	]
 	quest_links: [ ]

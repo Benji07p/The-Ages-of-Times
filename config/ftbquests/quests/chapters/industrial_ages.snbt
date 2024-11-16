@@ -662,12 +662,28 @@
 				type: "item"
 				item: "pneumaticcraft:plastic"
 			}]
-			rewards: [{
-				id: "17A262A2C94DE828"
-				type: "item"
-				item: "atum:coin_gold"
-				count: 18
-			}]
+			rewards: [
+				{
+					id: "17A262A2C94DE828"
+					type: "item"
+					item: "atum:coin_gold"
+					count: 18
+				}
+				{
+					id: "62B76CE43E1B90D7"
+					type: "command"
+					auto: "invisible"
+					command: "/gamestage add @p Modern"
+					silent: true
+				}
+				{
+					id: "6AD6C23F7BAE943A"
+					type: "command"
+					auto: "invisible"
+					command: "/gamestage add @p Mobern"
+					silent: true
+				}
+			]
 		}
 	]
 	quest_links: [ ]

@@ -1144,6 +1144,13 @@
 				type: "item"
 				item: "tempad:tempad"
 			}]
+			rewards: [{
+				id: "796D4A96C82AED48"
+				type: "command"
+				auto: "invisible"
+				command: "/gamestage add @p Creative"
+				silent: true
+			}]
 		}
 		{
 			x: 9.0d

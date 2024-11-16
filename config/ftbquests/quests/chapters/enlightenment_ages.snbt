@@ -54,6 +54,13 @@
 				type: "item"
 				item: "car:engine_3_cylinder"
 			}]
+			rewards: [{
+				id: "56DB8529A67D9F22"
+				type: "command"
+				auto: "invisible"
+				command: "/gamestage add @p Industrial"
+				silent: true
+			}]
 		}
 		{
 			x: -1.5d

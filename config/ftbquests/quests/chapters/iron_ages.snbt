@@ -540,6 +540,13 @@
 				type: "item"
 				item: "antiqueatlas:empty_antique_atlas"
 			}]
+			rewards: [{
+				id: "6B0B3FA013E33EEC"
+				type: "command"
+				auto: "invisible"
+				command: "/gamestage add @p Enlightment"
+				silent: true
+			}]
 		}
 		{
 			x: 8.5d

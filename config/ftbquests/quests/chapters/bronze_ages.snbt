@@ -558,6 +558,13 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "0EC7D603DF85FDD9"
+				type: "command"
+				auto: "invisible"
+				command: "/gamestage add @p Iron"
+				silent: true
+			}]
 		}
 	]
 	quest_links: [ ]
