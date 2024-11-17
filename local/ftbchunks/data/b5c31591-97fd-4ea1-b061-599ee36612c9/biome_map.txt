@@ -1,0 +1,12 @@
+#6F6 minecraft:badlands
+#618 minecraft:basalt_deltas
+#570 minecraft:crimson_forest
+#34D minecraft:deep_lukewarm_ocean
+#008 minecraft:desert
+#4CA minecraft:dripstone_caves
+#79A minecraft:lukewarm_ocean
+#653 minecraft:nether_wastes
+#5FF minecraft:river
+#721 minecraft:soul_sand_valley
+#2B7 minecraft:warm_ocean
+#1C9 minecraft:wooded_badlands

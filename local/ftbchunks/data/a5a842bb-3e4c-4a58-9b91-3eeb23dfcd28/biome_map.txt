@@ -1,0 +1,6 @@
+#6F6 minecraft:badlands
+#008 minecraft:desert
+#4CA minecraft:dripstone_caves
+#5FF minecraft:river
+#2B7 minecraft:warm_ocean
+#1C9 minecraft:wooded_badlands

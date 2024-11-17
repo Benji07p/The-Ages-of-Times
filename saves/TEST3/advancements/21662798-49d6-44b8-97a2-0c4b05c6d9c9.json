@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-17 13:15:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-10-29 11:47:50 +0100"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2024-11-17 13:10:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-10-29 11:34:48 +0100"
@@ -326,6 +338,12 @@
   "compactcrafting:recipes/compactcrafting/field_projector": {
     "criteria": {
       "got_ender_eye": "2024-10-28 14:10:42 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:story/find_flint": {
+    "criteria": {
+      "has_flint": "2024-11-17 12:51:57 +0100"
     },
     "done": true
   },
@@ -445,6 +463,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/memory_stick": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 13:10:22 +0100"
     },
     "done": true
   },
@@ -757,6 +781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-17 13:15:11 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/jackhammer": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
@@ -772,6 +802,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-11-01 15:27:22 +0100",
+      "minecraft:hoglin": "2024-11-17 13:05:32 +0100",
       "minecraft:vindicator": "2024-11-01 15:28:01 +0100",
       "minecraft:evoker": "2024-11-01 15:29:10 +0100"
     },
@@ -786,6 +817,18 @@
   "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2024-10-29 11:35:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-11-17 13:10:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-17 12:51:57 +0100"
     },
     "done": true
   },
@@ -888,6 +931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-17 13:05:49 +0100"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/supply_cart": {
     "criteria": {
       "has_wheel": "2024-10-28 14:10:42 +0100"
@@ -915,6 +964,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2024-10-31 14:39:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-17 13:05:49 +0100"
     },
     "done": true
   },
@@ -987,6 +1042,12 @@
     },
     "done": true
   },
+  "beyond_earth:rocket_advancement": {
+    "criteria": {
+      "rocket_advancement": "2024-11-17 14:40:34 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_hv": {
     "criteria": {
       "has_steel_ingot": "2024-10-31 14:45:05 +0100"
@@ -996,6 +1057,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-10-29 11:34:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-11-17 13:24:08 +0100"
     },
     "done": true
   },
@@ -1101,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-11-17 13:24:08 +0100"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/turtle_advanced": {
     "criteria": {
       "has_computer": "2024-10-31 15:12:13 +0100"
@@ -1161,6 +1234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-17 13:15:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-10-29 11:34:48 +0100"
@@ -1170,6 +1249,12 @@
   "ae2:recipes/ae2.main/network/cables/glass_white": {
     "criteria": {
       "has_dyes/black": "2024-10-31 14:39:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-11-17 12:58:36 +0100"
     },
     "done": true
   },
@@ -1278,6 +1363,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-11-01 12:11:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-17 13:05:49 +0100"
     },
     "done": true
   },
@@ -1477,6 +1568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-11-17 13:24:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-11-01 12:11:32 +0100"
@@ -1525,6 +1622,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2024-11-17 12:51:57 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_structure_steel": {
     "criteria": {
       "has_steel_ingot": "2024-10-31 14:45:05 +0100"
@@ -1546,6 +1649,12 @@
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2024-11-15 17:09:34 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 13:05:49 +0100"
     },
     "done": true
   },
@@ -1879,6 +1988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-11-17 13:15:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-10-29 11:34:47 +0100"
@@ -2020,6 +2135,12 @@
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2024-11-01 12:11:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-11-17 12:51:57 +0100"
     },
     "done": true
   },
@@ -2224,6 +2345,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2024-10-31 14:39:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-17 13:15:11 +0100"
     },
     "done": true
   },
@@ -2491,6 +2618,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2024-11-17 13:05:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-11-01 12:15:55 +0100"
@@ -2641,6 +2774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-17 13:15:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-11-01 12:15:55 +0100"
@@ -2671,9 +2810,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 13:10:22 +0100"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_normal": {
     "criteria": {
       "has_computer": "2024-10-31 15:12:13 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:story/find_gravel": {
+    "criteria": {
+      "has_flint": "2024-11-17 12:51:57 +0100"
     },
     "done": true
   },
@@ -2731,6 +2882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-11-17 12:51:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-10-29 11:24:34 +0100"
@@ -2764,6 +2921,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/pneumatic_door_base": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-11-17 12:58:36 +0100"
     },
     "done": true
   },
@@ -2935,6 +3098,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-17 13:05:49 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2024-10-31 14:45:05 +0100"
@@ -3028,6 +3197,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/smooth_plastic_brick_pink": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-11-17 13:10:22 +0100"
     },
     "done": true
   },
@@ -3339,6 +3514,12 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_yellow_dye": "2024-10-31 14:39:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-11-17 13:10:22 +0100"
     },
     "done": true
   },

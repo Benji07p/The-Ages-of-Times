@@ -90,6 +90,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/structurize/shapetool": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
+    },
+    "done": true
+  },
   "compactcrafting:recipes/compactcrafting/match_proxy": {
     "criteria": {
       "got_redstone": "2024-11-01 17:06:37 +0100"
@@ -144,6 +150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/dough": {
     "criteria": {
       "has_item": "2024-11-14 18:01:38 +0100"
@@ -168,6 +180,12 @@
     },
     "done": true
   },
+  "notreepunching:clay_tool": {
+    "criteria": {
+      "has_item": "2024-11-17 15:25:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-11-06 14:02:57 +0100"
@@ -189,6 +207,12 @@
   "create:recipes/create.base/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2024-11-14 18:03:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
     },
     "done": true
   },
@@ -219,6 +243,18 @@
   "tconstruct:recipes/tconstruct/general/tables/tinkers_anvil": {
     "criteria": {
       "has_item": "2024-11-11 14:50:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
     },
     "done": true
   },
@@ -393,6 +429,12 @@
   "create:recipes/create.base/crafting/logistics/display_link": {
     "criteria": {
       "has_item": "2024-11-14 18:01:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
     },
     "done": true
   },
@@ -710,6 +752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_block_to_items": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
@@ -824,9 +872,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/ingot_lead_compat_mekanism": {
     "criteria": {
       "has_item": "2024-11-14 18:01:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-17 15:25:16 +0100"
     },
     "done": true
   },
@@ -901,6 +961,12 @@
       "damage_clay_tool": "2024-11-15 16:29:56 +0100"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:wither_skeleton": "2024-11-17 15:25:16 +0100"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/spout": {
     "criteria": {
@@ -1094,6 +1160,12 @@
   "create:recipes/create.base/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2024-11-11 14:46:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
     },
     "done": true
   },
@@ -1328,6 +1400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
+    },
+    "done": true
+  },
   "ceramics:recipes/building_blocks/lime_terracotta_recolor": {
     "criteria": {
       "has_terracotta": "2024-11-01 18:15:10 +0100"
@@ -1526,6 +1604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
+    },
+    "done": true
+  },
   "notreepunching:andesite_cobblestone_slab": {
     "criteria": {
       "has_item": "2024-11-06 14:03:23 +0100"
@@ -1559,6 +1643,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_fence": {
     "criteria": {
       "has_steel_sticks": "2024-11-10 16:30:24 +0100"
+    },
+    "done": true
+  },
+  "notreepunching:story/root": {
+    "criteria": {
+      "has_sticks": "2024-11-17 15:25:09 +0100"
     },
     "done": true
   },
@@ -1644,6 +1734,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:wither_skeleton": "2024-11-17 15:25:16 +0100"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
     "criteria": {
       "has_the_recipe": "2024-11-10 16:13:08 +0100"
@@ -1665,6 +1761,12 @@
   "create:recipes/create.base/crafting/kinetics/track_observer": {
     "criteria": {
       "has_item": "2024-11-14 18:01:42 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
     },
     "done": true
   },
@@ -1857,6 +1959,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/pattern": {
+    "criteria": {
+      "has_item": "2024-11-17 15:25:09 +0100"
+    },
+    "done": true
+  },
   "notreepunching:andesite_cobblestone_wall": {
     "criteria": {
       "has_item": "2024-11-06 14:03:23 +0100"
@@ -2037,6 +2145,12 @@
     },
     "done": true
   },
+  "notreepunching:story/find_sticks": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard": {
     "criteria": {
       "has_steel_sticks": "2024-11-10 16:30:24 +0100"
@@ -2100,6 +2214,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-11-09 14:38:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-11-17 15:25:09 +0100"
     },
     "done": true
   },

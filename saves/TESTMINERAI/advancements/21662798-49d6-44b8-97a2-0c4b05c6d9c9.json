@@ -1,0 +1,375 @@
+{
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-17 16:27:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-17 16:27:48 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-11-17 16:27:48 +0100"
+    },
+    "done": true
+  },
+  "ceramicshears:recipes/misc/ceramic_shears_part": {
+    "criteria": {
+      "has_clay": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "atum:core/thefullmuseum": {
+    "criteria": {
+      "isis_division": "2024-11-17 16:20:24 +0100",
+      "nepthys_banishing": "2024-11-17 16:20:24 +0100",
+      "anubis_wrath": "2024-11-17 16:20:24 +0100",
+      "seths_venom": "2024-11-17 16:20:24 +0100",
+      "body_of_ra": "2024-11-17 16:20:24 +0100",
+      "montus_strike": "2024-11-17 16:20:24 +0100",
+      "ptahs_decadence": "2024-11-17 16:20:24 +0100",
+      "horus_soaring": "2024-11-17 16:20:24 +0100",
+      "tefnuts_call": "2024-11-17 16:20:24 +0100",
+      "shus_exile": "2024-11-17 16:20:24 +0100",
+      "osiris_blessing": "2024-11-17 16:20:24 +0100",
+      "seths_sting": "2024-11-17 16:20:24 +0100",
+      "shus_breath": "2024-11-17 16:20:24 +0100",
+      "anputs_hunger": "2024-11-17 16:20:24 +0100",
+      "feet_of_ra": "2024-11-17 16:20:24 +0100",
+      "nuits_vanishing": "2024-11-17 16:20:24 +0100",
+      "nepthys_guard": "2024-11-17 16:20:24 +0100",
+      "legs_of_ra": "2024-11-17 16:20:24 +0100",
+      "anputs_grounding": "2024-11-17 16:20:24 +0100",
+      "shus_swiftness": "2024-11-17 16:20:24 +0100",
+      "montus_blast": "2024-11-17 16:20:24 +0100",
+      "atems_homecoming": "2024-11-17 16:20:24 +0100",
+      "atems_will": "2024-11-17 16:20:24 +0100",
+      "nuits_quarter": "2024-11-17 16:20:24 +0100",
+      "gebs_toil": "2024-11-17 16:20:24 +0100",
+      "atems_bounty": "2024-11-17 16:20:24 +0100",
+      "eyes_of_atem": "2024-11-17 16:20:24 +0100",
+      "osiris_mercy": "2024-11-17 16:20:24 +0100",
+      "feet_of_atem": "2024-11-17 16:20:24 +0100",
+      "halo_of_ra": "2024-11-17 16:20:24 +0100",
+      "body_of_atem": "2024-11-17 16:20:24 +0100",
+      "gebs_undoing": "2024-11-17 16:20:24 +0100",
+      "nuits_ire": "2024-11-17 16:20:24 +0100",
+      "tefnuts_rain": "2024-11-17 16:20:24 +0100",
+      "horus_ascension": "2024-11-17 16:20:24 +0100",
+      "ras_step": "2024-11-17 16:20:24 +0100",
+      "legs_of_atem": "2024-11-17 16:20:24 +0100",
+      "atems_protection": "2024-11-17 16:20:24 +0100",
+      "ras_fury": "2024-11-17 16:20:24 +0100",
+      "gebs_might": "2024-11-17 16:20:24 +0100",
+      "isis_healing": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-17 16:27:48 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-11-17 16:27:48 +0100"
+    },
+    "done": true
+  },
+  "atum:core/radyforaction": {
+    "criteria": {
+      "feet_of_ra": "2024-11-17 16:20:24 +0100",
+      "body_of_ra": "2024-11-17 16:20:24 +0100",
+      "legs_of_ra": "2024-11-17 16:20:24 +0100",
+      "halo_of_ra": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "compactcrafting:recipes/compactcrafting/rescan_proxy": {
+    "criteria": {
+      "got_crafting_table": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "atum:core/itbelongsinamuseum": {
+    "criteria": {
+      "isis_division": "2024-11-17 16:20:24 +0100",
+      "anubis_wrath": "2024-11-17 16:20:24 +0100",
+      "seths_venom": "2024-11-17 16:20:24 +0100",
+      "body_of_ra": "2024-11-17 16:20:24 +0100",
+      "montus_strike": "2024-11-17 16:20:24 +0100",
+      "ptahs_decadence": "2024-11-17 16:20:24 +0100",
+      "horus_soaring": "2024-11-17 16:20:24 +0100",
+      "tefnuts_call": "2024-11-17 16:20:24 +0100",
+      "shus_exile": "2024-11-17 16:20:24 +0100",
+      "osiris_blessing": "2024-11-17 16:20:24 +0100",
+      "seths_sting": "2024-11-17 16:20:24 +0100",
+      "shus_breath": "2024-11-17 16:20:24 +0100",
+      "anputs_hunger": "2024-11-17 16:20:24 +0100",
+      "feet_of_ra": "2024-11-17 16:20:24 +0100",
+      "nuits_vanishing": "2024-11-17 16:20:24 +0100",
+      "legs_of_ra": "2024-11-17 16:20:24 +0100",
+      "anputs_grounding": "2024-11-17 16:20:24 +0100",
+      "shus_swiftness": "2024-11-17 16:20:24 +0100",
+      "montus_blast": "2024-11-17 16:20:24 +0100",
+      "atems_homecoming": "2024-11-17 16:20:24 +0100",
+      "atems_will": "2024-11-17 16:20:24 +0100",
+      "nuits_quarter": "2024-11-17 16:20:24 +0100",
+      "gebs_toil": "2024-11-17 16:20:24 +0100",
+      "atems_bounty": "2024-11-17 16:20:24 +0100",
+      "eyes_of_atem": "2024-11-17 16:20:24 +0100",
+      "osiris_mercy": "2024-11-17 16:20:24 +0100",
+      "feet_of_atem": "2024-11-17 16:20:24 +0100",
+      "halo_of_ra": "2024-11-17 16:20:24 +0100",
+      "body_of_atem": "2024-11-17 16:20:24 +0100",
+      "gebs_undoing": "2024-11-17 16:20:24 +0100",
+      "nuits_ire": "2024-11-17 16:20:24 +0100",
+      "tefnuts_rain": "2024-11-17 16:20:24 +0100",
+      "horus_ascension": "2024-11-17 16:20:24 +0100",
+      "legs_of_atem": "2024-11-17 16:20:24 +0100",
+      "ras_fury": "2024-11-17 16:20:24 +0100",
+      "gebs_might": "2024-11-17 16:20:24 +0100",
+      "isis_healing": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "compactcrafting:recipes/compactcrafting/match_proxy": {
+    "criteria": {
+      "got_redstone": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-17 16:27:48 +0100"
+    },
+    "done": true
+  },
+  "compactcrafting:recipes/compactcrafting/projector_dish": {
+    "criteria": {
+      "got_ender_eye": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "compactcrafting:recipes/compactcrafting/field_projector": {
+    "criteria": {
+      "got_ender_eye": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "ceramicshears:recipes/tools/ceramic_shears": {
+    "criteria": {
+      "has_clay": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-17 16:27:48 +0100"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-11-17 16:27:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2024-11-17 16:19:59 +0100",
+      "minecraft:river": "2024-11-17 16:28:41 +0100"
+    },
+    "done": false
+  },
+  "beyond_earth:root": {
+    "criteria": {
+      "tick": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-11-17 16:27:48 +0100"
+    },
+    "done": true
+  },
+  "electrodynamics:electrodynamics/guidebook": {
+    "criteria": {
+      "spawn": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "atum:core/atumed": {
+    "criteria": {
+      "eyes_of_atem": "2024-11-17 16:20:24 +0100",
+      "legs_of_atem": "2024-11-17 16:20:24 +0100",
+      "feet_of_atem": "2024-11-17 16:20:24 +0100",
+      "body_of_atem": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "atum:core/powerwasher": {
+    "criteria": {
+      "gold_brooch": "2024-11-17 16:20:24 +0100",
+      "ruby_ring": "2024-11-17 16:20:24 +0100",
+      "silver_necklace": "2024-11-17 16:20:24 +0100",
+      "diamond_idol": "2024-11-17 16:20:24 +0100",
+      "diamond_brooch": "2024-11-17 16:20:24 +0100",
+      "diamond_necklace": "2024-11-17 16:20:24 +0100",
+      "gold_ring": "2024-11-17 16:20:24 +0100",
+      "sapphire_brooch": "2024-11-17 16:20:24 +0100",
+      "emerald_brooch": "2024-11-17 16:20:24 +0100",
+      "sapphire_necklace": "2024-11-17 16:20:24 +0100",
+      "ruby_idol": "2024-11-17 16:20:24 +0100",
+      "emerald_bracelet": "2024-11-17 16:20:24 +0100",
+      "emerald_ring": "2024-11-17 16:20:24 +0100",
+      "sapphire_idol": "2024-11-17 16:20:24 +0100",
+      "diamond_bracelet": "2024-11-17 16:20:24 +0100",
+      "silver_bracelet": "2024-11-17 16:20:24 +0100",
+      "sapphire_ring": "2024-11-17 16:20:24 +0100",
+      "gold_necklace": "2024-11-17 16:20:24 +0100",
+      "ruby_bracelet": "2024-11-17 16:20:24 +0100",
+      "emerald_idol": "2024-11-17 16:20:24 +0100",
+      "silver_idol": "2024-11-17 16:20:24 +0100",
+      "gold_idol": "2024-11-17 16:20:24 +0100",
+      "sapphire_bracelet": "2024-11-17 16:20:24 +0100",
+      "silver_ring": "2024-11-17 16:20:24 +0100",
+      "ruby_brooch": "2024-11-17 16:20:24 +0100",
+      "ruby_necklace": "2024-11-17 16:20:24 +0100",
+      "diamond_ring": "2024-11-17 16:20:24 +0100",
+      "gold_bracelet": "2024-11-17 16:20:24 +0100",
+      "emerald_necklace": "2024-11-17 16:20:24 +0100",
+      "silver_brooch": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "antiqueatlas:recipes/atlas": {
+    "criteria": {
+      "has_compass": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "compactcrafting:recipes/compactcrafting/base": {
+    "criteria": {
+      "got_ender_eye": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "ceramicshears:recipes/misc/clay_shears_part": {
+    "criteria": {
+      "has_clay": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-11-17 16:27:48 +0100"
+    },
+    "done": true
+  },
+  "atum:core/justlikenew": {
+    "criteria": {
+      "gold_brooch": "2024-11-17 16:20:24 +0100",
+      "ruby_ring": "2024-11-17 16:20:24 +0100",
+      "silver_necklace": "2024-11-17 16:20:24 +0100",
+      "diamond_idol": "2024-11-17 16:20:24 +0100",
+      "diamond_brooch": "2024-11-17 16:20:24 +0100",
+      "diamond_necklace": "2024-11-17 16:20:24 +0100",
+      "gold_ring": "2024-11-17 16:20:24 +0100",
+      "sapphire_brooch": "2024-11-17 16:20:24 +0100",
+      "emerald_brooch": "2024-11-17 16:20:24 +0100",
+      "sapphire_necklace": "2024-11-17 16:20:24 +0100",
+      "ruby_idol": "2024-11-17 16:20:24 +0100",
+      "emerald_bracelet": "2024-11-17 16:20:24 +0100",
+      "emerald_ring": "2024-11-17 16:20:24 +0100",
+      "sapphire_idol": "2024-11-17 16:20:24 +0100",
+      "diamond_bracelet": "2024-11-17 16:20:24 +0100",
+      "silver_bracelet": "2024-11-17 16:20:24 +0100",
+      "sapphire_ring": "2024-11-17 16:20:24 +0100",
+      "gold_necklace": "2024-11-17 16:20:24 +0100",
+      "ruby_bracelet": "2024-11-17 16:20:24 +0100",
+      "emerald_idol": "2024-11-17 16:20:24 +0100",
+      "silver_idol": "2024-11-17 16:20:24 +0100",
+      "gold_idol": "2024-11-17 16:20:24 +0100",
+      "sapphire_bracelet": "2024-11-17 16:20:24 +0100",
+      "silver_ring": "2024-11-17 16:20:24 +0100",
+      "ruby_brooch": "2024-11-17 16:20:24 +0100",
+      "ruby_necklace": "2024-11-17 16:20:24 +0100",
+      "diamond_ring": "2024-11-17 16:20:24 +0100",
+      "gold_bracelet": "2024-11-17 16:20:24 +0100",
+      "emerald_necklace": "2024-11-17 16:20:24 +0100",
+      "silver_brooch": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "atum:core/root": {
+    "criteria": {
+      "scarab": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "atum:core/aquaculture": {
+    "criteria": {
+      "fish_jeweled": "2024-11-17 16:20:24 +0100",
+      "fish_mummified": "2024-11-17 16:20:24 +0100",
+      "fish_skeletal": "2024-11-17 16:20:24 +0100",
+      "fish_forsaken": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "antiqueatlas:recipes/atlas_new": {
+    "criteria": {
+      "has_compass": "2024-11-17 16:20:24 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

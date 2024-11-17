@@ -192,6 +192,7 @@
 #D222D1 electrodynamics:orevanadinite
 #2D7F28 farmersdelight:organic_compost
 #F6678E minecraft:oxeye_daisy
+#306BEB atum:papyrus
 #8719D7 the_ages_of_times:papyrus_spawn
 #AB1C58 minecraft:peony
 #281E44 nuclearscience:plasma
@@ -199,6 +200,8 @@
 #437566 minecraft:polished_granite
 #AFAC0D minecraft:poppy
 #32FF6B ceramics:porcelain_faucet
+#EBE752 the_ages_of_times:porcelain_heater
+#458296 the_ages_of_times:porcelain_heater_on
 #22CDAE createaddition:portable_energy_interface
 #6DC9E1 minecraft:potted_cactus
 #ACE775 minecraft:potted_dead_bush
@@ -215,6 +218,8 @@
 #A69CFB electrodynamics:resourceblocklead
 #CA5CEC electrodynamics:resourceblocksilver
 #0FC6DA electrodynamics:resourceblocktin
+#F9A178 beyond_earth:rocket_launch_pad
+#7C6FF0 the_ages_of_times:rocket_launcher
 #991DF8 minecraft:rooted_dirt
 #F7A42A create:rope_pulley
 #9C3ECB minecraft:rose_bush
@@ -237,6 +242,7 @@
 #EBD65B create:sequenced_gearshift
 #D3CCFE create:shaft
 #30862B minecraft:shulker_box
+#5D1779 butchersdelight:skullcow
 #8E64F9 tconstruct:sky_slime_dirt
 #3768ED beyond_earth:sky_stone
 #D4DCCF multibeds:slab
