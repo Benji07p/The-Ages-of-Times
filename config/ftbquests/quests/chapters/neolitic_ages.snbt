@@ -328,14 +328,14 @@
 			dependencies: ["40C496B5B9784622"]
 			id: "28CD8CFD0DC99D7D"
 			tasks: [{
-				id: "389235EDD1031701"
+				id: "01677107BE6780FA"
 				type: "item"
-				title: "Any #forge:leather"
+				title: "Any #forge:hiderawloot"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
 					tag: {
-						value: "forge:leather"
+						value: "forge:hiderawloot"
 					}
 				}
 			}]
@@ -355,6 +355,7 @@
 			x: 1.5d
 			y: 2.5d
 			dependencies: ["28CD8CFD0DC99D7D"]
+			optional: true
 			id: "1E7FF98CD860EB72"
 			tasks: [{
 				id: "430B22CEF2026197"

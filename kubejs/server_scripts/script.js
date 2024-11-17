@@ -3317,6 +3317,8 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+
+	event.remove({ id: 'tconstruct:tools/severing/sheep_wool' })
 	
 })
 
@@ -3359,4 +3361,7 @@ onEvent('item.tags', event => {
 
 	//Coal Coke
 	event.get('forge:coal_coke').remove('electrodynamics:coalcoke')
+
+	//Raw Hide
+	event.add('forge:hiderawloot', ['butchersdelight:cow_hide', 'butchersdelight:sheephide'])
 })
