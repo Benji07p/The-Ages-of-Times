@@ -1,0 +1,43 @@
+[
+    {
+        "mob": [
+            "minecraft:blaze",
+            "minecraft:cave_spider",
+            "minecraft:creeper",
+            "minecraft:drowned",
+            "minecraft:elder_guardian",
+            "minecraft:enderman",
+            "minecraft:endermite",
+            "minecraft:ghast",
+            "minecraft:giant",
+            "minecraft:guardian",
+            "minecraft:hoglin",
+            "minecraft:husk",
+            "minecraft:illusioner",
+            "minecraft:iron_golem",
+            "minecraft:magma_cube",
+            "minecraft:mooshroom",
+            "minecraft:phantom",
+            "minecraft:piglin",
+            "minecraft:piglin_brute",
+            "minecraft:ravager",
+            "minecraft:shulker",
+            "minecraft:silverfish",
+            "minecraft:skeleton",
+            "minecraft:slime",
+            "minecraft:spider",
+            "minecraft:stray",
+            "minecraft:strider",
+            "minecraft:vex",
+            "minecraft:witch",
+            "minecraft:wither",
+            "minecraft:wither_skeleton",
+            "minecraft:zoglin",
+            "minecraft:zombie",
+            "minecraft:zombie_horse",
+            "minecraft:zombie_villager",
+            "minecraft:zombified_piglin"
+        ],
+        "result": "deny"
+    }
+]
