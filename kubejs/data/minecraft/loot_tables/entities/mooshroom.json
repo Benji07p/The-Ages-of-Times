@@ -70,6 +70,20 @@
             }
           ],
           "name": "minecraft:beef"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
         }
       ]
     }
