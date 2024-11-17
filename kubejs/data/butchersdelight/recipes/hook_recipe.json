@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 4 ",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stone_button"
+    },
+    "2": {
+      "item": "minecraft:stone_button"
+    },
+    "4": {
+      "item": "minecraft:stone_button"
+    },
+    "6": {
+      "item": "minecraft:stone_button"
+    },
+    "7": {
+      "item": "minecraft:stone_button"
+    }
+  },
+  "result": {
+    "item": "butchersdelight:hook",
+    "count": 1
+  }
+}
