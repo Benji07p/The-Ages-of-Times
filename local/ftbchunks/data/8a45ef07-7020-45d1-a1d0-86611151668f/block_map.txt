@@ -158,6 +158,7 @@
 #FE827B chemlib:mercury
 #C4844D create:millstone
 #BB8DD9 createaddition:modular_accumulator
+#9346A4 tconstruct:molten_ender_fluid
 #A4FC4B minecraft:mossy_cobblestone
 #454322 minecraft:netherrack
 #272A33 functionalstorage:oak_1
@@ -280,6 +281,7 @@
 #6DB687 create:veridium
 #88779D minecraft:vine
 #2F6B3B multibeds:vintage
+#FB59FD minecraft:water_cauldron
 #AAF4B7 create:water_wheel
 #B150CC minecraft:waxed_copper_block
 #E2C9D0 create:weighted_ejector

@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-11-18 20:01:24 +0100"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2024-11-17 13:10:22 +0100"
@@ -332,6 +338,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-11-02 10:48:35 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2024-11-18 20:11:55 +0100"
     },
     "done": true
   },
@@ -404,6 +416,12 @@
   "chemlib:recipes/chemlib.metals/holmium_ingot_from_smelting_holmium_dust": {
     "criteria": {
       "has_holmium": "2024-11-01 14:02:11 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cooked_rabbit": {
+    "criteria": {
+      "has_the_recipe": "2024-11-18 20:01:24 +0100"
     },
     "done": true
   },
@@ -628,6 +646,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-10-28 14:26:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-11-18 20:01:24 +0100"
     },
     "done": true
   },
@@ -1054,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-11-18 20:01:25 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_hv": {
     "criteria": {
       "has_steel_ingot": "2024-10-31 14:45:05 +0100"
@@ -1243,6 +1273,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-11-01 12:16:20 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2024-11-18 20:11:55 +0100"
     },
     "done": true
   },
@@ -1589,6 +1625,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-11-01 12:11:32 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2024-11-18 20:13:46 +0100"
     },
     "done": true
   },
@@ -2267,6 +2309,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_feet": {
     "criteria": {
       "has_alu_plate": "2024-11-02 11:12:11 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-18 20:01:24 +0100"
     },
     "done": true
   },
@@ -3131,6 +3179,12 @@
   "ceramics:recipes/ceramics/golden_bricks_slab_gold": {
     "criteria": {
       "has_gold": "2024-10-29 11:34:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-11-18 20:01:24 +0100"
     },
     "done": true
   },
