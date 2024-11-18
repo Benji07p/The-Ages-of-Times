@@ -186,6 +186,7 @@ onEvent('recipes', event => {
 
 	//Campfire
 	event.remove({ id: 'minecraft:campfire'})
+	event.campfireCooking('electrodynamics:dustsalt', 'the_ages_of_times:fluidbladderfilled')
 	event.custom(
 		{
 		  "type": "create:item_application",
@@ -2494,6 +2495,7 @@ onEvent('recipes', event => {
 	//Superconductive Ingot
 	event.remove({ id: 'electrodynamics:item2item/reinforcedalloyer/superconductive_ingot_netherite'})
 	event.remove({ id: 'electrodynamics:item2item/reinforcedalloyer/superconductive_ingot_ender'})
+	event.remove({ id: 'electrodynamics:dustsuperconductive' })
 
 	//NASA Workbench Tier 2
 	event.custom(
@@ -3319,7 +3321,6 @@ onEvent('recipes', event => {
 	)
 
 	event.remove({ id: 'tconstruct:tools/severing/sheep_wool' })
-	
 })
 
 onEvent('item.tags', event => {

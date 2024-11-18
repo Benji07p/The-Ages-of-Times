@@ -124,7 +124,6 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:com
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:drillheadhslasteel>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:drillheadstainlesssteel>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:drillheadtitaniumcarbide>);
-mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:dustsuperconductive>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:electricarcfurnacetriple>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:electricbaton>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:electrodynamics:electricfurnacetriple>);
