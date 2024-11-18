@@ -880,6 +880,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_gray": {
+    "criteria": {
+      "has_dyes/black": "2024-11-18 13:59:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2024-10-31 14:39:57 +0100"
@@ -1099,6 +1105,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/smooth_plastic_brick_lime": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_gray": {
+    "criteria": {
+      "has_dyes/black": "2024-11-18 13:59:17 +0100"
     },
     "done": true
   },
@@ -1637,6 +1649,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-10-29 11:47:50 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_gray": {
+    "criteria": {
+      "has_dyes/black": "2024-11-18 13:59:17 +0100"
     },
     "done": true
   },
@@ -3194,6 +3212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2024-11-18 13:59:17 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/smooth_plastic_brick_pink": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
@@ -3409,6 +3433,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_gray": {
+    "criteria": {
+      "has_dyes/black": "2024-11-18 13:59:17 +0100"
+    },
+    "done": true
+  },
   "atum:core/itbelongsinamuseum": {
     "criteria": {
       "isis_division": "2024-10-28 14:10:42 +0100",
@@ -3493,6 +3523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_gray_dye": "2024-11-18 13:59:17 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2024-10-29 11:33:43 +0100"
@@ -3532,6 +3568,12 @@
   "antiqueatlas:recipes/atlas": {
     "criteria": {
       "has_compass": "2024-10-28 14:10:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_gray_dye": "2024-11-18 13:59:17 +0100"
     },
     "done": true
   },
