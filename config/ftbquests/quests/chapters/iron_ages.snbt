@@ -544,7 +544,7 @@
 				id: "6B0B3FA013E33EEC"
 				type: "command"
 				auto: "invisible"
-				command: "/gamestage add @p Enlightment"
+				command: "/gamestage add @p Enlightenment"
 				silent: true
 			}]
 		}

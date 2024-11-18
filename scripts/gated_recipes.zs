@@ -251,16 +251,16 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/s
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_stone_slab>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_stone_stairs>);
 
-//Enlightment Ages
-mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:extendedcrafting:advanced_component>);
-mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:extendedcrafting:advanced_catalyst>);
-mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:kubejs:kjs_1j5yisqzsqcz0kisw7lll67n>);
-mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:kubejs:kjs_67jr6ajty6vhgll9q1jt29p9t>);
-mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:immersiveengineering:crafting/raw_hammercrushing_cobalt>);
-mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:immersiveengineering:crafting/hammercrushing_cobalt>);
-mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:minecraft:cartography_table>);
-mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:minecraft:spyglass>);
-mods.recipestages.Recipes.setRecipeStage("Enlightment", <resource:pneumaticcraft:air_compressor>);
+//Enlightenment Ages
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:extendedcrafting:advanced_component>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:extendedcrafting:advanced_catalyst>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_1j5yisqzsqcz0kisw7lll67n>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_67jr6ajty6vhgll9q1jt29p9t>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:immersiveengineering:crafting/raw_hammercrushing_cobalt>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:immersiveengineering:crafting/hammercrushing_cobalt>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:minecraft:cartography_table>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:minecraft:spyglass>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:pneumaticcraft:air_compressor>);
 
 //Industrial Ages
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:alchemistry:atomizer>);
