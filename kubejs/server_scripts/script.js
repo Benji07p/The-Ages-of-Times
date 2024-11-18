@@ -206,6 +206,34 @@ onEvent('recipes', event => {
 		}
 	)
 
+	//Glue
+	event.custom(
+        {
+            "type": "lychee:item_inside",
+            "item_in": [
+                {
+                    "item": "farmersdelight:tree_bark"
+                }
+            ],
+            "block_in": {
+                "blocks": ["water_cauldron"],
+                "state": {
+                    "level": 3
+                }
+            },
+            "post": [
+                {
+                    "type": "drop_item",
+                    "item": "the_ages_of_times:glue"
+                },
+				{
+					"type": "place",
+					"block": "cauldron"
+				}
+            ]
+        }
+    )
+
 	//Grout
 	event.remove({ id: 'tconstruct:smeltery/seared/seared_brick'})
 	event.remove({ id: 'tconstruct:smeltery/seared/seared_brick_kiln'})
