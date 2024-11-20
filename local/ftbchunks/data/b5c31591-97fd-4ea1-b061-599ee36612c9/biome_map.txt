@@ -4,7 +4,9 @@
 #34D minecraft:deep_lukewarm_ocean
 #008 minecraft:desert
 #4CA minecraft:dripstone_caves
+#4B0 minecraft:jungle
 #79A minecraft:lukewarm_ocean
+#498 minecraft:lush_caves
 #653 minecraft:nether_wastes
 #5FF minecraft:river
 #721 minecraft:soul_sand_valley

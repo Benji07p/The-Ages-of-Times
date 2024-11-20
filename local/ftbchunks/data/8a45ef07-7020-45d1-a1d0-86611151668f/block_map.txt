@@ -213,6 +213,7 @@
 #213091 minecraft:raw_copper_block
 #31987F notreepunching:red_sandstone_loose_rock
 #6A5D69 create:redstone_link
+#62B28A minecraft:redstone_ore
 #80100E createaddition:redstone_relay
 #24BE64 minecraft:redstone_torch
 #721B63 minecraft:redstone_wire

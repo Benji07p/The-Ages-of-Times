@@ -1,4 +1,5 @@
 #38394E minecraft:amethyst_block
+#B08B3B minecraft:amethyst_cluster
 #6380D5 minecraft:ancient_debris
 #FA75A8 minecraft:andesite
 #4515BD notreepunching:andesite_loose_rock
@@ -6,6 +7,8 @@
 #0D47EE minecraft:azalea_leaves
 #18D108 minecraft:basalt
 #840F59 minecraft:bedrock
+#173B65 minecraft:big_dripleaf
+#6BD369 minecraft:big_dripleaf_stem
 #C9CBB9 minecraft:blackstone
 #657B45 minecraft:bone_block
 #207534 minecraft:brown_mushroom
@@ -13,6 +16,7 @@
 #9AD2D0 minecraft:budding_amethyst
 #C6AC20 minecraft:cactus
 #00BE18 minecraft:calcite
+#12B6CA minecraft:cave_vines
 #F522F4 minecraft:chest
 #7FDE54 minecraft:clay
 #DE242D minecraft:coal_ore
@@ -67,14 +71,20 @@
 #2C1BE1 minecraft:gold_block
 #B76A76 minecraft:gold_ore
 #060B35 minecraft:granite
+#727610 notreepunching:granite_loose_rock
 #3F84B7 minecraft:grass_block
 #88BAFA minecraft:gravel
 #D7EADE minecraft:iron_ore
+#C1E251 minecraft:jungle_leaves
 #EA439B minecraft:lapis_ore
+#5AD536 minecraft:large_amethyst_bud
 #83CED3 minecraft:lava
 #EC280B minecraft:light_gray_terracotta
 #DE9468 minecraft:magma_block
 #5E18E2 the_ages_of_times:manganese_dioxide_ore
+#B42F3C minecraft:medium_amethyst_bud
+#8A7583 minecraft:moss_block
+#5A981B minecraft:moss_carpet
 #A4FC4B minecraft:mossy_cobblestone
 #2F738D minecraft:mossy_stone_brick_slab
 #5DD67D minecraft:nether_gold_ore
@@ -82,6 +92,7 @@
 #6B6354 minecraft:nether_wart_block
 #454322 minecraft:netherrack
 #AD9EB5 minecraft:oak_leaves
+#E3886A minecraft:oak_planks
 #4A5E4E minecraft:obsidian
 #5C837A create:ochrum
 #2D6ABE pneumaticcraft:oil
@@ -153,6 +164,7 @@
 #2035B7 minecraft:tube_coral_block
 #87BAF4 minecraft:tuff
 #6DB687 create:veridium
+#88779D minecraft:vine
 #CE8FAE minecraft:white_terracotta
 #CC6A83 minecraft:yellow_terracotta
 #6137CB create:zinc_ore
