@@ -186,14 +186,24 @@
 				type: "item"
 				item: "melter:melter"
 			}]
-			rewards: [{
-				id: "7D569330BAC844CE"
-				type: "command"
-				team_reward: false
-				auto: "invisible"
-				command: "/gamestage add @p Bronze"
-				silent: true
-			}]
+			rewards: [
+				{
+					id: "7D569330BAC844CE"
+					type: "command"
+					team_reward: false
+					auto: "invisible"
+					command: "/gamestage add @p Bronze"
+					silent: true
+				}
+				{
+					id: "5E1A30508EBBF3E8"
+					type: "command"
+					team_reward: false
+					auto: "invisible"
+					command: "/phase grant @p bronze"
+					silent: true
+				}
+			]
 		}
 		{
 			x: 12.0d

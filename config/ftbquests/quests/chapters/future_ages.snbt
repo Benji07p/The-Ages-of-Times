@@ -127,6 +127,14 @@
 				type: "item"
 				item: "the_ages_of_times:antimatter_bucket"
 			}]
+			rewards: [{
+				id: "786C72D6B104E164"
+				type: "command"
+				team_reward: false
+				auto: "invisible"
+				command: "/phase grant @p solar"
+				silent: true
+			}]
 		}
 		{
 			x: 3.0d
@@ -137,6 +145,14 @@
 				id: "03FCBE305C9A8A90"
 				type: "item"
 				item: "the_ages_of_times:darkmatter_bucket"
+			}]
+			rewards: [{
+				id: "478B04E9A0D9D4A2"
+				type: "command"
+				team_reward: false
+				auto: "invisible"
+				command: "/phase grant @p outer"
+				silent: true
 			}]
 		}
 		{

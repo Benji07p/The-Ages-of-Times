@@ -180,11 +180,21 @@
 				type: "item"
 				item: "beyond_earth:fuel_bucket"
 			}]
-			rewards: [{
-				id: "0EB00D45EC94CAB8"
-				type: "item"
-				item: "atum:coin_dirty"
-			}]
+			rewards: [
+				{
+					id: "0EB00D45EC94CAB8"
+					type: "item"
+					item: "atum:coin_dirty"
+				}
+				{
+					id: "3DC2E872B3DEDE7C"
+					type: "command"
+					team_reward: false
+					auto: "invisible"
+					command: "/phase grant @p orbit"
+					silent: true
+				}
+			]
 		}
 		{
 			x: 18.0d
@@ -237,6 +247,14 @@
 					type: "command"
 					auto: "invisible"
 					command: "/gamestage add @p Future"
+					silent: true
+				}
+				{
+					id: "00B3977C54699B33"
+					type: "command"
+					team_reward: false
+					auto: "invisible"
+					command: "/phase grant @p future"
 					silent: true
 				}
 			]
@@ -771,11 +789,21 @@
 				type: "item"
 				item: "the_ages_of_times:hydrogen_oxygen_mix_bucket"
 			}]
-			rewards: [{
-				id: "598FE697C3757E64"
-				type: "item"
-				item: "atum:coin_dirty"
-			}]
+			rewards: [
+				{
+					id: "598FE697C3757E64"
+					type: "item"
+					item: "atum:coin_dirty"
+				}
+				{
+					id: "663F5729A0B13A98"
+					type: "command"
+					team_reward: false
+					auto: "invisible"
+					command: "/phase grant @p moon"
+					silent: true
+				}
+			]
 		}
 		{
 			x: 13.5d
