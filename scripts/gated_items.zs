@@ -237,7 +237,6 @@ ItemStages.restrict(<item:the_ages_of_times:intermediary_pottery_large_vessel>, 
 ItemStages.restrict(<item:the_ages_of_times:intermediary_pottery_small_vessel>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:leather_belt>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:papyrus>, "Bronze");
-ItemStages.restrict(<item:the_ages_of_times:papyrus_spawn>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:plumb_line>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:porcelain_dust>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:porcelain_heater>, "Bronze");
