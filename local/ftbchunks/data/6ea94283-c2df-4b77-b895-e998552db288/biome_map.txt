@@ -1,0 +1,16 @@
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#4F9 minecraft:dark_forest
+#34D minecraft:deep_lukewarm_ocean
+#3DE minecraft:deep_ocean
+#4CA minecraft:dripstone_caves
+#010 minecraft:forest
+#79A minecraft:lukewarm_ocean
+#498 minecraft:lush_caves
+#2D6 minecraft:meadow
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#73A minecraft:old_growth_pine_taiga
+#60C minecraft:old_growth_spruce_taiga
+#5FF minecraft:river
+#169 minecraft:taiga

@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-10-29 11:24:24 +0100"
@@ -592,6 +598,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_light_blue": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
@@ -646,6 +658,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-11-01 12:15:55 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
     },
     "done": true
   },
@@ -736,6 +754,12 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2024-11-01 12:15:54 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
     },
     "done": true
   },
@@ -916,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2024-11-21 17:29:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-11-01 15:28:01 +0100"
@@ -1045,6 +1075,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_tank": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-10-29 11:33:42 +0100"
@@ -1123,6 +1159,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/building_blocks/weathered_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2024-10-29 11:33:43 +0100"
@@ -1168,6 +1210,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2024-10-29 11:33:43 +0100"
@@ -1195,6 +1243,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
     "criteria": {
       "has_item": "2024-10-29 11:33:43 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -1324,6 +1378,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2024-10-29 11:33:43 +0100"
@@ -1336,9 +1396,21 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
+    },
+    "done": true
+  },
   "ceramicshears:recipes/tools/ceramic_shears": {
     "criteria": {
       "has_clay": "2024-10-28 14:10:42 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/flarestack": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
     },
     "done": true
   },
@@ -1393,6 +1465,12 @@
   "create:recipes/create.base/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2024-10-30 15:18:05 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -1486,6 +1564,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-11-01 12:11:32 +0100"
@@ -1546,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2024-11-21 17:29:11 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/shovel_steel": {
     "criteria": {
       "has_steel_ingot": "2024-10-31 14:45:05 +0100"
@@ -1595,6 +1685,12 @@
       "ras_fury": "2024-10-28 14:10:42 +0100",
       "gebs_might": "2024-10-28 14:10:42 +0100",
       "isis_healing": "2024-10-28 14:10:42 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -1802,6 +1898,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_smart_gray": {
     "criteria": {
       "has_dyes/black": "2024-11-18 13:59:17 +0100"
@@ -1829,6 +1931,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2024-10-31 14:39:57 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -1973,6 +2081,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/fluorescent_tube": {
     "criteria": {
       "has_electrode": "2024-10-31 14:52:55 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -2402,6 +2516,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_smart_yellow": {
     "criteria": {
       "has_dyes/black": "2024-10-31 14:39:56 +0100"
@@ -2450,6 +2570,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/building_blocks/oxidized_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-10-29 11:34:48 +0100"
@@ -2465,6 +2591,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_aluminum": {
     "criteria": {
       "has_plate": "2024-11-02 11:12:11 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/exposed_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -2507,6 +2639,12 @@
   "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2024-11-20 17:08:35 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -2780,6 +2918,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/petcoke_block_to_items": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-11-20 17:08:35 +0100"
@@ -2795,6 +2939,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-10-29 11:34:47 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -2855,6 +3005,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/gps_area_tool": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
     },
     "done": true
   },
@@ -2966,6 +3122,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/decorations/candle": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-11-20 17:08:35 +0100"
@@ -3074,6 +3236,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2024-10-29 11:33:43 +0100"
@@ -3125,6 +3293,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-11-17 13:15:11 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_to_block": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
     },
     "done": true
   },
@@ -3182,6 +3356,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2024-11-15 17:01:52 +0100"
@@ -3221,6 +3401,12 @@
   "create:stressometer": {
     "criteria": {
       "0": "2024-11-10 13:33:37 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -3266,6 +3452,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/building_blocks/cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-11-20 12:22:19 +0100"
@@ -3287,6 +3479,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/pneumatic_door_base": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_block_to_items": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -3377,6 +3575,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2024-10-31 14:39:57 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/molotov_wool": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
     },
     "done": true
   },
@@ -3512,6 +3716,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-11-20 17:08:35 +0100"
@@ -3527,6 +3737,12 @@
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-11-01 15:36:40 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
     },
     "done": true
   },
@@ -3683,6 +3899,12 @@
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-11-01 12:15:53 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },
@@ -3901,6 +4123,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-10-29 11:47:52 +0100"
@@ -3910,6 +4138,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2024-11-20 17:08:36 +0100"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-21 16:59:37 +0100"
     },
     "done": true
   },

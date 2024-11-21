@@ -156,6 +156,7 @@
 #80CAA6 minecraft:melon
 #4B39A0 melter:melter
 #FE827B chemlib:mercury
+#89A155 the_ages_of_times:microscope
 #C4844D create:millstone
 #BB8DD9 createaddition:modular_accumulator
 #9346A4 tconstruct:molten_ender_fluid
@@ -271,6 +272,7 @@
 #7D07A9 minecraft:stone_pressure_plate
 #AB5BC7 minecraft:stone_slab
 #9E51B2 create:stressometer
+#B96EB4 minecraft:structure_block
 #5CF3F1 minecraft:sugar_cane
 #9209D8 minecraft:terracotta
 #B2F195 ceramics:terracotta_faucet
