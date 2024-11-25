@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/computer_command": {
+    "criteria": {
+      "has_components": "2024-11-25 19:26:47 +0100"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-10-29 11:34:48 +0100"
@@ -2321,6 +2327,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-11-17 13:15:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-11-25 19:28:25 +0100"
     },
     "done": true
   },

@@ -52,6 +52,7 @@
 #FE4F0A minecraft:coarse_dirt
 #058353 minecraft:cobblestone
 #B76D44 create:cogwheel
+#FB5E8C minecraft:command_block
 #E2D601 minecraft:composter
 #2BFCCE ae2:controller
 #0D9C42 ironchest:copper_chest
@@ -213,6 +214,7 @@
 #8DE070 ae2:quartz_ore
 #213091 minecraft:raw_copper_block
 #31987F notreepunching:red_sandstone_loose_rock
+#25AEF5 minecraft:redstone_block
 #6A5D69 create:redstone_link
 #62B28A minecraft:redstone_ore
 #80100E createaddition:redstone_relay
