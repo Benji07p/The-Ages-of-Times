@@ -2426,7 +2426,7 @@ onEvent('recipes', event => {
 		  "post": [
 			{
 			  "type": "execute",
-			  "command": "summon pig ~ ~ ~ {Silent:1b,CustomNameVisible:0b,DeathLootTable:\"minecraft:empty\",CustomName:'{\"text\":\"x9795652153\"}',ActiveEffects:[{Id:14b,Amplifier:1b,Duration:100000}],Passengers:[{id:\"beyond_earth:rocket_t1\",Passengers:[{id:\"the_ages_of_times:satellite\"}]}]}",
+			  "command": "summon pig ~ ~ ~ {Silent:1b,CustomNameVisible:0b,DeathLootTable:\"minecraft:empty\",Attributes: [{Base: 0.25d, Modifiers: [{Amount: -38.400001525878906d, Operation: 2, UUID: [I; 1896341086, 2095595568, -1811001012, 521537680], Name: \"effect.minecraft.slowness 255\"}], Name: \"minecraft:generic.movement_speed\"}],CustomName:'{\"text\":\"x9795652153\"}',ActiveEffects:[{Id:14b,Amplifier:1b,Duration:100000}],Passengers:[{id:\"beyond_earth:rocket_t1\",Passengers:[{id:\"the_ages_of_times:satellite\"}]}]}",
 			  "hide": true
 			}
 		  ]
