@@ -296,5 +296,8 @@ onEvent('item.tooltip', tooltip => {
 	tooltip.addAdvanced(['the_ages_of_times:andesite_shaft'], (item, advanced, text) => {
 		text.add(1, Text.of('Just for crafting'))
 	})
+	tooltip.addAdvanced(['the_ages_of_times:quantum_intriquer_structure'], (item, advanced, text) => {
+		text.add(1, Text.of('Be careful, the structure can destroy blocks in an 11x11x11 area'))
+	})
 
 })
