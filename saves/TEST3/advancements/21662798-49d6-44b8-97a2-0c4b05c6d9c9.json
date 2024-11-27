@@ -1087,6 +1087,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_block": {
+    "criteria": {
+      "tnt": "2024-11-27 12:16:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-10-29 11:33:42 +0100"
@@ -1549,6 +1555,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-10-29 11:34:48 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/wheat_flour": {
+    "criteria": {
+      "tnt": "2024-11-27 12:16:01 +0100"
     },
     "done": true
   },
@@ -3899,6 +3911,12 @@
   "immersiveengineering:main/main_root": {
     "criteria": {
       "has_item": "2024-10-29 11:24:31 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
+    "criteria": {
+      "tnt": "2024-11-27 12:16:01 +0100"
     },
     "done": true
   },
