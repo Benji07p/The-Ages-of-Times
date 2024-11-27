@@ -1,3 +1,4 @@
+#1AAE69 ae2:16k_crafting_storage
 #942E52 minecraft:acacia_leaves
 #A78454 minecraft:acacia_log
 #0A478E createaddition:accumulator
@@ -99,6 +100,7 @@
 #2BCCE0 notreepunching:diorite_loose_rock
 #80497A minecraft:dirt
 #4FA7D0 minecraft:dirt_path
+#B666A8 minecraft:dispenser
 #5B644A immersivepetroleum:distillation_tower
 #3B0AD1 minecraft:dripstone_block
 #91A5DB createaddition:electric_motor
@@ -172,6 +174,7 @@
 #5C837A create:ochrum
 #E41AF8 beyond_earth:oil
 #2D6ABE pneumaticcraft:oil
+#C122EE pneumaticcraft:omnidirectional_hopper
 #BF0745 immersiveengineering:ore_aluminum
 #AEFCD8 the_ages_of_times:ore_argyrodite
 #218738 the_ages_of_times:ore_columbite
@@ -220,6 +223,7 @@
 #80100E createaddition:redstone_relay
 #24BE64 minecraft:redstone_torch
 #721B63 minecraft:redstone_wire
+#487B7B minecraft:repeater
 #A69CFB electrodynamics:resourceblocklead
 #CA5CEC electrodynamics:resourceblocksilver
 #0FC6DA electrodynamics:resourceblocktin
@@ -280,6 +284,7 @@
 #B2F195 ceramics:terracotta_faucet
 #4C0FBF createaddition:tesla_coil
 #689A91 tconstruct:tinker_station
+#EA564E ironchest:trapped_iron_chest
 #2035B7 minecraft:tube_coral_block
 #87BAF4 minecraft:tuff
 #36CBC5 extendedcrafting:ultimate_table
