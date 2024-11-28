@@ -20,14 +20,14 @@ mods.recipestages.Recipes.setRecipeStage("GPS", <resource:pneumaticcraft:gps_too
 
 
 //Paleolithic Ages
-mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "bucketlib");
-mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "chemlib");
-mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "itemfilters");
-mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "ftbquests");
-mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "nologpunch");
-mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "notreepunching");
-mods.recipestages.Recipes.setRecipeStageByMod("twobytwo", "woodenbucket");
-mods.recipestages.Recipes.setRecipeStage("twobytwo", <resource:the_ages_of_times:extinglitched_campfire>);
+mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "bucketlib");
+mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "chemlib");
+mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "itemfilters");
+mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "ftbquests");
+mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "nologpunch");
+mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "notreepunching");
+mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "woodenbucket");
+mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:the_ages_of_times:extinglitched_campfire>);
 
 //Neolithic Ages
 mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "astikorcarts");
