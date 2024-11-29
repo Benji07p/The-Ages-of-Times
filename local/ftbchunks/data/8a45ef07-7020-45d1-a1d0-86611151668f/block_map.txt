@@ -128,6 +128,7 @@
 #88BAFA minecraft:gravel
 #87B5C3 create:hand_crank
 #F67E21 minecraft:hay_block
+#1A0827 minecraft:hopper
 #9D2636 minecraft:horn_coral_block
 #F47085 immersivepetroleum:hydrotreater
 #369260 create:industrial_iron_block
