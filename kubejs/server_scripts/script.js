@@ -3312,6 +3312,17 @@ onEvent('recipes', event => {
 		}
 	)
 
+	//Plasma Auto
+	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:plasma_auto"}'), [
+		'FSF',
+		'FHF',
+		' F '
+	], {
+	H: 'minecraft:hopper',
+	S: 'minecraft:nether_star',
+	F: 'electrodynamics:plateiron'
+	})
+
 	//Tempad
 	event.remove({ id: 'tempad:tempad' })
 	event.custom(
