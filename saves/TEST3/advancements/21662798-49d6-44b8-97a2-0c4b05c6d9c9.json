@@ -970,6 +970,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-11-29 16:56:45 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/smooth_plastic_brick_white": {
     "criteria": {
       "has_plastic": "2024-10-29 11:24:45 +0100"
@@ -1168,6 +1174,12 @@
   "alchemistry:recipes/dissolver/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2024-10-29 11:47:52 +0100"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-11-29 17:06:57 +0100"
     },
     "done": true
   },
