@@ -42,11 +42,11 @@ onEvent('recipes', event => {
                     "type": "custommachinery:contraption",
                     "mode": "output",
                     "speed": 48,
-                    "stress": 256
+                    "stress": 6
 				},
                 {
                     "type": "custommachinery:command",
-                    "command": "/execute as @e[type=minecraft:armor_stand, distance=..1] at @s run execute as @e[type=minecraft:horse,distance=..3] run tp @s ^2 ^ ^ facing ^270 ^ ^",
+                    "command": "/execute as @e[type=minecraft:armor_stand, distance=..1] at @s run execute as @e[type=minecraft:horse,distance=..3] run tp @s ^2 ^ ^ facing ^-90 ^-90 ^-90",
                     "permission": 2,
                     "phase": "crafting_tickable"
                 },
