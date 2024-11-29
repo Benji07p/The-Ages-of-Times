@@ -1,9 +1,0 @@
-#556 minecraft:beach
-#008 minecraft:desert
-#4CA minecraft:dripstone_caves
-#010 minecraft:forest
-#4B0 minecraft:jungle
-#3DC minecraft:plains
-#5FF minecraft:river
-#67B minecraft:savanna
-#2B7 minecraft:warm_ocean

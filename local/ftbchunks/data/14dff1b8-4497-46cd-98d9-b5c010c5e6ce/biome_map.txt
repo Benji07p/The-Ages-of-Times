@@ -1,7 +1,0 @@
-#47F minecraft:birch_forest
-#4CA minecraft:dripstone_caves
-#010 minecraft:forest
-#2D6 minecraft:meadow
-#3DC minecraft:plains
-#5FF minecraft:river
-#67B minecraft:savanna
