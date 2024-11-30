@@ -1,5 +1,6 @@
 [
     {
+        "phase": "after_day60",
         "mob": [
             "atum:assassin",
             "atum:bandit_warlord",

@@ -1,1 +1,8 @@
-[]
+[
+    {
+      "name": "after_day60",
+      "conditions": {
+          "mindaycount": 60
+      }
+    }
+  ]
