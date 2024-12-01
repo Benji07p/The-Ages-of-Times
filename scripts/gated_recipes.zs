@@ -3,6 +3,8 @@ import mods.recipestages.Recipes;
 //mods.recipestages.Recipes.setRecipeStage("stage_block", <item:magistuarmory:heavy_crossbow>);
 //mods.recipestages.Recipes.setRecipeStageByMod("stage_block", "magistuarmory");
 
+mods.recipestages.Recipes.setContainerStages("com.hammy275.immersivemc.common.storage.workarounds.NullContainer", ["Paleolithic", "Neolithic", "Bronze"]);
+
 mods.recipestages.Recipes.setRecipeStage("Gunpowder", <item:minecraft:gunpowder>);
 //mods.recipestages.Recipes.setRecipeStage("Gunpowder", <resource:immersiveengineering:crafting/gunpowder_from_dusts>);
 //mods.recipestages.Recipes.setRecipeStage("Gunpowder", <resource:electrodynamics:gunpowderfromcharcoal>);
@@ -27,6 +29,7 @@ mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "ftbquests");
 mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "nologpunch");
 mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "notreepunching");
 mods.recipestages.Recipes.setRecipeStageByMod("Paleolithic", "woodenbucket");
+mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:gravestone:gravestone>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:the_ages_of_times:extinglitched_campfire>);
 
 //Neolithic Ages
@@ -355,6 +358,7 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_d73urjnq
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_40p4uspge0h5w7rt4hrbmi9zm>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_69caxuv6dkgk3aphb1u2ua6bv>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_awz30ban57oviqjtplx1bggo9>);
+mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_8khh7sq6ap1876jr2j91hg7ft>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:beacon>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:blaze_powder>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:brewing_stand>);
