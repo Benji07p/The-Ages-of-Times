@@ -77,6 +77,28 @@ onEvent('recipes', event => {
 	S: '#minecraft:wooden_slabs'
 	})
 
+	//Colorant
+	event.remove({ id: 'minecraft:black_dye' })
+	event.remove({ id: 'minecraft:red_dye_from_rose_bush' })
+	event.remove({ id: 'minecraft:red_dye_from_tulip' })
+	event.remove({ id: 'minecraft:red_dye_from_poppy' })
+	event.remove({ id: 'minecraft:yellow_dye_from_sunflower' })
+	event.remove({ id: 'minecraft:yellow_dye_from_dandelion' })
+	event.shapeless('minecraft:brown_dye', ['minecraft:orange_dye', 'minecraft:red_dye', 'minecraft:yellow_dye'])
+
+	//Clay Shears Part
+	event.custom(
+		{
+			"type": "ceramics:kiln",
+			"ingredient": {
+			  "item": "ceramicshears:clay_shears_part"
+			},
+			"result": "ceramicshears:ceramic_shears_part",
+			"experience": 0.3,
+			"cookingtime": 100
+		  }
+	)
+
 	//Slicer
 
 	//Chest
