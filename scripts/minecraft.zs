@@ -41,7 +41,6 @@ mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:blac
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:black_carpet>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:black_carpet_from_white_carpet>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:black_concrete_powder>);
-mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:black_dye>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:black_dye_from_wither_rose>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:black_stained_glass>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:black_stained_glass_pane>);
@@ -79,7 +78,6 @@ mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:brow
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:brown_carpet>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:brown_carpet_from_white_carpet>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:brown_concrete_powder>);
-mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:brown_dye>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:brown_stained_glass>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:brown_stained_glass_pane>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:brown_stained_glass_pane_from_glass_pane>);
@@ -475,9 +473,6 @@ mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:red_
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:red_carpet_from_white_carpet>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:red_concrete_powder>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:red_dye_from_beetroot>);
-mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:red_dye_from_poppy>);
-mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:red_dye_from_rose_bush>);
-mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:red_dye_from_tulip>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:red_nether_bricks>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:red_nether_brick_slab>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:red_nether_brick_stairs>);
@@ -631,8 +626,6 @@ mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:yell
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:yellow_carpet>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:yellow_carpet_from_white_carpet>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:yellow_concrete_powder>);
-mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:yellow_dye_from_dandelion>);
-mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:yellow_dye_from_sunflower>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:yellow_stained_glass>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:yellow_stained_glass_pane>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:yellow_stained_glass_pane_from_glass_pane>);
