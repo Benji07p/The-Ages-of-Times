@@ -69,7 +69,6 @@ ItemStages.restrict(<item:farmersdelight:chocolate_pie>, "Iron");
 ItemStages.restrict(<item:farmersdelight:chocolate_pie_slice>, "Iron");
 ItemStages.restrict(<item:farmersdelight:cod_roll>, "Iron");
 ItemStages.restrict(<item:farmersdelight:cooked_bacon>, "Iron");
-ItemStages.restrict(<item:farmersdelight:cooked_chicken_cuts>, "Iron");
 ItemStages.restrict(<item:farmersdelight:cooked_cod_slice>, "Iron");
 ItemStages.restrict(<item:farmersdelight:cooked_mutton_chops>, "Iron");
 ItemStages.restrict(<item:farmersdelight:cooked_rice>, "Iron");
