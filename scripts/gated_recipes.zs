@@ -47,6 +47,7 @@ mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:create:crafting/
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:create:crafting/kinetics/mechanical_press>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:create:crafting/kinetics/vertical_gearboxfrom_conversion>);
 mods.recipestages.Recipes.setRecipeStageByMod("Neolithic", "farmersdelight");
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_d8i5g2v0b7xdanyc4sl0cpajc>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_ds4omyvm1chi56324jhprvskn>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_q2t18fjgbm9s56jbrol26ywt>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_qybb2zi7h54a1istnh3kgsuu>);
