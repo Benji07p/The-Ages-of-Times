@@ -100,6 +100,16 @@ onEvent('recipes', event => {
 	)
 
 	//Slicer
+	event.remove({ id: 'sliceanddice:slicer' })
+	event.shaped('sliceanddice:slicer', [
+		'R',
+		'P',
+		'C'
+	], {
+	R: 'create:shaft',
+	P: 'minecraft:spruce_planks',
+	C: 'farmersdelight:cutting_board'
+	})
 
 	//Chest
 	event.remove({ id: 'minecraft:chest' })
