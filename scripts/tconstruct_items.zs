@@ -22,7 +22,6 @@ ItemStages.restrict(<item:tconstruct:blood_ender_slime_grass>, "Iron");
 ItemStages.restrict(<item:tconstruct:blood_ichor_slime_grass>, "Iron");
 ItemStages.restrict(<item:tconstruct:blood_sky_slime_grass>, "Iron");
 ItemStages.restrict(<item:tconstruct:blood_slime>, "Iron");
-ItemStages.restrict(<item:tconstruct:blood_slime_ball>, "Iron");
 ItemStages.restrict(<item:tconstruct:blood_slime_fern>, "Iron");
 ItemStages.restrict(<item:tconstruct:blood_slime_grass_seeds>, "Iron");
 ItemStages.restrict(<item:tconstruct:blood_slime_leaves>, "Iron");
