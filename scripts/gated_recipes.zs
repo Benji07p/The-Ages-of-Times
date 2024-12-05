@@ -54,6 +54,7 @@ mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_qybb2
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_540w4pw13sw9ia0b90zuc5ufa>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_7krh1wt5yp1as26l4ke20655n>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_7tx29gw50rtc3cfdbiztq6h8v>);
+mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_sr4jdldq99vmzililp5xhzb>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:the_ages_of_times:leather_cordto_strip>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:kubejs:kjs_5u0kyv3lmxsm1muaw2d2atkd0>);
 mods.recipestages.Recipes.setRecipeStage("Neolithic", <resource:the_ages_of_times:lead_leather>);
