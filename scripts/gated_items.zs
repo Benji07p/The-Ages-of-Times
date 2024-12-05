@@ -61,6 +61,7 @@ ItemStages.restrict(<item:the_ages_of_times:hide_tanned>, "Neolithic");
 ItemStages.restrict(<item:the_ages_of_times:hide_wet>, "Neolithic");
 ItemStages.restrict(<item:the_ages_of_times:leather_cordage>, "Neolithic");
 ItemStages.restrict(<item:the_ages_of_times:leather_strip>, "Neolithic");
+ItemStages.restrict(<item:the_ages_of_times:porcelain_dust>, "Neolithic");
 ItemStages.restrict(<item:the_ages_of_times:rackraw>, "Neolithic");
 ItemStages.restrict(<item:the_ages_of_times:racksalted>, "Neolithic");
 ItemStages.restrict(<item:the_ages_of_times:wooden_sheat>, "Neolithic");
@@ -240,7 +241,6 @@ ItemStages.restrict(<item:the_ages_of_times:intermediary_pottery_small_vessel>, 
 ItemStages.restrict(<item:the_ages_of_times:leather_belt>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:papyrus>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:plumb_line>, "Bronze");
-ItemStages.restrict(<item:the_ages_of_times:porcelain_dust>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:stone_platform>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:stone_tablet>, "Bronze");
 ItemStages.restrict(<item:the_ages_of_times:writable_papyrus>, "Bronze");
