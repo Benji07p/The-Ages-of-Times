@@ -168,6 +168,9 @@ mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineerin
 mods.recipestages.Recipes.setRecipeStageByMod("Bronze", "ironchest");
 mods.recipestages.Recipes.setRecipeStageByMod("Bronze", "mctb");
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:minecraft:barrel>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:quark:building/crafting/furnaces/blackstone_furnace>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:quark:building/crafting/furnaces/cobblestone_furnace>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:quark:building/crafting/furnaces/deepslate_furnace>);
 mods.recipestages.Recipes.setRecipeStageByMod("Bronze", "sleeping_bags");
 
 //Iron Ages
@@ -222,7 +225,6 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_s
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_pickaxe>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_sword>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_axe>);
-mods.recipestages.Recipes.setRecipeStageByMod("Iron", "quark");
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "structurize");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/channel>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/chute>);
