@@ -79,6 +79,7 @@ onEvent('recipes', event => {
 
 	//Colorant
 	event.remove({ id: 'minecraft:black_dye' })
+	event.remove({ id: 'minecraft:brown_dye' })
 	event.remove({ id: 'minecraft:red_dye_from_rose_bush' })
 	event.remove({ id: 'minecraft:red_dye_from_tulip' })
 	event.remove({ id: 'minecraft:red_dye_from_poppy' })
@@ -3436,4 +3437,16 @@ onEvent('item.tags', event => {
 
 	//Raw Hide
 	event.add('forge:hiderawloot', ['butchersdelight:cow_hide', 'butchersdelight:sheephide'])
+})
+
+onEvent('block.tags', event => {
+	event.remove('tconstruct:mineable/hand_axe', 'tconstruct:crafting_station')
+	event.remove('minecraft:mineable/axe', 'tconstruct:crafting_station')
+	event.add('minecraft:mineable/pickaxe', 'tconstruct:crafting_station')
+	event.add('tconstruct:mineable/pickadze', 'tconstruct:crafting_station')
+
+	event.remove('minecraft:mineable/pickaxe', 'minecraft:cauldron')
+	event.remove('tconstruct:mineable/pickadze', 'minecraft:cauldron')
+	event.add('tconstruct:mineable/hand_axe', 'minecraft:cauldron')
+	event.add('minecraft:mineable/axe', 'minecraft:cauldron')
 })
