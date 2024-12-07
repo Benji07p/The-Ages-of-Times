@@ -172,6 +172,7 @@ onEvent('recipes', event => {
 	})
 
 	//Flakes Bones
+	event.remove({output: 'minecraft:bone_meal'})
 	event.custom(
 		{
 			"type": "lychee:block_interacting",
