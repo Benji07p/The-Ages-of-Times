@@ -1,21 +1,21 @@
 import mods.recipestages.Recipes;
 
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_blue>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_brown>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_cyan>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_gray>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_green>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_light_blue>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_light_gray>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_lime>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_magenta>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_orange>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_pink>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_purple>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_red>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_white>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_white_dye>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:beyond_earth:flag_yellow>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_blue>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_brown>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_cyan>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_gray>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_green>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_light_blue>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_light_gray>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_lime>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_magenta>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_orange>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_pink>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_purple>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_red>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_white>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_white_dye>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_yellow>);
 
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:blue_iron_plating_block>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:coal_generator>);

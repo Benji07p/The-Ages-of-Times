@@ -1,19 +1,19 @@
 import mods.itemstages.ItemStages;
 
-ItemStages.restrict(<item:beyond_earth:flag>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_blue>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_brown>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_cyan>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_gray>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_green>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_light_blue>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_lime>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_magenta>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_orange>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_pink>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_purple>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_red>, "Bronze");
-ItemStages.restrict(<item:beyond_earth:flag_yellow>, "Bronze");
+ItemStages.restrict(<item:beyond_earth:flag>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_blue>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_brown>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_cyan>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_gray>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_green>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_light_blue>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_lime>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_magenta>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_orange>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_pink>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_purple>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_red>, "Iron");
+ItemStages.restrict(<item:beyond_earth:flag_yellow>, "Iron");
 
 ItemStages.restrict(<item:beyond_earth:blue_iron_plating_block>, "Modern");
 ItemStages.restrict(<item:beyond_earth:cheese>, "Modern");
