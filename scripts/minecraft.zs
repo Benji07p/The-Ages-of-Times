@@ -65,7 +65,6 @@ mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:blue
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:bow>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:bowl>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:bone_block>);
-mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:bone_meal>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:bone_meal_from_bone_block>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:bricks>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:brick_slab>);
