@@ -265,11 +265,6 @@
 					type: "item"
 					item: "electrodynamics:raworesilver"
 				}
-				{
-					id: "67663EF9BDB8A5FF"
-					type: "item"
-					item: "immersiveengineering:dust_electrum"
-				}
 			]
 		}
 		{
@@ -287,11 +282,6 @@
 					id: "54C0EBB44F5D5C9F"
 					type: "item"
 					item: "electrodynamics:ingotsilver"
-				}
-				{
-					id: "71DB63B6074C265D"
-					type: "item"
-					item: "minecraft:gold_nugget"
 				}
 			]
 		}
