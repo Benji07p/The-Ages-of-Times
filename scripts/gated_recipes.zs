@@ -220,6 +220,7 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_2dyjbvyfcz
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_6r9vnvnh7ef160epc9rmh2wb6>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_5h0vl9d7bfpll28xen7lnf7h>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_6xmwxn3fv2x01vrlqeuvdcgoy>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_7afdkwkyf3cql9g44mtuxin7i>);
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "minecolonies");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_hoe>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_shovel>);
