@@ -584,6 +584,25 @@ onEvent('recipes', event => {
 	C: '#forge:cobblestone'
 	})
 
+	//Cream Bricks
+	event.shaped('4x domum_ornamentum:cream_bricks', [
+		'GG',
+		'BB'
+	], {
+	G: 'minecraft:sandstone',
+	B: 'minecraft:brick'
+	})
+
+	//Copper Pickaxe
+	event.shaped(Item.of('tconstruct:pickaxe', '{Damage:0,tic_broken:0b,tic_materials:["tconstruct:copper","tconstruct:copper","tconstruct:copper"],tic_modifiers:[{level:1s,name:"tconstruct:piercing"},{level:3s,name:"tconstruct:dwarven"}],tic_persistent_data:{abilities:1,upgrades:3},tic_stats:{"tconstruct:attack_damage":0.54999995f,"tconstruct:attack_speed":1.2f,"tconstruct:durability":168.0f,"tconstruct:harvest_tier":"minecraft:iron","tconstruct:mining_speed":5.5f}}'), [
+		'CCC',
+		' R ',
+		' R '
+	], {
+	C: 'minecraft:copper_ingot',
+	R: 'createaddition:copper_rod'
+	})
+
 	//Turntable
 	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:turntable"}'), [
 		'DSD',
