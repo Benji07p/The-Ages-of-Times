@@ -315,7 +315,6 @@ ItemStages.restrict(<item:tconstruct:pick_head>, "Iron");
 ItemStages.restrict(<item:tconstruct:pick_head_cast>, "Iron");
 ItemStages.restrict(<item:tconstruct:pick_head_red_sand_cast>, "Iron");
 ItemStages.restrict(<item:tconstruct:pickadze>, "Iron");
-ItemStages.restrict(<item:tconstruct:pickaxe>, "Bronze");
 ItemStages.restrict(<item:tconstruct:pig_iron_block>, "Iron");
 ItemStages.restrict(<item:tconstruct:pig_iron_ingot>, "Iron");
 ItemStages.restrict(<item:tconstruct:pig_iron_nugget>, "Iron");

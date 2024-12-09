@@ -214,6 +214,7 @@ ItemStages.restrict(<item:tconstruct:nugget_red_sand_cast>, "Bronze");
 ItemStages.restrict(<item:tconstruct:nugget_sand_cast>, "Bronze");
 ItemStages.restrict(<item:tconstruct:part_builder>, "Bronze");
 ItemStages.restrict(<item:tconstruct:pick_head_sand_cast>, "Bronze");
+ItemStages.restrict(<item:tconstruct:pickaxe>, "Bronze");
 ItemStages.restrict(<item:tconstruct:plate_red_sand_cast>, "Bronze");
 ItemStages.restrict(<item:tconstruct:plate_sand_cast>, "Bronze");
 ItemStages.restrict(<item:tconstruct:rod_red_sand_cast>, "Bronze");
