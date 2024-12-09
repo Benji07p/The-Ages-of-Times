@@ -870,7 +870,6 @@
 		{
 			x: 3.0d
 			y: 3.5d
-			description: ["cyka"]
 			dependencies: ["3A21FD3263D09971"]
 			id: "07ADDDAA1BA7DC5C"
 			tasks: [{

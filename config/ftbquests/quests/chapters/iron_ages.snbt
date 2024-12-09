@@ -349,6 +349,14 @@
 				type: "item"
 				item: "minecolonies:blockhuttownhall"
 			}]
+			rewards: [{
+				id: "261C06D81EC739D4"
+				type: "command"
+				team_reward: false
+				auto: "invisible"
+				command: "/phase grant @p iron2"
+				silent: true
+			}]
 		}
 		{
 			x: -2.5d
@@ -540,13 +548,23 @@
 				type: "item"
 				item: "antiqueatlas:empty_antique_atlas"
 			}]
-			rewards: [{
-				id: "6B0B3FA013E33EEC"
-				type: "command"
-				auto: "invisible"
-				command: "/gamestage add @p Enlightenment"
-				silent: true
-			}]
+			rewards: [
+				{
+					id: "6B0B3FA013E33EEC"
+					type: "command"
+					auto: "invisible"
+					command: "/gamestage add @p Enlightenment"
+					silent: true
+				}
+				{
+					id: "39427BF89B95437E"
+					type: "command"
+					team_reward: false
+					auto: "invisible"
+					command: "/phase grant @p enlightenment"
+					silent: true
+				}
+			]
 		}
 		{
 			x: 8.5d
