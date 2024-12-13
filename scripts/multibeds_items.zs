@@ -18,6 +18,7 @@ ItemStages.restrict(<item:multibeds:blanket_purple>, "Bronze");
 ItemStages.restrict(<item:multibeds:blanket_red>, "Bronze");
 ItemStages.restrict(<item:multibeds:blanket_white>, "Bronze");
 ItemStages.restrict(<item:multibeds:blanket_yellow>, "Bronze");
+ItemStages.restrict(<item:multibeds:custom>, "Bronze");
 ItemStages.restrict(<item:multibeds:embroidery_thread>, "Bronze");
 ItemStages.restrict(<item:multibeds:ladder>, "Bronze");
 ItemStages.restrict(<item:multibeds:ladder_tools>, "Bronze");
