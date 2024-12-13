@@ -21,7 +21,7 @@ onEvent('recipes', event => {
                     "type": "custommachinery:contraption",
                     "mode": "input",
                     "speed": 32,
-                    "stress": 256
+                    "stress": 16
 				}
 			]
 		}
