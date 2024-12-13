@@ -113,7 +113,6 @@ ItemStages.restrict(<item:create:train_trapdoor>, "Industrial");
 ItemStages.restrict(<item:create:weighted_ejector>, "Industrial");
 ItemStages.restrict(<item:create:whisk>, "Industrial");
 ItemStages.restrict(<item:create:white_sail>, "Industrial");
-ItemStages.restrict(<item:create:windmill_bearing>, "Industrial");
 ItemStages.restrict(<item:create:brass_funnel>, "Industrial");
 ItemStages.restrict(<item:create:brass_tunnel>, "Industrial");
 ItemStages.restrict(<item:create:content_observer>, "Industrial");

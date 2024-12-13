@@ -159,8 +159,8 @@ mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_6yqu70fx
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_dagkcrbcurbuy92jj62zrg6xs>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_cct475d42cyf6hiwgennnfhf1>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_b0ezoc8e53h4jbrmp06pjgrxd>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_1s81d5udisx032gc89d1difhy>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_7brgmry36xagd8gk2d9s5tnd1>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_1s81d5udisx032gc89d1difhy>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/hammercrushing_lead>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/nugget_lead_to_ingot_lead>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/plate_lead_hammering>);
