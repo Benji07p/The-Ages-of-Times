@@ -246,7 +246,6 @@
 						}
 					}
 				}
-				match_nbt: true
 			}]
 		}
 		{
@@ -389,7 +388,7 @@
 			tasks: [{
 				id: "1E28BF442A47946A"
 				type: "item"
-				item: "ironchest:wood_to_copper_chest_upgrade"
+				item: "ironchest:copper_chest"
 			}]
 		}
 		{
