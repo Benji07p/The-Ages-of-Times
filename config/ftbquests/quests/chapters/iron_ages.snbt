@@ -349,14 +349,21 @@
 				type: "item"
 				item: "minecolonies:blockhuttownhall"
 			}]
-			rewards: [{
-				id: "261C06D81EC739D4"
-				type: "command"
-				team_reward: false
-				auto: "invisible"
-				command: "/phase grant @p iron2"
-				silent: true
-			}]
+			rewards: [
+				{
+					id: "261C06D81EC739D4"
+					type: "command"
+					team_reward: false
+					auto: "invisible"
+					command: "/phase grant @p iron2"
+					silent: true
+				}
+				{
+					id: "33B213CD8856D3B6"
+					type: "item"
+					item: "minecolonies:supplycampdeployer"
+				}
+			]
 		}
 		{
 			x: -2.5d
