@@ -110,4 +110,5 @@ onEvent('gamephases.initialize', event => {
     event.phase('never')
     .dimension('minecraft:the_nether')
     .dimension('minecraft:the_end')
+    .entity('minecraft:iron_golem')
 })
