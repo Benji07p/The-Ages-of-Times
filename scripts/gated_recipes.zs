@@ -161,6 +161,7 @@ mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_cct475d4
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_b0ezoc8e53h4jbrmp06pjgrxd>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_7brgmry36xagd8gk2d9s5tnd1>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_1s81d5udisx032gc89d1difhy>);
+mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:kubejs:kjs_e1qlt2aqzaku9wkpheinyvbfo>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/hammercrushing_lead>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/nugget_lead_to_ingot_lead>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:immersiveengineering:crafting/plate_lead_hammering>);
@@ -218,7 +219,6 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:electrodynamics:plate
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "epic_knight");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:black_iron_ingot_uncraft>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:black_iron_block_uncraft>);
-mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:luminessence>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:basic_table>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:basic_catalyst>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:basic_component>);
@@ -238,6 +238,7 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_6r9vnvnh7e
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_5h0vl9d7bfpll28xen7lnf7h>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_6xmwxn3fv2x01vrlqeuvdcgoy>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_7afdkwkyf3cql9g44mtuxin7i>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:kubejs:kjs_35ak1lai2m7qwroadlyg932ug>);
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "minecolonies");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_hoe>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:minecraft:limestone_shovel>);
@@ -294,6 +295,7 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/wrench>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/super_glue>);
 mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "createaddition");
+mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:extendedcrafting:luminessence>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:compacting_drawer>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:compacting_framed_drawer>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:functionalstorage:configuration_tool>);
