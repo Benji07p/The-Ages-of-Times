@@ -267,8 +267,8 @@ onEvent('recipes', event => {
             ]
         }
     )
-    
-    event.shapeless('minecraft:slime_ball', ['minecraft:lime_dye', 'the_ages_of_times:glue'])
+
+	event.shapeless('minecraft:slime_ball', ['minecraft:lime_dye', 'the_ages_of_times:glue'])
 
 	//Grout
 	event.remove({ id: 'tconstruct:smeltery/seared/seared_brick'})
@@ -594,8 +594,8 @@ onEvent('recipes', event => {
 	G: 'minecraft:sandstone',
 	B: 'minecraft:brick'
 	})
-    
-    //Luminescence
+
+	//Luminescence
     event.shaped('extendedcrafting:luminessence', [
 		'BC',
 		'EG'
