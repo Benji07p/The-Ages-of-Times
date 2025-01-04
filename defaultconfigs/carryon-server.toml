@@ -32,7 +32,7 @@
 	#Allow babies to be carried even when adult mob is blacklisted (or not whitelisted)
 	allowBabies = false
 	#Use Whitelist instead of Blacklist for Blocks
-	useWhitelistBlocks = false
+	useWhitelistBlocks = true
 	#Use Whitelist instead of Blacklist for Entities
 	useWhitelistEntities = false
 	#Use Whitelist instead of Blacklist for Stacking
@@ -58,7 +58,7 @@
 	#Entities that CAN be picked up (useWhitelistEntities must be true)
 	allowedEntities = []
 	#Blocks that CAN be picked up (useWhitelistBlocks must be true)
-	allowedBlocks = []
+	allowedBlocks = ["the_ages_of_times:barrel", "the_ages_of_times:fluid_barrel", "#ceramics:porcelain_cisterns", "#ceramics:terracotta_cisterns"]
 	#Entities that CAN have other entities stacked on top of them (useWhitelistStacking must be true)
 	allowedStacking = []
 
