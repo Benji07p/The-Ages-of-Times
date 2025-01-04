@@ -397,7 +397,6 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/rope_pulley>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/rose_quartz_lamp>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/rotation_speed_controller>);
-mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/sail_framefrom_conversion>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/schedule>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/secondary_linear_chassisfrom_conversion>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/sequenced_gearshift>);
@@ -418,10 +417,7 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/train_trapdoor>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/weighted_ejector>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/whisk>);
-mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/white_sail>);
-mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/white_sailfrom_conversion>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/white_valve_handle_from_other_valve_handle>);
-mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/windmill_bearing>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/yellow_valve_handle_from_other_valve_handle>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/logistics/brass_funnel>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/logistics/brass_tunnel>);

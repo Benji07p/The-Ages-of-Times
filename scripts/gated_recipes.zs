@@ -212,6 +212,10 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/schem
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/schematics/schematicannon>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/schematics/schematic_and_quill>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/schematics/schematic_table>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/kinetics/sail_framefrom_conversion>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/kinetics/white_sail>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/kinetics/white_sailfrom_conversion>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/kinetics/windmill_bearing>);
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "domum_ornamentum");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:electrodynamics:geariron>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:electrodynamics:obsidian>);
