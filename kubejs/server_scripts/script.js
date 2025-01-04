@@ -1059,6 +1059,8 @@ onEvent('recipes', event => {
 	)
 
 	//Minecolonies
+	event.remove({ id: 'minecolonies:supplychestdeployer'})
+	event.remove({ id: 'minecolonies:supplycampdeployer'})
 	event.remove({ id: 'minecolonies:blockhutfarmerstone'})
 	event.custom(
 		{
