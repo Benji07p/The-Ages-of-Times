@@ -299,5 +299,8 @@ onEvent('item.tooltip', tooltip => {
 	tooltip.addAdvanced(['the_ages_of_times:quantum_intriquer_structure'], (item, advanced, text) => {
 		text.add(1, Text.of('Be careful, the structure can destroy blocks in an 11x11x11 area'))
 	})
+	tooltip.addAdvanced(['minecraft:crafting_table'], (item, advanced, text) => {
+		text.add(1, Text.of('Citizen can use this table'))
+	})
 
 })
