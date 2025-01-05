@@ -14,6 +14,7 @@
         }
     },
     "result":{
-        "item":"minecraft:map"
+        "item":"minecraft:map",
+        "count":3
     }
 }
