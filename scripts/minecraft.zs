@@ -94,7 +94,6 @@ mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:chis
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:chiseled_sandstone>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:chiseled_stone_bricks>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:clay>);
-mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:clock>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:coal>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:coal_block>);
 mods.recipestages.Recipes.setRecipeStage("Paleolithic", <resource:minecraft:coarse_dirt>);
