@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "notreepunching:andesite_cobblestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "notreepunching:andesite_loose_rock"
+    }
+  ],
+  "processingTime": 250
+}
