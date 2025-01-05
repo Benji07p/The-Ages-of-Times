@@ -1170,6 +1170,46 @@ onEvent('recipes', event => {
 			"cooling_time": 90
 		  }
 	)
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  "ABA",
+			  "CDC",
+			  "AEA"
+			],
+			"key": {
+			  "A": {
+				"item": "minecraft:oak_planks"
+			  },
+			  "B": {
+				"type": "forge:nbt",
+				"item": "tconstruct:sledge_hammer",
+				"count": 1,
+				"nbt": "{Damage:0,tic_broken:0b,tic_materials:[\"tconstruct:iron\",\"tconstruct:wood\",\"tconstruct:iron\",\"tconstruct:iron\"],tic_modifiers:[{level:2s,name:\"tconstruct:smite\"},{level:3s,name:\"tconstruct:magnetic\"},{level:1s,name:\"tconstruct:cultivated\"}],tic_multipliers:{\"tconstruct:attack_damage\":1.35f,\"tconstruct:durability\":4.0f,\"tconstruct:mining_speed\":0.4f},tic_persistent_data:{abilities:1,upgrades:2},tic_stats:{\"tconstruct:attack_damage\":6.75f,\"tconstruct:attack_speed\":0.75f,\"tconstruct:durability\":1000.0f,\"tconstruct:harvest_tier\":\"minecraft:iron\",\"tconstruct:mining_speed\":2.4f}}"
+			  },
+			  "C": {
+				"type": "forge:nbt",
+				"item": "ceramicshears:ceramic_shears",
+				"count": 1,
+				"nbt": "{Damage:0}"
+			  },
+			  "D": {
+				"item": "mctb:spruce_crafting_table"
+			  },
+			  "E": {
+				"type": "forge:nbt",
+				"item": "notreepunching:iron_saw",
+				"count": 1,
+				"nbt": "{Damage:0}"
+			  }
+			},
+			"result": {
+			  "item": "minecraft:crafting_table",
+			  "count":4
+			}
+		  }
+	)
 	event.shaped('magistuarmory:pitchfork', [
 		' G',
 		'S '
@@ -1180,6 +1220,10 @@ onEvent('recipes', event => {
 
 	//Blacksmith
 	event.remove({mod: 'magistuarmory'})
+
+	//Montre
+	event.remove({ id: 'minecraft:clock'})
+	event.remove({ id: 'tconstruct:smeltery/casting/metal/gold/clock'})
 
 	//Cartographer
 	event.remove({ id: 'minecolonies:blockhutcrusher'})
@@ -1431,31 +1475,15 @@ onEvent('recipes', event => {
 	)
 
 	//Telescope
-	event.custom(
-		{
-			"type": "extendedcrafting:shaped_table",
-			"pattern": [
-			  "  A",
-			  " B ",
-			  "A C"
-			],
-			"key": {
-			  "A": {
-				"item": "the_ages_of_times:lens"
-			  },
-			  "B": {
-				"item": "createaddition:brass_rod"
-			  },
-			  "C": {
-				"item": "the_ages_of_times:long_stick"
-			  }
-			},
-			"result": {
-			  "item": "custommachinery:custom_machine_item",
-			  "nbt": '{machine:"taotmachinery:telescope"}'
-			}
-		  }
-	)
+	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:telescope"}'), [
+		"  A",
+		" B ",
+		"A C"
+	  ], {
+	A: 'the_ages_of_times:lens',
+	B: 'createaddition:brass_rod',
+	C: 'the_ages_of_times:long_stick'
+	})
 
 	//Alembic
 	event.custom(
