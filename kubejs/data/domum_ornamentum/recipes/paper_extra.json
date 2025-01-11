@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "group":"extra",
+    "pattern":[
+        "X X",
+        " X ",
+        "X X"
+    ],
+    "key":{
+        "X":{
+            "item":"minecraft:white_concrete_powder"
+        }
+    },
+    "result":{
+        "count":4,
+        "item":"domum_ornamentum:paper_extra"
+    }
+}
