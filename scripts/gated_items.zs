@@ -395,6 +395,7 @@ ItemStages.restrict(<item:minecraft:minecart>, "Iron");
 ItemStages.restrict(<item:minecraft:chest_minecart>, "Iron"); 
 ItemStages.restrict(<item:minecraft:furnace_minecart>, "Iron");
 ItemStages.restrict(<item:minecraft:hopper_minecart>, "Iron");
+ItemStages.restrict(<item:minecraft:bookshelf>, "Iron");
 ItemStages.restrict(<item:minecraft:raw_iron>, "Iron");
 ItemStages.restrict(<item:minecraft:rail>, "Iron");
 ItemStages.restrict(<item:minecraft:bucket>, "Iron");
@@ -459,7 +460,6 @@ ItemStages.restrict(<item:immersiveengineering:storage_uranium>, "Enlightenment"
 ItemStages.restrict(<item:minecraft:gunpowder>, "Gunpowder");
 ItemStages.restrict(<item:minecraft:cartography_table>, "Enlightenment");
 ItemStages.restrict(<item:minecraft:spyglass>, "Enlightenment");
-ItemStages.restrict(<item:minecraft:bookshelf>, "Enlightenment");
 ItemStages.restrict(<item:minecraft:tnt>, "Enlightenment");
 ItemStages.restrict(<item:minecraft:lightning_rod>, "Enlightenment");
 ItemStages.restrict(<item:minecraft:daylight_detector>, "Enlightenment");
