@@ -866,6 +866,8 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     unfill("chemlib:nitrogen_dioxide", "chemlib:nitrogen_dioxide_fluid", 63, "the_ages_of_times:balloon")
     fill("the_ages_of_times:balloon", "chemlib:nitric_oxide_fluid", 63, "chemlib:nitric_oxide")
     unfill("chemlib:nitric_oxide", "chemlib:nitric_oxide_fluid", 63, "the_ages_of_times:balloon")
+    fill("the_ages_of_times:erlenmeyer", "chemlib:sulfuric_acid_fluid", 63, "chemlib:sulfuric_acid")
+    unfill("chemlib:sulfuric_acid", "chemlib:sulfuric_acid_fluid", 63, "the_ages_of_times:erlenmeyer")
     meltingfluid("minecraft:raw_iron", 1, "chemlib:sulfuric_acid_fluid", 100, "the_ages_of_times:iron_sulfate", 100, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01)
 
     //Phosphorus
