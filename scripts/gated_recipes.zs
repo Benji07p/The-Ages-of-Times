@@ -282,6 +282,7 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/s
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/seared/seared_stone_stairs>);
 
 //Enlightenment Ages
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:create:crafting/kinetics/filter>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:extendedcrafting:advanced_component>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:extendedcrafting:advanced_catalyst>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_1j5yisqzsqcz0kisw7lll67n>);
@@ -292,6 +293,7 @@ mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:immersiveeng
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:minecraft:cartography_table>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:minecraft:spyglass>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:pneumaticcraft:air_compressor>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:pneumaticcraft:pressure_tube>);
 
 //Industrial Ages
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:alchemistry:atomizer>);

@@ -434,6 +434,7 @@ ItemStages.createModRestriction("structurize", "Iron");
 //Enlightenment Ages
 ItemStages.restrict(<item:car:engine_3_cylinder>, "Enlightenment");
 ItemStages.restrict(<item:create:crushed_raw_uranium>, "Enlightenment");
+ItemStages.restrict(<item:create:filter>, "Enlightenment");
 ItemStages.restrict(<item:electrodynamics:crystalhalite>, "Enlightenment");
 ItemStages.restrict(<item:electrodynamics:oresulfur>, "Enlightenment");
 ItemStages.restrict(<item:electrodynamics:oreniter>, "Enlightenment");
@@ -466,6 +467,7 @@ ItemStages.restrict(<item:minecraft:daylight_detector>, "Enlightenment");
 ItemStages.restrict(<item:minecraft:tnt_minecart>, "Enlightenment");
 ItemStages.restrict(<item:minecraft:paper>, "Enlightenment");
 ItemStages.restrict(<item:pneumaticcraft:air_compressor>, "Enlightenment");
+ItemStages.restrict(<item:pneumaticcraft:pressure_tube>, "Enlightenment");
 ItemStages.restrict(<item:tconstruct:cobalt_block>, "Enlightenment");
 ItemStages.restrict(<item:tconstruct:cobalt_ingot>, "Enlightenment");
 ItemStages.restrict(<item:tconstruct:cobalt_nugget>, "Enlightenment");
