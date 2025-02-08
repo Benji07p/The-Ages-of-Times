@@ -250,10 +250,7 @@ onEvent('recipes', event => {
                 }
             ],
             "block_in": {
-                "blocks": ["water_cauldron"],
-                "state": {
-                    "level": 3
-                }
+                "blocks": ["water"]
             },
             "post": [
                 {
@@ -262,7 +259,7 @@ onEvent('recipes', event => {
                 },
 				{
 					"type": "place",
-					"block": "cauldron"
+					"block": "air"
 				}
             ]
         }
@@ -1210,6 +1207,24 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+	event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+			  " B ",
+			  "BBB",
+			  " B "
+			],
+			"key": {
+			  "B": {
+				"item": "minecraft:oak_log"
+			  }
+			},
+			"result": {
+			  "item": "minecolonies:gate_wood"
+			}
+		  }
+	)
 	event.shaped('magistuarmory:pitchfork', [
 		' G',
 		'S '
@@ -1473,6 +1488,90 @@ onEvent('recipes', event => {
 			"cooling_time": 90
 		  }
 	)
+	event.custom({
+		"type": "tconstruct:melting",
+		"ingredient": {
+		  "item": "the_ages_of_times:balloon"
+		},
+		"result": {
+		  "fluid": "tconstruct:molten_glass",
+		  "amount": 100
+		},
+		"temperature": 800,
+		"time": 90
+	})
+	event.custom({
+		"type": "tconstruct:melting",
+		"ingredient": {
+		  "item": "the_ages_of_times:watch_glass"
+		},
+		"result": {
+		  "fluid": "tconstruct:molten_glass",
+		  "amount": 100
+		},
+		"temperature": 800,
+		"time": 90
+	})
+	event.custom({
+		"type": "tconstruct:melting",
+		"ingredient": {
+		  "item": "the_ages_of_times:test_tube"
+		},
+		"result": {
+		  "fluid": "tconstruct:molten_glass",
+		  "amount": 100
+		},
+		"temperature": 800,
+		"time": 90
+	})
+	event.custom({
+		"type": "tconstruct:melting",
+		"ingredient": {
+		  "item": "the_ages_of_times:glass_ampul"
+		},
+		"result": {
+		  "fluid": "tconstruct:molten_glass",
+		  "amount": 100
+		},
+		"temperature": 800,
+		"time": 90
+	})
+	event.custom({
+		"type": "tconstruct:melting",
+		"ingredient": {
+		  "item": "the_ages_of_times:gas_test_tube"
+		},
+		"result": {
+		  "fluid": "tconstruct:molten_glass",
+		  "amount": 100
+		},
+		"temperature": 800,
+		"time": 90
+	})
+	event.custom({
+		"type": "tconstruct:melting",
+		"ingredient": {
+		  "item": "the_ages_of_times:erlenmeyer"
+		},
+		"result": {
+		  "fluid": "tconstruct:molten_glass",
+		  "amount": 100
+		},
+		"temperature": 800,
+		"time": 90
+	})
+	event.custom({
+		"type": "tconstruct:melting",
+		"ingredient": {
+		  "item": "the_ages_of_times:beaker"
+		},
+		"result": {
+		  "fluid": "tconstruct:molten_glass",
+		  "amount": 100
+		},
+		"temperature": 800,
+		"time": 90
+	})
 
 	//Telescope
 	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:telescope"}'), [
