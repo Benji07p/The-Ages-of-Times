@@ -45,7 +45,6 @@ ItemStages.restrict(<item:create:display_board>, "Industrial");
 ItemStages.restrict(<item:create:elevator_pulley>, "Industrial");
 ItemStages.restrict(<item:create:encased_chain_drive>, "Industrial");
 ItemStages.restrict(<item:create:encased_fan>, "Industrial");
-ItemStages.restrict(<item:create:filter>, "Industrial");
 ItemStages.restrict(<item:create:fluid_pipe>, "Industrial");
 ItemStages.restrict(<item:create:fluid_tank>, "Industrial");
 ItemStages.restrict(<item:create:fluid_valve>, "Industrial");

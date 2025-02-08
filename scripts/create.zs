@@ -351,7 +351,6 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/elevator_pulley>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/encased_chain_drive>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/encased_fan>);
-mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/filter>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/fluid_pipe>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/fluid_pipe_vertical>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:create:crafting/kinetics/fluid_tank>);
