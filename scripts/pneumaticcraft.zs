@@ -149,7 +149,6 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:pres
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:pressure_chamber_wall>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:pressure_gauge>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:pressure_gauge_module>);
-mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:pressure_tube>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:pressurized_spawner>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:printed_circuit_board>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:programmable_controller>);

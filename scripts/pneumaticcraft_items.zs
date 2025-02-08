@@ -177,7 +177,6 @@ ItemStages.restrict(<item:pneumaticcraft:pressure_chamber_valve>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:pressure_chamber_wall>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:pressure_gauge>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:pressure_gauge_module>, "Modern");
-ItemStages.restrict(<item:pneumaticcraft:pressure_tube>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:pressurized_spawner>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:printed_circuit_board>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:programmable_controller>, "Modern");
