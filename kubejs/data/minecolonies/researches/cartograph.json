@@ -6,7 +6,7 @@
     "requirements": [
       {
         "mandatory-building": "university",
-        "level": 5
+        "level": 3
       },
       {
         "item": "atum:scroll",
