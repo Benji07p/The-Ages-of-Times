@@ -188,7 +188,7 @@
 	#Items consumed by citizens in the Library. 
 	configliststudyitems = ["minecraft:paper;400;100", "minecraft:book;600;10"]
 	#Items requested by Tavern visitors. 
-	configlistrecruitmentitems = ["minecraft:hay_block;3", "minecraft:book;2", "minecraft:enchanted_book;9", "minecraft:diamond;9", "minecraft:emerald;8", "minecraft:baked_potato;1", "minecraft:gold_ingot;2", "minecraft:redstone;2", "minecraft:lapis_lazuli;2", "minecraft:cake;11", "minecraft:sunflower;5", "minecraft:honeycomb;6", "minecraft:quartz;3"]
+	configlistrecruitmentitems = ["minecraft:hay_block;3", "minecraft:book;2", "minecraft:baked_potato;1", "minecraft:gold_ingot;2", "minecraft:lapis_lazuli;2", "minecraft:cake;11", "minecraft:sunflower;5", "minecraft:honeycomb;6"]
 	#List of ore blocks rarely found magically by Miners (see "Ore Chance"). Includes the block and its chance, separated by exclamation marks. 
 	luckyores = ["minecraft:coal_ore!64", "minecraft:copper_ore!48", "minecraft:iron_ore!32", "minecraft:gold_ore!16", "minecraft:redstone_ore!8", "minecraft:lapis_ore!4", "minecraft:diamond_ore!2", "minecraft:emerald_ore!1"]
 	#Forester harvest trunk size for dynamic trees: 1-8. [Default: 5, min: 1, max: 8]
