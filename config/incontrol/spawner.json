@@ -9,20 +9,20 @@
             "atum:nomad",
             "atum:sergeant"
         ],
-        "persecond": 0.5,
-        "attempts": 1,
+        "persecond": 0.2,
+        "attempts": 0.5,
         "amount": {
             "minimum": 1,
-            "maximum": 3,
+            "maximum": 2,
             "groupdistance": 3
         },
         "conditions": {
             "dimension": "minecraft:overworld",
-            "mindist": 20,
-            "maxdist": 50,
-            "minheight": 45,
-            "maxheight": 175,
-            "maxthis": 20
+            "mindist": 30,
+            "maxdist": 40,
+            "minheight": 50,
+            "maxheight": 150,
+            "maxthis": 10
         }
     }
 ]
