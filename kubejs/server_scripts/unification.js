@@ -34,6 +34,7 @@ onEvent('recipes', event => {
 	event.remove({ id: 'pneumaticcraft:amadron/lpg_to_emerald'})
 	event.remove({ id: 'pneumaticcraft:amadron/emerald_to_lubricant'})
 	event.remove({ id: 'pneumaticcraft:amadron/emerald_to_oil'})
+	event.remove({ id: 'electrodynamics:plateiron'})
 	event.remove({ id: 'immersiveengineering:arcfurnace/dust_uranium' })
 	event.remove({ id: 'immersiveengineering:arcfurnace/raw_block_uranium' })
 	event.remove({ id: 'immersiveengineering:arcfurnace/ore_uranium' })
@@ -191,7 +192,7 @@ onEvent('item.tags', event => {
 	event.get('forge:dusts/copper').remove(['chemlib:copper_dust', 'immersiveengineering:dust_copper'])
 	event.get('forge:wires/copper').remove(['immersiveengineering:wire_copper', 'createaddition:copper_wire'])
 	event.get('immersiveengineering:circuits/solder').remove(['immersiveengineering:wire_copper', 'createaddition:copper_wire'])
-	event.get('forge:plates/copper').remove('chemlib:copper_plate')
+	event.get('forge:plates/copper').remove(['chemlib:copper_plate', 'immersiveengineering:plate_copper'])
 
 	//Tin
 	event.get('forge:nuggets/tin').remove('chemlib:tin_nugget')
@@ -249,7 +250,7 @@ onEvent('item.tags', event => {
 	event.get('forge:ingots/cobalt').remove('chemlib:cobalt_ingot')
 	
 	//Fer
-	event.get('forge:plates/iron').remove(['immersiveengineering:plate_iron', 'chemlib:iron_plate'])
+	event.get('forge:plates/iron').remove(['immersiveengineering:plate_iron', 'chemlib:iron_plate', 'electrodynamics:plateiron', 'create:iron_sheet'])
 	event.get('forge:dusts/iron').remove(['chemlib:iron_dust', 'immersiveengineering:dust_iron'])
 	event.get('forge:rods/iron').remove(['immersiveengineering:stick_iron', 'createaddition:iron_rod', 'car:iron_stick'])
 	event.get('forge:rods').remove('createaddition:iron_rod')
@@ -257,6 +258,7 @@ onEvent('item.tags', event => {
 	event.get('forge:wires').remove('createaddition:iron_wire')
 	event.get('forge:wires/all_metal').remove('createaddition:iron_wire')
 	event.get('forge:wires/iron').remove('createaddition:iron_wire')
+	event.get('forge:plates').remove('create:iron_sheet')
 
 	//Or
 	event.get('forge:plates/gold').remove(['chemlib:gold_plate', 'immersiveengineering:plate_gold'])
