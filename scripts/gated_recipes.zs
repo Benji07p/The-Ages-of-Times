@@ -219,7 +219,6 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:create:crafting/kinet
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "domum_ornamentum");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:electrodynamics:geariron>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:electrodynamics:obsidian>);
-mods.recipestages.Recipes.setRecipeStage("Iron", <resource:electrodynamics:plateiron>);
 mods.recipestages.Recipes.setRecipeStageByMod("Iron", "epic_knight");
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:black_iron_ingot_uncraft>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:extendedcrafting:black_iron_block_uncraft>);
@@ -285,8 +284,10 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:tconstruct:smeltery/s
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:create:crafting/kinetics/filter>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:extendedcrafting:advanced_component>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:extendedcrafting:advanced_catalyst>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:electrodynamics:pipecopperhor>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:electrodynamics:pipecoppervert>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_1j5yisqzsqcz0kisw7lll67n>);
-mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_67jr6ajty6vhgll9q1jt29p9t>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_b62wd5q0s3fidx6thiyxdt1q>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_7xbaykw0220o3n0y6nydy3gg0>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:immersiveengineering:crafting/raw_hammercrushing_cobalt>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:immersiveengineering:crafting/hammercrushing_cobalt>);
@@ -389,7 +390,7 @@ mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_d73urjnq
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_40p4uspge0h5w7rt4hrbmi9zm>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_69caxuv6dkgk3aphb1u2ua6bv>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_awz30ban57oviqjtplx1bggo9>);
-mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_8khh7sq6ap1876jr2j91hg7ft>);
+mods.recipestages.Recipes.setRecipeStage("Future", <resource:kubejs:kjs_dzglj40u5xvjlf0hvqljukaf7>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:beacon>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:blaze_powder>);
 mods.recipestages.Recipes.setRecipeStage("Future", <resource:minecraft:brewing_stand>);
