@@ -67,7 +67,6 @@ ItemStages.restrict(<item:the_ages_of_times:holmium_oxide>, "Enlightenment");
 ItemStages.restrict(<item:the_ages_of_times:hydraulic_fluid_bucket>, "Enlightenment");
 ItemStages.restrict(<item:the_ages_of_times:hydrofluoric_acid_bucket>, "Enlightenment");
 ItemStages.restrict(<item:the_ages_of_times:hydrogen_bucket>, "Enlightenment");
-ItemStages.restrict(<item:the_ages_of_times:iode_waste>, "Enlightenment");
 ItemStages.restrict(<item:the_ages_of_times:iron_chloride>, "Enlightenment");
 ItemStages.restrict(<item:the_ages_of_times:iron_oxide_iii>, "Enlightenment");
 ItemStages.restrict(<item:the_ages_of_times:iron_sulfate_bucket>, "Enlightenment");
