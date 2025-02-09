@@ -289,6 +289,11 @@ mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:electrodynam
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_1j5yisqzsqcz0kisw7lll67n>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_b62wd5q0s3fidx6thiyxdt1q>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_7xbaykw0220o3n0y6nydy3gg0>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_bfleg2xazm63pqgcwki0k5kuw>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_dmp0fp0tr4ud2b5dyjv8r6kg>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_4ysjaiyz1cpjsbiu9qi87pyh>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_bkjllhf9uvnjk06q52s3h3gug>);
+mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:kubejs:kjs_966vgdpncl3dnvoggz6nanack>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:immersiveengineering:crafting/raw_hammercrushing_cobalt>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:immersiveengineering:crafting/hammercrushing_cobalt>);
 mods.recipestages.Recipes.setRecipeStage("Enlightenment", <resource:minecraft:cartography_table>);
