@@ -116,7 +116,6 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:immersiveengine
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:immersiveengineering:crafting/hempcrete>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:immersiveengineering:crafting/hempcrete_from_slab>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:immersiveengineering:crafting/hempcrete_to_slab>);
-mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:immersiveengineering:crafting/hemp_fabric>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:immersiveengineering:crafting/hoe_steel>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:immersiveengineering:crafting/insulating_glass_from_slab>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:immersiveengineering:crafting/insulating_glass_to_slab>);
@@ -338,6 +337,7 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:immersiveengineering:
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:immersiveengineering:crafting/ingot_electrum_to_nugget_electrum>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:immersiveengineering:crafting/ingot_electrum_to_storage_electrum>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:immersiveengineering:crafting/hammercrushing_zinc>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:immersiveengineering:crafting/hemp_fabric>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:immersiveengineering:crafting/raw_hammercrushing_zinc>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:immersiveengineering:crafting/storage_constantan_to_ingot_constantan>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:immersiveengineering:crafting/storage_constantan_to_slab>);
