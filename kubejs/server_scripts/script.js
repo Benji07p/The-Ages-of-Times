@@ -1660,7 +1660,7 @@ onEvent('recipes', event => {
 				"item": "the_ages_of_times:lens"
 			  },
 			  "B": {
-				"item": "electrodynamics:plateiron"
+				"item": "beyond_earth:iron_plate"
 			  }
 			},
 			"result": {
@@ -1695,7 +1695,7 @@ onEvent('recipes', event => {
 		'PPP'
 	], {
 	C: '#forge:compasss',
-	P: 'electrodynamics:plateiron'
+	P: 'beyond_earth:iron_plate'
 	})
 
 	//Printer
@@ -1760,6 +1760,54 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+
+	event.remove({ id: 'car:engine_piston'})
+	event.shaped('car:engine_piston', [
+		'  C',
+		' P ',
+		'P  '
+	], {
+	C: 'minecraft:iron_ingot',
+	P: 'beyond_earth:iron_stick'
+	})
+	event.remove({ id: 'car:wrench'})
+	event.shaped('car:wrench', [
+		' C ',
+		' PC',
+		'P  '
+	], {
+	C: 'minecraft:iron_ingot',
+	P: 'beyond_earth:iron_stick'
+	})
+	event.remove({ id: 'car:hammer'})
+	event.shaped('car:hammer', [
+		'CCC',
+		' P ',
+		' P '
+	], {
+	C: 'minecraft:iron_ingot',
+	P: 'beyond_earth:iron_stick'
+	})
+	event.remove({ id: 'car:screw_driver'})
+	event.shaped('car:screw_driver', [
+		' P ',
+		' P ',
+		' C '
+	], {
+	C: 'minecraft:iron_ingot',
+	P: 'beyond_earth:iron_stick'
+	})
+	event.remove({ id: 'car:repair_kit'})
+	event.shaped('car:repair_kit', [
+		'CCC',
+		'SWH',
+		'CCC'
+	], {
+	C: 'minecraft:iron_ingot',
+	S: 'car:screw_driver',
+	W: 'car:wrench',
+	H: 'car:hammer'
+	})
 	
 	//3-Cylinder
 	event.remove({ id: 'car:engine_3_cylinder'})
@@ -1784,7 +1832,7 @@ onEvent('recipes', event => {
 				"item": "car:hammer"
 			  },
 			  "D": {
-				"item": "electrodynamics:plateiron"
+				"item": "beyond_earth:iron_plate"
 			  },
 			  "E": {
 				"item": "electrodynamics:pipecopper"
@@ -3563,7 +3611,7 @@ onEvent('recipes', event => {
 	], {
 	H: 'minecraft:hopper',
 	S: 'minecraft:nether_star',
-	F: 'electrodynamics:plateiron'
+	F: 'beyond_earth:iron_plate'
 	})
 
 	//Tempad
