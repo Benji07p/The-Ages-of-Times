@@ -16,6 +16,9 @@ mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_red
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_white>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_white_dye>);
 mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:flag_yellow>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:iron_plate>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:iron_plating_block>);
+mods.recipestages.Recipes.setRecipeStage("Iron", <resource:beyond_earth:iron_stick>);
 
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:blue_iron_plating_block>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:coal_generator>);
@@ -25,9 +28,6 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:engine
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:hammer>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:iron_engine>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:iron_mark_block>);
-mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:iron_plate>);
-mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:iron_plating_block>);
-mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:iron_stick>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:iron_tank>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:nasa_workbench>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:beyond_earth:oxygen_gear>);

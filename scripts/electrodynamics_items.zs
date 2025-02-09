@@ -80,7 +80,6 @@ ItemStages.restrict(<item:electrodynamics:oxidesulfurdichloride>, "Industrial");
 ItemStages.restrict(<item:electrodynamics:oxidesodiumcarbonate>, "Industrial");
 ItemStages.restrict(<item:electrodynamics:oxidethionylchloride>, "Industrial");
 ItemStages.restrict(<item:electrodynamics:oxidevanadium>, "Industrial");
-ItemStages.restrict(<item:electrodynamics:pipecopper>, "Industrial");
 ItemStages.restrict(<item:electrodynamics:pipesteel>, "Industrial");
 ItemStages.restrict(<item:electrodynamics:platealuminum>, "Industrial");
 ItemStages.restrict(<item:electrodynamics:platelithium>, "Industrial");

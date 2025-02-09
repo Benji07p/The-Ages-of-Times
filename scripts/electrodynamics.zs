@@ -21,8 +21,6 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:electrodynamics
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:electrodynamics:motor2>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:electrodynamics:multimeter>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:electrodynamics:multimeterblock>);
-mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:electrodynamics:pipecopperhor>);
-mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:electrodynamics:pipecoppervert>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:electrodynamics:pipesteelhor>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:electrodynamics:pipesteelvert>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:electrodynamics:platelithium>);
