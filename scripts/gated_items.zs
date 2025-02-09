@@ -345,6 +345,9 @@ ItemStages.restrict(<item:immersiveengineering:raw_block_nickel>, "Iron");
 ItemStages.restrict(<item:immersiveengineering:raw_nickel>, "Iron");
 ItemStages.restrict(<item:immersiveengineering:storage_constantan>, "Iron");
 ItemStages.restrict(<item:immersiveengineering:storage_nickel>, "Iron");
+ItemStages.restrict(<item:immersiveengineering:hemp_fabric>, "Iron");
+ItemStages.restrict(<item:immersiveengineering:hemp_fiber>, "Iron");
+ItemStages.restrict(<item:immersiveengineering:seed>, "Iron");
 ItemStages.restrict(<item:ironchest:gold_chest>, "Iron");
 ItemStages.restrict(<item:ironchest:gold_to_diamond_chest_upgrade>, "Iron");
 ItemStages.restrict(<item:ironchest:iron_chest>, "Iron");
@@ -433,6 +436,11 @@ ItemStages.createModRestriction("structurize", "Iron");
 
 //Enlightenment Ages
 ItemStages.restrict(<item:car:engine_3_cylinder>, "Enlightenment");
+ItemStages.restrict(<item:car:engine_piston>, "Enlightenment");
+ItemStages.restrict(<item:car:wrench>, "Enlightenment");
+ItemStages.restrict(<item:car:screw_driver>, "Enlightenment");
+ItemStages.restrict(<item:car:repair_kit>, "Enlightenment");
+ItemStages.restrict(<item:car:hammer>, "Enlightenment");
 ItemStages.restrict(<item:create:crushed_raw_uranium>, "Enlightenment");
 ItemStages.restrict(<item:create:filter>, "Enlightenment");
 ItemStages.restrict(<item:electrodynamics:crystalhalite>, "Enlightenment");
@@ -446,6 +454,7 @@ ItemStages.restrict(<item:electrodynamics:oxidetrisulfur>, "Enlightenment");
 ItemStages.restrict(<item:electrodynamics:dustniter>, "Enlightenment");
 ItemStages.restrict(<item:electrodynamics:oxidedisulfur>, "Enlightenment");
 ItemStages.restrict(<item:electrodynamics:dustsulfur>, "Enlightenment");
+ItemStages.restrict(<item:electrodynamics:pipecopper>, "Enlightenment");
 ItemStages.restrict(<item:extendedcrafting:advanced_catalyst>, "Enlightenment");
 ItemStages.restrict(<item:extendedcrafting:advanced_component>, "Enlightenment");
 ItemStages.restrict(<item:extendedcrafting:advanced_table>, "Enlightenment");
@@ -481,7 +490,6 @@ ItemStages.restrict(<item:tconstruct:raw_cobalt_block>, "Enlightenment");
 ItemStages.restrict(<item:alchemistry:atomizer>, "Industrial");
 ItemStages.restrict(<item:alchemistry:liquifier>, "Industrial");
 ItemStages.restrict(<item:car:engine_6_cylinder>, "Industrial");
-ItemStages.restrict(<item:car:engine_piston>, "Industrial");
 ItemStages.restrict(<item:car:engine_truck>, "Industrial");
 ItemStages.restrict(<item:create:experience_nugget>, "Industrial");
 ItemStages.restrict(<item:create:industrial_iron_block>, "Industrial");
@@ -596,6 +604,7 @@ ItemStages.restrict(<item:minecraft:emerald_block>, "Industrial");
 ItemStages.restrict(<item:minecraft:deepslate_emerald_ore>, "Industrial");
 ItemStages.restrict(<item:minecraft:emerald_ore>, "Industrial");
 ItemStages.restrict(<item:minecraft:emerald>, "Industrial");
+ItemStages.restrict(<item:the_ages_of_times:iode_waste>, "Industrial");
 
 //Modern Ages
 ItemStages.restrict(<item:alchemistry:combiner>, "Modern");
