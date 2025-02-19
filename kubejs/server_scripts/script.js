@@ -23,6 +23,18 @@ onEvent('recipes', event => {
 		  }
 	)
 
+	//Glass
+	event.custom(
+		{
+			"type": "minecraft:stonecutting",
+			"ingredient": {
+				"item": "minecraft:glass"
+			},
+			"result": "quark:clear_shard",
+			"count": 3
+		}
+	)
+
 	//Anvil
 	event.remove({ id: 'minecraft:anvil' })
 	event.remove({ id: 'tconstruct:smeltery/melting/metal/iron/anvil'})
@@ -1893,7 +1905,7 @@ onEvent('recipes', event => {
 				}
 			},
 			"input":{
-				"tag":"#forge:ingots/tungsten"
+				"tag":"forge:ingots/tungsten"
 			},
 			"energy":2400
 		}
@@ -2125,6 +2137,8 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
+    
+	event.remove({ id: 'immersiveengineering:blueprint/graphite_electrode'})
 
 	//Iron Sheetmetal
 	event.remove({ id: 'immersiveengineering:crafting/sheetmetal_iron'})
@@ -3695,6 +3709,16 @@ onEvent('item.tags', event => {
 
 	//Raw Hide
 	event.add('forge:hiderawloot', ['butchersdelight:cow_hide', 'butchersdelight:sheephide'])
+	
+	//Pickaxe and Axe
+	event.add('bookshelf:axes', 'tconstruct:hand_axe')
+	event.add('forge:axes', 'tconstruct:hand_axe')
+	event.add('forge:tools/axe', 'tconstruct:hand_axe')
+	event.add('forge:tools/axes', 'tconstruct:hand_axe')
+	event.add('bookshelf:pickaxes', 'tconstruct:pickaxe')
+	event.add('forge:pickaxes', 'tconstruct:pickaxe')
+	event.add('forge:tools/pickaxe', 'tconstruct:pickaxe')
+	event.add('forge:tools/pickaxes', 'tconstruct:pickaxe')
 })
 
 onEvent('block.tags', event => {
