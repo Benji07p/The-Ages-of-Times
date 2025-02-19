@@ -35,6 +35,7 @@ onEvent('recipes', event => {
 	event.remove({ id: 'pneumaticcraft:amadron/emerald_to_lubricant'})
 	event.remove({ id: 'pneumaticcraft:amadron/emerald_to_oil'})
 	event.remove({ id: 'electrodynamics:plateiron'})
+	event.remove({ id: 'electrodynamics:platebronze'})
 	event.remove({ id: 'immersiveengineering:arcfurnace/dust_uranium' })
 	event.remove({ id: 'immersiveengineering:arcfurnace/raw_block_uranium' })
 	event.remove({ id: 'immersiveengineering:arcfurnace/ore_uranium' })
