@@ -1,0 +1,17 @@
+{
+    "type":"immersiveengineering:metal_press",
+    "mold":"immersiveengineering:mold_wire",
+    "result":{
+        "count":1,
+        "base_ingredient":{
+            "item":"electrodynamics:titaniumheatcoil"
+        }
+    },
+    "input":{
+        "count":9,
+        "base_ingredient":{
+            "tag":"forge:ingots/titanium"
+        }
+    },
+    "energy":2400
+}
