@@ -19,6 +19,11 @@
 				type: "item"
 				item: "car:engine_3_cylinder"
 			}]
+			rewards: [{
+				id: "7E21F2A6737C208B"
+				type: "item"
+				item: "electrodynamics:guidebook"
+			}]
 		}
 		{
 			x: -3.0d
@@ -266,22 +271,6 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: -1.0d
-			dependencies: ["6978ABC38098850E"]
-			id: "37074D9F78ABFB0C"
-			tasks: [{
-				id: "78814B940D505E54"
-				type: "item"
-				item: "create:blaze_burner"
-			}]
-			rewards: [{
-				id: "50EB464792341D32"
-				type: "item"
-				item: "atum:coin_dirty"
-			}]
-		}
-		{
 			x: -6.0d
 			y: -3.0d
 			dependencies: ["18EA38D90681BB12"]
@@ -396,7 +385,7 @@
 				{
 					id: "3CC185FDB5714E66"
 					type: "item"
-					item: "immersiveengineering:raw_aluminum"
+					item: "electrodynamics:orealuminum"
 				}
 			]
 		}
@@ -577,22 +566,6 @@
 			}]
 			rewards: [{
 				id: "07BCB7AA34596C5D"
-				type: "item"
-				item: "atum:coin_dirty"
-			}]
-		}
-		{
-			x: 3.0d
-			y: 2.0d
-			dependencies: ["6978ABC38098850E"]
-			id: "3E0E6F75C4E783EE"
-			tasks: [{
-				id: "69B00DB51DD1146A"
-				type: "item"
-				item: "minecraft:soul_sand"
-			}]
-			rewards: [{
-				id: "19037C68388382D2"
 				type: "item"
 				item: "atum:coin_dirty"
 			}]
