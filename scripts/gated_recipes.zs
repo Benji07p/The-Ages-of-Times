@@ -118,7 +118,6 @@ mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:ing
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:ingotlead_from_block>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:ingotsilver_from_block>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:ingottin_from_block>);
-mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:platebronze>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:platelead>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:raworeblocklead>);
 mods.recipestages.Recipes.setRecipeStage("Bronze", <resource:electrodynamics:raworeblocksilver>);
@@ -336,6 +335,7 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:nethe
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:flint_and_steel>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:activator_rail>);
 mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "multipiston");
+mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:pneumaticcraft:liquid_hopper>);
 
 //Modern Ages
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:alchemistry:combiner>);
