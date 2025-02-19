@@ -113,7 +113,6 @@ ItemStages.restrict(<item:pneumaticcraft:kerosene_bucket>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:kerosene_lamp>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:large_tank>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:liquid_compressor>, "Modern");
-ItemStages.restrict(<item:pneumaticcraft:liquid_hopper>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:logistics_configurator>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:logistics_core>, "Modern");
 ItemStages.restrict(<item:pneumaticcraft:logistics_drone>, "Modern");

@@ -90,7 +90,6 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:jump
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:kerosene_lamp>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:large_tank>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:liquid_compressor>);
-mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:liquid_hopper>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:logistics_core>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:logistics_drone>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:pneumaticcraft:logistics_frame_active_provider>);
