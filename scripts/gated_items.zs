@@ -604,6 +604,7 @@ ItemStages.restrict(<item:minecraft:emerald_block>, "Industrial");
 ItemStages.restrict(<item:minecraft:deepslate_emerald_ore>, "Industrial");
 ItemStages.restrict(<item:minecraft:emerald_ore>, "Industrial");
 ItemStages.restrict(<item:minecraft:emerald>, "Industrial");
+ItemStages.createModRestriction("pipez", "Industrial");
 ItemStages.restrict(<item:pneumaticcraft:liquid_hopper>, "Industrial");
 ItemStages.restrict(<item:the_ages_of_times:iode_waste>, "Industrial");
 
