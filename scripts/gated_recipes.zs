@@ -12,7 +12,6 @@ mods.recipestages.Recipes.setRecipeStage("Gunpowder", <item:minecraft:gunpowder>
 
 mods.jmapstages.JMapStages.setWaypointStage("GPS");
 mods.jmapstages.JMapStages.setFullscreenStage("GPS");
-mods.jmapstages.JMapStages.setDeathpointStage("GPS");
 mods.jmapstages.JMapStages.setMinimapStage("GPS");
 
 mods.recipestages.Recipes.setRecipeStage("GPS", <resource:kubejs:kjs_93gavuf0e1m5zz19u9ia9ykjg>);
@@ -335,6 +334,7 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:nethe
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:flint_and_steel>);
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:activator_rail>);
 mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "multipiston");
+mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "pipez");
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:pneumaticcraft:liquid_hopper>);
 
 //Modern Ages
