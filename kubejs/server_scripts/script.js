@@ -2137,7 +2137,7 @@ onEvent('recipes', event => {
 			}
 		  }
 	)
-    
+
 	event.remove({ id: 'immersiveengineering:blueprint/graphite_electrode'})
 
 	//Iron Sheetmetal
@@ -2679,7 +2679,7 @@ onEvent('recipes', event => {
 			],
 			"key": {
 			  "A": {
-				"item": "minecraft:petrified_oak_slab"
+				"item": "minecraft:oak_slab"
 			  },
 			  "B": {
 				"item": "quark:oak_vertical_slab"
@@ -2714,6 +2714,23 @@ onEvent('recipes', event => {
 			}
 		}
 	)
+	
+	//Logic Circuit
+	event.shapeless('immersiveengineering:logic_circuit', ['immersiveengineering:logic_circuit'])
+	event.shapeless('computercraft:disk', ['computercraft:disk'])
+	
+	//Moteur
+	event.shaped('car:engine_3_cylinder', [
+		"GPG",
+		"EEE",
+		"ILI"
+	], {
+		G: 'electrodynamics:gearsteel',
+		P: 'electrodynamics:pipesteel',
+		E: 'car:engine_piston',
+		I: 'beyond_earth:iron_plate',
+		L: 'immersivepetroleum:lubricant_bucket',
+	})
 
 	//Satellite Rocket
 	event.custom(
