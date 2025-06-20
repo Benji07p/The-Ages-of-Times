@@ -1039,4 +1039,7 @@ function melting2(input, amount1, fluidoutput, amount3, output1, amount4, chance
     fill("chemlib:barium_oxide", "minecraft:water", 100, "chemlib:barium_hydroxide")
     meltingdistillation("the_ages_of_times:watch_glass", 1, "chemlib:barium_hydroxide", 1, "chemlib:carbon_dioxide_fluid", 100, "minecraft:water", 100, "chemlib:barium_carbonate_dust", 1, 1, "the_ages_of_times:beaker", 1, 1)
     meltingfluid("chemlib:barium_carbonate_dust", 1, "chemlib:nitric_acid_fluid", 100, "minecraft:water", 100, "chemlib:barium_nitrate_dust", 1, 1, "minecraft:air", 1, 0.01)
+    
+    //Glowstone
+    meltingflui("chemlib:phosphoric_acid", 4, "minecraft:glowstone_dust", 1, 1, "minecraft:air", 1, 0.01)
 })
