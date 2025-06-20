@@ -604,11 +604,12 @@ ItemStages.restrict(<item:minecraft:emerald_block>, "Industrial");
 ItemStages.restrict(<item:minecraft:deepslate_emerald_ore>, "Industrial");
 ItemStages.restrict(<item:minecraft:emerald_ore>, "Industrial");
 ItemStages.restrict(<item:minecraft:emerald>, "Industrial");
-ItemStages.createModRestriction("pipez", "Industrial");
 ItemStages.restrict(<item:pneumaticcraft:liquid_hopper>, "Industrial");
+ItemStages.createModRestriction("pipez", "Industrial");
 ItemStages.restrict(<item:the_ages_of_times:iode_waste>, "Industrial");
 
 //Modern Ages
+ItemStages.restrict(<item:ae2:silicon>, "Modern");
 ItemStages.restrict(<item:alchemistry:combiner>, "Modern");
 ItemStages.restrict(<item:alchemistry:compactor>, "Modern");
 ItemStages.restrict(<item:alchemistry:dissolver>, "Modern");
@@ -670,7 +671,6 @@ ItemStages.restrict(<item:the_ages_of_times:sputnik_timber>, "Modern");
 ItemStages.restrict(<item:the_ages_of_times:thermodynamics_laws_book>, "Modern");
 
 //Future Ages
-ItemStages.createModRestriction("ae2", "Future");
 ItemStages.restrict(<item:ballistix:antimatter>, "Future");
 ItemStages.restrict(<item:ballistix:darkmatter>, "Future");
 ItemStages.restrict(<item:ballistix:largeantimatter>, "Future");
@@ -726,6 +726,8 @@ ItemStages.restrict(<item:the_ages_of_times:quantum_intriquer_structure>, "Futur
 ItemStages.restrict(<item:the_ages_of_times:space_time_circuit>, "Future");
 
 //Creative Ages
+ItemStages.restrict(<item:ae2:creative_item_cell>, "Creative");
+ItemStages.restrict(<item:ae2:creative_fluid_cell>, "Creative");
 ItemStages.restrict(<item:create:creative_blaze_cake>, "Creative");
 ItemStages.restrict(<item:create:handheld_worldshaper>, "Creative");
 ItemStages.restrict(<item:create:wand_of_symmetry>, "Creative");
