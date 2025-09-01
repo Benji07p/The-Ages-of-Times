@@ -6,49 +6,49 @@
         "STONE_ORE_REPLACEABLES"
       ],
       "distribution": "TRIANGLE",
-      "minY": -144,
-      "maxY": 16,
+      "minY": 80,
+      "maxY": 384,
+      "maxVeinSize": 9,
+      "spawnRate": 90.0,
+      "discardChanceOnAirExposure": 0.0,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "OVERWORLD"
+        ]
+      },
+      "replace": true
+    },
+    {
+      "ore": "the_ages_of_times:ore_wolframite",
+      "fillers": [
+        "STONE_ORE_REPLACEABLES"
+      ],
+      "distribution": "TRIANGLE",
+      "minY": -24,
+      "maxY": 56,
+      "maxVeinSize": 9,
+      "spawnRate": 10.0,
+      "discardChanceOnAirExposure": 0.0,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "OVERWORLD"
+        ]
+      },
+      "replace": true
+    },
+    {
+      "ore": "the_ages_of_times:ore_wolframite",
+      "fillers": [
+        "STONE_ORE_REPLACEABLES"
+      ],
+      "distribution": "UNIFORM",
+      "minY": -64,
+      "maxY": 72,
       "maxVeinSize": 4,
-      "spawnRate": 7.0,
-      "discardChanceOnAirExposure": 0.5,
-      "biomeFilters": {
-        "biomeBlacklist": [],
-        "biomeWhitelist": [
-          "OVERWORLD"
-        ]
-      },
-      "replace": true
-    },
-    {
-      "ore": "the_ages_of_times:ore_wolframite",
-      "fillers": [
-        "STONE_ORE_REPLACEABLES"
-      ],
-      "distribution": "TRIANGLE",
-      "minY": -144,
-      "maxY": 16,
-      "maxVeinSize": 12,
-      "spawnRate": 0.11111111,
-      "discardChanceOnAirExposure": 0.7,
-      "biomeFilters": {
-        "biomeBlacklist": [],
-        "biomeWhitelist": [
-          "OVERWORLD"
-        ]
-      },
-      "replace": true
-    },
-    {
-      "ore": "the_ages_of_times:ore_wolframite",
-      "fillers": [
-        "STONE_ORE_REPLACEABLES"
-      ],
-      "distribution": "TRIANGLE",
-      "minY": -144,
-      "maxY": 16,
-      "maxVeinSize": 8,
-      "spawnRate": 4.0,
-      "discardChanceOnAirExposure": 1.0,
+      "spawnRate": 10.0,
+      "discardChanceOnAirExposure": 0.0,
       "biomeFilters": {
         "biomeBlacklist": [],
         "biomeWhitelist": [
