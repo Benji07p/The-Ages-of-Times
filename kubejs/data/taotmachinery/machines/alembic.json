@@ -44,6 +44,10 @@
         {
             "type": "custommachinery:item",
             "id": "input6"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "input7"
         }
     ],
     "gui": [
@@ -98,6 +102,12 @@
         },
         {
             "id": "input6",
+            "x": 139,
+            "y": 28,
+            "type": "custommachinery:slot"
+        },
+        {
+            "id": "input7",
             "x": 139,
             "y": 46,
             "type": "custommachinery:slot"
