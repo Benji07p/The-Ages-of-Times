@@ -132,7 +132,7 @@
 				type: "command"
 				team_reward: false
 				auto: "invisible"
-				command: "/phase grant @p solar"
+				command: "/gamestage add @p solar"
 				silent: true
 			}]
 		}
@@ -151,7 +151,7 @@
 				type: "command"
 				team_reward: false
 				auto: "invisible"
-				command: "/phase grant @p outer"
+				command: "/gamestage add @p outer"
 				silent: true
 			}]
 		}

@@ -547,23 +547,13 @@
 					}
 				}
 			]
-			rewards: [
-				{
-					id: "0EC7D603DF85FDD9"
-					type: "command"
-					auto: "invisible"
-					command: "/gamestage add @p Iron"
-					silent: true
-				}
-				{
-					id: "3E2F103AA63025D2"
-					type: "command"
-					team_reward: false
-					auto: "invisible"
-					command: "/phase grant @p iron"
-					silent: true
-				}
-			]
+			rewards: [{
+				id: "0EC7D603DF85FDD9"
+				type: "command"
+				auto: "invisible"
+				command: "/gamestage add @p Iron"
+				silent: true
+			}]
 		}
 	]
 	quest_links: [ ]

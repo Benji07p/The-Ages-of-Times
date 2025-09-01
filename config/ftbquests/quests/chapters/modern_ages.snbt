@@ -191,7 +191,7 @@
 					type: "command"
 					team_reward: false
 					auto: "invisible"
-					command: "/phase grant @p orbit"
+					command: "/gamestage add @p orbit"
 					silent: true
 				}
 			]
@@ -247,14 +247,6 @@
 					type: "command"
 					auto: "invisible"
 					command: "/gamestage add @p Future"
-					silent: true
-				}
-				{
-					id: "00B3977C54699B33"
-					type: "command"
-					team_reward: false
-					auto: "invisible"
-					command: "/phase grant @p future"
 					silent: true
 				}
 			]
@@ -800,7 +792,7 @@
 					type: "command"
 					team_reward: false
 					auto: "invisible"
-					command: "/phase grant @p moon"
+					command: "/gamestage add @p moon"
 					silent: true
 				}
 			]
