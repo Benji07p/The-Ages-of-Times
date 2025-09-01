@@ -336,6 +336,7 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:activ
 mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "multipiston");
 mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "pipez");
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:pneumaticcraft:liquid_hopper>);
+mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:kubejs:kjs_3uchgjxbf9eyo8dsj5vu4j3h7>);
 
 //Modern Ages
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:alchemistry:combiner>);
