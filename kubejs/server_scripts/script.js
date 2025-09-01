@@ -1939,6 +1939,74 @@ onEvent('recipes', event => {
 	//Coal Coke
 	event.remove({ id: 'electrodynamics:coalcoke_smelting'})
 	event.remove({ id: 'electrodynamics:coalcoke_blasting'})
+    
+    //Tesla Coil
+    event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+				" AAA ",
+				"  B  ",
+				" CDC ",
+				" EFE ",
+				" GGG "
+			],
+			"key": {
+				"A": {
+					"item": "createaddition:copper_spool"
+				},
+				"B": {
+					"item": "create:andesite_alloy"
+				},
+				"C": {
+					"item": "createaddition:capacitor"
+				},
+				"D": {
+					"item": "create:brass_casing"
+				},
+				"E": {
+					"item": "create:brass_sheet"
+				},
+				"F": {
+					"item": "create:electron_tube"
+				},
+				"G": {
+					"item": "create:brass_block"
+				}
+			},
+			"result": {
+				"item": "createaddition:tesla_coil"
+			}
+		}
+	)
+    
+	//Crushing Wheel
+    event.custom(
+		{
+			"type": "extendedcrafting:shaped_table",
+			"pattern": [
+				" AAA ",
+				"AABAA",
+				"ABCBA",
+				"AABAA",
+				" AAA "
+			],
+			"key": {
+				"A": {
+					"item": "create:andesite_alloy"
+				},
+				"B": {
+					"item": "minecraft:oak_planks"
+				},
+				"C": {
+					"item": "minecraft:cobblestone"
+				}
+			},
+			"result": {
+				"item": "create:crushing_wheel"
+			}
+		}
+	)
 
 	//Light Enginneer Block
 	event.remove({ id: 'immersiveengineering:crafting/component_iron'})
@@ -2867,6 +2935,18 @@ onEvent('recipes', event => {
 			]
 		}
 	)
+
+	//Space Fire Proof
+	event.remove({ id: 'beyond_earth_giselle_addon:crafting/enchanted_book_space_fire_proof'})
+	event.shaped(Item.of('minecraft:enchanted_book').enchant('beyond_earth_giselle_addon:space_fire_proof', 1), [
+		'MCM',
+		'MLM',
+		'MMM'
+	], {
+		C: 'beyond_earth:compressed_ostrum',
+		L: 'minecraft:book',
+		M: 'beyond_earth:mars_stone'
+	})
 
 	//Quantum Intriquer
 	event.shaped(Item.of('custommachinery:custom_machine_item', '{machine:"taotmachinery:quantum_intriquer"}'), [
