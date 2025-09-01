@@ -1,5 +1,8 @@
 onEvent('recipes', event => {
 
+	//Beetroot
+	event.smelting('minecraft:sugar', 'minecraft:beetroot')
+
 	//Steel
 	event.remove({ id: 'electrodynamics:ingotsteel_ingot_smelting'})
 	event.custom(
@@ -1939,8 +1942,8 @@ onEvent('recipes', event => {
 	//Coal Coke
 	event.remove({ id: 'electrodynamics:coalcoke_smelting'})
 	event.remove({ id: 'electrodynamics:coalcoke_blasting'})
-    
-    //Tesla Coil
+
+	//Tesla Coil
     event.custom(
 		{
 			"type": "extendedcrafting:shaped_table",
@@ -1979,7 +1982,7 @@ onEvent('recipes', event => {
 			}
 		}
 	)
-    
+
 	//Crushing Wheel
     event.custom(
 		{
@@ -2935,7 +2938,7 @@ onEvent('recipes', event => {
 			]
 		}
 	)
-
+	
 	//Space Fire Proof
 	event.remove({ id: 'beyond_earth_giselle_addon:crafting/enchanted_book_space_fire_proof'})
 	event.shaped(Item.of('minecraft:enchanted_book').enchant('beyond_earth_giselle_addon:space_fire_proof', 1), [
