@@ -1,0 +1,16 @@
+{
+    "type":"immersiveengineering:refinery",
+    "result":{
+        "fluid":"tconstruct:blazing_blood",
+        "amount":10
+    },
+    "input0":{
+        "tag":"forge:gasoline",
+        "amount":6
+    },
+    "input1":{
+        "tag":"forge:creosote",
+        "amount":4
+    },
+    "energy":8
+}
