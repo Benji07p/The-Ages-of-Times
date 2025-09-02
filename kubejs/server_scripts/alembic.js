@@ -114,7 +114,6 @@ onEvent('recipes', event => {
         );
     }
 
-
     //Hydrogen
 
     alembic(80, null, 0, 0, false,  null, 0, 0, false, "the_ages_of_times:gas_test_tube", 2, 1.0, true, "chemlib:hydrogen_fluid", 100, 1.0, true, "minecraft:water", 10, 1.0, true, "chemlib:hydrogen", 2, 1.0, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01, true)
@@ -301,4 +300,8 @@ onEvent('recipes', event => {
 
     //Glowstone
     alembic(80, null, 0, 0, false, null, 0, 0, false, "chemlib:phosphoric_acid", 4, 1.0, true, null, 0, 0, false, null, 0, 0, false, "minecraft:glowstone_dust", 1, 1.0, "minecraft:air", 1, 0.01, "the_ages_of_times:beaker", 4, 1.0, true)
+
+    //
+    alembic(80, "the_ages_of_times:unknown_element_1", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "chemlib:gadolinium", 1, 0.5, "minecraft:air", 1, 0.01, "chemlib:scandium", 1, 0.5, false)
+    alembic(80, "the_ages_of_times:unknown_element_2", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "chemlib:holmium", 1, 0.5, "minecraft:air", 1, 0.01, "chemlib:thulium", 1, 0.5, false)
 })

@@ -168,11 +168,11 @@ onEvent('recipes', event => {
         )
     }
 
-    spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:helium", 0.01, "minecraft:overworld", "(6000, 12000)")
-    spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:neon", 0.01, "minecraft:overworld", "(6000, 12000)")
-    spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:argon", 0.01, "minecraft:overworld", "(6000, 12000)")
-    spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:krypton", 0.01, "minecraft:overworld", "(6000, 12000)")
-    spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:xenon", 0.01, "minecraft:overworld", "(6000, 12000)")
+    // spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:helium", 0.01, "minecraft:overworld", "(6000, 12000)")
+    // spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:neon", 0.01, "minecraft:overworld", "(6000, 12000)")
+    // spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:argon", 0.01, "minecraft:overworld", "(6000, 12000)")
+    // spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:krypton", 0.01, "minecraft:overworld", "(6000, 12000)")
+    // spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:xenon", 0.01, "minecraft:overworld", "(6000, 12000)")
 
     spectroscopie2("the_ages_of_times:test_tube", 0.01, "minecraft:water_bucket", "chemlib:cesium", 0.01)
     spectroscopie2("the_ages_of_times:test_tube", 0.01, "electrodynamics:raworelepidolite", "chemlib:rubidium", 0.01)
@@ -180,11 +180,9 @@ onEvent('recipes', event => {
     spectroscopie2("the_ages_of_times:test_tube", 0.01, "minecraft:copper_ore", "chemlib:indium", 0.01)
     spectroscopie2("the_ages_of_times:test_tube", 0.01, "create:raw_zinc", "chemlib:gallium", 0.01)
     spectroscopie2("the_ages_of_times:test_tube", 0.01, "chemlib:tellurium_dust", "chemlib:thallium", 0.01)
-    // spectroscopie2("chemlib:erbium_dust", "chemlib:holmium", 0.01)
-    // spectroscopie2("chemlib:erbium_dust", "chemlib:thulium", 0.01)
+    spectroscopie2("the_ages_of_times:test_tube", 0.01, "chemlib:erbium_dust", "the_ages_of_times:unknown_element_2", 0.01)
     spectroscopie2("the_ages_of_times:test_tube", 0.01, "the_ages_of_times:didymium", "chemlib:samarium", 0.01)
-    // spectroscopie2("the_ages_of_times:ore_gadolinite", "chemlib:gadolinium", 0.01)
-    // spectroscopie2("the_ages_of_times:ore_gadolinite", "chemlib:scandium", 0.01)
+    spectroscopie2("the_ages_of_times:test_tube", 0.01, "the_ages_of_times:ore_gadolinite", "the_ages_of_times:unknown_element_1", 0.01)
     spectroscopie2("the_ages_of_times:test_tube", 0.01, "nuclearscience:polonium210", "chemlib:radium", 0.01)
     spectroscopie2("the_ages_of_times:test_tube", 0.01, "chemlib:samarium_dust", "chemlib:europium", 0.01)
     
