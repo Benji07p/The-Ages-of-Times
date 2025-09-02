@@ -301,7 +301,7 @@ onEvent('recipes', event => {
     //Glowstone
     alembic(80, null, 0, 0, false, null, 0, 0, false, "chemlib:phosphoric_acid", 4, 1.0, true, null, 0, 0, false, null, 0, 0, false, "minecraft:glowstone_dust", 1, 1.0, "minecraft:air", 1, 0.01, "the_ages_of_times:beaker", 4, 1.0, true)
 
-    //
+    //Spectroscopy Fix
     alembic(80, "the_ages_of_times:unknown_element_1", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "chemlib:gadolinium", 1, 0.5, "minecraft:air", 1, 0.01, "chemlib:scandium", 1, 0.5, false)
     alembic(80, "the_ages_of_times:unknown_element_2", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "chemlib:holmium", 1, 0.5, "minecraft:air", 1, 0.01, "chemlib:thulium", 1, 0.5, false)
 })

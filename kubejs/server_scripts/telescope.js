@@ -168,11 +168,7 @@ onEvent('recipes', event => {
         )
     }
 
-    // spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:helium", 0.01, "minecraft:overworld", "(6000, 12000)")
-    // spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:neon", 0.01, "minecraft:overworld", "(6000, 12000)")
-    // spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:argon", 0.01, "minecraft:overworld", "(6000, 12000)")
-    // spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:krypton", 0.01, "minecraft:overworld", "(6000, 12000)")
-    // spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "chemlib:xenon", 0.01, "minecraft:overworld", "(6000, 12000)")
+    spectroscopie("the_ages_of_times:gas_test_tube", 0.01, "minecraft:glass_pane", "the_ages_of_times:unknown_element_4", 0.01, "minecraft:overworld", "(6000, 12000)")
 
     spectroscopie2("the_ages_of_times:test_tube", 0.01, "minecraft:water_bucket", "chemlib:cesium", 0.01)
     spectroscopie2("the_ages_of_times:test_tube", 0.01, "electrodynamics:raworelepidolite", "chemlib:rubidium", 0.01)
