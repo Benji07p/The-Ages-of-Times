@@ -336,7 +336,6 @@ mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:minecraft:activ
 mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "multipiston");
 mods.recipestages.Recipes.setRecipeStageByMod("Industrial", "pipez");
 mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:pneumaticcraft:liquid_hopper>);
-mods.recipestages.Recipes.setRecipeStage("Industrial", <resource:kubejs:kjs_3uchgjxbf9eyo8dsj5vu4j3h7>);
 
 //Modern Ages
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:alchemistry:combiner>);
@@ -367,6 +366,9 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_e8r05cme
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_1hynd5w6ev0fnkgweecmg3t72>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_cjgujiijtcqi22a0o03hq31xo>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_ce9byb8sbl4e7hk3hy4l49n62>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_e0demxmqpjfhrsdt6gov48020>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_38v87814tvi24nrxpm2rjj1tj>);
+mods.recipestages.Recipes.setRecipeStage("Modern", <resource:kubejs:kjs_abu9hd5yokbdv5v37nth2jwol>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/sheetmetal_uranium_from_slab>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/sheetmetal_uranium_to_slab>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/storage_uranium_to_slab>);
