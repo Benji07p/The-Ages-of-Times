@@ -181,10 +181,8 @@ onEvent('recipes', event => {
     alembic(80, "the_ages_of_times:sodium_sulfide", 1, 1.0, true, "chemlib:calcium_carbonate", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "chemlib:sodium_carbonate", 1, 1.0, "minecraft:air", 1, 0.01, "chemlib:calcium_sulfide", 1, 1.0, false)
     alembic(10, "the_ages_of_times:beaker", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, "the_ages_of_times:liquid_sodium_hydroxide", 63, 1.0, true, null, 0, 0, false, "chemlib:sodium_hydroxide", 1, 1.0, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01, false)
     alembic(10, "chemlib:sodium_hydroxide", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "the_ages_of_times:liquid_sodium_hydroxide", 63, 1.0, true, "the_ages_of_times:beaker", 1, 1.0, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01, false)
-
     alembic(10, "minecraft:bucket", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, "the_ages_of_times:liquid_sodium_hydroxide", 1000, 1.0, true, null, 0, 0, false, "the_ages_of_times:liquid_sodium_hydroxide_bucket", 1, 1.0, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01, false)
     alembic(10, "the_ages_of_times:liquid_sodium_hydroxide_bucket", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "the_ages_of_times:liquid_sodium_hydroxide", 1000, 1.0, true, "minecraft:bucket", 1, 1.0, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01, false)
-
     alembic(80, "the_ages_of_times:beaker", 1, 1.0, true, "electrodynamics:oxidesodiumcarbonate", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "chemlib:sodium_carbonate", 1, 1.0, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01, false)
     alembic(80, "chemlib:sodium_carbonate", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "the_ages_of_times:beaker", 1, 1.0, "minecraft:air", 1, 0.01, "electrodynamics:oxidesodiumcarbonate", 1, 1.0, false)
     alembic(80, "chemlib:sodium_carbonate", 1, 1.0, true, "chemlib:calcium_hydroxide", 1, 1.0, true, "the_ages_of_times:beaker", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, "chemlib:sodium_hydroxide", 2, 1.0, "minecraft:air", 1, 0.01, "chemlib:calcium_carbonate", 1, 1.0, false)
@@ -212,6 +210,7 @@ onEvent('recipes', event => {
     alembic(10, "the_ages_of_times:gas_test_tube", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, "chemlib:chlorine_fluid", 63, 1.0, true, null, 0, 0, false, "chemlib:chlorine", 1, 1.0,  "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01, false)
     alembic(10, "chemlib:chlorine", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "chemlib:chlorine_fluid", 63, 1.0, true, "the_ages_of_times:gas_test_tube", 1, 1.0,  "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01, false)
     alembic(80, "the_ages_of_times:beaker", 1, 1.0, true, "minecraft:coal", 2, 1.0, true, "electrodynamics:raworetitanium", 1, 1.0, true, "chemlib:chlorine_fluid", 400, 1.0, true, "chemlib:carbon_monoxide_fluid", 200, 1.0, true, "the_ages_of_times:titanium_tetrachloride", 1, 1.0, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01, true)
+    alembic(80, "chemlib:sodium", 4, 1.0, true, "the_ages_of_times:beaker", 3, 1.0, true, "the_ages_of_times:titanium_tetrachloride", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, "electrodynamics:ingottitanium", 1, 1.0, "chemlib:sodium_chloride", 4, 1.0, "the_ages_of_times:test_tube", 4, 1.0, true)
 
     //Nitric Acid
     alembic(80, "the_ages_of_times:beaker", 1, 1.0, true, "electrodynamics:dustniter", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "chemlib:potassium_nitrate", 1, 1.0, "minecraft:air", 1, 0.01, "minecraft:air", 1, 0.01, false)
