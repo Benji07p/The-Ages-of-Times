@@ -543,6 +543,8 @@ ItemStages.restrict(<item:minecraft:nether_brick_fence>, "Industrial");
 ItemStages.restrict(<item:minecraft:nether_brick_slab>, "Industrial");
 ItemStages.restrict(<item:minecraft:nether_brick_stairs>, "Industrial");
 ItemStages.restrict(<item:minecraft:nether_brick_wall>, "Industrial");
+ItemStages.restrict(<item:minecraft:soul_sand>, "Industrial");
+ItemStages.restrict(<item:minecraft:soul_soil>, "Industrial");
 ItemStages.restrict(<item:minecraft:flint_and_steel>, "Industrial");
 ItemStages.restrict(<item:minecraft:activator_rail>, "Industrial");
 ItemStages.restrict(<item:minecraft:nether_quartz_ore>, "Industrial");
