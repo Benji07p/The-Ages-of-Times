@@ -233,6 +233,7 @@ onEvent('recipes', event => {
     alembic(80, "the_ages_of_times:didymium", 1, 1.0, true, "create:filter", 1, 0.0, true, null, 0, 0, false, null, 0, 0, false, null, 0, 0, false, "the_ages_of_times:praseodymium_oxide", 1, 0.5, "minecraft:air", 1, 0.01, "the_ages_of_times:neodymium_oxide", 1, 0.5, false)
 
     //Iridium, Osmium, Ruthenium, Rhodium and Palladium
+    alembic(80, "the_ages_of_times:raw_ore_sperrylite", 1, 1.0, true, "the_ages_of_times:test_tube", 1, 1.0, true, "chemlib:hydrochloric_acid", 6, 1.0, true, "chemlib:nitric_acid_fluid", 400, 0.5, true, "chemlib:nitric_oxide_fluid", 100, 1.0, true, "the_ages_of_times:chloroplatinic_acid", 1, 1.0, "the_ages_of_times:unknown_element_3", 1, 1.0, "the_ages_of_times:erlenmeyer", 6, 1.0, true);
 
     //Cadmium
     alembic(80, "the_ages_of_times:watch_glass", 1, 0.25, true, "the_ages_of_times:beaker", 1, 1.0, true, "create:raw_zinc", 1, 1.0, true, null, 0, 0, false, "chemlib:carbon_dioxide_fluid", 200, 1.0, true, "chemlib:zinc_oxide", 1, 1.0, "minecraft:air", 1, 0.01, "the_ages_of_times:cadmium_oxide", 1, 0.25, true)

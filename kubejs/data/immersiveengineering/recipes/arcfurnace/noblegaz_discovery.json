@@ -1,0 +1,26 @@
+{
+    "type":"immersiveengineering:arc_furnace",
+    "results":[
+        {
+            "item":"chemlib:helium"
+        },
+        {
+            "item":"chemlib:neon"
+        },
+        {
+            "item":"chemlib:argon"
+        },
+        {
+            "item":"chemlib:krypton"
+        },
+        {
+            "item":"chemlib:xenon"
+        }
+    ],
+    "additives":[],
+    "input":{
+        "item":"the_ages_of_times:unknown_element_4"
+    },
+    "time":100,
+    "energy":51200
+}

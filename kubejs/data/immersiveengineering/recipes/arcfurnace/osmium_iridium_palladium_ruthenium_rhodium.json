@@ -1,0 +1,26 @@
+{
+    "type":"immersiveengineering:arc_furnace",
+    "results":[
+        {
+            "item":"chemlib:osmium"
+        },
+        {
+            "item":"chemlib:iridium"
+        },
+        {
+            "item":"chemlib:ruthenium"
+        },
+        {
+            "item":"chemlib:rhodium"
+        },
+        {
+            "item":"chemlib:palladium"
+        }
+    ],
+    "additives":[],
+    "input":{
+        "item":"the_ages_of_times:unknown_element_3"
+    },
+    "time":100,
+    "energy":51200
+}
