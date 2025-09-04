@@ -260,6 +260,7 @@ onEvent('recipes', event => {
 
     //Boron
     alembic(80, "the_ages_of_times:beaker", 2, 1.0, true, "the_ages_of_times:watch_glass", 4, 1.0, true, "the_ages_of_times:raw_ore_borax", 1, 1.0, true, "chemlib:hydrochloric_acid_fluid", 200, 1.0, true, "minecraft:water", 500, 1.0, true, "the_ages_of_times:boric_acid", 4, 1.0, "minecraft:air", 1, 0.01, "chemlib:sodium_chloride", 2, 1.0, true)
+    alembic(80, "chemlib:potassium", 3, 1.0, true, "the_ages_of_times:beaker", 3, 1.0, true, "the_ages_of_times:boric_acid", 1, 1.0, true, null, 0, 0, false, null, 0, 0, false, "chemlib:potassium_hydroxide", 3, 1.0, "chemlib:boron", 1, 1.0, "the_ages_of_times:test_tube", 2, 1.0, true)
 
     //Dysprosium
     alembic(80, null, 0, 0, false, null, 0, 0, false, "chemlib:samarium", 16, 1.0, true, null, 0, 0, false, null, 0, 0, false, "chemlib:samarium_dust", 1, 1.0, "minecraft:air", 1, 0.01, "the_ages_of_times:test_tube", 16, 1.0, true)
