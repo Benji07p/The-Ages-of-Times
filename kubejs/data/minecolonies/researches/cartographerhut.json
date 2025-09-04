@@ -1,0 +1,20 @@
+{
+  "branch": "minecolonies:unlockable",
+  "researchLevel": 1,
+  "icon": "minecolonies:blockhutcrusher",
+  "requirements": [
+    {
+      "mandatory-building": "university",
+      "level": 2
+    },
+    {
+      "item": "atum:scroll",
+      "quantity": 8
+    }
+  ],
+  "effects": [
+    {
+      "minecolonies:effects/blockhutcrusher": 1
+    }
+  ]
+}

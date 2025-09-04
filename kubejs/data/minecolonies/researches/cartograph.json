@@ -1,24 +1,25 @@
 {
-    "branch": "minecolonies:unlockable",
-    "name": "Cartographer",
-    "researchLevel": 1,
-    "icon": "antiqueatlas:empty_antique_atlas",
-    "requirements": [
-      {
-        "mandatory-building": "university",
-        "level": 3
-      },
-      {
-        "item": "atum:scroll",
-        "quantity": 22
-      }
-    ],
-    "hidden": false,
-    "autostart": false,
-    "instant": false,
-    "effects": [
-      {
-        "minecolonies:effects/cartographer": 1
-      }
-    ]
-  }
+  "branch": "minecolonies:unlockable",
+  "name": "Cartographer",
+  "researchLevel": 2,
+  "parentResearch": "minecolonies:cartographerhut",
+  "icon": "antiqueatlas:empty_antique_atlas",
+  "requirements": [
+    {
+      "mandatory-building": "university",
+      "level": 3
+    },
+    {
+      "item": "atum:scroll",
+      "quantity": 22
+    }
+  ],
+  "hidden": false,
+  "autostart": false,
+  "instant": false,
+  "effects": [
+    {
+      "minecolonies:effects/cartographer": 1
+    }
+  ]
+}

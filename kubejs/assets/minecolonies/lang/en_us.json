@@ -19,5 +19,8 @@
     "minecolonies:crusher.job.desc": "Make a map of your world and draw an Antique Atlas.",
     "com.minecolonies.coremod.setting.minecolonies:crushermode": "Cartographer Mode:",
     "com.minecolonies.research.effects.crushing11unlock.description": "Cartographer Recipes Cost -50%",
-    "com.minecolonies.research.effects.blockhutcrusher.description": "Unlocks Cartographer's Hut"
+    "com.minecolonies.research.effects.blockhutcrusher.description": "Unlocks Cartographer's Hut",
+    "com.minecolonies.research.effects.cartographer.description": "Unlocks Cartographer's Atlas",
+    "com.minecolonies.research.effects.moneyunlock.description": "Unlocks Money",
+    "com.minecolonies.research.cartographerhut.name": "Cartographer's Hut"
 }
