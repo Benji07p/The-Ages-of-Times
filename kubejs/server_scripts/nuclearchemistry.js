@@ -9,6 +9,8 @@ onEvent('recipes', event => {
     event.remove({ id: 'alchemistry:fission/francium' })
     event.remove({ id: 'alchemistry:fission/astatine' })
     event.remove({ id: 'alchemistry:fission/radon' })
+    event.remove({ id: 'alchemistry:dissolver/granite' })
+    event.remove({ id: 'alchemistry:dissolver/polished_granite' })
 
     //Fission
     function fission(input, output1, output2) {
