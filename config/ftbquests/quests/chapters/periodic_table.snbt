@@ -2182,7 +2182,9 @@
 			rewards: [{
 				id: "47B8BC74E80049AB"
 				type: "command"
+				auto: "invisible"
 				command: "/gamestage add @p NuclearChemistry"
+				silent: true
 			}]
 		}
 	]
