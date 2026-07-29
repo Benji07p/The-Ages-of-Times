@@ -310,9 +310,12 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: -7.5d
-			dependencies: ["3E4FA15B2A08A9EF"]
+			x: 16.5d
+			y: -1.5d
+			dependencies: [
+				"3E4FA15B2A08A9EF"
+				"0B3A5FE66F243DA8"
+			]
 			hide: true
 			id: "24F1AF1542A49D66"
 			tasks: [{
@@ -1181,6 +1184,98 @@
 				type: "item"
 				item: "atum:coin_dirty"
 			}]
+		}
+		{
+			x: 13.5d
+			y: -1.5d
+			dependencies: ["7193E2426A61E5F5"]
+			id: "14D145ADDDC312C2"
+			tasks: [{
+				id: "0421CA62FA34D1AA"
+				type: "item"
+				item: "alchemistry:reactor_casing"
+			}]
+		}
+		{
+			title: "Fission/Fusion Chamber"
+			x: 15.0d
+			y: -1.5d
+			dependencies: ["14D145ADDDC312C2"]
+			id: "0B3A5FE66F243DA8"
+			tasks: [
+				{
+					id: "014AF50AAABF5FF3"
+					type: "item"
+					item: "alchemistry:fission_chamber_controller"
+				}
+				{
+					id: "3B64FD5FDBEE85C7"
+					type: "item"
+					item: "alchemistry:reactor_casing"
+					count: 62L
+				}
+				{
+					id: "3FD55DAA118F60BB"
+					type: "item"
+					item: "alchemistry:reactor_glass"
+					count: 36L
+				}
+				{
+					id: "2B9617767440A449"
+					type: "item"
+					item: "alchemistry:reactor_energy"
+				}
+				{
+					id: "281A383664F04D0B"
+					type: "item"
+					item: "alchemistry:reactor_input"
+				}
+				{
+					id: "744227378062F16C"
+					type: "item"
+					item: "alchemistry:reactor_output"
+				}
+				{
+					id: "1FF2E240033B4626"
+					type: "item"
+					item: "alchemistry:fission_core"
+					count: 3L
+				}
+				{
+					id: "53ECEC1167B68F4C"
+					type: "item"
+					item: "alchemistry:fusion_chamber_controller"
+				}
+				{
+					id: "3A5D7B71E4870394"
+					type: "item"
+					item: "alchemistry:fusion_core"
+					count: 3L
+				}
+			]
+		}
+		{
+			x: 12.0d
+			y: -1.5d
+			dependencies: ["14D145ADDDC312C2"]
+			id: "65A0F5DA73C3674A"
+			tasks: [
+				{
+					id: "0FA71D3345704824"
+					type: "item"
+					item: "alchemistry:compactor"
+				}
+				{
+					id: "5328F54CE3F35B29"
+					type: "item"
+					item: "alchemistry:combiner"
+				}
+				{
+					id: "6649DC21C35AE32E"
+					type: "item"
+					item: "alchemistry:dissolver"
+				}
+			]
 		}
 	]
 	quest_links: [ ]
