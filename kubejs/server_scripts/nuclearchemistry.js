@@ -48,4 +48,18 @@ onEvent('recipes', event => {
     fission("nuclearscience:uranium235", "chemlib:promethium", "chemlib:krypton")
 
     fusion("chemlib:bismuth", "chemlib:helium", "chemlib:astatine")
+    fusion("nuclearscience:plutonium239", "chemlib:helium", "chemlib:curium")
+    fusion("chemlib:americium", "chemlib:helium", "chemlib:berkelium")
+    fusion("chemlib:curium", "chemlib:helium", "chemlib:californium")
+
+    fusion("nuclearscience:uranium238", "chemlib:neon", "chemlib:nobelium")
+
+    fusion("chemlib:lead", "chemlib:chromium", "chemlib:seaborgium")
+    fusion("chemlib:bismuth", "chemlib:chromium", "chemlib:bohrium")
+    fusion("chemlib:lead", "chemlib:iron", "chemlib:hassium")
+    fusion("chemlib:bismuth", "chemlib:iron", "chemlib:meitnerium")
+    fusion("chemlib:lead", "chemlib:nickel", "chemlib:darmstadtium")
+    fusion("chemlib:bismuth", "chemlib:nickel", "chemlib:roentgenium")
+    fusion("chemlib:lead", "chemlib:zinc", "chemlib:copernicium")
+    fusion("chemlib:bismuth", "chemlib:zinc", "chemlib:nihonium")
 })
