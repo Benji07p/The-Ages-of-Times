@@ -9,8 +9,6 @@ onEvent('recipes', event => {
     event.remove({ id: 'alchemistry:fission/francium' })
     event.remove({ id: 'alchemistry:fission/astatine' })
     event.remove({ id: 'alchemistry:fission/radon' })
-    event.remove({ id: 'alchemistry:dissolver/granite' })
-    event.remove({ id: 'alchemistry:dissolver/polished_granite' })
 
     //Fission
     function fission(input, output1, output2) {
@@ -46,16 +44,22 @@ onEvent('recipes', event => {
         })
     }
 
+    fission("nuclearscience:celldeuterium", "chemlib:hydrogen", "the_ages_of_times:neutron")
+
     fission("nuclearscience:meltedreactor", "chemlib:molybdenum", "chemlib:technetium")
     fission("nuclearscience:uranium235", "chemlib:promethium", "chemlib:krypton")
 
     fusion("chemlib:bismuth", "chemlib:helium", "chemlib:astatine")
+    fusion("nuclearscience:uranium238", "the_ages_of_times:neutron", "chemlib:neptunium")
     fusion("nuclearscience:plutonium239", "chemlib:helium", "chemlib:curium")
     fusion("chemlib:americium", "chemlib:helium", "chemlib:berkelium")
     fusion("chemlib:curium", "chemlib:helium", "chemlib:californium")
 
+    fusion("chemlib:einsteinium", "chemlib:helium", "chemlib:mendelevium")
     fusion("nuclearscience:uranium238", "chemlib:neon", "chemlib:nobelium")
-
+    fusion("chemlib:californium", "chemlib:boron", "chemlib:lawrencium")
+    fusion("the_ages_of_times:californium_249", "chemlib:carbon", "chemlib:rutherfordium")
+    fusion("the_ages_of_times:californium_249", "the_ages_of_times:nitrogen_15", "chemlib:dubnium")
     fusion("chemlib:lead", "chemlib:chromium", "chemlib:seaborgium")
     fusion("chemlib:bismuth", "chemlib:chromium", "chemlib:bohrium")
     fusion("chemlib:lead", "chemlib:iron", "chemlib:hassium")
@@ -64,4 +68,13 @@ onEvent('recipes', event => {
     fusion("chemlib:bismuth", "chemlib:nickel", "chemlib:roentgenium")
     fusion("chemlib:lead", "chemlib:zinc", "chemlib:copernicium")
     fusion("chemlib:bismuth", "chemlib:zinc", "chemlib:nihonium")
+    fusion("the_ages_of_times:plutonium_244", "the_ages_of_times:calcium_48", "chemlib:flerovium")
+    fusion("chemlib:americium", "the_ages_of_times:calcium_48", "chemlib:moscovium")
+    fusion("the_ages_of_times:curium_248", "the_ages_of_times:calcium_48", "chemlib:livermorium")
+    fusion("chemlib:berkelium", "the_ages_of_times:calcium_48", "chemlib:tennessine")
+    fusion("the_ages_of_times:californium_249", "the_ages_of_times:calcium_48", "chemlib:oganesson")
+
+    fusion("nuclearscience:plutonium239", "the_ages_of_times:two_neutrons", "the_ages_of_times:plutonium_241")
+    fusion("chemlib:plutonium", "the_ages_of_times:four_neutrons", "the_ages_of_times:plutonium_244")
+    fusion("chemlib:curium", "the_ages_of_times:four_neutrons", "the_ages_of_times:curium_248")
 })
