@@ -37,7 +37,7 @@ ItemStages.restrict(<item:nuclearscience:moltensaltsupplier>, "Modern");
 ItemStages.restrict(<item:nuclearscience:msrfuelpreprocessor>, "Modern");
 ItemStages.restrict(<item:nuclearscience:msrreactorcore>, "Modern");
 ItemStages.restrict(<item:nuclearscience:nuclearboiler>, "Modern");
-ItemStages.restrict(<item:nuclearscience:particleinjector>, "Modern");
+
 ItemStages.restrict(<item:nuclearscience:plasma>, "Modern");
 ItemStages.restrict(<item:nuclearscience:plutonium239>, "Modern");
 ItemStages.restrict(<item:nuclearscience:plutoniumoxide>, "Modern");

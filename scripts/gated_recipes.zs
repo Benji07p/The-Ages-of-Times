@@ -374,7 +374,6 @@ mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineerin
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/storage_uranium_to_slab>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/raw_hammercrushing_uranium>);
 mods.recipestages.Recipes.setRecipeStage("Modern", <resource:immersiveengineering:crafting/hammercrushing_uranium>);
-mods.recipestages.Recipes.setRecipeStage("Mobern", <resource:nuclearscience:particleinjector_modern>);
 
 //Future Ages
 mods.recipestages.Recipes.setRecipeStageByMod("Future", "ae2");

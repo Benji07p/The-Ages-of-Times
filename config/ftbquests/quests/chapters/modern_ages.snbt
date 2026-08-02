@@ -236,13 +236,6 @@
 					count: 38
 				}
 				{
-					id: "483707779BF14FDC"
-					type: "command"
-					auto: "invisible"
-					command: "/gamestage remove @p Mobern"
-					silent: true
-				}
-				{
 					id: "612862BC3E966E6A"
 					type: "command"
 					auto: "invisible"
@@ -752,29 +745,6 @@
 			}]
 		}
 		{
-			x: 9.0d
-			y: -1.5d
-			dependencies: ["35E9DE3ED5A63769"]
-			id: "264C5FD706EF74B4"
-			tasks: [{
-				id: "1144CEF35A0861B5"
-				type: "item"
-				item: "nuclearscience:particleinjector"
-			}]
-			rewards: [
-				{
-					id: "4A399DF14322573A"
-					type: "item"
-					item: "the_ages_of_times:quantum_physics_book"
-				}
-				{
-					id: "1BD82A5377C98451"
-					type: "item"
-					item: "atum:coin_dirty"
-				}
-			]
-		}
-		{
 			x: 28.5d
 			y: 3.0d
 			dependencies: ["5DBF728626B8AA0D"]
@@ -1253,6 +1223,11 @@
 					count: 3L
 				}
 			]
+			rewards: [{
+				id: "1B30E3DBFBFC555B"
+				type: "item"
+				item: "the_ages_of_times:quantum_physics_book"
+			}]
 		}
 		{
 			x: 12.0d

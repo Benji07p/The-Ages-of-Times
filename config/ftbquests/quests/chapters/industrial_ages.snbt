@@ -649,13 +649,6 @@
 					command: "/gamestage add @p Modern"
 					silent: true
 				}
-				{
-					id: "6AD6C23F7BAE943A"
-					type: "command"
-					auto: "invisible"
-					command: "/gamestage add @p Mobern"
-					silent: true
-				}
 			]
 		}
 	]

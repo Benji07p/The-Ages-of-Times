@@ -1314,6 +1314,17 @@
 				criterion: ""
 			}]
 		}
+		{
+			x: -4.5d
+			y: 5.0d
+			dependencies: ["1F1498A37CAD6300"]
+			id: "264C5FD706EF74B4"
+			tasks: [{
+				id: "1144CEF35A0861B5"
+				type: "item"
+				item: "nuclearscience:particleinjector"
+			}]
+		}
 	]
 	quest_links: [ ]
 }

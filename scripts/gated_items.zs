@@ -714,6 +714,7 @@ ItemStages.restrict(<item:nuclearscience:cellantimatterlarge>, "Future");
 ItemStages.restrict(<item:nuclearscience:cellantimattersmall>, "Future");
 ItemStages.restrict(<item:nuclearscience:cellantimatterverylarge>, "Future");
 ItemStages.restrict(<item:nuclearscience:celldarkmatter>, "Future");
+ItemStages.restrict(<item:nuclearscience:particleinjector>, "Future");
 ItemStages.restrict(<item:nuclearscience:teleporter>, "Future");
 ItemStages.restrict(<item:tempad:tempad>, "Future");
 ItemStages.restrict(<item:the_ages_of_times:antimatter_bucket>, "Future");
