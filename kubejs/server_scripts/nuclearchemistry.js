@@ -54,7 +54,8 @@ onEvent('recipes', event => {
     fusion("nuclearscience:plutonium239", "chemlib:helium", "chemlib:curium")
     fusion("chemlib:americium", "chemlib:helium", "chemlib:berkelium")
     fusion("chemlib:curium", "chemlib:helium", "chemlib:californium")
-
+    fusion("chemlib:californium", "the_ages_of_times:neutron", "chemlib:einsteinium")
+    fusion("chemlib:einsteinium", "the_ages_of_times:two_neutrons", "chemlib:fermium")
     fusion("chemlib:einsteinium", "chemlib:helium", "chemlib:mendelevium")
     fusion("nuclearscience:uranium238", "chemlib:neon", "chemlib:nobelium")
     fusion("chemlib:californium", "chemlib:boron", "chemlib:lawrencium")
@@ -77,4 +78,5 @@ onEvent('recipes', event => {
     fusion("nuclearscience:plutonium239", "the_ages_of_times:two_neutrons", "the_ages_of_times:plutonium_241")
     fusion("chemlib:plutonium", "the_ages_of_times:four_neutrons", "the_ages_of_times:plutonium_244")
     fusion("chemlib:curium", "the_ages_of_times:four_neutrons", "the_ages_of_times:curium_248")
+    fusion("chemlib:nitrogen", "the_ages_of_times:two_neutrons", "the_ages_of_times:nitrogen_15")
 })
