@@ -44,6 +44,31 @@ onEvent('recipes', event => {
         })
     }
 
+    //Lead-shielded Chest
+    function nuclearChest(tick, input, output){
+        event.custom(
+            {
+                "type": "custommachinery:custom_machine",
+                "machine": "taotmachinery:lead-shielded_chest",
+                "time": tick,
+                "requirements": [
+                    {
+                        "type": "custommachinery:item",
+                        "mode": "input",
+                        "item": input,
+                        "amount": 1
+                    },
+                    {
+                        "type": "custommachinery:item",
+                        "mode": "output",
+                        "item": output,
+                        "amount": 1
+                    }
+                ]
+            }
+        )
+    }
+
     fission("nuclearscience:celldeuterium", "chemlib:hydrogen", "the_ages_of_times:neutron")
 
     fission("nuclearscience:meltedreactor", "chemlib:molybdenum", "chemlib:technetium")
@@ -79,4 +104,7 @@ onEvent('recipes', event => {
     fusion("chemlib:plutonium", "the_ages_of_times:four_neutrons", "the_ages_of_times:plutonium_244")
     fusion("chemlib:curium", "the_ages_of_times:four_neutrons", "the_ages_of_times:curium_248")
     fusion("chemlib:nitrogen", "the_ages_of_times:two_neutrons", "the_ages_of_times:nitrogen_15")
+
+    nuclearChest(7852800,"chemlib:berkelium", "the_ages_of_times:californium_249")
+    nuclearChest(125706000,"the_ages_of_times:plutonium_241","chemlib:americium")
 })
